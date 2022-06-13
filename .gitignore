@@ -363,6 +363,3 @@ MigrationBackup/
 FodyWeavers.xsd
 EmprendeUCR_DB/Security
 EmprendeUCR_WebApplication/Factura_Orden.pdf
-DB_Test/*
-EmprendeUCR_Selenium/*
-tests/*
