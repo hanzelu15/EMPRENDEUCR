@@ -1,11 +1,0 @@
-×
-4EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHasobject[
-ShoppingCartHas()FEmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas.ShoppingCartHas()K
-	Email.get>EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas.Email.getK
-	Email.set>EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas.Email.setO
-Code_ID.get@EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas.Code_ID.getO
-Code_ID.set@EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas.Code_ID.sete
-Entrepreneur_Email.getKEmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas.Entrepreneur_Email.gete
-Entrepreneur_Email.setKEmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas.Entrepreneur_Email.setW
-Category_ID.getDEmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas.Category_ID.getW
-Category_ID.setDEmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas.Category_ID.set

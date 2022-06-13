@@ -1,40 +1,0 @@
-
-™EmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository.DeleteLine(EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine)²
-§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs( (("0*³
-0²
-§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs* +(%Í
-Ê
-²
-§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs* *(Z
-%0TEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2"__id*°*­G
-EEmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository"b
-
-_dbContextTEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2½º
-²
-§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs* *( 2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"bEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2.ShopLines.get*\
-Z
-%0TEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext22ShopLines.getÝÚ
-²
-§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs* *(1G
-%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*U
-S
-shopLineGEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine2Remove(TEntity)«
-¨
-²
-§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs+ +(%!
-%3System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
-System.Threading.Tasks.Task"Ú
-²
-§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs+ +(&#
-!
-%3System.Threading.Tasks.Task*…
-1²
-§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs,	 ,(	"Ê
-²
-§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs, ,(	
-implicit return:S
-shopLineGEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLineBIG
-EEmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository

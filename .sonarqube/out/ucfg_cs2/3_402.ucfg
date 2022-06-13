@@ -1,39 +1,0 @@
-
-nEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getPermission(string, int, int)ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csg g('"0*…
-0ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csi j(Fì
-ê
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csi i(F
-%0@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext"__id*•*¢P
-NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository"N
-
-_dbContext@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext¸˘
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csi i((2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"OEmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext.Is_Able_To.get*H
-F
-%0@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext2Is_Able_To.getæ
-ª
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csi j(G5
-%2/EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-"""”
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csi j(H7
-5
-%2/EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To*œ
-1ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csk	 k(	"Ø
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csk k(	
-implicit return:
-emailstring:
-
-permissionint:
-roleintBRP
-NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository

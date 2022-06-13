@@ -1,43 +1,0 @@
-
-tEmprendeUCR_WebApplication.Data.Services.MembersService.AddMembers(EmprendeUCR_WebApplication.Data.Entities.Members)‡
-}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs ("0*ç
-0‡
-}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs ("à
-Ý
-‡
-}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs (A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
-7EmprendeUCR_WebApplication.Data.Services.MembersService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÏ
-Ì
-‡
-}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs (2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Members.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext”‘
-‡
-}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs ()G
-%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*=
-;
-members0EmprendeUCR_WebApplication.Data.Entities.Members2Add(TEntity)à
-Ý
-‡
-}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs (A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
-7EmprendeUCR_WebApplication.Data.Services.MembersService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext£ 
-‡
-}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs ("	
-%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
-A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
-1*¯
-1‡
-}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs	 (	"Ÿ
-‡
-}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs (	
-implicit return:;
-members0EmprendeUCR_WebApplication.Data.Entities.MembersB;9
-7EmprendeUCR_WebApplication.Data.Services.MembersService

@@ -1,183 +1,0 @@
-
-ÑEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs)  )(/"0*ü`
-0ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs+ 8(9—Œ
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs+ +(.
-
-%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*LJ
-HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)üú
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs-, -(BE
-%1?EmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMap"?EmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMap¿
-Ω
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs-0 -(@
-
-%2void"REmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMap.ProductPhotosMap()*G
-E
-%1?EmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMap∏µ
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs- -(C0
-%3*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*G
-E
-%1?EmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ìê
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs/, /(<?
-%49EmprendeUCR.Infrastructure.Core.EntityMappings.ProductMap"9EmprendeUCR.Infrastructure.Core.EntityMappings.ProductMapÆ
-´
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs/0 /(:
-
-%5void"FEmprendeUCR.Infrastructure.Core.EntityMappings.ProductMap.ProductMap()*A
-?
-%49EmprendeUCR.Infrastructure.Core.EntityMappings.ProductMap≤Ø
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs/ /(=0
-%6*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*A
-?
-%49EmprendeUCR.Infrastructure.Core.EntityMappings.ProductMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ïí
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs0, 0(=@
-%7:EmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap":EmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap±
-Æ
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs00 0(;
-
-%8void"HEmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap.CategoryMap()*B
-@
-%7:EmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap≥∞
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs0 0(>0
-%9*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*B
-@
-%7:EmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ûõ
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs2, 2(AE
-%10>EmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartMap">EmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartMapø
-º
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs20 2(?
-%11void"PEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartMap.ShoppingCartMap()*G
-E
-%10>EmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartMapπ∂
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs2 2(B1
-%12*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*G
-E
-%10>EmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)§°
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs3, 3(DH
-%13AEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMap"AEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMap»
-≈
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs30 3(B
-%14void"VEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMap.ShoppingCartHasMap()*J
-H
-%13AEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMapºπ
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs3 3(E1
-%15*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*J
-H
-%13AEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)êç
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs4, 4(:>
-%167EmprendeUCR.Infrastructure.Core.EntityMappings.OfferMap"7EmprendeUCR.Infrastructure.Core.EntityMappings.OfferMap™
-ß
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs40 4(8
-%17void"BEmprendeUCR.Infrastructure.Core.EntityMappings.OfferMap.OfferMap()*@
->
-%167EmprendeUCR.Infrastructure.Core.EntityMappings.OfferMap≤Ø
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs4 4(;1
-%18*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*@
->
-%167EmprendeUCR.Infrastructure.Core.EntityMappings.OfferMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)¢ü
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs5, 5(CG
-%19@EmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMap"@EmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMap≈
-¬
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs50 5(A
-%20void"TEmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMap.ProductServiceMap()*I
-G
-%19@EmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMapª∏
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs5 5(D1
-%21*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*I
-G
-%19@EmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ñì
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs6, 6(=A
-%22:EmprendeUCR.Infrastructure.Core.EntityMappings.Is_OfferMap":EmprendeUCR.Infrastructure.Core.EntityMappings.Is_OfferMap≥
-∞
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs60 6(;
-%23void"HEmprendeUCR.Infrastructure.Core.EntityMappings.Is_OfferMap.Is_OfferMap()*C
-A
-%22:EmprendeUCR.Infrastructure.Core.EntityMappings.Is_OfferMapµ≤
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs6 6(>1
-%24*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*C
-A
-%22:EmprendeUCR.Infrastructure.Core.EntityMappings.Is_OfferMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)¢ü
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs7, 7(CG
-%25@EmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMap"@EmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMap≈
-¬
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs70 7(A
-%26void"TEmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMap.Service_PhotosMap()*I
-G
-%25@EmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMapª∏
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs7 7(D1
-%27*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*I
-G
-%25@EmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)éã
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs8, 8(9=
-%286EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap"6EmprendeUCR.Infrastructure.Core.EntityMappings.UserMapß
-§
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs80 8(7
-%29void"@EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap.UserMap()*?
-=
-%286EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap±Æ
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs8 8(:1
-%30*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*?
-=
-%286EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
-1*√
-1ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs9	 9(	"©
-ë
-ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\HomePageClientDbContext.cs9 9(	
-implicit return::
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBLJ
-HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext

@@ -1,21 +1,0 @@
-
-ôEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs  (-"0*∂
-0ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs (Dãà
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs (E;
-%05Microsoft.EntityFrameworkCore.DbContextOptionsBuilder"ºMicrosoft.EntityFrameworkCore.DbContextOptionsBuilder.LogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*I
-G
-optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilder*
-""*
-""*
-""2ÜLogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*
-1*€
-1ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs	 (	"µ
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs (	
-implicit return:G
-optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilderBXV
-TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext

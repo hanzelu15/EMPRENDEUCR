@@ -1,8 +1,0 @@
-„
-
-HEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext4EmprendeUCR.Infrastructure.Core.ApplicationDbContext'Microsoft.EntityFrameworkCore.DbContextobject—
-ÅDisplayProductDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext>) EmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext.DisplayProductDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext>)÷
-DOnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)çEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)ƒ
-;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ÑEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)]
-User.getQEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext.User.get]
-User.setQEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext.User.set

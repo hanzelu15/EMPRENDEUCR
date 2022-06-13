@@ -1,21 +1,0 @@
-
-äEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)ñ
-ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs  (-"0*®
-0ñ
-ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs (DÑÅ
-ñ
-ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs (E;
-%05Microsoft.EntityFrameworkCore.DbContextOptionsBuilder"ºMicrosoft.EntityFrameworkCore.DbContextOptionsBuilder.LogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*I
-G
-optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilder*
-""*
-""*
-""2ÜLogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*
-1*Õ
-1ñ
-ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs	 (	"Æ
-ñ
-ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs (	
-implicit return:G
-optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilderBIG
-EEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext

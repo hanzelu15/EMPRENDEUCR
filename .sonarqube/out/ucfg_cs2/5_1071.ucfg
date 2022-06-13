@@ -1,284 +1,0 @@
-
-gEmprendeUCR_WebApplication.Data.Services.EncrypService.encryptStringToBytes_Aes(string, byte[], byte[])Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs3 3(5"0*˝
-0Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs5 5( Ê
-„
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs5 5( 
-
-%0bool""string.operator ==(string, string)*
-"
-string*
-
-passwordstring*
-""*
-1
-2*◊
-2Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs5$ 5(8¿
-Ω
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs5$ 5(3	
-%1int"string.Length.get*
-
-passwordstring*
-1
-3*Ó
-1Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs6 6(:ŒÀ
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs6 6(;"
-%2System.ArgumentNullException"System.ArgumentNullExceptionâ
-Ü
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs6 6(/
-
-%3void";System.ArgumentNullException.ArgumentNullException(string?)*$
-"
-%2System.ArgumentNullException*
-
-password*
-4*¯
-3Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs7 7(·
-ﬁ
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs7 7(
-
-%4bool""object.operator ==(object, object)*
-"
-object*
-
-Keybyte[]*
-""*
-5
-6*ÿ
-6Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs7 7(.¡
-æ
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs7 7()	
-%5int"System.Array.Length.get*
-
-Keybyte[]*
-5
-7*È
-5Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs8 8(5ŒÀ
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs8 8(6"
-%6System.ArgumentNullException"System.ArgumentNullExceptionÑ
-Å
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs8 8(/
-
-%7void";System.ArgumentNullException.ArgumentNullException(string?)*$
-"
-%6System.ArgumentNullException*
-Key*
-4*˜
-7Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs9 9(‡
-›
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs9 9(
-
-%8bool""object.operator ==(object, object)*
-"
-object*
-
-IVbyte[]*
-""*
-8
-9*ÿ
-9Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs9 9(,¿
-Ω
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs9 9('	
-%9int"System.Array.Length.get*
-
-IVbyte[]*
-8
-10*Î
-8Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs: :(4œÃ
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs: :(5#
-%10System.ArgumentNullException"System.ArgumentNullExceptionÖ
-Ç
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs: :(/
-%11void";System.ArgumentNullException.ArgumentNullException(string?)*%
-#
-%10System.ArgumentNullException*
-IV*
-4*à
-10Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs; =(,Ü
-É
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs=  =(,'
-%12 System.Security.Cryptography.Aes")System.Security.Cryptography.Aes.Create()*$""
- System.Security.Cryptography.AesÈ
-Ê
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs= =(,*
-aesAlg System.Security.Cryptography.Aes"__id*)
-'
-%12 System.Security.Cryptography.Aes*
-11*›
-11Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs? D(Búô
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs? ?( 
-%13byte[]"7System.Security.Cryptography.SymmetricAlgorithm.Key.set*,
-*
-aesAlg System.Security.Cryptography.Aes*
-
-Keybyte[]2Key.setôñ
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.cs@ @(
-%14byte[]"6System.Security.Cryptography.SymmetricAlgorithm.IV.set*,
-*
-aesAlg System.Security.Cryptography.Aes*
-
-IVbyte[]2IV.setãà
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csBD B(N
-%15byte[]"7System.Security.Cryptography.SymmetricAlgorithm.Key.get*,
-*
-aesAlg System.Security.Cryptography.Aes2Key.getâÜ
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csBP B(Y
-%16byte[]"6System.Security.Cryptography.SymmetricAlgorithm.IV.get*,
-*
-aesAlg System.Security.Cryptography.Aes2IV.get‰
-·
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csB- B(Z4
-%17-System.Security.Cryptography.ICryptoTransform"PSystem.Security.Cryptography.SymmetricAlgorithm.CreateEncryptor(byte[], byte[]?)*,
-*
-aesAlg System.Security.Cryptography.Aes*
-
-%15byte[]*
-
-%16byte[]Ü
-É
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csB! B(Z:
-	encryptor-System.Security.Cryptography.ICryptoTransform"__id*6
-4
-%17-System.Security.Cryptography.ICryptoTransform√¿
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csD0 D(B
-%18System.IO.MemoryStream"System.IO.MemoryStream·
-ﬁ
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csD4 D(@
-%19void"%System.IO.MemoryStream.MemoryStream()*
-
-%18System.IO.MemoryStreamÿ
-’
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csD$ D(B#
-	msEncryptSystem.IO.MemoryStream"__id*
-
-%18System.IO.MemoryStream*
-12*ã
-
-12Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csF( F(q°
-û
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csF[ F(q
-%20"__id*
-""ÈÊ
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csF4 F(r0
-%21)System.Security.Cryptography.CryptoStream")System.Security.Cryptography.CryptoStream‰
-·
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csF8 F(D
-%22void"¶System.Security.Cryptography.CryptoStream.CryptoStream(System.IO.Stream, System.Security.Cryptography.ICryptoTransform, System.Security.Cryptography.CryptoStreamMode)*2
-0
-%21)System.Security.Cryptography.CryptoStream*%
-#
-	msEncryptSystem.IO.MemoryStream*<
-:
-	encryptor-System.Security.Cryptography.ICryptoTransform*
-
-%20˛
-˚
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csF( F(r6
-	csEncrypt)System.Security.Cryptography.CryptoStream"__id*2
-0
-%21)System.Security.Cryptography.CryptoStream*
-13*‚
-13Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csH, H(R√¿
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csH8 H(S
-%23System.IO.StreamWriter"System.IO.StreamWriter´
-®
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csH< H(H
-%24void"5System.IO.StreamWriter.StreamWriter(System.IO.Stream)*
-
-%23System.IO.StreamWriter*8
-6
-	csEncrypt)System.Security.Cryptography.CryptoStreamÿ
-’
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csH, H(S#
-	swEncryptSystem.IO.StreamWriter"__id*
-
-%23System.IO.StreamWriter*
-14*£
-14Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csJ J(4çä
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csJ J(5
-%25void"%System.IO.StreamWriter.Write(string?)*%
-#
-	swEncryptSystem.IO.StreamWriter*
-
-passwordstring2Write(string?)*
-15*¿
-15Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csL L(7ÔÏ
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csL$ L(7
-%26byte[]" System.IO.MemoryStream.ToArray()*%
-#
-	msEncryptSystem.IO.MemoryStream2	ToArray()∏
-µ
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csL L(7
-	encryptedbyte[]"__id*
-
-%26byte[]*
-16*ì
-16Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csQ	 Q(	*
-17*ì
-17Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csQ	 Q(	*
-18*∞
-18Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csP P("†
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csP P(
-
-	encryptedbyte[]*≠
-4Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csQ	 Q(	"û
-Ü
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EncrypService.csQ Q(	
-implicit return:
-passwordstring:
-Keybyte[]:
-IVbyte[]B:"8
-6EmprendeUCR_WebApplication.Data.Services.EncrypService

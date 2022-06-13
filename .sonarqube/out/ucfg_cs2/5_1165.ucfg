@@ -1,228 +1,0 @@
-
-¨EmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService.AddCategory(Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR_WebApplication.Data.Entities.Category>)ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csZ Z(%"0*Æ
-0ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cs\ c( ‰
-·
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cs\ \( ÖH
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"9
-TreeGrid-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>"__id*7
-5
-main-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>ë
-é
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cs] ]()dH
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"
-AddDialogVisiblebool"__id*
-""âÜ
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cs^  ^(.7
-%01EmprendeUCR_WebApplication.Data.Entities.Category"1EmprendeUCR_WebApplication.Data.Entities.Category¢
-ü
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cs^$ ^(,
-
-%1void"<EmprendeUCR_WebApplication.Data.Entities.Category.Category()*9
-7
-%01EmprendeUCR_WebApplication.Data.Entities.Categoryù
-ö
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cs^ ^(.=
-Category1EmprendeUCR_WebApplication.Data.Entities.Category"__id*9
-7
-%01EmprendeUCR_WebApplication.Data.Entities.Categoryê
-ç
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cs` `("
-%2string"__id*]*[H
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"
-Titlestringπ
-∂
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cs` `("
-%3string";EmprendeUCR_WebApplication.Data.Entities.Category.Title.set*?
-=
-Category1EmprendeUCR_WebApplication.Data.Entities.Category*
-
-%2stringñ
-ì
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csa# a(.
-%4string"__id*c*aH
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"
-Descriptionstringø
-º
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csa a(.
-%5string"AEmprendeUCR_WebApplication.Data.Entities.Category.Description.set*?
-=
-Category1EmprendeUCR_WebApplication.Data.Entities.Category*
-
-%4stringì
-ê
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csb b(&
-%6string"__id*`*^H
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"
-ParentIDstring
-Ì
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csb b('
-
-%7void"!System.Console.WriteLine(string?)*"
-System.Console*
-
-%6stringì
-ê
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csc c(
-%8string"__id*`*^H
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"
-ParentIDstringÒ
-Ó
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csc c( 
-
-%9bool""string.operator !=(string, string)*
-"
-string*
-
-%8string*
-""*
-1
-2*‹
-1ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cse e(6î
-ë
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cse. e(6
-%10string"__id*`*^H
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"
-ParentIDstring÷
-”
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cse$ e(7
-
-%11int"int.Parse(string)*"
-int*
-
-%10string«
-ƒ
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cse e(7
-%12System.Nullable<T>">EmprendeUCR_WebApplication.Data.Entities.Category.ParentId.set*?
-=
-Category1EmprendeUCR_WebApplication.Data.Entities.Category*
-
-
-%11int*
-2*Ç
-2ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csg i(!Á
-‰
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csg g(/+
-%13$System.Threading.Tasks.Task<TResult>"çEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService.InsertCategoryAsync(EmprendeUCR_WebApplication.Data.Entities.Category)*JH
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService*?
-=
-Category1EmprendeUCR_WebApplication.Data.Entities.Category‰
-·
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csh  h((4
-%14-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>"__id*à*ÖH
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"9
-TreeGrid-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>π
-∂
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cshA h(R
-%15System.Nullable<T>">EmprendeUCR_WebApplication.Data.Entities.Category.ParentId.get*?
-=
-Category1EmprendeUCR_WebApplication.Data.Entities.CategoryÓ
-Î
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csh  h(S+
-%16$System.Threading.Tasks.Task<TResult>"MSyncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>.GetRowIndexByPrimaryKey(object)*6
-4
-%14-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>*
-
-%15System.Nullable<T>å
-â
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csh  h(Z
-%17double"/System.Threading.Tasks.Task<TResult>.Result.get*-
-+
-%16$System.Threading.Tasks.Task<TResult>Õ
- 
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csh h(Z
-ParentIDIndexdouble"__id*
-
-%17double*
-3
-4*˚
-3ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csk k(J‰
-·
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csk k(#4
-%18-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>"__id*à*ÖH
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"9
-TreeGrid-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>≤
-Ø
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csk; k(J
-%19"__id*
-""∫
-∑
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csk k(K"
-%20System.Threading.Tasks.Task"qSyncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>.AddRecord(TValue, double?, Syncfusion.Blazor.TreeGrid.RowPosition?)*6
-4
-%18-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>*?
-=
-Category1EmprendeUCR_WebApplication.Data.Entities.Category*2 *
-
-%19*
-5*í	
-4ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cso o(X‰
-·
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cso o(#4
-%21-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>"__id*à*ÖH
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"9
-TreeGrid-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>≤
-Ø
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csoG o(X
-%22"__id*
-""—
-Œ
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.cso o(Y"
-%23System.Threading.Tasks.Task"qSyncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>.AddRecord(TValue, double?, Syncfusion.Blazor.TreeGrid.RowPosition?)*6
-4
-%21-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>*?
-=
-Category1EmprendeUCR_WebApplication.Data.Entities.Category*
-
-ParentIDIndexdouble*
-
-%22*
-5*˙
-5ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csq q("’
-“
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csq q("
-%24void"]EmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService.ResetAddCategoryData()*JH
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService*
-6*œ
-6ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csr	 r(	"Ø
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csr r(	
-implicit return:5
-main-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>BJH
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService

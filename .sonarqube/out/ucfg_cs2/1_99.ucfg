@@ -1,24 +1,0 @@
-
-cEmprendeUCR.Domain.Core.Exceptions.InvalidValueObjectException.InvalidValueObjectException(string?)†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Exceptions\InvalidValueObjectException.cs (*"1*‘
-1†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Exceptions\InvalidValueObjectException.cs	 (	*
-0*Æ
-0†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Exceptions\InvalidValueObjectException.cs< (J²
-¯
-†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Exceptions\InvalidValueObjectException.cs< (K
-
-%0void"KEmprendeUCR.Domain.Core.Exceptions.DomainException.DomainException(string?)*64
-2EmprendeUCR.Domain.Core.Exceptions.DomainException*
-
-messagestring*
-2*­
-2†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Exceptions\InvalidValueObjectException.cs	 (	"ž
-†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Exceptions\InvalidValueObjectException.cs (	
-implicit return:
-messagestringBB@
->EmprendeUCR.Domain.Core.Exceptions.InvalidValueObjectException

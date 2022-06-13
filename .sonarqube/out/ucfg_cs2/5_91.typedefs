@@ -1,15 +1,0 @@
-—	
-0EmprendeUCR_WebApplication.Data.Entities.ProductobjectG
-	Product():EmprendeUCR_WebApplication.Data.Entities.Product.Product()K
-Code_ID.get<EmprendeUCR_WebApplication.Data.Entities.Product.Code_ID.getK
-Code_ID.set<EmprendeUCR_WebApplication.Data.Entities.Product.Code_ID.seta
-Entrepreneur_Email.getGEmprendeUCR_WebApplication.Data.Entities.Product.Entrepreneur_Email.geta
-Entrepreneur_Email.setGEmprendeUCR_WebApplication.Data.Entities.Product.Entrepreneur_Email.setS
-Category_ID.get@EmprendeUCR_WebApplication.Data.Entities.Product.Category_ID.getS
-Category_ID.set@EmprendeUCR_WebApplication.Data.Entities.Product.Category_ID.setU
-Product_Name.getAEmprendeUCR_WebApplication.Data.Entities.Product.Product_Name.getU
-Product_Name.setAEmprendeUCR_WebApplication.Data.Entities.Product.Product_Name.setc
-Product_Description.getHEmprendeUCR_WebApplication.Data.Entities.Product.Product_Description.getc
-Product_Description.setHEmprendeUCR_WebApplication.Data.Entities.Product.Product_Description.setG
-	Price.get:EmprendeUCR_WebApplication.Data.Entities.Product.Price.getG
-	Price.set:EmprendeUCR_WebApplication.Data.Entities.Product.Price.set

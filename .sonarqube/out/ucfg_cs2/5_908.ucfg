@@ -1,43 +1,0 @@
-
-{EmprendeUCR_WebApplication.Data.Services.Alliance_Service.delete_Alliace(EmprendeUCR_WebApplication.Data.Entities.Alliance)õ
-êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs( ((""0*Ï
-0õ
-êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs) *("ˆ
-Û
-õ
-êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs) )(A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*â*Ü;
-9EmprendeUCR_WebApplication.Data.Services.Alliance_Service"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext‰
-·
-õ
-êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs) )(2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Alliance.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext∞≠
-õ
-êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs) )(.G
-%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*?
-=
-alliance1EmprendeUCR_WebApplication.Data.Entities.Alliance2Remove(TEntity)ˆ
-Û
-õ
-êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs* *(A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*â*Ü;
-9EmprendeUCR_WebApplication.Data.Services.Alliance_Service"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext∑¥
-õ
-êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs* *("	
-%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
-A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
-1*◊
-1õ
-êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs+	 +(	"≥
-õ
-êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs+ +(	
-implicit return:=
-alliance1EmprendeUCR_WebApplication.Data.Entities.AllianceB=;
-9EmprendeUCR_WebApplication.Data.Services.Alliance_Service

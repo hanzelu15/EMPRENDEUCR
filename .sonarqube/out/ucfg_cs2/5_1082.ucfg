@@ -1,43 +1,0 @@
-
-ÄEmprendeUCR_WebApplication.Data.Services.CredentialsService.AddCredentials(EmprendeUCR_WebApplication.Data.Entities.Credentials)å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs (""0*ô
-0å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs ("È
-Ê
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs (A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ã*à=
-;EmprendeUCR_WebApplication.Data.Services.CredentialsService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÿ
-’
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs ( 2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"KEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Credentials.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext°û
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs (1G
-%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*E
-C
-credentials4EmprendeUCR_WebApplication.Data.Entities.Credentials2Add(TEntity)È
-Ê
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs (A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ã*à=
-;EmprendeUCR_WebApplication.Data.Services.CredentialsService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext®•
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs ("	
-%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
-A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
-1*π
-1å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs 	  (	"§
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs   (	
-implicit return:C
-credentials4EmprendeUCR_WebApplication.Data.Entities.CredentialsB?=
-;EmprendeUCR_WebApplication.Data.Services.CredentialsService

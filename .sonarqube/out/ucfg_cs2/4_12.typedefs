@@ -1,9 +1,0 @@
-ü
-.EmprendeUCR.Presentation.Core.Components.Alert-Microsoft.AspNetCore.Components.ComponentBaseobjectË
-LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder){EmprendeUCR.Presentation.Core.Components.Alert.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)É
-KToBootstrapClass(EmprendeUCR.Presentation.Core.Components.Alert.AlertColor)zEmprendeUCR.Presentation.Core.Components.Alert.ToBootstrapClass(EmprendeUCR.Presentation.Core.Components.Alert.AlertColor)A
-Alert()6EmprendeUCR.Presentation.Core.Components.Alert.Alert()E
-	Color.get8EmprendeUCR.Presentation.Core.Components.Alert.Color.getE
-	Color.set8EmprendeUCR.Presentation.Core.Components.Alert.Color.setS
-ChildContent.get?EmprendeUCR.Presentation.Core.Components.Alert.ChildContent.getS
-ChildContent.set?EmprendeUCR.Presentation.Core.Components.Alert.ChildContent.set

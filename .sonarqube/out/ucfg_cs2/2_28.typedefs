@@ -1,21 +1,0 @@
-¥
-_EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientServiceobjectPEmprendeUCR.Application.ProductsSearchClientContext.IProductsSearchClientService’
-xProductsSearchClientService(EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository)ÿEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.ProductsSearchClientService(EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository)ö
-convertImageDisplay(byte[]){EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.convertImageDisplay(byte[])í
-listAllProductsPhotos()wEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.listAllProductsPhotos()í
-getAllCategoriesAsync()wEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.getAllCategoriesAsync()•
- getProductsListByCategoryId(int)ÄEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.getProductsListByCategoryId(int)•
- getServicesListByCategoryId(int)ÄEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.getServicesListByCategoryId(int)±
-&getListProductsRestricted(string, int)ÜEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.getListProductsRestricted(string, int)ê
-getListProducs(string)vEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.getListProducs(string)“
-∂Rowdrop(Syncfusion.Blazor.Grids.RowDragEventArgs<EmprendeUCR.Domain.Core.CoreEntities.Category>, Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR.Domain.Core.CoreEntities.Category>)ñEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.Rowdrop(Syncfusion.Blazor.Grids.RowDragEventArgs<EmprendeUCR.Domain.Core.CoreEntities.Category>, Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR.Domain.Core.CoreEntities.Category>)í
-ChangeParent(int, int?)wEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.ChangeParent(int, int?)î
-verifyChildCategory(int)xEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.verifyChildCategory(int)†
-searchProductById(string, int)~EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.searchProductById(string, int)˝
-LaddProductShoppingCart(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)¨EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.addProductShoppingCart(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)í
-getListServices(string)wEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.getListServices(string)±
-&getListServicesRestricted(string, int)ÜEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.getListServicesRestricted(string, int)û
-GetAllProductsServicesAsync()}EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.GetAllProductsServicesAsync()à
-getServicePhotos()rEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.getServicePhotos()í
-GetProductsByPrice(int)wEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.GetProductsByPrice(int)í
-GetServicesByPrice(int)wEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.GetServicesByPrice(int)

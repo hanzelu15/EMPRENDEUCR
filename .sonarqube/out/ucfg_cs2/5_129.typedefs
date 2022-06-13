@@ -1,4 +1,0 @@
-÷
-OEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.StatusMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>î
-ŒConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status>)ÜEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.StatusMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status>)j
-StatusMap()[EmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.StatusMap.StatusMap()

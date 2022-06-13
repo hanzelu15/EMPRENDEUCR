@@ -1,4 +1,0 @@
-Ω
-^EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductServiceMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>Ö
-êConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService>)ÔEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductServiceMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService>)â
-ProductServiceMap()rEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductServiceMap.ProductServiceMap()

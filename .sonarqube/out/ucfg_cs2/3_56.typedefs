@@ -1,4 +1,0 @@
-‰
-8EmprendeUCR.Infrastructure.Core.EntityMappings.ReportMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>®
-xConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Reports.Entities.Report>)±EmprendeUCR.Infrastructure.Core.EntityMappings.ReportMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Reports.Entities.Report>)S
-ReportMap()DEmprendeUCR.Infrastructure.Core.EntityMappings.ReportMap.ReportMap()

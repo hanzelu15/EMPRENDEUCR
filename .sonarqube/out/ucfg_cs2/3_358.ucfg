@@ -1,21 +1,0 @@
-
-EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)‚
-xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs  (-"0*€
-0‚
-xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs (Dðí
-‚
-xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs (E;
-%05Microsoft.EntityFrameworkCore.DbContextOptionsBuilder"¼Microsoft.EntityFrameworkCore.DbContextOptionsBuilder.LogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*I
-G
-optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilder*
-""*
-""*
-""2†LogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*
-1*¥
-1‚
-xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs	 (	"š
-‚
-xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs (	
-implicit return:G
-optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilderB><
-:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext

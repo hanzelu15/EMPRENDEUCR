@@ -1,41 +1,0 @@
-
-\EmprendeUCR.Domain.Core.CoreEntities.RegisterValidatorDirection.RegisterValidatorDirection()t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Members.cs ()"1*Ù
-1t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Members.cs	 (	t
-r
-
-%0void"9FluentValidation.AbstractValidator<T>.AbstractValidator()*)'
-%FluentValidation.AbstractValidator<T>*
-0*∑
-
-0t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Members.cs (Eﬂ
-‹
-t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Members.cs (%8
-%12FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*)'
-%FluentValidation.AbstractValidator<T>*
-""ë
-é
-t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Members.cs (8
-%22FluentValidation.IRuleBuilderOptions<T, TProperty>"oFluentValidation.DefaultValidatorExtensions.NotEmpty<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>)*/"-
-+FluentValidation.DefaultValidatorExtensions*:
-8
-%12FluentValidation.IRuleBuilderInitial<T, TProperty>¿
-Ω
-t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Members.cs (F8
-%32FluentValidation.IRuleBuilderOptions<T, TProperty>"~FluentValidation.DefaultValidatorOptions.WithMessage<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*:
-8
-%22FluentValidation.IRuleBuilderOptions<T, TProperty>*!
-Direcci√≥n exacta esta vac√≠a*
-2*á
-2t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Members.cs	 (	"ã
-t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Members.cs (	
-implicit returnBCA
-?EmprendeUCR.Domain.Core.CoreEntities.RegisterValidatorDirection

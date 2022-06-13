@@ -1,6 +1,0 @@
-’
-9EmprendeUCR.Infrastructure.Categories.CategoriesDbContext4EmprendeUCR.Infrastructure.Core.ApplicationDbContext'Microsoft.EntityFrameworkCore.DbContextobjectþ
-ßCategoriesDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.Categories.CategoriesDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Categories.CategoriesDbContext>)™EmprendeUCR.Infrastructure.Categories.CategoriesDbContext.CategoriesDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.Categories.CategoriesDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Categories.CategoriesDbContext>)´
-;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)uEmprendeUCR.Infrastructure.Categories.CategoriesDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)Z
-Categories.getHEmprendeUCR.Infrastructure.Categories.CategoriesDbContext.Categories.getZ
-Categories.setHEmprendeUCR.Infrastructure.Categories.CategoriesDbContext.Categories.set

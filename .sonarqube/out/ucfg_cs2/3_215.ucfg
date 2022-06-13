@@ -1,33 +1,0 @@
-
-ŠEmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext.ChatDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext>)~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs ("1*Ç
-1~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs	 (	¼
-¹
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs (62
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"?EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext.Chat.set*:8
-6EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext*
-""*
-0*´
-0~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs ("©
-¦
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs (#
-
-%1void"ÕEmprendeUCR.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Core.ApplicationDbContext>)*86
-4EmprendeUCR.Infrastructure.Core.ApplicationDbContext*E
-C
-options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*?
-=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
-2*›
-2~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs	 (	"•
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs (	
-implicit return:C
-options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>:=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B:8
-6EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext

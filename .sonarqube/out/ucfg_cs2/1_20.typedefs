@@ -1,8 +1,0 @@
-Œ
-*EmprendeUCR.Domain.Core.CoreEntities.LikesobjectS
-Likes(string, int)=EmprendeUCR.Domain.Core.CoreEntities.Likes.Likes(string, int)=
-Likes()2EmprendeUCR.Domain.Core.CoreEntities.Likes.Likes()Q
-Members_Email.get<EmprendeUCR.Domain.Core.CoreEntities.Likes.Members_Email.getQ
-Members_Email.set<EmprendeUCR.Domain.Core.CoreEntities.Likes.Members_Email.setM
-Category_Id.get:EmprendeUCR.Domain.Core.CoreEntities.Likes.Category_Id.getM
-Category_Id.set:EmprendeUCR.Domain.Core.CoreEntities.Likes.Category_Id.set

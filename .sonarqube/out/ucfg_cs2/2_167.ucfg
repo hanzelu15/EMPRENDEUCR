@@ -1,29 +1,0 @@
-
-bEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getEmailByHash(string)”
-‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csA A($"0*ç
-0”
-‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csC C(6¦
-£
-”
-‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csC C((M
-%0GEmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository"__id*´*±M
-KEmprendeUCR.Application.PermissionContext.Implementations.PermissionService"`
-_permissionRepositoryGEmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository÷ô
-”
-‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csC C(7
-%1string"XEmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository.getEmail(string)*O
-M
-%0GEmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository*
-
-hashstring2getEmail(string)"§
-”
-‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csC C(8
-
-%1string*É
-1”
-‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csD	 D(	"¬
-”
-‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csD D(	
-implicit return:
-hashstringBOM
-KEmprendeUCR.Application.PermissionContext.Implementations.PermissionService

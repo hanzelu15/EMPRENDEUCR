@@ -1,27 +1,0 @@
-
-sEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs.NotificationChangeEventArgs(bool)—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs (*"1*æ
-1—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs	 (	B
-@
-
-%0void"System.EventArgs.EventArgs()*
-System.EventArgs*
-0*Ž
-0—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs (&é
-æ
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs (&
-
-%1bool"_EmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs.Increment.set*US
-QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs*
-""*
-2*Ï
-2—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs	 (	"¯
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs (	
-implicit return:
-	incrementboolBUS
-QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs

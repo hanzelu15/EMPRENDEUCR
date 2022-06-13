@@ -1,34 +1,0 @@
-
-NEmprendeUCR_WebApplication.Data.Services.Service_PhotosService.loadAllPhotos()§
-œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs$ (1"0*Ž
-0§
-œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (3‡
-„
-§
-œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ž*‹@
->EmprendeUCR_WebApplication.Data.Services.Service_PhotosService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextö
-ó
-§
-œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (*2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"NEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Service_Photos.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext‚
-ÿ
-§
-œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (3(
-%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"Ö
-§
-œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (4*
-(
-%2"System.Collections.Generic.List<T>*ï
-1§
-œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs	 (	"¿
-§
-œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (	
-implicit returnBB@
->EmprendeUCR_WebApplication.Data.Services.Service_PhotosService

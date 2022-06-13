@@ -1,4 +1,0 @@
-§
-5EmprendeUCR_WebApplication.Data.Services.LoginService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÌ
-ILoginService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)EmprendeUCR_WebApplication.Data.Services.LoginService.LoginService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)h
-VerifyUser(string, int)MEmprendeUCR_WebApplication.Data.Services.LoginService.VerifyUser(string, int)

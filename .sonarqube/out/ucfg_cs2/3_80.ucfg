@@ -1,37 +1,0 @@
-
-ÇEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs  (/"0*”
-0è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs (AÕ 
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs (.
-
-%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*JH
-FEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)Ω∫
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs, (AU
-%1OEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.EntityMappings.UtilizesChatMap"OEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.EntityMappings.UtilizesChatMap›
-⁄
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs0 (?
-
-%2void"aEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.EntityMappings.UtilizesChatMap.UtilizesChatMap()*W
-U
-%1OEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.EntityMappings.UtilizesChatMap∆√
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs (B0
-%3*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*W
-U
-%1OEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.EntityMappings.UtilizesChatMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
-1*ø
-1è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs	 (	"ß
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs (	
-implicit return::
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBJH
-FEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext

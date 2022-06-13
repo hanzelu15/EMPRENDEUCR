@@ -1,38 +1,0 @@
-
-gEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.SinpeIbanPaymentInfo(string, int, string)Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs (#"1*ê
-1Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs	 (	*
-0*Ë
-0Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs (3…
-∆
-Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs (*
-%0string"PEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.Account_Number.set*A?
-=EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo*
-
-accountNumberstring¥
-±
-Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs (+	
-%1int"QEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.Payment_Info_ID.set*A?
-=EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo*
-""“
-œ
-Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs (3
-%2string"UEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.Name_Payment_Method.set*A?
-=EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo*
-
-paymentMethodNamestring*
-2*´
-2Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs	 (	"ù
-Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs (	
-implicit return:
-accountNumberstring:
-paymentInfoIDint:
-paymentMethodNamestringBA?
-=EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo

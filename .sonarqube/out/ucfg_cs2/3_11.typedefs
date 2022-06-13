@@ -1,4 +1,0 @@
-‘
-GEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductPhotoMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>Œ
-ŸConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.ProductPhotos>)çEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductPhotoMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.ProductPhotos>)n
-ProductPhotoMap()YEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductPhotoMap.ProductPhotoMap()

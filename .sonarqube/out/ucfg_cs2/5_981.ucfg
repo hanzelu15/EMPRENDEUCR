@@ -1,46 +1,0 @@
-
-vEmprendeUCR_WebApplication.Data.Services.OfferService.DeleteOfferAsync(EmprendeUCR_WebApplication.Data.Entities.Offer)œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs-  -(0"0*ý
-0œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs/ 1(ó
-ð
-œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs/ /(A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*…*‚7
-5EmprendeUCR_WebApplication.Data.Services.OfferService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextâ
-ß
-œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs/ /(2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"EEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Offer.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext«¨
-œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs/ /((G
-%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*9
-7
-offer.EmprendeUCR_WebApplication.Data.Entities.Offer2Remove(TEntity)ó
-ð
-œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs0 0(A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*…*‚7
-5EmprendeUCR_WebApplication.Data.Services.OfferService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext¯¬
-œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs0 0(-*
-%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
-A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
-""24SaveChangesAsync(System.Threading.CancellationToken)"§
-œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs1 1(
-""*Ù
-1œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs2	 2(	"´
-œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs2 2(	
-implicit return:7
-offer.EmprendeUCR_WebApplication.Data.Entities.OfferB97
-5EmprendeUCR_WebApplication.Data.Services.OfferService

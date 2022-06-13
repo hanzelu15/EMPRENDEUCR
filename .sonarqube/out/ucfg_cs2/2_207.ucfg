@@ -1,28 +1,0 @@
-
-¨EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.addProductShoppingCart(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs`  `(6"0*“
-0®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csb b(PÄ
-˝
-®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csb b(8a
-%0[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository"__id*Ê*„a
-_EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService"~
-_productsSearchClientRepository[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepositoryËÂ
-®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csb b(Q*
-%1$System.Threading.Tasks.Task<TResult>"úEmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository.addProduct(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)*c
-a
-%0[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository*F
-D
-shoppingCart4EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas2@addProduct(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)"≥
-®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csb b(R
-""*Ò
-1®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csc	 c(	"¿
-®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csc c(	
-implicit return:D
-shoppingCart4EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHasBca
-_EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService

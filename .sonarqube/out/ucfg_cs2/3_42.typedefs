@@ -1,4 +1,0 @@
-™
-:EmprendeUCR.Infrastructure.Core.EntityMappings.Is_OfferMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>¶
-{Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Is_Offer>)¶EmprendeUCR.Infrastructure.Core.EntityMappings.Is_OfferMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Is_Offer>)Y
-Is_OfferMap()HEmprendeUCR.Infrastructure.Core.EntityMappings.Is_OfferMap.Is_OfferMap()

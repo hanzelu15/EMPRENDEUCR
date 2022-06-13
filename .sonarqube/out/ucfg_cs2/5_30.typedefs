@@ -1,11 +1,0 @@
-Ã
-6EmprendeUCR_WebApplication.Data.Entities.BannedAccountobjectY
-BannedAccount()FEmprendeUCR_WebApplication.Data.Entities.BannedAccount.BannedAccount()U
-UserEmail.getDEmprendeUCR_WebApplication.Data.Entities.BannedAccount.UserEmail.getU
-UserEmail.setDEmprendeUCR_WebApplication.Data.Entities.BannedAccount.UserEmail.setU
-BeginDate.getDEmprendeUCR_WebApplication.Data.Entities.BannedAccount.BeginDate.getU
-BeginDate.setDEmprendeUCR_WebApplication.Data.Entities.BannedAccount.BeginDate.setW
-FinishDate.getEEmprendeUCR_WebApplication.Data.Entities.BannedAccount.FinishDate.getW
-FinishDate.setEEmprendeUCR_WebApplication.Data.Entities.BannedAccount.FinishDate.setK
-Type.get?EmprendeUCR_WebApplication.Data.Entities.BannedAccount.Type.getK
-Type.set?EmprendeUCR_WebApplication.Data.Entities.BannedAccount.Type.set

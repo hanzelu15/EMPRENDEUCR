@@ -1,46 +1,0 @@
-
-|EmprendeUCR_WebApplication.Data.Services.ProductService.UpdateProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product) 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csB  B(2"0*£
-0 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csD F(ù
-ö
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csD D(A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
-7EmprendeUCR_WebApplication.Data.Services.ProductService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextè
-å
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csD D(2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext³°
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csD D(,G
-%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Update(TEntity)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*=
-;
-product0EmprendeUCR_WebApplication.Data.Entities.Product2Update(TEntity)ù
-ö
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csE E(A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
-7EmprendeUCR_WebApplication.Data.Services.ProductService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext³°
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csE E(-*
-%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
-A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
-""24SaveChangesAsync(System.Threading.CancellationToken)"«
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csF F(
-""*á
-1 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csG	 G(	"¸
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csG G(	
-implicit return:;
-product0EmprendeUCR_WebApplication.Data.Entities.ProductB;9
-7EmprendeUCR_WebApplication.Data.Services.ProductService

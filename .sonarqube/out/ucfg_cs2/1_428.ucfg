@@ -1,30 +1,0 @@
-
-SEmprendeUCR.Domain.PaymentInfos.Entities.HasPaymentInfo.HasPaymentInfo(string, int)
-uC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\HasPaymentInfo.cs ("1*â
-1
-uC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\HasPaymentInfo.cs	 (	*
-0*Ô
-0
-uC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\HasPaymentInfo.cs (-ø
-º
-
-uC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\HasPaymentInfo.cs (3
-%0string"NEmprendeUCR.Domain.PaymentInfos.Entities.HasPaymentInfo.Entrepreneur_Email.set*;9
-7EmprendeUCR.Domain.PaymentInfos.Entities.HasPaymentInfo*
-
-entrepreneur_Emailstring°
-û
-
-uC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\HasPaymentInfo.cs (-	
-%1int"KEmprendeUCR.Domain.PaymentInfos.Entities.HasPaymentInfo.Payment_Info_ID.set*;9
-7EmprendeUCR.Domain.PaymentInfos.Entities.HasPaymentInfo*
-""*
-2*ù
-2
-uC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\HasPaymentInfo.cs	 (	"ñ
-
-uC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\HasPaymentInfo.cs (	
-implicit return:
-entrepreneur_Emailstring:
-payment_Info_IDintB;9
-7EmprendeUCR.Domain.PaymentInfos.Entities.HasPaymentInfo

@@ -1,25 +1,0 @@
-½
-9EmprendeUCR.Presentation.PermissionContext.SetPermissions-Microsoft.AspNetCore.Components.ComponentBaseobject×
-LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)†EmprendeUCR.Presentation.PermissionContext.SetPermissions.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)f
-OnInitializedAsync()NEmprendeUCR.Presentation.PermissionContext.SetPermissions.OnInitializedAsync()b
-selectUser(string)LEmprendeUCR.Presentation.PermissionContext.SetPermissions.selectUser(string)h
-setRoleAvailability()OEmprendeUCR.Presentation.PermissionContext.SetPermissions.setRoleAvailability()l
-resetRoleAvailability()QEmprendeUCR.Presentation.PermissionContext.SetPermissions.resetRoleAvailability()\
-selectRole(int)IEmprendeUCR.Presentation.PermissionContext.SetPermissions.selectRole(int)h
-selectPermission(int)OEmprendeUCR.Presentation.PermissionContext.SetPermissions.selectPermission(int)f
-verifyUserSelected()NEmprendeUCR.Presentation.PermissionContext.SetPermissions.verifyUserSelected()f
-verifyRoleSelected()NEmprendeUCR.Presentation.PermissionContext.SetPermissions.verifyRoleSelected()r
-verifyPermissionSelected()TEmprendeUCR.Presentation.PermissionContext.SetPermissions.verifyPermissionSelected()d
-saveNewPermission()MEmprendeUCR.Presentation.PermissionContext.SetPermissions.saveNewPermission()V
-saveUpdate()FEmprendeUCR.Presentation.PermissionContext.SetPermissions.saveUpdate()†
-$verifyNewPermissions(string, string)^EmprendeUCR.Presentation.PermissionContext.SetPermissions.verifyNewPermissions(string, string)b
-revertChanges(int)LEmprendeUCR.Presentation.PermissionContext.SetPermissions.revertChanges(int)\
-deleteChanges()IEmprendeUCR.Presentation.PermissionContext.SetPermissions.deleteChanges()Z
-storeChanges()HEmprendeUCR.Presentation.PermissionContext.SetPermissions.storeChanges()¬
-7search(Microsoft.AspNetCore.Components.ChangeEventArgs)qEmprendeUCR.Presentation.PermissionContext.SetPermissions.search(Microsoft.AspNetCore.Components.ChangeEventArgs)V
-searchData()FEmprendeUCR.Presentation.PermissionContext.SetPermissions.searchData()®
-8setUserToShow(EmprendeUCR.Domain.Core.CoreEntities.User)rEmprendeUCR.Presentation.PermissionContext.SetPermissions.setUserToShow(EmprendeUCR.Domain.Core.CoreEntities.User)n
-deleteConflictiveUsers()REmprendeUCR.Presentation.PermissionContext.SetPermissions.deleteConflictiveUsers()^
-SetPermissions()JEmprendeUCR.Presentation.PermissionContext.SetPermissions.SetPermissions()h
-PermissionService.getOEmprendeUCR.Presentation.PermissionContext.SetPermissions.PermissionService.geth
-PermissionService.setOEmprendeUCR.Presentation.PermissionContext.SetPermissions.PermissionService.set

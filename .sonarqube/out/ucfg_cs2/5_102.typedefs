@@ -1,6 +1,0 @@
-´
-6EmprendeUCR_WebApplication.Data.Services.EncrypServiceobject]
-hashEmail(string)HEmprendeUCR_WebApplication.Data.Services.EncrypService.hashEmail(string)M
-	getSalt()@EmprendeUCR_WebApplication.Data.Services.EncrypService.getSalt()i
-encryptPassword(string)NEmprendeUCR_WebApplication.Data.Services.EncrypService.encryptPassword(string)Y
-EncrypService()FEmprendeUCR_WebApplication.Data.Services.EncrypService.EncrypService()

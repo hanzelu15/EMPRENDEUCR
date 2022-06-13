@@ -1,7 +1,0 @@
-´
-8EmprendeUCR_WebApplication.Data.Services.ProvinceService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÖ
-LProvinceService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)…EmprendeUCR_WebApplication.Data.Services.ProvinceService.ProvinceService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)Q
-
-GetAsync()CEmprendeUCR_WebApplication.Data.Services.ProvinceService.GetAsync()Y
-GetProvinces()GEmprendeUCR_WebApplication.Data.Services.ProvinceService.GetProvinces()¹
->addProvince(EmprendeUCR_WebApplication.Data.Entities.Province)wEmprendeUCR_WebApplication.Data.Services.ProvinceService.addProvince(EmprendeUCR_WebApplication.Data.Entities.Province)

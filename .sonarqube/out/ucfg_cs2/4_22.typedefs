@@ -1,15 +1,0 @@
-Þ
-9EmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin-Microsoft.AspNetCore.Components.ComponentBaseobject×
-LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)†EmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)\
-OnInitialized()IEmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.OnInitialized()ß
-PrechazarAdministrador(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)ŠEmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.rechazarAdministrador(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)Ý
-OaceptarAdministrador(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)‰EmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.aceptarAdministrador(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)ß
-PdetallesAdministrador(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)ŠEmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.detallesAdministrador(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)X
-changeState()GEmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.changeState()`
-statehasChanged()KEmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.statehasChanged()f
-GetMail(string, int)NEmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.GetMail(string, int)Z
-ConfirmAdmin()HEmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.ConfirmAdmin()X
-uriHelper.getGEmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.uriHelper.getX
-uriHelper.setGEmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.uriHelper.setl
-ConfirmAdminService.getQEmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.ConfirmAdminService.getl
-ConfirmAdminService.setQEmprendeUCR.Presentation.ConfirmAdminContext.ConfirmAdmin.ConfirmAdminService.set

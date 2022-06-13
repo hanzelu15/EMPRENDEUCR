@@ -1,30 +1,0 @@
-
-ÄEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.getProductsListByCategoryId(int)®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs, ,(9"0*Ô
-
-0®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs. .(VÄ
-˝
-®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs. .(2a
-%0[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository"__id*Ê*„a
-_EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService"~
-_productsSearchClientRepository[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository‡›
-®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs. .(W)
-%1#System.Collections.Generic.IList<T>"yEmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository.getProductListByCategory(int)*c
-a
-%0[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository*
-""2getProductListByCategory(int)"ÿ
-®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs. .(X+
-)
-%1#System.Collections.Generic.IList<T>*Ò
-1®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs/	 /(	"¿
-®
-ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs/ /(	
-implicit return:
-
-categoryIDintBca
-_EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService

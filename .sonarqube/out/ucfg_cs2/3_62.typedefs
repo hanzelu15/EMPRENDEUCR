@@ -1,4 +1,0 @@
-·
-ZEmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.EntityMappings.SinpeMovilPaymentInfoMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>ù
-ŒConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo>)çEmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.EntityMappings.SinpeMovilPaymentInfoMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo>)“
-SinpeMovilPaymentInfoMap()uEmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.EntityMappings.SinpeMovilPaymentInfoMap.SinpeMovilPaymentInfoMap()

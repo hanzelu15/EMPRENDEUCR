@@ -1,22 +1,0 @@
-Ï
-,EmprendeUCR.Domain.Core.CoreEntities.ServiceobjectK
-setPrice(int):EmprendeUCR.Domain.Core.CoreEntities.Service.setPrice(int)E
-
-getPrice()7EmprendeUCR.Domain.Core.CoreEntities.Service.getPrice()M
-setCodeID(int);EmprendeUCR.Domain.Core.CoreEntities.Service.setCodeID(int)G
-getCodeID()8EmprendeUCR.Domain.Core.CoreEntities.Service.getCodeID()Q
-setCategory(int)=EmprendeUCR.Domain.Core.CoreEntities.Service.setCategory(int)K
-getCategory():EmprendeUCR.Domain.Core.CoreEntities.Service.getCategory()C
-	Service()6EmprendeUCR.Domain.Core.CoreEntities.Service.Service()G
-Code_ID.get8EmprendeUCR.Domain.Core.CoreEntities.Service.Code_ID.getG
-Code_ID.set8EmprendeUCR.Domain.Core.CoreEntities.Service.Code_ID.set]
-Entrepreneur_Email.getCEmprendeUCR.Domain.Core.CoreEntities.Service.Entrepreneur_Email.get]
-Entrepreneur_Email.setCEmprendeUCR.Domain.Core.CoreEntities.Service.Entrepreneur_Email.setO
-Category_ID.get<EmprendeUCR.Domain.Core.CoreEntities.Service.Category_ID.getO
-Category_ID.set<EmprendeUCR.Domain.Core.CoreEntities.Service.Category_ID.setQ
-Service_Name.get=EmprendeUCR.Domain.Core.CoreEntities.Service.Service_Name.getQ
-Service_Name.set=EmprendeUCR.Domain.Core.CoreEntities.Service.Service_Name.set_
-Service_Description.getDEmprendeUCR.Domain.Core.CoreEntities.Service.Service_Description.get_
-Service_Description.setDEmprendeUCR.Domain.Core.CoreEntities.Service.Service_Description.setU
-Price_per_hour.get?EmprendeUCR.Domain.Core.CoreEntities.Service.Price_per_hour.getU
-Price_per_hour.set?EmprendeUCR.Domain.Core.CoreEntities.Service.Price_per_hour.set

@@ -1,39 +1,0 @@
-
-;EmprendeUCR.Domain.Core.CoreEntities.Service.setCodeID(int)t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs& &("0*ù
-0t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs( )(ô
-ñ
-t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs( ((!
-responsebool"__id*
-""*
-1
-2*ï
-1t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs- .(&ô
-ñ
-t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs- -(
-responsebool"__id*
-""¯
-ı
-t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs. .(&	
-%0int"8EmprendeUCR.Domain.Core.CoreEntities.Service.Code_ID.set*0.
-,EmprendeUCR.Domain.Core.CoreEntities.Service*
-""*
-2*Ü
-2t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs0 0("ä
-t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs0 0(
-
-responsebool*á
-3t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs2	 2(	"ã
-t
-jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs2 2(	
-implicit return:
-code_idintB0.
-,EmprendeUCR.Domain.Core.CoreEntities.Service

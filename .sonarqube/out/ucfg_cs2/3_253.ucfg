@@ -1,34 +1,0 @@
-
-[EmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getAllRole()ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs' (1"0*∏
-0ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs (6ì
-ê
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs (#F
-%0@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext"__id*•*¢P
-NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository"N
-
-_dbContext@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContextÌ
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs ((2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"IEmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext.Role.get*H
-F
-%0@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext2Role.getÍ
-Á
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs (6*
-%2$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
-@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-"""¢
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs (7
-""*œ
-1ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs	 (	"Ø
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs (	
-implicit returnBRP
-NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository

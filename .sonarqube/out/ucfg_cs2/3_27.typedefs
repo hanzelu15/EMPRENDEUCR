@@ -1,4 +1,0 @@
-‹
-8EmprendeUCR.Infrastructure.Core.EntityMappings.CantonMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>°
-yConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Canton>)²EmprendeUCR.Infrastructure.Core.EntityMappings.CantonMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Canton>)S
-CantonMap()DEmprendeUCR.Infrastructure.Core.EntityMappings.CantonMap.CantonMap()

@@ -1,44 +1,0 @@
-
-@EmprendeUCR_WebApplication.Pages.Products.ListModel.OnGetAsync()Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Pages\Products\List.cshtml.cs ($"0*ı
-0Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Pages\Products\List.cshtml.cs (s⁄
-◊
-Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Pages\Products\List.cshtml.csU (]A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*É*Ä5
-3EmprendeUCR_WebApplication.Pages.Products.ListModel"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÕ
- 
-Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Pages\Products\List.cshtml.csU (e2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÿ
-’
-Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Pages\Products\List.cshtml.csU (s*
-%2$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
-@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""ü
-ú
-Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Pages\Products\List.cshtml.cs (s
-%3"__id*
-""∏
-µ
-Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Pages\Products\List.cshtml.cs (s)
-%4#System.Collections.Generic.IList<T>"?EmprendeUCR_WebApplication.Pages.Products.ListModel.Product.set*75
-3EmprendeUCR_WebApplication.Pages.Products.ListModel*
-
-%3*
-1*´
-1Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Pages\Products\List.cshtml.cs	 (	"ù
-Ö
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Pages\Products\List.cshtml.cs (	
-implicit returnB75
-3EmprendeUCR_WebApplication.Pages.Products.ListModel

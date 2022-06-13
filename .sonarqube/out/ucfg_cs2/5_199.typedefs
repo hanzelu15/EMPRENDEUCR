@@ -1,7 +1,0 @@
-«
--EmprendeUCR_WebApplication.Pages.ChatTemplate-Microsoft.AspNetCore.Components.ComponentBaseobjectÊ
-LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)zEmprendeUCR_WebApplication.Pages.ChatTemplate.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)ž
-6OnInputSave(Syncfusion.Blazor.Inputs.ChangedEventArgs)dEmprendeUCR_WebApplication.Pages.ChatTemplate.OnInputSave(Syncfusion.Blazor.Inputs.ChangedEventArgs)À
-GValidateEnterKey(Microsoft.AspNetCore.Components.Web.KeyboardEventArgs)uEmprendeUCR_WebApplication.Pages.ChatTemplate.ValidateEnterKey(Microsoft.AspNetCore.Components.Web.KeyboardEventArgs)B
-OnSend()6EmprendeUCR_WebApplication.Pages.ChatTemplate.OnSend()N
-ChatTemplate()<EmprendeUCR_WebApplication.Pages.ChatTemplate.ChatTemplate()

@@ -1,4 +1,0 @@
-µ
->EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>Â
-Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Entrepreneur>)¾EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Entrepreneur>)e
-EntrepreneurMap()PEmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap.EntrepreneurMap()

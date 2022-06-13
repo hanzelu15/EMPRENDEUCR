@@ -1,26 +1,0 @@
-
-eEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.listAllNewOffer()œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs( ((-"0*ß	
-0œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs* *(?Ê
-Ç
-œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs* *(,U
-%0OEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository"__id*È*ÅU
-SEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService"l
-_homePageClientRepositoryOEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepositoryž›
-œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs* *(?)
-%1#System.Collections.Generic.IList<T>"bEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository.getOfferProducts()*W
-U
-%0OEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository2getOfferProducts()"Ì
-œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs* *(@+
-)
-%1#System.Collections.Generic.IList<T>*Ù
-1œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs+	 +(	"´
-œ
-‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs+ +(	
-implicit returnBWU
-SEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService

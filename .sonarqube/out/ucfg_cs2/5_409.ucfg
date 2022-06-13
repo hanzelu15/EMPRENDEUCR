@@ -1,27 +1,0 @@
-
-•EmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService.CreateReportService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)•
-ŠC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.cs (""1*ž
-1•
-ŠC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.cs	 (	|
-z
-
-%0void"9Microsoft.AspNetCore.Mvc.RazorPages.PageModel.PageModel()*1/
--Microsoft.AspNetCore.Mvc.RazorPages.PageModel*
-0*¢
-0•
-ŠC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.cs (ÿ
-ü
-•
-ŠC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.cs (‘F
-DEmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*H
-F
-context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
-2*Ë
-2•
-ŠC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.cs	 (	"­
-•
-ŠC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.cs (	
-implicit return:F
-context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextBHF
-DEmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService

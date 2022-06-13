@@ -1,64 +1,0 @@
-
-ëEmprendeUCR_WebApplication.Data.Services.Categories.EditCategoryService.OpenEditCategoryDialog(EmprendeUCR_WebApplication.Data.Entities.Category)ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs3 3(*"0*≥
-0ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs5 8()˙
-˜
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs5 5('íI
-GEmprendeUCR_WebApplication.Data.Services.Categories.EditCategoryService"E
-SelectedCategory1EmprendeUCR_WebApplication.Data.Entities.Category"__id*?
-=
-category1EmprendeUCR_WebApplication.Data.Entities.Categoryı
-Ú
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs6 6((7
-%01EmprendeUCR_WebApplication.Data.Entities.Category"__id*ï*íI
-GEmprendeUCR_WebApplication.Data.Services.Categories.EditCategoryService"E
-SelectedCategory1EmprendeUCR_WebApplication.Data.Entities.Category§
-°
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs6 6(.
-%1string";EmprendeUCR_WebApplication.Data.Entities.Category.Title.get*9
-7
-%01EmprendeUCR_WebApplication.Data.Entities.Categoryñ
-ì
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs6 6(.`I
-GEmprendeUCR_WebApplication.Data.Services.Categories.EditCategoryService"
-	EditTitlestring"__id*
-
-%1stringı
-Ú
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs7 7(.7
-%21EmprendeUCR_WebApplication.Data.Entities.Category"__id*ï*íI
-GEmprendeUCR_WebApplication.Data.Services.Categories.EditCategoryService"E
-SelectedCategory1EmprendeUCR_WebApplication.Data.Entities.Category™
-ß
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs7 7(:
-%3string"AEmprendeUCR_WebApplication.Data.Entities.Category.Description.get*9
-7
-%21EmprendeUCR_WebApplication.Data.Entities.Categoryú
-ô
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs7 7(:fI
-GEmprendeUCR_WebApplication.Data.Services.Categories.EditCategoryService"
-EditDescriptionstring"__id*
-
-%3stringî
-ë
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs8 8()fI
-GEmprendeUCR_WebApplication.Data.Services.Categories.EditCategoryService"
-EditDialogVisiblebool"__id*
-""*
-1*—
-1ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs9	 9(	"∞
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs9 9(	
-implicit return:=
-category1EmprendeUCR_WebApplication.Data.Entities.CategoryBKI
-GEmprendeUCR_WebApplication.Data.Services.Categories.EditCategoryService

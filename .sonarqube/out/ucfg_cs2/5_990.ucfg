@@ -1,34 +1,0 @@
-
-NEmprendeUCR_WebApplication.Data.Services.Product_PhotosService.loadAllPhotos()è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs$ (1"0*ñ
-0è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (3Ô
-Ï
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*é*ã@
->EmprendeUCR_WebApplication.Data.Services.Product_PhotosService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextﬁ
-€
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (*2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"NEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product_Photos.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÍ
-Á
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (3(
-%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"æ
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (4*
-(
-%2"System.Collections.Generic.List<T>*ø
-1è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs	 (	"ß
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (	
-implicit returnBB@
->EmprendeUCR_WebApplication.Data.Services.Product_PhotosService

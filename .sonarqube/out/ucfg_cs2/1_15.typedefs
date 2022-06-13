@@ -1,18 +1,0 @@
-¢
-
-)EmprendeUCR.Domain.Chats.Entities.Messageobjectv
-$Message(int, string, string, string)NEmprendeUCR.Domain.Chats.Entities.Message.Message(int, string, string, string)@
-	Message()3EmprendeUCR.Domain.Chats.Entities.Message.Message()’
-2AssignChat(EmprendeUCR.Domain.Chats.Entities.Chat)\EmprendeUCR.Domain.Chats.Entities.Message.AssignChat(EmprendeUCR.Domain.Chats.Entities.Chat)D
-Chat_ID.get5EmprendeUCR.Domain.Chats.Entities.Message.Chat_ID.getD
-Chat_ID.set5EmprendeUCR.Domain.Chats.Entities.Message.Chat_ID.setN
-Message_Date.get:EmprendeUCR.Domain.Chats.Entities.Message.Message_Date.getN
-Message_Date.set:EmprendeUCR.Domain.Chats.Entities.Message.Message_Date.setX
-Writer_User_Email.get?EmprendeUCR.Domain.Chats.Entities.Message.Writer_User_Email.getX
-Writer_User_Email.set?EmprendeUCR.Domain.Chats.Entities.Message.Writer_User_Email.setX
-Reader_User_Email.get?EmprendeUCR.Domain.Chats.Entities.Message.Reader_User_Email.getX
-Reader_User_Email.set?EmprendeUCR.Domain.Chats.Entities.Message.Reader_User_Email.setD
-Content.get5EmprendeUCR.Domain.Chats.Entities.Message.Content.getD
-Content.set5EmprendeUCR.Domain.Chats.Entities.Message.Content.set>
-Seen.get2EmprendeUCR.Domain.Chats.Entities.Message.Seen.get>
-Seen.set2EmprendeUCR.Domain.Chats.Entities.Message.Seen.set

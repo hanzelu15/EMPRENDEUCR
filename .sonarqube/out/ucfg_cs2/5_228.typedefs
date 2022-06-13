@@ -1,15 +1,0 @@
-—
-.EmprendeUCR_WebApplication.Pages.ViewSuggested-Microsoft.AspNetCore.Components.ComponentBaseobjectË
-LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder){EmprendeUCR_WebApplication.Pages.ViewSuggested.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)i
-closeViewSuggestedtDialog()JEmprendeUCR_WebApplication.Pages.ViewSuggested.closeViewSuggestedtDialog()[
-OnInitializedAsync()CEmprendeUCR_WebApplication.Pages.ViewSuggested.OnInitializedAsync()²
-CommandClickHandler(Syncfusion.Blazor.Grids.CommandClickEventArgs<EmprendeUCR_WebApplication.Data.Entities.Suggested_Category>)®EmprendeUCR_WebApplication.Pages.ViewSuggested.CommandClickHandler(Syncfusion.Blazor.Grids.CommandClickEventArgs<EmprendeUCR_WebApplication.Data.Entities.Suggested_Category>)M
-AddCategory()<EmprendeUCR_WebApplication.Pages.ViewSuggested.AddCategory()S
-RejectCategory()?EmprendeUCR_WebApplication.Pages.ViewSuggested.RejectCategory()Q
-ViewSuggested()>EmprendeUCR_WebApplication.Pages.ViewSuggested.ViewSuggested()C
-Grid.get7EmprendeUCR_WebApplication.Pages.ViewSuggested.Grid.getC
-Grid.set7EmprendeUCR_WebApplication.Pages.ViewSuggested.Grid.setQ
-addCategory.get>EmprendeUCR_WebApplication.Pages.ViewSuggested.addCategory.getQ
-addCategory.set>EmprendeUCR_WebApplication.Pages.ViewSuggested.addCategory.set]
-suggestedCategory.getDEmprendeUCR_WebApplication.Pages.ViewSuggested.suggestedCategory.get]
-suggestedCategory.setDEmprendeUCR_WebApplication.Pages.ViewSuggested.suggestedCategory.set

@@ -1,43 +1,0 @@
-
-ÇEmprendeUCR.Infrastructure.Categories.Repositories.CategoriesRepository.SaveAsync(EmprendeUCR.Domain.Categories.Entities.Category)ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs" "(#"0*ƒ
-0ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs$ %(0˜
-Ù
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs$ $(?
-%09EmprendeUCR.Infrastructure.Categories.CategoriesDbContext"__id*ó*îI
-GEmprendeUCR.Infrastructure.Categories.Repositories.CategoriesRepository"G
-
-_dbContext9EmprendeUCR.Infrastructure.Categories.CategoriesDbContextøº
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs$ $()G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Update<TEntity>(TEntity)*A
-?
-%09EmprendeUCR.Infrastructure.Categories.CategoriesDbContext*?
-=
-
-categories/EmprendeUCR.Domain.Categories.Entities.Category2Update<TEntity>(TEntity)˜
-Ù
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs% %(?
-%29EmprendeUCR.Infrastructure.Categories.CategoriesDbContext"__id*ó*îI
-GEmprendeUCR.Infrastructure.Categories.Repositories.CategoriesRepository"G
-
-_dbContext9EmprendeUCR.Infrastructure.Categories.CategoriesDbContext
-Ì
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs% %(0!
-%3System.Threading.Tasks.Task"jEmprendeUCR.Infrastructure.Core.ApplicationDbContext.SaveEntitiesAsync(System.Threading.CancellationToken)*A
-?
-%29EmprendeUCR.Infrastructure.Categories.CategoriesDbContext*
-""*
-1*¡
-1ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs&	 &(	"®
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs& &(	
-implicit return:=
-
-categories/EmprendeUCR.Domain.Categories.Entities.CategoryBKI
-GEmprendeUCR.Infrastructure.Categories.Repositories.CategoriesRepository

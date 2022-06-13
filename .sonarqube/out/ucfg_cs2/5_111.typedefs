@@ -1,14 +1,0 @@
-Ð
-<EmprendeUCR_WebApplication.Data.Services.EntrepreneurService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectâ
-PEntrepreneurService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)EmprendeUCR_WebApplication.Data.Services.EntrepreneurService.EntrepreneurService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)U
-
-GetAsync()GEmprendeUCR_WebApplication.Data.Services.EntrepreneurService.GetAsync()Þ
-NInsertEntrepreneurAsync(EmprendeUCR_WebApplication.Data.Entities.Entrepreneur)‹EmprendeUCR_WebApplication.Data.Services.EntrepreneurService.InsertEntrepreneurAsync(EmprendeUCR_WebApplication.Data.Entities.Entrepreneur)Ô
-IUpdateEntrepreneur(EmprendeUCR_WebApplication.Data.Entities.Entrepreneur)†EmprendeUCR_WebApplication.Data.Services.EntrepreneurService.UpdateEntrepreneur(EmprendeUCR_WebApplication.Data.Entities.Entrepreneur)Þ
-NUpdateEntrepreneurAsync(EmprendeUCR_WebApplication.Data.Entities.Entrepreneur)‹EmprendeUCR_WebApplication.Data.Services.EntrepreneurService.UpdateEntrepreneurAsync(EmprendeUCR_WebApplication.Data.Entities.Entrepreneur)Þ
-NDeleteEntrepreneurAsync(EmprendeUCR_WebApplication.Data.Entities.Entrepreneur)‹EmprendeUCR_WebApplication.Data.Services.EntrepreneurService.DeleteEntrepreneurAsync(EmprendeUCR_WebApplication.Data.Entities.Entrepreneur)y
-GetEntrepreneurAsync(string)YEmprendeUCR_WebApplication.Data.Services.EntrepreneurService.GetEntrepreneurAsync(string)o
-GetEntrepreneur(string)TEmprendeUCR_WebApplication.Data.Services.EntrepreneurService.GetEntrepreneur(string)u
-GetAllEntrepreneursAsync()WEmprendeUCR_WebApplication.Data.Services.EntrepreneurService.GetAllEntrepreneursAsync()Î
-FAddEntrepreneur(EmprendeUCR_WebApplication.Data.Entities.Entrepreneur)ƒEmprendeUCR_WebApplication.Data.Services.EntrepreneurService.AddEntrepreneur(EmprendeUCR_WebApplication.Data.Entities.Entrepreneur)o
-GetByEmailAsync(string)TEmprendeUCR_WebApplication.Data.Services.EntrepreneurService.GetByEmailAsync(string)

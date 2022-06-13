@@ -1,30 +1,0 @@
-
-HEmprendeUCR.Domain.Chats.Entities.UtilizesChat.UtilizesChat(int, string)v
-lC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Chats\Entities\UtilizesChat.cs ("1*Ä
-1v
-lC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Chats\Entities\UtilizesChat.cs	 (	*
-0*ó
-0v
-lC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Chats\Entities\UtilizesChat.cs ("˛
-˚
-v
-lC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Chats\Entities\UtilizesChat.cs (	
-%0int":EmprendeUCR.Domain.Chats.Entities.UtilizesChat.Chat_ID.set*20
-.EmprendeUCR.Domain.Chats.Entities.UtilizesChat*
-""ì
-ê
-v
-lC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Chats\Entities\UtilizesChat.cs ("
-%1string"=EmprendeUCR.Domain.Chats.Entities.UtilizesChat.User_Email.set*20
-.EmprendeUCR.Domain.Chats.Entities.UtilizesChat*
-
-	userEmailstring*
-2*ã
-2v
-lC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Chats\Entities\UtilizesChat.cs	 (	"ç
-v
-lC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Chats\Entities\UtilizesChat.cs (	
-implicit return:
-chatIDint:
-	userEmailstringB20
-.EmprendeUCR.Domain.Chats.Entities.UtilizesChat

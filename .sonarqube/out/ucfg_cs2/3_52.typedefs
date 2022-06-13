@@ -1,4 +1,0 @@
-™
-:EmprendeUCR.Infrastructure.Core.EntityMappings.ProvinceMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>¶
-{Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Province>)¶EmprendeUCR.Infrastructure.Core.EntityMappings.ProvinceMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Province>)Y
-ProvinceMap()HEmprendeUCR.Infrastructure.Core.EntityMappings.ProvinceMap.ProvinceMap()

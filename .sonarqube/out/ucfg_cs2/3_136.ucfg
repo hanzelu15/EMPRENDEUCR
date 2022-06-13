@@ -1,77 +1,0 @@
-
-vEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.changeCategoryParent(int, int?)ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs- -(."0*∫ 
-0ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs/ 2(/≥
-∞
-ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs/ /((N
-%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext"__id*µ*≤X
-VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository"V
-
-_dbContextHEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContextêç
-ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs/ /(12
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"UEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Category.get*P
-N
-%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext2Category.getÛ
-ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs/ /(:3
-%2-EmprendeUCR.Domain.Core.CoreEntities.Category"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""2Find(params object[])õ
-ò
-ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs/ /(:7
-source-EmprendeUCR.Domain.Core.CoreEntities.Category"__id*5
-3
-%2-EmprendeUCR.Domain.Core.CoreEntities.Categoryæ
-ª
-ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs0 0(&
-%3System.Nullable<T>":EmprendeUCR.Domain.Core.CoreEntities.Category.ParentId.set*9
-7
-source-EmprendeUCR.Domain.Core.CoreEntities.Category*
-""≥
-∞
-ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs1 1(N
-%4HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext"__id*µ*≤X
-VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository"V
-
-_dbContextHEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContextêç
-ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs1 1(2
-%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>"UEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Category.get*P
-N
-%4HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext2Category.getÆ´
-ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs1 1(.G
-%6AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Update(TEntity)*4
-2
-%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>*9
-7
-source-EmprendeUCR.Domain.Core.CoreEntities.Category2Update(TEntity)≥
-∞
-ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs2 2(N
-%7HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext"__id*µ*≤X
-VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository"V
-
-_dbContextHEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContextøº
-ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs2 2(/*
-%8$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*P
-N
-%7HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext*
-""24SaveChangesAsync(System.Threading.CancellationToken)*
-1*ﬂ
-1ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs3	 3(	"∑
-ü
-îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs3 3(	
-implicit return:	
-Idint:
-ParentIdSystem.Nullable<T>BZX
-VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository

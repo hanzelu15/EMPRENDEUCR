@@ -1,54 +1,0 @@
-
-ÇEmprendeUCR_WebApplication.Domain.Core.Helpers.ValidationExtensions.Fail<TFail, TSuccess>(LanguageExt.Validation<TFail, TSuccess>)î
-âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\Helpers\ValidationExtensions.cs ( "0*≥
-0î
-âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\Helpers\ValidationExtensions.cs ( é
-ã
-î
-âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\Helpers\ValidationExtensions.cs ( 
-
-%0bool"3LanguageExt.Validation<FAIL, SUCCESS>.IsSuccess.get*1
-/
-result%LanguageExt.Validation<FAIL, SUCCESS>*
-1
-2*±
-1î
-âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\Helpers\ValidationExtensions.cs (C‰·
-î
-âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\Helpers\ValidationExtensions.cs (D&
-%1 System.InvalidOperationException" System.InvalidOperationException®
-•
-î
-âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\Helpers\ValidationExtensions.cs (3
-
-%2void"CSystem.InvalidOperationException.InvalidOperationException(string?)*(
-&
-%1 System.InvalidOperationException*
-Not a failure*
-3*Ù
-2î
-âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\Helpers\ValidationExtensions.cs (.õ
-ò
-î
-âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\Helpers\ValidationExtensions.cs (&
-%3LanguageExt.Lst<A>"2LanguageExt.Validation<FAIL, SUCCESS>.FailToList()*1
-/
-result%LanguageExt.Validation<FAIL, SUCCESS>ê
-ç
-î
-âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\Helpers\ValidationExtensions.cs (.
-%4TFail"7ListExtensions.First<TSource>(LanguageExt.Lst<TSource>)*"
-ListExtensions*
-
-%3LanguageExt.Lst<A>"¶
-î
-âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\Helpers\ValidationExtensions.cs (/
-
-%4TFail*…
-3î
-âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\Helpers\ValidationExtensions.cs	 (	"¨
-î
-âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\Helpers\ValidationExtensions.cs (	
-implicit return:/
-result%LanguageExt.Validation<FAIL, SUCCESS>BG"E
-CEmprendeUCR_WebApplication.Domain.Core.Helpers.ValidationExtensions

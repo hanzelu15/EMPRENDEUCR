@@ -1,13 +1,0 @@
-Å
-,EmprendeUCR.Domain.Core.CoreEntities.MembersobjectC
-	Members()6EmprendeUCR.Domain.Core.CoreEntities.Members.Members()M
-User_Email.get;EmprendeUCR.Domain.Core.CoreEntities.Members.User_Email.getM
-User_Email.set;EmprendeUCR.Domain.Core.CoreEntities.Members.User_Email.setC
-	Score.get6EmprendeUCR.Domain.Core.CoreEntities.Members.Score.getC
-	Score.set6EmprendeUCR.Domain.Core.CoreEntities.Members.Score.set?
-Lat.get4EmprendeUCR.Domain.Core.CoreEntities.Members.Lat.get?
-Lat.set4EmprendeUCR.Domain.Core.CoreEntities.Members.Lat.setA
-Long.get5EmprendeUCR.Domain.Core.CoreEntities.Members.Long.getA
-Long.set5EmprendeUCR.Domain.Core.CoreEntities.Members.Long.setK
-Direction.get:EmprendeUCR.Domain.Core.CoreEntities.Members.Direction.getK
-Direction.set:EmprendeUCR.Domain.Core.CoreEntities.Members.Direction.set

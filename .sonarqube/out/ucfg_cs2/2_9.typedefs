@@ -1,6 +1,0 @@
-Í
-JEmprendeUCR.Application.Entrepreneurs.Implementations.ProductPhotosServiceobject;EmprendeUCR.Application.Entrepreneurs.IProductPhotosService”
-bProductPhotosService(EmprendeUCR.Domain.EntrepreneurContext.Repositories.IProductPhotosRepository)­EmprendeUCR.Application.Entrepreneurs.Implementations.ProductPhotosService.ProductPhotosService(EmprendeUCR.Domain.EntrepreneurContext.Repositories.IProductPhotosRepository)‹
-GetProductPhotoByIdAsync(long)iEmprendeUCR.Application.Entrepreneurs.Implementations.ProductPhotosService.GetProductPhotoByIdAsync(long)}
-GetProductPhotosAsync()bEmprendeUCR.Application.Entrepreneurs.Implementations.ProductPhotosService.GetProductPhotosAsync()•
-#GetProductPhotosByCodeIDAsync(long)nEmprendeUCR.Application.Entrepreneurs.Implementations.ProductPhotosService.GetProductPhotosByCodeIDAsync(long)

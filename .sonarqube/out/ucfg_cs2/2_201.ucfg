@@ -1,29 +1,0 @@
-
-[EmprendeUCR.Application.ProfileContext.Implementations.ProfileService.GetCategoryTitle(int)Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs: :(&"0*¸
-0Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs< <(F‹
-ˆ
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs< <(%G
-%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository"__id*¥*¢G
-EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService"W
-_profileRepositoryAEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepositoryïì
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs< <(G
-%1string"\EmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository.GetCategoryTitleAsync(int)*I
-G
-%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository*
-""2GetCategoryTitleAsync(int)"¡
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs< <(H
-
-%1string*½
-1Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs=	 =(	"¦
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs= =(	
-implicit return:
-
-categoryIdintBIG
-EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService

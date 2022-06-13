@@ -1,7 +1,0 @@
-Û
-XEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.Repositories.OfferRepositoryobject?EmprendeUCR_WebApplication.Domain.Repositories.IOfferRepositoryî
-[OfferRepository(EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext)¥EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.Repositories.OfferRepository.OfferRepository(EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext)ù
- getOffersToShop(System.DateTime)yEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.Repositories.OfferRepository.getOffersToShop(System.DateTime)†
-aEmprendeUCR_WebApplication.Domain.Repositories.IOfferRepository.getOffersToOrder(System.DateTime)∫EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.Repositories.OfferRepository.EmprendeUCR_WebApplication.Domain.Repositories.IOfferRepository.getOffersToOrder(System.DateTime)y
-UnitOfWork.getgEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.Repositories.OfferRepository.UnitOfWork.gety
-UnitOfWork.setgEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.Repositories.OfferRepository.UnitOfWork.set

@@ -1,4 +1,0 @@
-å
-REmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrganizedMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>˜
-èConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized>)‚EmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrganizedMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized>)s
-OrganizedMap()aEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrganizedMap.OrganizedMap()

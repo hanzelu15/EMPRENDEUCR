@@ -1,33 +1,0 @@
-
-∏EmprendeUCR.Application.PaymentMethods.Implementations.SinpeIbanPaymentMethodService.ChangeStatusToPaymentMethodAsync(EmprendeUCR.Domain.PaymentMethods.Entities.SinpeIbanPaymentMethod)ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PaymentMethods\Implementations\SinpeIbanPaymentMethodService.cs (:"0*‘
-0ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PaymentMethods\Implementations\SinpeIbanPaymentMethodService.cs (T‡
-›
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PaymentMethods\Implementations\SinpeIbanPaymentMethodService.cs (1
-
-%0void"PEmprendeUCR.Domain.PaymentMethods.Entities.SinpeIbanPaymentMethod.ChangeStatus()*]
-[
-sinpeIbanPaymentMethodAEmprendeUCR.Domain.PaymentMethods.Entities.SinpeIbanPaymentMethod÷
-”
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PaymentMethods\Implementations\SinpeIbanPaymentMethodService.cs (3V
-%1PEmprendeUCR.Domain.PaymentMethods.Repositories.ISinpeIbanPaymentMethodRepository"__id*“*œV
-TEmprendeUCR.Application.PaymentMethods.Implementations.SinpeIbanPaymentMethodService"u
-!_sinpeIbanPaymentMethodRepositoryPEmprendeUCR.Domain.PaymentMethods.Repositories.ISinpeIbanPaymentMethodRepositoryÌÍ
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PaymentMethods\Implementations\SinpeIbanPaymentMethodService.cs (U!
-%2System.Threading.Tasks.Task"ùEmprendeUCR.Domain.PaymentMethods.Repositories.ISinpeIbanPaymentMethodRepository.SaveAsync(EmprendeUCR.Domain.PaymentMethods.Entities.SinpeIbanPaymentMethod)*X
-V
-%1PEmprendeUCR.Domain.PaymentMethods.Repositories.ISinpeIbanPaymentMethodRepository*]
-[
-sinpeIbanPaymentMethodAEmprendeUCR.Domain.PaymentMethods.Entities.SinpeIbanPaymentMethod2LSaveAsync(EmprendeUCR.Domain.PaymentMethods.Entities.SinpeIbanPaymentMethod)*
-1*€
-1ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PaymentMethods\Implementations\SinpeIbanPaymentMethodService.cs	 (	"µ
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PaymentMethods\Implementations\SinpeIbanPaymentMethodService.cs (	
-implicit return:[
-sinpeIbanPaymentMethodAEmprendeUCR.Domain.PaymentMethods.Entities.SinpeIbanPaymentMethodBXV
-TEmprendeUCR.Application.PaymentMethods.Implementations.SinpeIbanPaymentMethodService

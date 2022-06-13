@@ -1,22 +1,0 @@
-Ö
-VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepositoryobjectOEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository†
-bHomePageClientRepository(EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext)πEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.HomePageClientRepository(EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext){
-getNewProducts()gEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.getNewProducts()
-getOfferProducts()iEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.getOfferProducts()ó
-getRecommendedProducts(string)uEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.getRecommendedProducts(string)y
-loadAllPhotos()fEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.loadAllPhotos()É
-getCategoriesAsync()kEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.getCategoriesAsync()ô
-changeCategoryParent(int, int?)vEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.changeCategoryParent(int, int?){
-isChildNode(int)gEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.isChildNode(int)è
-searchProduct(string, int)qEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.searchProduct(string, int)‹
-@addProduct(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)óEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.addProduct(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)q
-GetOffers()bEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetOffers(){
-GetAllProducts()gEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetAllProducts()ì
-GetPurchasedProducts(string)sEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetPurchasedProducts(string){
-GetAllIs_Offer()gEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetAllIs_Offer()Ö
-GetAllServicePhotos()lEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetAllServicePhotos()á
-GetUserByEmail(string)mEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetUserByEmail(string)Ö
-GetIs_OfferAsync(int)lEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetIs_OfferAsync(int)¸
-PGetAllIs_OfferRelatedToOfferNOTAsync(EmprendeUCR.Domain.Core.CoreEntities.Offer)ßEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetAllIs_OfferRelatedToOfferNOTAsync(EmprendeUCR.Domain.Core.CoreEntities.Offer)w
-UnitOfWork.geteEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.UnitOfWork.getw
-UnitOfWork.seteEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.UnitOfWork.set

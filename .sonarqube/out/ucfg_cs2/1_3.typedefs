@@ -1,19 +1,0 @@
-£
-
-/EmprendeUCR.Domain.Categories.Entities.Categoryobjectn
-Category(string, string, int)MEmprendeUCR.Domain.Categories.Entities.Category.Category(string, string, int)H
-
-Category():EmprendeUCR.Domain.Categories.Entities.Category.Category()Z
-ChangeTitle(string)CEmprendeUCR.Domain.Categories.Entities.Category.ChangeTitle(string)f
-ChangeDescription(string)IEmprendeUCR.Domain.Categories.Entities.Category.ChangeDescription(string)Z
-ChangeParentId(int)CEmprendeUCR.Domain.Categories.Entities.Category.ChangeParentId(int)@
-Id.get6EmprendeUCR.Domain.Categories.Entities.Category.Id.get@
-Id.set6EmprendeUCR.Domain.Categories.Entities.Category.Id.setL
-ParentId.get<EmprendeUCR.Domain.Categories.Entities.Category.ParentId.getL
-ParentId.set<EmprendeUCR.Domain.Categories.Entities.Category.ParentId.setF
-	Title.get9EmprendeUCR.Domain.Categories.Entities.Category.Title.getF
-	Title.set9EmprendeUCR.Domain.Categories.Entities.Category.Title.setR
-Description.get?EmprendeUCR.Domain.Categories.Entities.Category.Description.getR
-Description.set?EmprendeUCR.Domain.Categories.Entities.Category.Description.setZ
-ProductServices.getCEmprendeUCR.Domain.Categories.Entities.Category.ProductServices.getZ
-ProductServices.setCEmprendeUCR.Domain.Categories.Entities.Category.ProductServices.set

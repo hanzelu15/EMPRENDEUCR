@@ -1,15 +1,0 @@
-º
-?EmprendeUCR_WebApplication.Pages.ShoppingCartContext.Pagination-Microsoft.AspNetCore.Components.ComponentBaseobject›
-LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)åEmprendeUCR_WebApplication.Pages.ShoppingCartContext.Pagination.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)f
-OnParametersSet()QEmprendeUCR_WebApplication.Pages.ShoppingCartContext.Pagination.OnParametersSet()r
-CreatePaginationLinks()WEmprendeUCR_WebApplication.Pages.ShoppingCartContext.Pagination.CreatePaginationLinks()„
-OOnSelectedPage(EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingLink)èEmprendeUCR_WebApplication.Pages.ShoppingCartContext.Pagination.OnSelectedPage(EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingLink)\
-Pagination()LEmprendeUCR_WebApplication.Pages.ShoppingCartContext.Pagination.Pagination()`
-pagingData.getNEmprendeUCR_WebApplication.Pages.ShoppingCartContext.Pagination.pagingData.get`
-pagingData.setNEmprendeUCR_WebApplication.Pages.ShoppingCartContext.Pagination.pagingData.setX
-
-Spread.getJEmprendeUCR_WebApplication.Pages.ShoppingCartContext.Pagination.Spread.getX
-
-Spread.setJEmprendeUCR_WebApplication.Pages.ShoppingCartContext.Pagination.Spread.setd
-SelectedPage.getPEmprendeUCR_WebApplication.Pages.ShoppingCartContext.Pagination.SelectedPage.getd
-SelectedPage.setPEmprendeUCR_WebApplication.Pages.ShoppingCartContext.Pagination.SelectedPage.set

@@ -1,11 +1,0 @@
-∏
-JEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext-Lab2.Infrastructure.Core.ApplicationDbContext'Microsoft.EntityFrameworkCore.DbContextobject…
-¸OfferDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext>)«EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext.OfferDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext>)ÿ
-DOnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)èEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)∆
-;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ÜEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)g
-IsOffers.getWEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext.IsOffers.getg
-IsOffers.setWEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext.IsOffers.setc
-
-Offers.getUEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext.Offers.getc
-
-Offers.setUEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext.Offers.set

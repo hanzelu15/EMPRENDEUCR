@@ -1,47 +1,0 @@
-
-|EmprendeUCR_WebApplication.Data.Services.ServiceService.InsertServiceAsync(EmprendeUCR_WebApplication.Data.Entities.Service) 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs  (2"0*ß
-0 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs (ù
-ö
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs (A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
-7EmprendeUCR_WebApplication.Data.Services.ServiceService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextè
-å
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs ("2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Service.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextïì
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs (4/
-%2)System.Threading.Tasks.ValueTask<TResult>"bMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddAsync(TEntity, System.Threading.CancellationToken)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*=
-;
-service0EmprendeUCR_WebApplication.Data.Entities.Service*
-""25AddAsync(TEntity, System.Threading.CancellationToken)ù
-ö
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs (A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
-7EmprendeUCR_WebApplication.Data.Services.ServiceService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext³°
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs (-*
-%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
-A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
-""24SaveChangesAsync(System.Threading.CancellationToken)"«
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs (
-""*á
-1 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs	 (	"¸
- 
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs (	
-implicit return:;
-service0EmprendeUCR_WebApplication.Data.Entities.ServiceB;9
-7EmprendeUCR_WebApplication.Data.Services.ServiceService

@@ -1,10 +1,0 @@
-È
-FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÍ
-OAddCategoryService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)ñEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService.AddCategoryService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)‹
-HOpenAddCategoryDialog(EmprendeUCR_WebApplication.Data.Entities.Category)èEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService.OpenAddCategoryDialog(EmprendeUCR_WebApplication.Data.Entities.Category){
-CloseAddCategoryDialog()_EmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService.CloseAddCategoryDialog()»
->ValidateTitle(Microsoft.AspNetCore.Components.ChangeEventArgs)ÖEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService.ValidateTitle(Microsoft.AspNetCore.Components.ChangeEventArgs)ñ
-eAddCategory(Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR_WebApplication.Data.Entities.Category>)¨EmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService.AddCategory(Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR_WebApplication.Data.Entities.Category>)g
-AddCategoryG()UEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService.AddCategoryG()w
-ResetAddCategoryData()]EmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService.ResetAddCategoryData()ÿ
-FInsertCategoryAsync(EmprendeUCR_WebApplication.Data.Entities.Category)çEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService.InsertCategoryAsync(EmprendeUCR_WebApplication.Data.Entities.Category)

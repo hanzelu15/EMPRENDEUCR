@@ -1,9 +1,0 @@
-ß
-/EmprendeUCR.Domain.Core.CoreEntities.Is_Able_ToobjectL
-Is_Able_To()<EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To.Is_Able_To()F
-	Email.get9EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To.Email.getF
-	Email.set9EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To.Email.setJ
-Role_Id.get;EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To.Role_Id.getJ
-Role_Id.set;EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To.Role_Id.setV
-Permission_Id.getAEmprendeUCR.Domain.Core.CoreEntities.Is_Able_To.Permission_Id.getV
-Permission_Id.setAEmprendeUCR.Domain.Core.CoreEntities.Is_Able_To.Permission_Id.set

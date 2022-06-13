@@ -1,46 +1,0 @@
-
-nEmprendeUCR_WebApplication.Data.Services.ClientService.Update(EmprendeUCR_WebApplication.Data.Entities.Client)†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ClientService.cs(  ((&"0*è
-0†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ClientService.cs* ,(Þ
-Û
-†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ClientService.cs* *(A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*†*ƒ8
-6EmprendeUCR_WebApplication.Data.Services.ClientService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÍ
-Ê
-†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ClientService.cs* *(2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Client.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext—”
-†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ClientService.cs* *(*G
-%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Update(TEntity)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*;
-9
-client/EmprendeUCR_WebApplication.Data.Entities.Client2Update(TEntity)Þ
-Û
-†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ClientService.cs+ +(A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*†*ƒ8
-6EmprendeUCR_WebApplication.Data.Services.ClientService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext™–
-†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ClientService.cs+ +(-*
-%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
-A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
-""24SaveChangesAsync(System.Threading.CancellationToken)"‘
-†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ClientService.cs, ,(
-""*­
-1†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ClientService.cs-	 -(	"ž
-†
-|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ClientService.cs- -(	
-implicit return:9
-client/EmprendeUCR_WebApplication.Data.Entities.ClientB:8
-6EmprendeUCR_WebApplication.Data.Services.ClientService

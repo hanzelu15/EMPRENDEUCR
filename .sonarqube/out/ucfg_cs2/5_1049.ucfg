@@ -1,74 +1,0 @@
-
-ºEmprendeUCR_WebApplication.Data.Services.HasSuppliesService.InsertListOfHasSupplie(System.Collections.Generic.IList<EmprendeUCR_WebApplication.Data.Entities.HasSupplies>, int, int, string)å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs  (6"0*ó
-0å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs$' $(6*
-1*ö
-1å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs3	 3(	*
-2
-3*ï
-2å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs& )(8≠
-™
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs& &(4	
-%0int"DEmprendeUCR_WebApplication.Data.Entities.HasSupplies.Category_ID.set*@
->
-supply4EmprendeUCR_WebApplication.Data.Entities.HasSupplies*
-""œ
-Ã
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs' '(B
-%1string"KEmprendeUCR_WebApplication.Data.Entities.HasSupplies.Entrepreneur_Email.set*@
->
-supply4EmprendeUCR_WebApplication.Data.Entities.HasSupplies*
-
-Entrepreneur_Emailstring©
-¶
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs( ((,	
-%2int"@EmprendeUCR_WebApplication.Data.Entities.HasSupplies.Code_ID.set*@
->
-supply4EmprendeUCR_WebApplication.Data.Entities.HasSupplies*
-""Õ
- 
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs) )(9*
-%3$System.Threading.Tasks.Task<TResult>"âEmprendeUCR_WebApplication.Data.Services.HasSuppliesService.InsertHasSuppliesrAsync(EmprendeUCR_WebApplication.Data.Entities.HasSupplies)*?=
-;EmprendeUCR_WebApplication.Data.Services.HasSuppliesService*@
->
-supply4EmprendeUCR_WebApplication.Data.Entities.HasSupplies*
-1*´
-3å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs+ +(1È
-Ê
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs+ +(A
-%4;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ã*à=
-;EmprendeUCR_WebApplication.Data.Services.HasSuppliesService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextüú
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs+ +(1*
-%5$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
-A
-%4;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
-""24SaveChangesAsync(System.Threading.CancellationToken)*	
-4
-4
-5*¨
-4å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs2 2("ó
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs2 2(
-""*π
-5å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs3	 3(	"§
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs3 3(	
-implicit return:6
-HasSuppliesList#System.Collections.Generic.IList<T>:
-Code_IDint:
-Category_IDint:
-Entrepreneur_EmailstringB?=
-;EmprendeUCR_WebApplication.Data.Services.HasSuppliesService

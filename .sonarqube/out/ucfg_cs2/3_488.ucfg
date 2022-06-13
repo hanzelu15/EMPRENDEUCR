@@ -1,41 +1,0 @@
-
-±EmprendeUCR.Infrastructure.PaymentMethods.Repositories.SinpeMovilPaymentMethodRepository.DeletePaymentInformation(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo)¡
-–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentMethods\Repositories\SinpeMovilPaymentMethodRepository.cs' '(2"0*…
-0¡
-–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentMethods\Repositories\SinpeMovilPaymentMethodRepository.cs) *(0©
-¦
-¡
-–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentMethods\Repositories\SinpeMovilPaymentMethodRepository.cs) )(G
-%0AEmprendeUCR.Infrastructure.PaymentMethods.PaymentMethodsDbContext"__id*°*­Z
-XEmprendeUCR.Infrastructure.PaymentMethods.Repositories.SinpeMovilPaymentMethodRepository"O
-
-_dbContextAEmprendeUCR.Infrastructure.PaymentMethods.PaymentMethodsDbContextòï
-¡
-–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentMethods\Repositories\SinpeMovilPaymentMethodRepository.cs) )(4G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Remove<TEntity>(TEntity)*I
-G
-%0AEmprendeUCR.Infrastructure.PaymentMethods.PaymentMethodsDbContext*Y
-W
-sinpeMovilPaymentInfo>EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo2Remove<TEntity>(TEntity)©
-¦
-¡
-–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentMethods\Repositories\SinpeMovilPaymentMethodRepository.cs* *(G
-%2AEmprendeUCR.Infrastructure.PaymentMethods.PaymentMethodsDbContext"__id*°*­Z
-XEmprendeUCR.Infrastructure.PaymentMethods.Repositories.SinpeMovilPaymentMethodRepository"O
-
-_dbContextAEmprendeUCR.Infrastructure.PaymentMethods.PaymentMethodsDbContext‰
-†
-¡
-–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentMethods\Repositories\SinpeMovilPaymentMethodRepository.cs* *(0!
-%3System.Threading.Tasks.Task"jEmprendeUCR.Infrastructure.Core.ApplicationDbContext.SaveEntitiesAsync(System.Threading.CancellationToken)*I
-G
-%2AEmprendeUCR.Infrastructure.PaymentMethods.PaymentMethodsDbContext*
-""*
-1*ã
-1¡
-–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentMethods\Repositories\SinpeMovilPaymentMethodRepository.cs+	 +(	"¹
-¡
-–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentMethods\Repositories\SinpeMovilPaymentMethodRepository.cs+ +(	
-implicit return:W
-sinpeMovilPaymentInfo>EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfoB\Z
-XEmprendeUCR.Infrastructure.PaymentMethods.Repositories.SinpeMovilPaymentMethodRepository

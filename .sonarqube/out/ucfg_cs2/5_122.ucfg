@@ -1,21 +1,0 @@
-
-ôEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs  (-"0*∆
-0•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs (Dìê
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs (E;
-%05Microsoft.EntityFrameworkCore.DbContextOptionsBuilder"ºMicrosoft.EntityFrameworkCore.DbContextOptionsBuilder.LogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*I
-G
-optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilder*
-""*
-""*
-""2ÜLogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*
-1*Î
-1•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs	 (	"Ω
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs (	
-implicit return:G
-optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilderBXV
-TEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2

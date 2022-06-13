@@ -1,12 +1,0 @@
-Ç
--EmprendeUCR.Domain.Core.CoreEntities.CategoryobjectF
-
-Category()8EmprendeUCR.Domain.Core.CoreEntities.Category.Category()>
-Id.get4EmprendeUCR.Domain.Core.CoreEntities.Category.Id.get>
-Id.set4EmprendeUCR.Domain.Core.CoreEntities.Category.Id.setD
-	Title.get7EmprendeUCR.Domain.Core.CoreEntities.Category.Title.getD
-	Title.set7EmprendeUCR.Domain.Core.CoreEntities.Category.Title.setJ
-ParentId.get:EmprendeUCR.Domain.Core.CoreEntities.Category.ParentId.getJ
-ParentId.set:EmprendeUCR.Domain.Core.CoreEntities.Category.ParentId.setP
-Description.get=EmprendeUCR.Domain.Core.CoreEntities.Category.Description.getP
-Description.set=EmprendeUCR.Domain.Core.CoreEntities.Category.Description.set

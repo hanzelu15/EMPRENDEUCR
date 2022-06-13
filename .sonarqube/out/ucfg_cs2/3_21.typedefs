@@ -1,4 +1,0 @@
-î
-FEmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>Û
-‡Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators>)ÎEmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators>)}
-ActiveAdministratorsMap()`EmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMap.ActiveAdministratorsMap()

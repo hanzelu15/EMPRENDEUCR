@@ -1,95 +1,0 @@
-
-[EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TryCreate(string?)—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.csN (W"0*”
-0—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs (/ì
-é
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs (0
-
-%0bool""string.IsNullOrWhiteSpace(string?)*
-"
-string*
-
-valuestring*
-1
-2*‚	
-1—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs (/ÝÚ
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs (/a
-%1[EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.IsNullOrWhitespace"[EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.IsNullOrWhitespace€
-ý
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs (-
-
-%2void"pEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.IsNullOrWhitespace.IsNullOrWhitespace()*c
-a
-%1[EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.IsNullOrWhitespace"ÿ
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs (0c
-a
-%1[EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.IsNullOrWhitespace*ª
-2—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs   ((Î
-Ë
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs   (	
-%3int"string.Length.get*
-
-valuestring±
-®
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs   ((
-%4"__id*
-""*
-3
-4*ÿ	
-3—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs! !(,±
-®
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs!# !(,
-%5"__id*
-""ÇÄ
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs! !(-V
-%6PEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong"PEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLongê
-ç
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs! !("
-
-%7void"]EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.TooLong(int)*X
-V
-%6PEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong*
-
-%5"ô
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs! !(.X
-V
-%6PEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong*Ä
-4—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs# #(7·´
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs# #(8N
-%8HEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription"HEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescriptionû
-ø
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs# #(1
-
-%9void"kEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.RequiredProductDescription(string)*P
-N
-%8HEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription*
-
-valuestring"ì
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs# #(9P
-N
-%8HEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription*Ï
-5—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs$	 $(	"¯
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs$ $(	
-implicit return:
-valuestringBL"J
-HEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription

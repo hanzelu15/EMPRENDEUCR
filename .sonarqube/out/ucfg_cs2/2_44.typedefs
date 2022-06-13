@@ -1,39 +1,0 @@
-¾1
-GEmprendeUCR.Application.RegisterContext.Implementations.RegisterServiceobject8EmprendeUCR.Application.RegisterContext.IRegisterServiceõ
-TRegisterService(EmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository)œEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.RegisterService(EmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository)½
-8insertNewUser(EmprendeUCR.Domain.Core.CoreEntities.User)€EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.insertNewUser(EmprendeUCR.Domain.Core.CoreEntities.User)ß
-IverifyUserExistence(EmprendeUCR.Domain.RegisterContext.Entities.Register)‘EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.verifyUserExistence(EmprendeUCR.Domain.RegisterContext.Entities.Register)Ù
-FinsertNewCredentials(EmprendeUCR.Domain.Core.CoreEntities.Credentials)ŽEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.insertNewCredentials(EmprendeUCR.Domain.Core.CoreEntities.Credentials)ñ
-RinsertNewEmailConfirmation(EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation)šEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.insertNewEmailConfirmation(EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation)|
-getMailBody(string, int)`EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.getMailBody(string, int)´
-4sendEmail(EmprendeUCR.Domain.Core.CoreEntities.Mail)|EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.sendEmail(EmprendeUCR.Domain.Core.CoreEntities.Mail)n
-hashEmail(string)YEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.hashEmail(string)^
-	getSalt()QEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.getSalt()z
-encryptPassword(string)_EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.encryptPassword(string)¬
-0encryptStringToBytes_Aes(string, byte[], byte[])xEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.encryptStringToBytes_Aes(string, byte[], byte[])t
-getCategoryParents()\EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.getCategoryParents()€
-getChildrenOfCategory(int)bEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.getChildrenOfCategory(int)„
-getEmailConfirmation(string)dEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.getEmailConfirmation(string)Œ
- getUserConfirmationEmail(string)hEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.getUserConfirmationEmail(string)å
-LverifyExpirationDate(EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation)”EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.verifyExpirationDate(EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation)j
-listProvinces()WEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.listProvinces()j
-listDistricts()WEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.listDistricts()f
-listCantons()UEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.listCantons()l
-listCategories()XEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.listCategories()Ã
-;insertNewPhone(EmprendeUCR.Domain.Core.CoreEntities.Phones)ƒEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.insertNewPhone(EmprendeUCR.Domain.Core.CoreEntities.Phones)¶
-5updateUser(EmprendeUCR.Domain.Core.CoreEntities.User)}EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.updateUser(EmprendeUCR.Domain.Core.CoreEntities.User)Ç
-=insertNewMember(EmprendeUCR.Domain.Core.CoreEntities.Members)…EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.insertNewMember(EmprendeUCR.Domain.Core.CoreEntities.Members)Å
-<insertNewClient(EmprendeUCR.Domain.Core.CoreEntities.Client)„EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.insertNewClient(EmprendeUCR.Domain.Core.CoreEntities.Client)Ý
-HinsertNewShoppingCart(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCart)EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.insertNewShoppingCart(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCart)¿
-9insertNewLike(EmprendeUCR.Domain.Core.CoreEntities.Likes)EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.insertNewLike(EmprendeUCR.Domain.Core.CoreEntities.Likes)Ý
-HinsertNewEntrepreneur(EmprendeUCR.Domain.Core.CoreEntities.Entrepreneur)EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.insertNewEntrepreneur(EmprendeUCR.Domain.Core.CoreEntities.Entrepreneur)á
-JinsertNewAdministrator(EmprendeUCR.Domain.Core.CoreEntities.Administrator)’EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.insertNewAdministrator(EmprendeUCR.Domain.Core.CoreEntities.Administrator)Œ
- getListCantonsByProvince(string)hEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.getListCantonsByProvince(string)Œ
- getListDistrictsByCanton(string)hEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.getListDistrictsByCanton(string)õ
-TaddNewActiveAdministrator(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)œEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.addNewActiveAdministrator(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)Š
-verifyPastAdminRegister(string)gEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.verifyPastAdminRegister(string)´
-4AddLikes(EmprendeUCR.Domain.Core.CoreEntities.Likes)|EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.AddLikes(EmprendeUCR.Domain.Core.CoreEntities.Likes)„
-verifyUserTypes(string, int)dEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.verifyUserTypes(string, int)’
-#getEmailConfirmationByEmail(string)kEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.getEmailConfirmationByEmail(string)z
-getUserPassword(string)_EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.getUserPassword(string)ˆ
-verifyMembersExistence(string)fEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.verifyMembersExistence(string)

@@ -1,28 +1,0 @@
-
-éEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.insertNewCredentials(EmprendeUCR.Domain.Core.CoreEntities.Credentials)ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs'  '(4"0*Û	
-0ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs) )(Lî
-ë
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs) )(,I
-%0CEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository"__id*™*ßI
-GEmprendeUCR.Application.RegisterContext.Implementations.RegisterService"Z
-_RegisterRepositoryCEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository•¢
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs) )(M*
-%1$System.Threading.Tasks.Task<TResult>"âEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository.addCredentialsAsync(EmprendeUCR.Domain.Core.CoreEntities.Credentials)*K
-I
-%0CEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository*A
-?
-credentials0EmprendeUCR.Domain.Core.CoreEntities.Credentials2EaddCredentialsAsync(EmprendeUCR.Domain.Core.CoreEntities.Credentials)"õ
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs) )(N
-""*¡
-1ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs*	 *(	"®
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs* *(	
-implicit return:?
-credentials0EmprendeUCR.Domain.Core.CoreEntities.CredentialsBKI
-GEmprendeUCR.Application.RegisterContext.Implementations.RegisterService

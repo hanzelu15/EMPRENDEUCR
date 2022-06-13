@@ -1,24 +1,0 @@
-ﬂ
-@EmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer-Microsoft.AspNetCore.Components.ComponentBaseobjectﬁ
-LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)çEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)m
-OnInitializedAsync()UEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.OnInitializedAsync()≠
-4getTotalSumOfPricesOfTheProductsAndServicesInOffer()uEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.getTotalSumOfPricesOfTheProductsAndServicesInOffer()U
-Cancel()IEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.Cancel()U
-Delete()IEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.Delete()g
-EditOffer(string)REmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.EditOffer(string)W
-	loadAll()JEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.loadAll()c
-loadIs_Offers()PEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.loadIs_Offers()Ö
- loadProductsAndServicesRelated()aEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.loadProductsAndServicesRelated()[
-ViewOffer()LEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.ViewOffer()]
-Offer_ID.getMEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.Offer_ID.get]
-Offer_ID.setMEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.Offer_ID.setw
-Service_PhotosService.getZEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.Service_PhotosService.getw
-Service_PhotosService.setZEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.Service_PhotosService.setw
-Product_PhotosService.getZEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.Product_PhotosService.getw
-Product_PhotosService.setZEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.Product_PhotosService.setk
-Is_OfferService.getTEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.Is_OfferService.getk
-Is_OfferService.setTEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.Is_OfferService.sete
-OfferService.getQEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.OfferService.gete
-OfferService.setQEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.OfferService.seto
-NavigationManager.getVEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.NavigationManager.geto
-NavigationManager.setVEmprendeUCR_WebApplication.Pages.Product_Service.Offer.ViewOffer.NavigationManager.set

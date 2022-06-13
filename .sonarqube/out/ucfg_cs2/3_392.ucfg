@@ -1,59 +1,0 @@
-
-eEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getPermissions(string)ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csP! P(/"0*≠
-0ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csR R(lì
-ê
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csR R(F
-%0@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext"__id*•*¢P
-NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository"N
-
-_dbContext@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext¸˘
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csR R((2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"OEmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext.Is_Able_To.get*H
-F
-%0@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext2Is_Able_To.getˆ
-Û
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csR4 R(f
-%2string"__concat*,*
-(SELECT * FROM Is_Able_To WHERE Email = '*
-
-emailstringÃ
-…
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csR4 R(l
-%3string"__concat*
-
-%2string*
-'Ê
-„
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csR R(m
-%4System.Linq.IQueryable<T>"ñMicrosoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
-;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-
-%3string*
-""Ô
-Ï
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csR R(w7
-%51EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*!
-
-%4System.Linq.IQueryable<T>"’
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csR R(x9
-7
-%51EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To[]*œ
-1ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csS	 S(	"Ø
-ó
-åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csS S(	
-implicit return:
-emailstringBRP
-NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository

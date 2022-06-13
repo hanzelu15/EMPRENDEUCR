@@ -1,95 +1,0 @@
-
-⁄EmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService.sendAnswer(System.DateTime, string, bool, System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order>)£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÅ& Å(0"0*∆
-0£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÉ Ñ(3»
-≈
-§
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÉ" É(òC
-%0=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable*6
-4
-ordersToUpdate"System.Collections.Generic.List<T>*
-""«
-ƒ
-§
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÉ É(òN
-orderToUpdate=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order"__id*E
-C
-%0=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
-1
-2*º
-1£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÑ6 Ñ(@√
-¿
-£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÑ6 Ñ(@
-%2"__id*
-
-Aceptado≈
-¬
-£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÑ6 Ñ(@
-%1string"__id*
-
-%2*
-3*Ω
-2£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÑC Ñ(Nƒ
-¡
-£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÑC Ñ(N
-%3"__id*
-	Rechazado≈
-¬
-£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÑC Ñ(N
-%1string"__id*
-
-%3*
-3*£
-3£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÑ á("Ò
-Ó
-£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÑ Ñ(P
-
-%4void"XEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.changeGlobalStatus(string)*P
-N
-orderToUpdate=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
-
-%1string•
-¢
-£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÖ Ö("E
-%5?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository"__id*¨*©R
-PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService"S
-_orderRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository¿Ω
-£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÖ Ö(=!
-%6System.Threading.Tasks.Task"äEmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository.orderUpdate(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)*G
-E
-%5?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository*P
-N
-orderToUpdate=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order2JorderUpdate(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)∑
-¥
-£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csÜ Ü(q	
-%7int"ASystem.Collections.Generic.List<T>.RemoveAll(System.Predicate<T>)*6
-4
-ordersToUpdate"System.Collections.Generic.List<T>*
-"""ﬁ
-£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csá á(#6
-4
-ordersToUpdate"System.Collections.Generic.List<T>*Á
-4£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csà	 à(	"ª
-£
-ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csà à(	
-implicit return:&
-dateAndHourCreationSystem.DateTime:
-emailstring:
-answerbool:4
-ordersToUpdate"System.Collections.Generic.List<T>BTR
-PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService

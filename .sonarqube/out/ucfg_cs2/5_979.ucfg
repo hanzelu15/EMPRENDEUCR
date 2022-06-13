@@ -1,27 +1,0 @@
-
-…EmprendeUCR_WebApplication.Data.Services.Is_OfferService.Is_OfferService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cs ("1*¨
-1Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cs	 (	|
-z
-
-%0void"9Microsoft.AspNetCore.Mvc.RazorPages.PageModel.PageModel()*1/
--Microsoft.AspNetCore.Mvc.RazorPages.PageModel*
-0*ª
-0Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cs (ý
-ú
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cs (…:
-8EmprendeUCR_WebApplication.Data.Services.Is_OfferService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*H
-F
-context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
-2*ß
-2Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cs	 (	"·
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cs (	
-implicit return:F
-context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextB<:
-8EmprendeUCR_WebApplication.Data.Services.Is_OfferService

@@ -1,10 +1,0 @@
-´
-OEmprendeUCR.Application.ConfirmAdminContext.Implementations.ConfirmAdminServiceobject@EmprendeUCR.Application.ConfirmAdminContext.IConfirmAdminService•
-`ConfirmAdminService(EmprendeUCR.Domain.ConfirmAdminContext.Repositories.IConfirmAdminRepository)°EmprendeUCR.Application.ConfirmAdminContext.Implementations.ConfirmAdminService.ConfirmAdminService(EmprendeUCR.Domain.ConfirmAdminContext.Repositories.IConfirmAdminRepository)x
-getAdminitrators()bEmprendeUCR.Application.ConfirmAdminContext.Implementations.ConfirmAdminService.getAdminitrators()t
-getAdmin(string)`EmprendeUCR.Application.ConfirmAdminContext.Implementations.ConfirmAdminService.getAdmin(string)ç
-IacceptNewAdmin(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)™EmprendeUCR.Application.ConfirmAdminContext.Implementations.ConfirmAdminService.acceptNewAdmin(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)é
-JdeclineNewAdmin(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)šEmprendeUCR.Application.ConfirmAdminContext.Implementations.ConfirmAdminService.declineNewAdmin(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)t
-getMailBody(int)`EmprendeUCR.Application.ConfirmAdminContext.Implementations.ConfirmAdminService.getMailBody(int)½
-4sendEmail(EmprendeUCR.Domain.Core.CoreEntities.Mail)„EmprendeUCR.Application.ConfirmAdminContext.Implementations.ConfirmAdminService.sendEmail(EmprendeUCR.Domain.Core.CoreEntities.Mail)‚
-deteleUserAdmin(string)gEmprendeUCR.Application.ConfirmAdminContext.Implementations.ConfirmAdminService.deteleUserAdmin(string)

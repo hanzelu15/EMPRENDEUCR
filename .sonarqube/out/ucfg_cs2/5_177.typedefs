@@ -1,11 +1,0 @@
-—
-:EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Hasobjecte
-Shopping_Cart_Has()NEmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has.Shopping_Cart_Has()Q
-	Email.getDEmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has.Email.getQ
-	Email.setDEmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has.Email.setU
-Code_ID.getFEmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has.Code_ID.getU
-Code_ID.setFEmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has.Code_ID.setk
-Entrepreneur_Email.getQEmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has.Entrepreneur_Email.getk
-Entrepreneur_Email.setQEmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has.Entrepreneur_Email.set]
-Category_ID.getJEmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has.Category_ID.get]
-Category_ID.setJEmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has.Category_ID.set

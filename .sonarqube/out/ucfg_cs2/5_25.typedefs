@@ -1,11 +1,0 @@
-¸
-4EmprendeUCR_WebApplication.Data.Context.AppDbContext'Microsoft.EntityFrameworkCore.DbContextobjectž
-rAppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR_WebApplication.Data.Context.AppDbContext>)§EmprendeUCR_WebApplication.Data.Context.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR_WebApplication.Data.Context.AppDbContext>)O
-Product.get@EmprendeUCR_WebApplication.Data.Context.AppDbContext.Product.getO
-Product.set@EmprendeUCR_WebApplication.Data.Context.AppDbContext.Product.setY
-Entrepreneur.getEEmprendeUCR_WebApplication.Data.Context.AppDbContext.Entrepreneur.getY
-Entrepreneur.setEEmprendeUCR_WebApplication.Data.Context.AppDbContext.Entrepreneur.setI
-User.get=EmprendeUCR_WebApplication.Data.Context.AppDbContext.User.getI
-User.set=EmprendeUCR_WebApplication.Data.Context.AppDbContext.User.set_
-Product_Service.getHEmprendeUCR_WebApplication.Data.Context.AppDbContext.Product_Service.get_
-Product_Service.setHEmprendeUCR_WebApplication.Data.Context.AppDbContext.Product_Service.set

@@ -1,140 +1,0 @@
-
-‘EmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.PdfCreation.PageTable(iTextSharp.text.Document, iTextSharp.text.pdf.PdfWriter, EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order, System.Collections.Generic.List<System.Tuple<int, EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product>>, string, string)¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csR R("0*‡)
-0¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csU [(6Ì
-Í
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csUC U(O
-%0System.DateTime"System.DateTime.Now.get*"
-System.DateTimeÇ
-ˇ
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csUC U(f
-%1string"!System.DateTime.ToString(string?)*
-
-%0System.DateTime*
-
-MM/dd/yyyyÌ
-Í
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csU( U(f
-%2string"__concat*
-Fecha de facturaci√≥n: *
-
-%1stringº
-π
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csUq U(
-%3"__id*
-""æ
-ª
-§
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csUÖ U(é
-%4"__id*
-""€ÿ
-£
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csUh U(è
-%5iTextSharp.text.Font"iTextSharp.text.Fontî
-ë
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csUl U(p
-
-%6void"*iTextSharp.text.Font.Font(int, float, int)*
-
-%5iTextSharp.text.Font*
-
-%3*2
-*
-
-%4Â‚
-£
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csU U(ê
-%7iTextSharp.text.Paragraph"iTextSharp.text.Paragraph»
-≈
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csU U('
-
-%8void"AiTextSharp.text.Paragraph.Paragraph(string, iTextSharp.text.Font)*!
-
-%7iTextSharp.text.Paragraph*
-
-%2string*
-
-%5iTextSharp.text.Font¯
-ı
-£
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csU U(ê$
-newLineiTextSharp.text.Paragraph"__id*!
-
-%7iTextSharp.text.Paragraph÷”
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csV V(
-
-%9bool"6iTextSharp.text.Document.Add(iTextSharp.text.IElement)*!
-
-pdfiTextSharp.text.Document*&
-$
-newLineiTextSharp.text.Paragraph2Add(iTextSharp.text.IElement)´
-®
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csX X(`
-%10void"ÙEmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.PdfCreation.createSections(iTextSharp.text.Document, iTextSharp.text.pdf.PdfWriter, EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order, System.Collections.Generic.List<System.Tuple<int, EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product>>, string, string, iTextSharp.text.Paragraph)*U"S
-QEmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.PdfCreation*!
-
-pdfiTextSharp.text.Document*)
-'
-writeriTextSharp.text.pdf.PdfWriter*H
-F
-order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*0
-.
-products"System.Collections.Generic.List<T>*
-
-entrepreneurNamestring*
-
-
-clientNamestring*&
-$
-newLineiTextSharp.text.Paragraph›⁄
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csZ Z(*
-%11iTextSharp.text.Table"iTextSharp.text.Table˝
-˙
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csZ" Z('
-%12void" iTextSharp.text.Table.Table(int)*
-
-%11iTextSharp.text.Table*2Ú
-Ô
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csZ Z(*"
-	datatableiTextSharp.text.Table"__id*
-
-%11iTextSharp.text.TableÃ
-…
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs[ [(7
-%13void"öEmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.PdfCreation.createTable(iTextSharp.text.Table, System.Collections.Generic.List<System.Tuple<int, EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product>>, iTextSharp.text.Paragraph, iTextSharp.text.Document)*U"S
-QEmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.PdfCreation*$
-"
-	datatableiTextSharp.text.Table*0
-.
-products"System.Collections.Generic.List<T>*&
-$
-newLineiTextSharp.text.Paragraph*!
-
-pdfiTextSharp.text.Document*
-1*Â
-1¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs\	 \(	"∫
-¢
-óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs\ \(	
-implicit return:
-pdfiTextSharp.text.Document:'
-writeriTextSharp.text.pdf.PdfWriter:F
-order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order:.
-products"System.Collections.Generic.List<T>:
-entrepreneurNamestring:
-
-clientNamestringBUS
-QEmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.PdfCreation

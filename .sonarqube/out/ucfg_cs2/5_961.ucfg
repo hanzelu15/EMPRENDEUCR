@@ -1,68 +1,0 @@
-
-VEmprendeUCR_WebApplication.Data.Services.ProductService.GetListRestricted(string, int)¢
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs¹ ¹(/"0*™
-0¢
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs» »(mû
-ø
-¢
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs» »(A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
-7EmprendeUCR_WebApplication.Data.Services.ProductService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextê
-ç
-¢
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs» »(#2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext÷
-ô
-¢
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs»/ »(X
-%2string"__concat* 
-exec GetProductsRestricted "*
-
-productstringØ
-Õ
-¢
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs»/ »(`
-%3string"__concat*
-
-%2string*
-",Ø
-Õ
-¢
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs»/ »(m
-%4string"__concat*
-
-%3string*
-""ñ
-î
-¢
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs» »(n
-%5System.Linq.IQueryable<T>"–Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
-;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-
-%4string*
-""û
-ø
-¢
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs» »(x8
-%62EmprendeUCR_WebApplication.Data.Entities.Product[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*!
-
-%5System.Linq.IQueryable<T>"á
-¢
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs» »(y:
-8
-%62EmprendeUCR_WebApplication.Data.Entities.Product[]*å
-1¢
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs¼	 ¼(	"º
-¢
-•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs¼ ¼(	
-implicit return:
-productstring:
-
-categoryIDintB;9
-7EmprendeUCR_WebApplication.Data.Services.ProductService

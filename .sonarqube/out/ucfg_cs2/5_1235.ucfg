@@ -1,138 +1,0 @@
-
-ûEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.NotificationRepository.OrderClientChange(object, TableDependency.SqlClient.Base.EventArgs.RecordChangedEventArgs<EmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClient>)«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csÌ Ì(&"0*Ù
-0«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csÔ (Aº
-π
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csÔ  Ô((S
-%0MEmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClient"MTableDependency.SqlClient.Base.EventArgs.RecordChangedEventArgs<T>.Entity.get*I
-G
-eBTableDependency.SqlClient.Base.EventArgs.RecordChangedEventArgs<T>ä
-á
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csÔ Ô((^
-changedEntityMEmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClient"__id*U
-S
-%0MEmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClientú
-ô
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs ()
-%1string"]EmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClient.ClientEmail.get*`
-^
-changedEntityMEmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClient±
-Æ
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs (A
-
-%2bool""string.operator ==(string, string)*
-"
-string*
-
-%1string*
-soru1097@gmail.com*
-1
-2*ò
-1«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csF (gñ
-ì
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csF (Y
-%3string"WEmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClient.State.get*`
-^
-changedEntityMEmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClientß
-§
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csF (g
-
-%4bool""string.operator ==(string, string)*
-"
-string*
-
-%3string*
-
-Aceptado*
-3
-4*õ
-4»
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csk (çñ
-ì
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csk (~
-%5string"WEmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClient.State.get*`
-^
-changedEntityMEmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClient©
-¶
-»
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csk (ç
-
-%6bool""string.operator ==(string, string)*
-"
-string*
-
-%5string*
-	Rechazado*
-3
-2*Î
-3«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csÚ Ú(&ì
-ê
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csÚ Ú(&
-
-%7bool"VEmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClient.view.get*`
-^
-changedEntityMEmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClient*
-5
-6*Ç
-5«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csÛ Û(Z˘ˆ
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csÛ5 Û([W
-%8QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs"QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs±
-Æ
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csÛ9 Û(T
-
-%9void"sEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs.NotificationChangeEventArgs(bool)*Y
-W
-%8QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs*
-""˝
-˙
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csÛ Û(\"
-%10System.Threading.Tasks.Task"¨EmprendeUCR_WebApplication.Domain.NotificationContext.newEventNotification.Invoke(object, EmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs)*
-""*xv
-tEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.NotificationRepository*Y
-W
-%8QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs*
-2*Ü
-6«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs˜ ˜(Y˙˜
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs˜5 ˜(ZX
-%11QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs"QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs≥
-∞
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs˜9 ˜(T
-%12void"sEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs.NotificationChangeEventArgs(bool)*Z
-X
-%11QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs*
-""˛
-˚
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs˜ ˜(["
-%13System.Threading.Tasks.Task"¨EmprendeUCR_WebApplication.Domain.NotificationContext.newEventNotification.Invoke(object, EmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs)*
-""*xv
-tEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.NotificationRepository*Z
-X
-%11QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs*
-2*Ø
-2«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs˙	 ˙(	"ﬂ
-«
-∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs˙ ˙(	
-implicit return:
-senderobject:G
-eBTableDependency.SqlClient.Base.EventArgs.RecordChangedEventArgs<T>Bxv
-tEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.NotificationRepository

@@ -1,74 +1,0 @@
-
-ôEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService.deleteSuggested(EmprendeUCR_WebApplication.Data.Entities.Suggested_Category)ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.cso o(#"0*≈
-0ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csq s("ã
-à
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csq2 q(:A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ú*ôN
-LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext
-Ì
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csq2 q(M2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"REmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Suggested_Category.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextæ
-ª
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csqS q(_	
-%2int"BEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.ID.get*J
-H
-	suggested;EmprendeUCR_WebApplication.Data.Entities.Suggested_CategoryÑÅ
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csq2 q(`A
-%3;EmprendeUCR_WebApplication.Data.Entities.Suggested_Category"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-	
-%2int2Find(params object[])ø
-º
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csq q(`O
-CategoryToRemove;EmprendeUCR_WebApplication.Data.Entities.Suggested_Category"__id*C
-A
-%3;EmprendeUCR_WebApplication.Data.Entities.Suggested_Categoryã
-à
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csr r(A
-%4;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ú*ôN
-LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext
-Ì
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csr r('2
-%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>"REmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Suggested_Category.get*C
-A
-%4;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextƒ¡
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csr r(@G
-%6AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
-2
-%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>*Q
-O
-CategoryToRemove;EmprendeUCR_WebApplication.Data.Entities.Suggested_Category2Remove(TEntity)ã
-à
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.css s(A
-%7;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ú*ôN
-LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextπ∂
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.css s("	
-%8int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
-A
-%7;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
-1*€
-1ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.cst	 t(	"µ
-ù
-íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.cst t(	
-implicit return:H
-	suggested;EmprendeUCR_WebApplication.Data.Entities.Suggested_CategoryBPN
-LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService

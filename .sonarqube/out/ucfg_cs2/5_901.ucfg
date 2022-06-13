@@ -1,35 +1,0 @@
-
-UEmprendeUCR_WebApplication.Data.Services.AdministratorService.GetByEmailAsync(string)é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs) (8"0*ı
-
-0é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs (?Ì
-Í
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs (!A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ç*ä?
-=EmprendeUCR_WebApplication.Data.Services.AdministratorService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext‹
-Ÿ
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs (/2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"MEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Administrator.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÛ
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs (@/
-%2)System.Threading.Tasks.ValueTask<TResult>"GMicrosoft.EntityFrameworkCore.DbSet<TEntity>.FindAsync(params object[])*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-
-emailstring2FindAsync(params object[])"ô
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs (A
-""*Ω
-1é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs	 (	"¶
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs (	
-implicit return:
-emailstringBA?
-=EmprendeUCR_WebApplication.Data.Services.AdministratorService

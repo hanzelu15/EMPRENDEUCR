@@ -1,8 +1,0 @@
-Å
-+EmprendeUCR.Domain.Core.CoreEntities.Cantonobject\
-Canton(string, string)BEmprendeUCR.Domain.Core.CoreEntities.Canton.Canton(string, string)@
-Canton()4EmprendeUCR.Domain.Core.CoreEntities.Canton.Canton()@
-Name.get4EmprendeUCR.Domain.Core.CoreEntities.Canton.Name.get@
-Name.set4EmprendeUCR.Domain.Core.CoreEntities.Canton.Name.setR
-Province_Name.get=EmprendeUCR.Domain.Core.CoreEntities.Canton.Province_Name.getR
-Province_Name.set=EmprendeUCR.Domain.Core.CoreEntities.Canton.Province_Name.set

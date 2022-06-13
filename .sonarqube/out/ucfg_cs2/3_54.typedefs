@@ -1,10 +1,0 @@
-ç
-]EmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.Repositories.SinpeIbanPaymentInfoRepositoryobjectLEmprendeUCR.Domain.PaymentInfos.Repositories.ISinpeIbanPaymentInfoRepository¡
-oSinpeIbanPaymentInfoRepository(EmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.SinpeIbanPaymentInfoDbContext)ÕEmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.Repositories.SinpeIbanPaymentInfoRepository.SinpeIbanPaymentInfoRepository(EmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.SinpeIbanPaymentInfoDbContext)|
-GetAllAsync()kEmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.Repositories.SinpeIbanPaymentInfoRepository.GetAllAsync()ä
-GetByIdAsync(string)rEmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.Repositories.SinpeIbanPaymentInfoRepository.GetByIdAsync(string)Û
-HSaveAsync(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo)¶EmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.Repositories.SinpeIbanPaymentInfoRepository.SaveAsync(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo)˝
-MAddPaymentInfo(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo)´EmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.Repositories.SinpeIbanPaymentInfoRepository.AddPaymentInfo(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo)ê
-GetByPaymentInfoID(int)uEmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.Repositories.SinpeIbanPaymentInfoRepository.GetByPaymentInfoID(int)~
-UnitOfWork.getlEmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.Repositories.SinpeIbanPaymentInfoRepository.UnitOfWork.get~
-UnitOfWork.setlEmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.Repositories.SinpeIbanPaymentInfoRepository.UnitOfWork.set

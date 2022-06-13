@@ -1,17 +1,0 @@
-þ
-KEmprendeUCR.Application.PermissionContext.Implementations.PermissionServiceobject<EmprendeUCR.Application.PermissionContext.IPermissionService…
-ZPermissionService(EmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository)¦EmprendeUCR.Application.PermissionContext.Implementations.PermissionService.PermissionService(EmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository)|
-getAllUserPermisions()bEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getAllUserPermisions()j
-getAllRoles()YEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getAllRoles()t
-getAllPermisions()^EmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getAllPermisions()j
-getAllUsers()YEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getAllUsers()€
-getAdministrator(string)dEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getAdministrator(string)r
-getClient(string)]EmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getClient(string)~
-getEntrepreneur(string)cEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getEntrepreneur(string)|
-getUserByEmail(string)bEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getUserByEmail(string)|
-getHashByEmail(string)bEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getHashByEmail(string)|
-getEmailByHash(string)bEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getEmailByHash(string)ˆ
-getPermissionsByUser(string)hEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getPermissionsByUser(string)±
-pupdateUserPermissions(string, System.Collections.Generic.IList<EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To>)¼EmprendeUCR.Application.PermissionContext.Implementations.PermissionService.updateUserPermissions(string, System.Collections.Generic.IList<EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To>)Í
->addPermission(EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To)ŠEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.addPermission(EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To)”
-"searchPermission(string, int, int)nEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.searchPermission(string, int, int)

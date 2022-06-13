@@ -1,21 +1,0 @@
-˝
-NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepositoryobjectGEmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepositoryÄ
-VPermissionRepository(EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext)•EmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.PermissionRepository(EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext)}
-getAllUserPermision()dEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getAllUserPermision()k
-getAllRole()[EmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getAllRole()u
-getAllPermision()`EmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getAllPermision()k
-getAllUser()[EmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getAllUser()É
-getAdministrator(string)gEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getAdministrator(string)u
-getClient(string)`EmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getClient(string)Å
-getEntrepreneur(string)fEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getEntrepreneur(string)q
-getUser(string)^EmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getUser(string)q
-getHash(string)^EmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getHash(string)s
-getEmail(string)_EmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getEmail(string)á
-getUserPermissions(string)iEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getUserPermissions(string)
-getPermissions(string)eEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getPermissions(string)∆
-9addEntry(EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To)àEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.addEntry(EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To)É
-deleteAllEntries(string)gEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.deleteAllEntries(string)⁄
-CaddPermissionAsync(EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To)íEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.addPermissionAsync(EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To)ë
-getPermission(string, int, int)nEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getPermission(string, int, int)o
-UnitOfWork.get]EmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.UnitOfWork.geto
-UnitOfWork.set]EmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.UnitOfWork.set

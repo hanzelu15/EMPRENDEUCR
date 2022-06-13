@@ -1,11 +1,0 @@
-ì
-
-?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext4EmprendeUCR.Infrastructure.Core.ApplicationDbContext'Microsoft.EntityFrameworkCore.DbContextobject 
-­EntrepreneursDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext>)íEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.EntrepreneursDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext>)º
-;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder){EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)\
-Products.getLEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.Products.get\
-Products.setLEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.Products.setj
-ProductServices.getSEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.ProductServices.getj
-ProductServices.setSEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.ProductServices.setf
-ProductPhotos.getQEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.ProductPhotos.getf
-ProductPhotos.setQEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.ProductPhotos.set

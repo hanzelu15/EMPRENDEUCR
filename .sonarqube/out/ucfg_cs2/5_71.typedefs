@@ -1,9 +1,0 @@
-ÿ
-3EmprendeUCR_WebApplication.Data.Entities.Is_Able_ToobjectP
-Is_Able_To()@EmprendeUCR_WebApplication.Data.Entities.Is_Able_To.Is_Able_To()J
-	Email.get=EmprendeUCR_WebApplication.Data.Entities.Is_Able_To.Email.getJ
-	Email.set=EmprendeUCR_WebApplication.Data.Entities.Is_Able_To.Email.setN
-Role_Id.get?EmprendeUCR_WebApplication.Data.Entities.Is_Able_To.Role_Id.getN
-Role_Id.set?EmprendeUCR_WebApplication.Data.Entities.Is_Able_To.Role_Id.setZ
-Permission_Id.getEEmprendeUCR_WebApplication.Data.Entities.Is_Able_To.Permission_Id.getZ
-Permission_Id.setEEmprendeUCR_WebApplication.Data.Entities.Is_Able_To.Permission_Id.set

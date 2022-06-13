@@ -1,46 +1,0 @@
-
-oEmprendeUCR_WebApplication.Data.Services.UserService.UpdateAsync(EmprendeUCR_WebApplication.Data.Entities.User)Ñ
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs5  5(+"0*–
-0Ñ
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs7 9(⁄
-◊
-Ñ
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs7 7(A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ñ*Å6
-4EmprendeUCR_WebApplication.Data.Services.UserService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext…
-∆
-Ñ
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs7 7(2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"DEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.User.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextëé
-Ñ
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs7 7(&G
-%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Update(TEntity)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*7
-5
-user-EmprendeUCR_WebApplication.Data.Entities.User2Update(TEntity)⁄
-◊
-Ñ
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs8 8(A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ñ*Å6
-4EmprendeUCR_WebApplication.Data.Services.UserService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextóî
-Ñ
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs8 8(-*
-%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
-A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
-""24SaveChangesAsync(System.Threading.CancellationToken)"è
-Ñ
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs9 9(
-""*©
-1Ñ
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs:	 :(	"ú
-Ñ
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs: :(	
-implicit return:5
-user-EmprendeUCR_WebApplication.Data.Entities.UserB86
-4EmprendeUCR_WebApplication.Data.Services.UserService

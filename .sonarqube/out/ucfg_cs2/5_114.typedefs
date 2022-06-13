@@ -1,4 +1,0 @@
-Ì
-[EmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.PersonalizedStatusMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>’
-˜Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.PersonalizedStatus>)ôEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.PersonalizedStatusMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.PersonalizedStatus>)Ž
-PersonalizedStatusMap()sEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.PersonalizedStatusMap.PersonalizedStatusMap()

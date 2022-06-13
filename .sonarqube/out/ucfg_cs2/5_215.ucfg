@@ -1,48 +1,0 @@
-
-≤EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.DeleteProductFromShoppingCart(EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine)ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs (3"0*´
-0ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs (4Ÿ
-÷
-ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs ((
-%0"System.Collections.Generic.List<T>"__id*Ñ*ÅM
-KEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart"0
-
-_shopLines"System.Collections.Generic.List<T>¢
-ü
-ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs (5
-
-%1bool">System.Collections.Generic.List<T>.Exists(System.Predicate<T>)**
-(
-%0"System.Collections.Generic.List<T>*
-""*
-1
-2*Â
-1ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs (*Ÿ
-÷
-ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs ((
-%2"System.Collections.Generic.List<T>"__id*Ñ*ÅM
-KEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart"0
-
-_shopLines"System.Collections.Generic.List<T>ﬂ
-‹
-ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs (+
-
-%3bool",System.Collections.Generic.List<T>.Remove(T)**
-(
-%2"System.Collections.Generic.List<T>*U
-S
-shopLineGEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine*
-2*Ÿ
-2ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs	 (	"¥
-ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs (	
-implicit return:S
-shopLineGEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLineBOM
-KEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart

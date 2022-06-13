@@ -1,77 +1,0 @@
-
-ÇEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>.ToPagedList(System.Collections.Generic.IEnumerable<T>, int, int)è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs# (."0*ª
-0è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (FÀ
-»
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (&	
-%0int"VSystem.Linq.Enumerable.Count<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*5
-3
-source)System.Collections.Generic.IEnumerable<T>∂
-≥
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (&
-countint"__id*
-	
-%0int˝
-˙
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (0/
-%1)System.Collections.Generic.IEnumerable<T>"ZSystem.Linq.Enumerable.Skip<TSource>(System.Collections.Generic.IEnumerable<TSource>, int)*"
-System.Linq.Enumerable*5
-3
-source)System.Collections.Generic.IEnumerable<T>*
-""˘
-ˆ
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (/
-%2)System.Collections.Generic.IEnumerable<T>"ZSystem.Linq.Enumerable.Take<TSource>(System.Collections.Generic.IEnumerable<TSource>, int)*"
-System.Linq.Enumerable*1
-/
-%1)System.Collections.Generic.IEnumerable<T>*
-""Á
-‰
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (&(
-%3"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*1
-/
-%2)System.Collections.Generic.IEnumerable<T>Ù
-Ò
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (&+
-items"System.Collections.Generic.List<T>"__id**
-(
-%3"System.Collections.Generic.List<T>°û
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (GG
-%4AEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>"AEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>ª
-∏
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (#
-
-%5void"~EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>.PagedList(System.Collections.Generic.List<T>, int, int, int)*I
-G
-%4AEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>*-
-+
-items"System.Collections.Generic.List<T>*
-
-countint*
-""*
-"""›
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (HI
-G
-%4AEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>*ø
-1è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs	 (	"ß
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (	
-implicit return:3
-source)System.Collections.Generic.IEnumerable<T>:
-
-pageNumberint:
-pageSizeintBE"C
-AEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>

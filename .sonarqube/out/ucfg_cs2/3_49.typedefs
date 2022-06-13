@@ -1,4 +1,0 @@
-§
-<EmprendeUCR.Infrastructure.Core.EntityMappings.PermissionMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>¼
-}Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Permission>)ºEmprendeUCR.Infrastructure.Core.EntityMappings.PermissionMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Permission>)_
-PermissionMap()LEmprendeUCR.Infrastructure.Core.EntityMappings.PermissionMap.PermissionMap()

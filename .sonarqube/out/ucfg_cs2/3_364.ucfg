@@ -1,166 +1,0 @@
-
-`EmprendeUCR.Infrastructure.LoginContext.Repositories.LoginRepository.verifyUserType(string, int)ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs  (."0*Ã
-0ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs (±
-Æ
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs (
-existsbool"__id*
-""*
-1*õ
-1ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs (*
-2
-3*π
-2ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs (HÎ
-Ë
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs ((<
-%06EmprendeUCR.Infrastructure.LoginContext.LoginDbContext"__id*ë*éF
-DEmprendeUCR.Infrastructure.LoginContext.Repositories.LoginRepository"D
-
-_dbContext6EmprendeUCR.Infrastructure.LoginContext.LoginDbContext÷”
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs (/2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"AEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.Client.get*>
-<
-%06EmprendeUCR.Infrastructure.LoginContext.LoginDbContext2
-Client.getÚÔ
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs (@/
-%2)System.Threading.Tasks.ValueTask<TResult>"GMicrosoft.EntityFrameworkCore.DbSet<TEntity>.FindAsync(params object[])*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-
-emailstring2FindAsync(params object[])ﬂ
-‹
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs (H
-
-%3bool""object.operator !=(object, object)*
-"
-object*
-""*
-""*
-4
-5*Ã
-4ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs (%±
-Æ
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs (%
-existsbool"__id*
-""*
-5*ò
-5ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs1	 1(	*
-6*õ
-3ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs (*
-7
-8*∆
-7ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs# #(NÎ
-Ë
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs# #((<
-%46EmprendeUCR.Infrastructure.LoginContext.LoginDbContext"__id*ë*éF
-DEmprendeUCR.Infrastructure.LoginContext.Repositories.LoginRepository"D
-
-_dbContext6EmprendeUCR.Infrastructure.LoginContext.LoginDbContext‚ﬂ
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs# #(52
-%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.Entrepreneur.get*>
-<
-%46EmprendeUCR.Infrastructure.LoginContext.LoginDbContext2Entrepreneur.getÚÔ
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs# #(F/
-%6)System.Threading.Tasks.ValueTask<TResult>"GMicrosoft.EntityFrameworkCore.DbSet<TEntity>.FindAsync(params object[])*4
-2
-%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-
-emailstring2FindAsync(params object[])ﬂ
-‹
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs# #(N
-
-%7bool""object.operator !=(object, object)*
-"
-object*
-""*
-""*
-9
-10*Õ
-9ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs% %(%±
-Æ
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs% %(%
-existsbool"__id*
-""*
-10*ô
-10ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs1	 1(	*
-6*ú
-8ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs (*
-11
-6*Ã
-11ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs* *(OÎ
-Ë
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs* *((<
-%86EmprendeUCR.Infrastructure.LoginContext.LoginDbContext"__id*ë*éF
-DEmprendeUCR.Infrastructure.LoginContext.Repositories.LoginRepository"D
-
-_dbContext6EmprendeUCR.Infrastructure.LoginContext.LoginDbContext‰·
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs* *(62
-%9,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.Administrator.get*>
-<
-%86EmprendeUCR.Infrastructure.LoginContext.LoginDbContext2Administrator.getÛ
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs* *(G0
-%10)System.Threading.Tasks.ValueTask<TResult>"GMicrosoft.EntityFrameworkCore.DbSet<TEntity>.FindAsync(params object[])*4
-2
-%9,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-
-emailstring2FindAsync(params object[])‡
-›
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs* *(O
-%11bool""object.operator !=(object, object)*
-"
-object*
-""*
-""*
-12
-13*Œ
-12ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs, ,(%±
-Æ
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs, ,(%
-existsbool"__id*
-""*
-13*ô
-13ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs1	 1(	*
-6*∏
-6ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs0 0("¢
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs0 0(
-
-existsbool*º
-14ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs1	 1(	"•
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\Repositories\LoginRepository.cs1 1(	
-implicit return:
-emailstring:
-userTypeintBHF
-DEmprendeUCR.Infrastructure.LoginContext.Repositories.LoginRepository

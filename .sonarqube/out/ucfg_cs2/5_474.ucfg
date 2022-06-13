@@ -1,95 +1,0 @@
-
-UEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString.TryCreate(string?)“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.csB (K"0*Œ
-0“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs (/è
-å
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs (0
-
-%0bool""string.IsNullOrWhiteSpace(string?)*
-"
-string*
-
-valuestring*
-1
-2*Ô
-1“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs (/ÍÊ
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs (/[
-%1UEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString.IsNullOrWhitespace"UEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString.IsNullOrWhitespaceð
-í
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs (-
-
-%2void"jEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString.IsNullOrWhitespace.IsNullOrWhitespace()*]
-[
-%1UEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString.IsNullOrWhitespace"õ
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs (0]
-[
-%1UEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString.IsNullOrWhitespace*ž
-2“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs   ((Ê
-Ç
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs   (	
-%3int"string.Length.get*
-
-valuestring­
-ª
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs   ((
-%4"__id*
-""*
-3
-4*Í	
-3“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs! !(,­
-ª
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs!# !(,
-%5"__id*
-""·´
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs! !(-P
-%6JEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString.TooLong"JEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString.TooLongÚ
-×
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs! !("
-
-%7void"WEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString.TooLong.TooLong(int)*R
-P
-%6JEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString.TooLong*
-
-%5"ê
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs! !(.R
-P
-%6JEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString.TooLong*Š
-4“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs# #(+§¤
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs# #(,H
-%8BEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString"BEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredStringß
-Ü
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs# #(%
-
-%9void"YEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString.RequiredString(string)*J
-H
-%8BEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString*
-
-valuestring"â
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs# #(-J
-H
-%8BEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString*Ç
-5“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs$	 $(	"«
-“
-ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\ValueObjects\RequiredString.cs$ $(	
-implicit return:
-valuestringBF"D
-BEmprendeUCR_WebApplication.Domain.Core.ValueObjects.RequiredString

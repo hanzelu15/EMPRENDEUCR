@@ -1,37 +1,0 @@
-
-ãEmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.PaymentInfoDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs  (/"0*µ
-0ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs (@ﬂ‹
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs (.
-
-%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*SQ
-OEmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.PaymentInfoDbContext*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ÿ’
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs, (@^
-%1XEmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.EntityMappings.PaymentInfoMap"XEmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.EntityMappings.PaymentInfoMap˜
-Ù
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs0 (>
-
-%2void"iEmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.EntityMappings.PaymentInfoMap.PaymentInfoMap()*`
-^
-%1XEmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.EntityMappings.PaymentInfoMapÿ’
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs (A0
-%3*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*`
-^
-%1XEmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.EntityMappings.PaymentInfoMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
-1*—
-1ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs	 (	"∞
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs (	
-implicit return::
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBSQ
-OEmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.PaymentInfoDbContext

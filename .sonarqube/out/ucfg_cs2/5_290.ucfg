@@ -1,85 +1,0 @@
-
-”EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Organized(int, string, int, System.DateTime, string, string, int, System.DateTime, EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs ("1*ù
-1í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs&	 &(	*
-0*ü
-0í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs %(¿
-Ω
-í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs (	
-%0int"LEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.CodeId.set*EC
-AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*
-""Â
-‚
-í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs (1
-%1string"WEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.EntrepreneurEmail.set*EC
-AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*
-
-entrepreneurEmailstringƒ
-¡
-í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs (#	
-%2int"PEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.CategoryId.set*EC
-AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*
-""˚
-¯
-í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs   (5
-%3System.DateTime"YEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.DateAndHourCreation.set*EC
-AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*(
-&
-dateAndHourCreationSystem.DateTimeÕ
- 
-í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs! !(
-%4string"KEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Email.set*EC
-AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*
-
-emailstringÀ
-»
-í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs" "(
-%5string"JEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Name.set*EC
-AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*
-
-namestring¬
-ø
-í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs# #(	
-%6int"NEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Quantity.set*EC
-AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*
-""Ì
-Í
-í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs$ $('
-%7System.DateTime"REmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.DateOfChange.set*EC
-AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*!
-
-dateOfChangeSystem.DateTimeº
-π
-í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs% %(C
-%8=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order"KEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.order.set*EC
-AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*I
-G
-_order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
-2*≈
-2í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs&	 &(	"™
-í
-áC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Organized.cs& &(	
-implicit return:
-codeIdint:
-entrepreneurEmailstring:
-
-categoryIdint:&
-dateAndHourCreationSystem.DateTime:
-emailstring:
-namestring:
-quantityint:
-dateOfChangeSystem.DateTime:G
-_order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.OrderBEC
-AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized

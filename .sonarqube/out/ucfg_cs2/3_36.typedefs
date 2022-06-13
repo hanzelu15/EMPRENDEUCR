@@ -1,4 +1,0 @@
-™
-:EmprendeUCR.Infrastructure.Core.EntityMappings.DistrictMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>¶
-{Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.District>)¶EmprendeUCR.Infrastructure.Core.EntityMappings.DistrictMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.District>)Y
-DistrictMap()HEmprendeUCR.Infrastructure.Core.EntityMappings.DistrictMap.DistrictMap()

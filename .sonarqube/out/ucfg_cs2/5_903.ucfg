@@ -1,43 +1,0 @@
-
-ÜEmprendeUCR_WebApplication.Data.Services.AdministratorService.AddAdministrator(EmprendeUCR_WebApplication.Data.Entities.Administrator)é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs ($"0*Ø
-0é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs ("Ì
-Í
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs (A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ç*ä?
-=EmprendeUCR_WebApplication.Data.Services.AdministratorService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext‹
-Ÿ
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs ("2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"MEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Administrator.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextß§
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs (5G
-%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*I
-G
-administrator6EmprendeUCR_WebApplication.Data.Entities.Administrator2Add(TEntity)Ì
-Í
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs (A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ç*ä?
-=EmprendeUCR_WebApplication.Data.Services.AdministratorService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext™ß
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs ("	
-%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
-A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
-1*Ω
-1é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs	 (	"¶
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\AdministratorService.cs (	
-implicit return:G
-administrator6EmprendeUCR_WebApplication.Data.Entities.AdministratorBA?
-=EmprendeUCR_WebApplication.Data.Services.AdministratorService

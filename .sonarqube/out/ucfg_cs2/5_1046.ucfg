@@ -1,27 +1,0 @@
-
-EmprendeUCR_WebApplication.Data.Services.EntrepreneurService.EntrepreneurService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs (""1*–
-1
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs	 (	|
-z
-
-%0void"9Microsoft.AspNetCore.Mvc.RazorPages.PageModel.PageModel()*1/
--Microsoft.AspNetCore.Mvc.RazorPages.PageModel*
-0*Š
-0
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs (ï
-ì
-
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs (‰>
-<EmprendeUCR_WebApplication.Data.Services.EntrepreneurService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*H
-F
-context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
-2*»
-2
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs	 (	"¥
-
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs (	
-implicit return:F
-context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextB@>
-<EmprendeUCR_WebApplication.Data.Services.EntrepreneurService

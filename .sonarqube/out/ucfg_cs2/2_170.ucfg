@@ -1,29 +1,0 @@
-
-íEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.insertNewAdministrator(EmprendeUCR.Domain.Core.CoreEntities.Administrator)í
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs¶  ¶(6"0*á
-
-0í
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs® ®(Pñ
-ì
-í
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs® ®(,I
-%0CEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository"__id*™*ßI
-GEmprendeUCR.Application.RegisterContext.Implementations.RegisterService"Z
-_RegisterRepositoryCEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository≥∞
-í
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs® ®(Q*
-%1$System.Threading.Tasks.Task<TResult>"çEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository.addAdministratorAsync(EmprendeUCR.Domain.Core.CoreEntities.Administrator)*K
-I
-%0CEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository*E
-C
-administrator2EmprendeUCR.Domain.Core.CoreEntities.Administrator2IaddAdministratorAsync(EmprendeUCR.Domain.Core.CoreEntities.Administrator)"ù
-í
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs® ®(R
-""*≈
-1í
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs©	 ©(	"™
-í
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs© ©(	
-implicit return:C
-administrator2EmprendeUCR.Domain.Core.CoreEntities.AdministratorBKI
-GEmprendeUCR.Application.RegisterContext.Implementations.RegisterService

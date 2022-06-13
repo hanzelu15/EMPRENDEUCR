@@ -1,18 +1,0 @@
-à
-(EmprendeUCR_WebApplication.Shared.Header-Microsoft.AspNetCore.Components.ComponentBaseobjectÅ
-LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)uEmprendeUCR_WebApplication.Shared.Header.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)U
-OnInitializedAsync()=EmprendeUCR_WebApplication.Shared.Header.OnInitializedAsync()I
-UpdateParams()7EmprendeUCR_WebApplication.Shared.Header.UpdateParams()=
-logear()1EmprendeUCR_WebApplication.Shared.Header.logear()C
-goProfile()4EmprendeUCR_WebApplication.Shared.Header.goProfile()=
-Header()1EmprendeUCR_WebApplication.Shared.Header.Header()Q
-sessionStorage.get;EmprendeUCR_WebApplication.Shared.Header.sessionStorage.getQ
-sessionStorage.set;EmprendeUCR_WebApplication.Shared.Header.sessionStorage.set[
-UserServicePandemic.get@EmprendeUCR_WebApplication.Shared.Header.UserServicePandemic.get[
-UserServicePandemic.set@EmprendeUCR_WebApplication.Shared.Header.UserServicePandemic.setK
-UserService.get8EmprendeUCR_WebApplication.Shared.Header.UserService.getK
-UserService.set8EmprendeUCR_WebApplication.Shared.Header.UserService.setW
-NavigationManager.get>EmprendeUCR_WebApplication.Shared.Header.NavigationManager.getW
-NavigationManager.set>EmprendeUCR_WebApplication.Shared.Header.NavigationManager.setQ
-ProductService.get;EmprendeUCR_WebApplication.Shared.Header.ProductService.getQ
-ProductService.set;EmprendeUCR_WebApplication.Shared.Header.ProductService.set

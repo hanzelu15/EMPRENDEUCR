@@ -1,4 +1,0 @@
-®
-=EmprendeUCR.Infrastructure.Core.EntityMappings.CredentialsMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>¿
-~Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Credentials>)¼EmprendeUCR.Infrastructure.Core.EntityMappings.CredentialsMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Credentials>)b
-CredentialsMap()NEmprendeUCR.Infrastructure.Core.EntityMappings.CredentialsMap.CredentialsMap()

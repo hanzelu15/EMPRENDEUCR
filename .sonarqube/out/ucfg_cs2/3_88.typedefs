@@ -1,34 +1,0 @@
-›*
-JEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepositoryobjectCEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository
-PRegisterRepository(EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext)õEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.RegisterRepository(EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext)æ
-7addUserAsync(EmprendeUCR.Domain.Core.CoreEntities.User)ÇEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.addUserAsync(EmprendeUCR.Domain.Core.CoreEntities.User)‹
-FverifyUserRecord(EmprendeUCR.Domain.RegisterContext.Entities.Register)ëEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.verifyUserRecord(EmprendeUCR.Domain.RegisterContext.Entities.Register)⁄
-EaddCredentialsAsync(EmprendeUCR.Domain.Core.CoreEntities.Credentials)êEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.addCredentialsAsync(EmprendeUCR.Domain.Core.CoreEntities.Credentials)Ú
-QaddEmailConfirmationAsync(EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation)úEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.addEmailConfirmationAsync(EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation)ƒ
-:addPhoneAsync(EmprendeUCR.Domain.Core.CoreEntities.Phones)ÖEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.addPhoneAsync(EmprendeUCR.Domain.Core.CoreEntities.Phones)g
-getParents()WEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getParents()s
-getChildrenOf(int)]EmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getChildrenOf(int)á
-getConfirmationEmail(string)gEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getConfirmationEmail(string)Ö
-getUserConfirmEmail(string)fEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getUserConfirmEmail(string)q
-getAllDistricts()\EmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getAllDistricts()m
-getAllCantons()ZEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getAllCantons()q
-getAllProvinces()\EmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getAllProvinces()s
-getAllCategories()]EmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getAllCategories()ƒ
-:updateUserAsync(EmprendeUCR.Domain.Core.CoreEntities.User)ÖEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.updateUserAsync(EmprendeUCR.Domain.Core.CoreEntities.User) 
-=addMembersAsync(EmprendeUCR.Domain.Core.CoreEntities.Members)àEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.addMembersAsync(EmprendeUCR.Domain.Core.CoreEntities.Members)∆
-;addClientAsync(EmprendeUCR.Domain.Core.CoreEntities.Client)ÜEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.addClientAsync(EmprendeUCR.Domain.Core.CoreEntities.Client)ﬁ
-GaddShoppingCartAsync(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCart)íEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.addShoppingCartAsync(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCart)¬
-9addLikesAsync(EmprendeUCR.Domain.Core.CoreEntities.Likes)ÑEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.addLikesAsync(EmprendeUCR.Domain.Core.CoreEntities.Likes)ﬁ
-GaddEntrepreneurAsync(EmprendeUCR.Domain.Core.CoreEntities.Entrepreneur)íEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.addEntrepreneurAsync(EmprendeUCR.Domain.Core.CoreEntities.Entrepreneur)‚
-IaddAdministratorAsync(EmprendeUCR.Domain.Core.CoreEntities.Administrator)îEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.addAdministratorAsync(EmprendeUCR.Domain.Core.CoreEntities.Administrator){
-getListCantons(string)aEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getListCantons(string)}
-getListDistrics(string)bEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getListDistrics(string)Ú
-QaddActiveAdministrator(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)úEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.addActiveAdministrator(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)ƒ
-:AddMemberLikes(EmprendeUCR.Domain.Core.CoreEntities.Likes)ÖEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.AddMemberLikes(EmprendeUCR.Domain.Core.CoreEntities.Likes)}
-verifyPastAdmin(string)bEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.verifyPastAdmin(string)Ö
-verifyUserType(string, int)fEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.verifyUserType(string, int)á
-getEmailConfirmation(string)gEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getEmailConfirmation(string)u
-GetPassword(string)^EmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.GetPassword(string)y
-verifyMembers(string)`EmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.verifyMembers(string)k
-UnitOfWork.getYEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.UnitOfWork.getk
-UnitOfWork.setYEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.UnitOfWork.set

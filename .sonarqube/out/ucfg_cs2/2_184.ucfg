@@ -1,31 +1,0 @@
-
-|EmprendeUCR.Application.RegisterContext.Implementations.RegisterService.AddLikes(EmprendeUCR.Domain.Core.CoreEntities.Likes)’
-…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs¿ ¿("0*º	
-0’
-…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csÁ Á(7–
-“
-’
-…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csÁ Á(&I
-%0CEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository"__id*ª*§I
-GEmprendeUCR.Application.RegisterContext.Implementations.RegisterService"Z
-_RegisterRepositoryCEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepositoryàÝ
-’
-…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csÁ Á(8
-
-%1bool"~EmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository.AddMemberLikes(EmprendeUCR.Domain.Core.CoreEntities.Likes)*K
-I
-%0CEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository*1
-/
-l*EmprendeUCR.Domain.Core.CoreEntities.Likes2:AddMemberLikes(EmprendeUCR.Domain.Core.CoreEntities.Likes)"£
-’
-…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csÁ Á(9
-
-
-%1bool*Å
-1’
-…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csÂ	 Â(	"ª
-’
-…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csÂ Â(	
-implicit return:/
-l*EmprendeUCR.Domain.Core.CoreEntities.LikesBKI
-GEmprendeUCR.Application.RegisterContext.Implementations.RegisterService

@@ -1,8 +1,0 @@
-Ò
-+EmprendeUCR_WebApplication.Pages.ErrorModel-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectë
-]ErrorModel(Microsoft.Extensions.Logging.ILogger<EmprendeUCR_WebApplication.Pages.ErrorModel>)‰EmprendeUCR_WebApplication.Pages.ErrorModel.ErrorModel(Microsoft.Extensions.Logging.ILogger<EmprendeUCR_WebApplication.Pages.ErrorModel>)>
-OnGet()3EmprendeUCR_WebApplication.Pages.ErrorModel.OnGet()J
-RequestId.get9EmprendeUCR_WebApplication.Pages.ErrorModel.RequestId.getJ
-RequestId.set9EmprendeUCR_WebApplication.Pages.ErrorModel.RequestId.setR
-ShowRequestId.get=EmprendeUCR_WebApplication.Pages.ErrorModel.ShowRequestId.getR
-ShowRequestId.set=EmprendeUCR_WebApplication.Pages.ErrorModel.ShowRequestId.set

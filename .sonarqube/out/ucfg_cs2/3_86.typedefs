@@ -1,9 +1,0 @@
-Ê
-@EmprendeUCR.Infrastructure.Reports.Repositories.ReportRepositoryobject9EmprendeUCR.Domain.Reports.Repositories.IReportRepositoryÎ
-DReportRepository(EmprendeUCR.Infrastructure.Reports.ReportDbContext)…EmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository.ReportRepository(EmprendeUCR.Infrastructure.Reports.ReportDbContext)_
-GetAllAsync()NEmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository.GetAllAsync()g
-GetByIdAsync(int)REmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository.GetByIdAsync(int)¯
-5SaveAsync(EmprendeUCR.Domain.Reports.Entities.Report)vEmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository.SaveAsync(EmprendeUCR.Domain.Reports.Entities.Report)¯
-5AddReport(EmprendeUCR.Domain.Reports.Entities.Report)vEmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository.AddReport(EmprendeUCR.Domain.Reports.Entities.Report)a
-UnitOfWork.getOEmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository.UnitOfWork.geta
-UnitOfWork.setOEmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository.UnitOfWork.set

@@ -1,6 +1,0 @@
-Ó
-6EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext4EmprendeUCR.Infrastructure.Core.ApplicationDbContext'Microsoft.EntityFrameworkCore.DbContextobjectã
-ÓChatDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext>)ŠEmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext.ChatDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext>)±
-;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)rEmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)K
-Chat.get?EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext.Chat.getK
-Chat.set?EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext.Chat.set

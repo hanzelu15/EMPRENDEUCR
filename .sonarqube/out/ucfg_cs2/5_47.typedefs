@@ -1,7 +1,0 @@
-È
-=EmprendeUCR_WebApplication.Data.Services.BannedAccountService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÂ
-QBannedAccountService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)èEmprendeUCR_WebApplication.Data.Services.BannedAccountService.BannedAccountService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)V
-
-GetAsync()HEmprendeUCR_WebApplication.Data.Services.BannedAccountService.GetAsync()¿
-?AddUser(EmprendeUCR_WebApplication.Data.Entities.BannedAccount)}EmprendeUCR_WebApplication.Data.Services.BannedAccountService.AddUser(EmprendeUCR_WebApplication.Data.Entities.BannedAccount)n
-GetUserByEmail(string)TEmprendeUCR_WebApplication.Data.Services.BannedAccountService.GetUserByEmail(string)

@@ -1,25 +1,0 @@
-
-YEmprendeUCR.Application.Chats.Implementations.UtilizesChatService.GetUtilizesChatsAsync()‰
-C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs5 (J"0*‰
-0‰
-C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs (>ÿ
-ü
-‰
-C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs (0C
-%0=EmprendeUCR.Domain.Chats.Repositories.IUtilizesChatRepository"__id*¢*ŸC
-AEmprendeUCR.Application.Chats.Implementations.UtilizesChatService"X
-_utilizesChatRepository=EmprendeUCR.Domain.Chats.Repositories.IUtilizesChatRepositoryÞÛ
-‰
-C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs (>*
-%1$System.Threading.Tasks.Task<TResult>"KEmprendeUCR.Domain.Chats.Repositories.IUtilizesChatRepository.GetAllAsync()*E
-C
-%0=EmprendeUCR.Domain.Chats.Repositories.IUtilizesChatRepository2GetAllAsync()"”
-‰
-C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs (?
-""*³
-1‰
-C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs	 (	"¡
-‰
-C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs (	
-implicit returnBEC
-AEmprendeUCR.Application.Chats.Implementations.UtilizesChatService

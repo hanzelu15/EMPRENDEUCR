@@ -1,4 +1,0 @@
-½
-?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>Æ
-€Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Administrator>)ÀEmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Administrator>)h
-AdministratorMap()REmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap.AdministratorMap()

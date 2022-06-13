@@ -1,47 +1,0 @@
-
-ÑEmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.InsertProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs  (2"0*ç
-0ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs (ı
-Ú
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs (C
-%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic"__id*ë*éA
-?EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic"I
-_context=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic‹
-Ÿ
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs ("2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"IEmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic.Product.get*E
-C
-%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemicﬂ‹
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs (4/
-%2)System.Threading.Tasks.ValueTask<TResult>"bMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddAsync(TEntity, System.Threading.CancellationToken)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*=
-;
-product0EmprendeUCR_WebApplication.Data.Entities.Product*
-""25AddAsync(TEntity, System.Threading.CancellationToken)ı
-Ú
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs (C
-%3=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic"__id*ë*éA
-?EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic"I
-_context=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic•¢
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs (-*
-%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*E
-C
-%3=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic*
-""24SaveChangesAsync(System.Threading.CancellationToken)"õ
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs (
-""*¡
-1ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs	 (	"®
-ê
-ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs (	
-implicit return:;
-product0EmprendeUCR_WebApplication.Data.Entities.ProductBCA
-?EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic

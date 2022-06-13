@@ -1,54 +1,0 @@
-
-vEmprendeUCR.Domain.Core.Helpers.ValidationExtensions.Success<TFail, TSuccess>(LanguageExt.Validation<TFail, TSuccess>)|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs (&"0*˛
-0|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs (Ú
-Ô
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs (
-
-%0bool"0LanguageExt.Validation<FAIL, SUCCESS>.IsFail.get*1
-/
-result%LanguageExt.Validation<FAIL, SUCCESS>*
-1
-2*Ê
-1|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs (CÀ»
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs (D&
-%1 System.InvalidOperationException" System.InvalidOperationExceptionè
-å
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs (3
-
-%2void"CSystem.InvalidOperationException.InvalidOperationException(string?)*(
-&
-%1 System.InvalidOperationException*
-Not a success*
-3*ô
-2|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs (1Ö
-Ç
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs ()
-%3LanguageExt.Lst<A>"5LanguageExt.Validation<FAIL, SUCCESS>.SuccessToList()*1
-/
-result%LanguageExt.Validation<FAIL, SUCCESS>˙
-˜
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs (1
-%4TSuccess"7ListExtensions.First<TSource>(LanguageExt.Lst<TSource>)*"
-ListExtensions*
-
-%3LanguageExt.Lst<A>"ê
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs (2
-
-%4TSuccess*ó
-3|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs	 (	"ì
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs (	
-implicit return:/
-result%LanguageExt.Validation<FAIL, SUCCESS>B8"6
-4EmprendeUCR.Domain.Core.Helpers.ValidationExtensions

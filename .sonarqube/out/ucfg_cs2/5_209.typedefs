@@ -1,9 +1,0 @@
-£
-+EmprendeUCR_WebApplication.Shared.MenuAdmin-Microsoft.AspNetCore.Components.ComponentBaseobjectÈ
-LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)xEmprendeUCR_WebApplication.Shared.MenuAdmin.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)N
-ToggleNavMenu();EmprendeUCR_WebApplication.Shared.MenuAdmin.ToggleNavMenu()F
-MenuAdmin()7EmprendeUCR_WebApplication.Shared.MenuAdmin.MenuAdmin()V
-NavMenuCssClass.get?EmprendeUCR_WebApplication.Shared.MenuAdmin.NavMenuCssClass.getV
-NavMenuCssClass.set?EmprendeUCR_WebApplication.Shared.MenuAdmin.NavMenuCssClass.setT
-ProductService.get>EmprendeUCR_WebApplication.Shared.MenuAdmin.ProductService.getT
-ProductService.set>EmprendeUCR_WebApplication.Shared.MenuAdmin.ProductService.set

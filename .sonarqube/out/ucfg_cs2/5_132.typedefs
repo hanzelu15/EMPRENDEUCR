@@ -1,8 +1,0 @@
-×
-5EmprendeUCR_WebApplication.Data.Services.LikesService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÌ
-ILikesService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)EmprendeUCR_WebApplication.Data.Services.LikesService.LikesService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)N
-
-GetAsync()@EmprendeUCR_WebApplication.Data.Services.LikesService.GetAsync()ª
-8AddLikes(EmprendeUCR_WebApplication.Data.Entities.Likes)nEmprendeUCR_WebApplication.Data.Services.LikesService.AddLikes(EmprendeUCR_WebApplication.Data.Entities.Likes)°
-;RemoveLikes(EmprendeUCR_WebApplication.Data.Entities.Likes)qEmprendeUCR_WebApplication.Data.Services.LikesService.RemoveLikes(EmprendeUCR_WebApplication.Data.Entities.Likes)h
-GetByEmailAsync(string)MEmprendeUCR_WebApplication.Data.Services.LikesService.GetByEmailAsync(string)

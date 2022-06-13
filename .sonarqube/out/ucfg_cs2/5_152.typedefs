@@ -1,8 +1,0 @@
-¯
-CEmprendeUCR_WebApplication.Data.Services.Personalized_StatusServiceobject÷
-WPersonalized_StatusService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)›EmprendeUCR_WebApplication.Data.Services.Personalized_StatusService.Personalized_StatusService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)\
-
-GetAsync()NEmprendeUCR_WebApplication.Data.Services.Personalized_StatusService.GetAsync()ç
-OInsertStatusAsync(EmprendeUCR_WebApplication.Data.Entities.Personalized_Status)“EmprendeUCR_WebApplication.Data.Services.Personalized_StatusService.InsertStatusAsync(EmprendeUCR_WebApplication.Data.Entities.Personalized_Status)­
-rInsertListOfStatus(System.Collections.Generic.IList<EmprendeUCR_WebApplication.Data.Entities.Personalized_Status>)¶EmprendeUCR_WebApplication.Data.Services.Personalized_StatusService.InsertListOfStatus(System.Collections.Generic.IList<EmprendeUCR_WebApplication.Data.Entities.Personalized_Status>)n
-GetAllStatusAsync()WEmprendeUCR_WebApplication.Data.Services.Personalized_StatusService.GetAllStatusAsync()

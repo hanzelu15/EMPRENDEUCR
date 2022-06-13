@@ -1,6 +1,0 @@
-ú
-8EmprendeUCR_WebApplication.Data.Services.DistrictService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÖ
-LDistrictService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)…EmprendeUCR_WebApplication.Data.Services.DistrictService.DistrictService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)Q
-
-GetAsync()CEmprendeUCR_WebApplication.Data.Services.DistrictService.GetAsync()[
-GetList(string)HEmprendeUCR_WebApplication.Data.Services.DistrictService.GetList(string)

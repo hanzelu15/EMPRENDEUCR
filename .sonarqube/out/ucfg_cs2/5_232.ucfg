@@ -1,69 +1,0 @@
-
-yEmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs"  "(/"0*Û"
-0é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs% /(gıÚ
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs% %(+P
-%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()íè
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs% &(X@
-%1:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
-P
-%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)ıÚ
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs( ((-P
-%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()íè
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs( )(H@
-%3:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
-P
-%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)ıÚ
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs+ +(4P
-%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()√
-¿
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs+ +(4S
-likesJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"__id*R
-P
-%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>ïí
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs, ,(E@
-%5:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*U
-S
-likesJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)ıÚ
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs." .(JP
-%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()Õ
- 
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs. .(J]
-shoppingCartHasJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"__id*R
-P
-%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>üú
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs/ /(h@
-%7:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*_
-]
-shoppingCartHasJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*
-1*Ω
-1é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs0	 0(	"¶
-é
-ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContextPandemic.cs0 0(	
-implicit return::
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBA?
-=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic

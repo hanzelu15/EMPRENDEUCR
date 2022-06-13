@@ -1,83 +1,0 @@
-
-•EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.Order(System.DateTime, string, string, string, System.DateTime, string, string, string)Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs ("1*½
-1Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs$	 $(	¡
-ž
-
-%0void"MEmprendeUCR_WebApplication.Domain.Core.Entities.AggregateRoot.AggregateRoot()*A?
-=EmprendeUCR_WebApplication.Domain.Core.Entities.AggregateRoot*
-0*Ï
-0Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs #(%ï
-ì
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs (5
-%1System.DateTime"UEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.DateAndHourCreation.set*A?
-=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*(
-&
-dateAndHourCreationSystem.DateTimeÍ
-Ê
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs (%
-%2string"MEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.ClientEmail.set*A?
-=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
-
-clientEmailstringÅ
-Â
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs (
-%3string"IEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.Details.set*A?
-=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
-
-detailsstringÕ
-Ò
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs (-
-%4string"QEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.DeliveryAddress.set*A?
-=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
-
-deliveryAddressstringá
-Þ
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs   ('
-%5System.DateTime"NEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.DeliveryDate.set*A?
-=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*!
-
-deliveryDateSystem.DateTimeÙ
-Ö
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs! !(1
-%6string"SEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.EntrepreneurEmail.set*A?
-=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
-
-entrepreneurEmailstringÁ
-¾
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs" "(
-%7string"GEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.State.set*A?
-=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
-
-statestringÍ
-Ê
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs# #(%
-%8string"MEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.PaymentName.set*A?
-=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
-
-paymentNamestring*
-2*½
-2Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs$	 $(	"¦
-Ž
-ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs$ $(	
-implicit return:&
-dateAndHourCreationSystem.DateTime:
-clientEmailstring:
-detailsstring:
-deliveryAddressstring:
-deliveryDateSystem.DateTime:
-entrepreneurEmailstring:
-statestring:
-paymentNamestringBA?
-=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order

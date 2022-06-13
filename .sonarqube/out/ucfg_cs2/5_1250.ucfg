@@ -1,94 +1,0 @@
-
-ÑEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.SetProductStatuses(EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product, System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status>)¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csô ô(&"0*ç%
-0¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csõ ß(%±
-Æ
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csõ$ õ(.K
-%0EEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext"__id*Ø*¨U
-SEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository"S
-
-_dbContextEEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContextëé
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csõ$ õ(72
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"REmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext.Statuses.get*M
-K
-%0EEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext2Statuses.get…
-∆
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csõ$ ú(=R
-%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"¬Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*D"B
-@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""ø
-º
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csõ$ ù([R
-%3LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"òMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ThenInclude<TEntity, TPreviousProperty, TProperty>(Microsoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TPreviousProperty>, System.Linq.Expressions.Expression<System.Func<TPreviousProperty, TProperty>>)*D"B
-@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*T
-R
-%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
-""Œ
-À
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csõ$ °(]
-%4System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*T
-R
-%3LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
-""Ó
-Î
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csõ$ ¢((
-%5"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*!
-
-%4System.Linq.IQueryable<T>é
-ã
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csõ ¢(.
-statuses"System.Collections.Generic.List<T>"__id**
-(
-%5"System.Collections.Generic.List<T>∏
-µ
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs§ §(V	
-%6int"ASystem.Collections.Generic.List<T>.FindIndex(System.Predicate<T>)*4
-2
-statusesList"System.Collections.Generic.List<T>*
-""Õ
- 
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs§ §(V
-indexint"__id*
-	
-%6int∑
-¥
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs• •(7
-
-%7void"__arrayAddAll*4
-2
-statusesList"System.Collections.Generic.List<T>*
-""*0
-.
-statuses"System.Collections.Generic.List<T>ü
-ú
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csß ß(%!
-%8System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
-System.Threading.Tasks.Task"Œ
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csß ß(&#
-!
-%8System.Threading.Tasks.Task*Ì
-1¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs®	 ®(	"æ
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs® ®(	
-implicit return:F
-product;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product:2
-statusesList"System.Collections.Generic.List<T>BWU
-SEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository

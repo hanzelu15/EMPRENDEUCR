@@ -1,50 +1,0 @@
-
-zEmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.EmailConfirmation(string, string, System.DateTime, System.DateTime)~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\EmailConfirmation.cs ( "1*ˆ
-1~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\EmailConfirmation.cs	 (	*
-0*Ý
-
-0~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\EmailConfirmation.cs ((¢
-Ÿ
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\EmailConfirmation.cs (
-%0string"@EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.Email.set*:8
-6EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation*
-
-emailstring¥
-¢
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\EmailConfirmation.cs (
-%1string"DEmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.Hash_Code.set*:8
-6EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation*
-
-hashstring¿
-¼
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\EmailConfirmation.cs ($
-%2System.DateTime"HEmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.Creation_Date.set*:8
-6EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation*
-
-creationSystem.DateTimeÃ
-À
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\EmailConfirmation.cs ((
-%3System.DateTime"JEmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.Expiration_Date.set*:8
-6EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation*
-
-
-expirationSystem.DateTime*
-2*›
-2~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\EmailConfirmation.cs	 (	"•
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\EmailConfirmation.cs (	
-implicit return:
-emailstring:
-hashstring:
-creationSystem.DateTime:
-
-expirationSystem.DateTimeB:8
-6EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation

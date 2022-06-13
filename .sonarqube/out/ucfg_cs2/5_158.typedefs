@@ -1,5 +1,0 @@
-…
-UEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrderMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>ò
-‹Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order>)áEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrderMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order>)n
-
-OrderMap()`EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrderMap.OrderMap()

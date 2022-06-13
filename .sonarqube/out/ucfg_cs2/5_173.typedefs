@@ -1,7 +1,0 @@
-¢
-6EmprendeUCR_WebApplication.Data.Services.ReportService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobject–
-JReportService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)ÅEmprendeUCR_WebApplication.Data.Services.ReportService.ReportService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)O
-
-GetAsync()AEmprendeUCR_WebApplication.Data.Services.ReportService.GetAsync()_
-getReportById(int)IEmprendeUCR_WebApplication.Data.Services.ReportService.getReportById(int)´
-8deleteReport(EmprendeUCR.Domain.Reports.Entities.Report)oEmprendeUCR_WebApplication.Data.Services.ReportService.deleteReport(EmprendeUCR.Domain.Reports.Entities.Report)

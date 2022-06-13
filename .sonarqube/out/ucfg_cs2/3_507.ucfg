@@ -1,35 +1,0 @@
-
-‹EmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.PaymentInfoDbContext.PaymentInfoDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.PaymentInfoDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.PaymentInfoDbContext>)ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs
- 
-(#"1*∂
-1ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs	 (	ê
-ç
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs (D2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"_EmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.PaymentInfoDbContext.PaymentInfo.set*SQ
-OEmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.PaymentInfoDbContext*
-""*
-0*Í
-0ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs ("ƒ
-¡
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs (#
-
-%1void"’EmprendeUCR.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Core.ApplicationDbContext>)*86
-4EmprendeUCR.Infrastructure.Core.ApplicationDbContext*E
-C
-options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*?
-=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
-2*—
-2ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs	 (	"∞
-ò
-çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PaymentInfos\PaymentInformation\PaymentInfoDbContext.cs (	
-implicit return:C
-options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>:=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>BSQ
-OEmprendeUCR.Infrastructure.PaymentInfos.PaymentInformation.PaymentInfoDbContext

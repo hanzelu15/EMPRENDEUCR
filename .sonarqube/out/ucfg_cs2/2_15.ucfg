@@ -1,25 +1,0 @@
-
-IEmprendeUCR.Application.Chats.Implementations.ChatService.GetChatsAsync()Å
-wC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\ChatService.cs- (:"0*π
-0Å
-wC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\ChatService.cs (6◊
-‘
-Å
-wC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\ChatService.cs ((;
-%05EmprendeUCR.Domain.Chats.Repositories.IChatRepository"__id*ä*á;
-9EmprendeUCR.Application.Chats.Implementations.ChatService"H
-_chatRepository5EmprendeUCR.Domain.Chats.Repositories.IChatRepository∆√
-Å
-wC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\ChatService.cs (6*
-%1$System.Threading.Tasks.Task<TResult>"CEmprendeUCR.Domain.Chats.Repositories.IChatRepository.GetAllAsync()*=
-;
-%05EmprendeUCR.Domain.Chats.Repositories.IChatRepository2GetAllAsync()"å
-Å
-wC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\ChatService.cs (7
-""*£
-1Å
-wC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\ChatService.cs	 (	"ô
-Å
-wC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\ChatService.cs (	
-implicit returnB=;
-9EmprendeUCR.Application.Chats.Implementations.ChatService

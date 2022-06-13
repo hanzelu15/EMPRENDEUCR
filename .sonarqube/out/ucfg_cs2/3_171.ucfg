@@ -1,37 +1,0 @@
-
-„EmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)‘
-†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs  (/"0*Ú
-0‘
-†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs  !(9ÑÎ
-‘
-†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs   (.
-
-%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*LJ
-HEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)Š
-‘
-†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs!, !(9<
-%16EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap"6EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap¥
-¢
-‘
-†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs!0 !(7
-
-%2void"@EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap.UserMap()*>
-<
-%16EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap¯¬
-‘
-†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs! !(:0
-%3*Microsoft.EntityFrameworkCore.ModelBuilder"‡Microsoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*>
-<
-%16EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
-1*Ã
-1‘
-†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs"	 "(	"©
-‘
-†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs" "(	
-implicit return::
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBLJ
-HEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext

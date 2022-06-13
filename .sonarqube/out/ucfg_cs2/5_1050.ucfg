@@ -1,47 +1,0 @@
-
-‹EmprendeUCR_WebApplication.Data.Services.EntrepreneurService.InsertEntrepreneurAsync(EmprendeUCR_WebApplication.Data.Entities.Entrepreneur)
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs  (7"0*ó
-0
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs (ë
-è
-
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs (A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Œ*‰>
-<EmprendeUCR_WebApplication.Data.Services.EntrepreneurService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÚ
-×
-
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs ('2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"LEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Entrepreneur.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextæã
-
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs (>/
-%2)System.Threading.Tasks.ValueTask<TResult>"bMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddAsync(TEntity, System.Threading.CancellationToken)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*G
-E
-entrepreneur5EmprendeUCR_WebApplication.Data.Entities.Entrepreneur*
-""25AddAsync(TEntity, System.Threading.CancellationToken)ë
-è
-
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs (A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Œ*‰>
-<EmprendeUCR_WebApplication.Data.Services.EntrepreneurService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext 
-
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs (-*
-%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
-A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
-""24SaveChangesAsync(System.Threading.CancellationToken)"˜
-
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs (
-""*»
-1
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs	 (	"¥
-
-‚C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs (	
-implicit return:E
-entrepreneur5EmprendeUCR_WebApplication.Data.Entities.EntrepreneurB@>
-<EmprendeUCR_WebApplication.Data.Services.EntrepreneurService

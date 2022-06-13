@@ -1,8 +1,0 @@
-®
-9EmprendeUCR.Presentation.Entrepreneurs.ProductServiceList-Microsoft.AspNetCore.Components.ComponentBaseobject×
-LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)†EmprendeUCR.Presentation.Entrepreneurs.ProductServiceList.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)f
-OnInitializedAsync()NEmprendeUCR.Presentation.Entrepreneurs.ProductServiceList.OnInitializedAsync()T
-LoadTeams()EEmprendeUCR.Presentation.Entrepreneurs.ProductServiceList.LoadTeams()f
-ProductServiceList()NEmprendeUCR.Presentation.Entrepreneurs.ProductServiceList.ProductServiceList()\
-TeamService.getIEmprendeUCR.Presentation.Entrepreneurs.ProductServiceList.TeamService.get\
-TeamService.setIEmprendeUCR.Presentation.Entrepreneurs.ProductServiceList.TeamService.set

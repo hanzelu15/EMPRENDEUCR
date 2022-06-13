@@ -1,42 +1,0 @@
-
-IEmprendeUCR_WebApplication.Data.Services.Is_OfferService.GetIs_Offer(int)Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csr r(#"0*ß
-0Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cst v(ù
-ö
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cst t(%A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ˆ*…:
-8EmprendeUCR_WebApplication.Data.Services.Is_OfferService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextè
-å
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cst t(.2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Is_Offer.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÈ
-Å
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cst t(b7
-%21EmprendeUCR_WebApplication.Data.Entities.Is_Offer"ŽSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""¢
-Ÿ
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cst t(b:
-offer1EmprendeUCR_WebApplication.Data.Entities.Is_Offer"__id*9
-7
-%21EmprendeUCR_WebApplication.Data.Entities.Is_Offer"à
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csv v(<
-:
-offer1EmprendeUCR_WebApplication.Data.Entities.Is_Offer*ß
-1Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csw	 w(	"·
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csw w(	
-implicit return:
-Is_Offer_IdintB<:
-8EmprendeUCR_WebApplication.Data.Services.Is_OfferService

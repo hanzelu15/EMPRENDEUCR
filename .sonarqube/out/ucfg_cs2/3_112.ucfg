@@ -1,37 +1,0 @@
-
-nEmprendeUCR.Infrastructure.Reports.ReportDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)z
-pC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\ReportDbContext.cs  (/"0*Ø
-0z
-pC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\ReportDbContext.cs (;£ 
-z
-pC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\ReportDbContext.cs (.
-
-%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*64
-2EmprendeUCR.Infrastructure.Reports.ReportDbContext*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ùö
-z
-pC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\ReportDbContext.cs, (;>
-%18EmprendeUCR.Infrastructure.Core.EntityMappings.ReportMap"8EmprendeUCR.Infrastructure.Core.EntityMappings.ReportMap“
-
-z
-pC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\ReportDbContext.cs0 (9
-
-%2void"DEmprendeUCR.Infrastructure.Core.EntityMappings.ReportMap.ReportMap()*@
->
-%18EmprendeUCR.Infrastructure.Core.EntityMappings.ReportMap™–
-z
-pC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\ReportDbContext.cs (<0
-%3*Microsoft.EntityFrameworkCore.ModelBuilder"‡Microsoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*@
->
-%18EmprendeUCR.Infrastructure.Core.EntityMappings.ReportMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
-1*“
-1z
-pC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\ReportDbContext.cs	 (	"‘
-z
-pC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\ReportDbContext.cs (	
-implicit return::
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB64
-2EmprendeUCR.Infrastructure.Reports.ReportDbContext

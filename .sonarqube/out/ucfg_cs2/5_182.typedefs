@@ -1,6 +1,0 @@
-†
-7EmprendeUCR_WebApplication.Data.Services.Serviceservice-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÓ
-KServiceservice(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)ƒEmprendeUCR_WebApplication.Data.Services.Serviceservice.Serviceservice(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)Z
-GetList(string)GEmprendeUCR_WebApplication.Data.Services.Serviceservice.GetList(string)h
-GetListByCategory(int)NEmprendeUCR_WebApplication.Data.Services.Serviceservice.GetListByCategory(int)x
-GetListRestricted(string, int)VEmprendeUCR_WebApplication.Data.Services.Serviceservice.GetListRestricted(string, int)

@@ -1,20 +1,0 @@
-ë
-GEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLineobject`
-
-ShopLine()REmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.ShopLine()^
-	Email.getQEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.Email.get^
-	Email.setQEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.Email.set`
-
-CodeId.getREmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.CodeId.get`
-
-CodeId.setREmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.CodeId.setv
-EntrepreneurEmail.get]EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.EntrepreneurEmail.getv
-EntrepreneurEmail.set]EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.EntrepreneurEmail.seth
-CategoryId.getVEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.CategoryId.geth
-CategoryId.setVEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.CategoryId.setl
-shoppingCart.getXEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.shoppingCart.getl
-shoppingCart.setXEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.shoppingCart.setb
-product.getSEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.product.getb
-product.setSEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.product.setd
-Quantity.getTEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.Quantity.getd
-Quantity.setTEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.Quantity.set

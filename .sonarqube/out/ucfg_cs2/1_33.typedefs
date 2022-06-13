@@ -1,13 +1,0 @@
-ç
-*EmprendeUCR.Domain.Core.CoreEntities.Offerobject=
-Offer()2EmprendeUCR.Domain.Core.CoreEntities.Offer.Offer()G
-Offer_ID.get7EmprendeUCR.Domain.Core.CoreEntities.Offer.Offer_ID.getG
-Offer_ID.set7EmprendeUCR.Domain.Core.CoreEntities.Offer.Offer_ID.setO
-Initial_Date.get;EmprendeUCR.Domain.Core.CoreEntities.Offer.Initial_Date.getO
-Initial_Date.set;EmprendeUCR.Domain.Core.CoreEntities.Offer.Initial_Date.setM
-Expire_Date.get:EmprendeUCR.Domain.Core.CoreEntities.Offer.Expire_Date.getM
-Expire_Date.set:EmprendeUCR.Domain.Core.CoreEntities.Offer.Expire_Date.setY
-Offer_Description.get@EmprendeUCR.Domain.Core.CoreEntities.Offer.Offer_Description.getY
-Offer_Description.set@EmprendeUCR.Domain.Core.CoreEntities.Offer.Offer_Description.setG
-Discount.get7EmprendeUCR.Domain.Core.CoreEntities.Offer.Discount.getG
-Discount.set7EmprendeUCR.Domain.Core.CoreEntities.Offer.Discount.set

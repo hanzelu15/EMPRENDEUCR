@@ -1,6 +1,0 @@
-—
-4EmprendeUCR_WebApplication.Data.Services.MailServiceobjecti
-getMailBody(string, int)MEmprendeUCR_WebApplication.Data.Services.MailService.getMailBody(string, int)m
-getNewPasswordMail(string)OEmprendeUCR_WebApplication.Data.Services.MailService.getNewPasswordMail(string)§
-7SendMail(EmprendeUCR_WebApplication.Data.Entities.Mail)lEmprendeUCR_WebApplication.Data.Services.MailService.SendMail(EmprendeUCR_WebApplication.Data.Entities.Mail)S
-MailService()BEmprendeUCR_WebApplication.Data.Services.MailService.MailService()

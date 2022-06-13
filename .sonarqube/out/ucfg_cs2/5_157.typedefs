@@ -1,15 +1,0 @@
-é
-SEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepositoryobject?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepositoryÖ
-VOrderRepository(EmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext)™EmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.OrderRepository(EmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext)Ä
-GetByIdAsync(string)hEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.GetByIdAsync(string)ä
-GetAcceptedOrders(string)mEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.GetAcceptedOrders(string)ê
-GetClientOrdersAsync(string)pEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.GetClientOrdersAsync(string)˜
-OGetProductsAsync(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)£EmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.GetProductsAsync(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)|
-GetOrderStatuses()fEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.GetOrderStatuses()∫
-∞SetProductStatuses(EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product, System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status>)ÑEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.SetProductStatuses(EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product, System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status>)Ì
-JorderUpdate(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)ûEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.orderUpdate(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)~
-defineColor(string)gEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.defineColor(string)¢
-%GetEntreprenurFinalizedOrders(string)yEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.GetEntreprenurFinalizedOrders(string)å
-GetEntreprenurName(string)nEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.GetEntreprenurName(string)t
-UnitOfWork.getbEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.UnitOfWork.gett
-UnitOfWork.setbEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.UnitOfWork.set

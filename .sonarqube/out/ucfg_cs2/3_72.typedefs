@@ -1,4 +1,0 @@
-°
-EEmprendeUCR.Infrastructure.Chats.TheMessage.EntityMappings.MessageMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>¹
-wConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Chats.Entities.Message>)½EmprendeUCR.Infrastructure.Chats.TheMessage.EntityMappings.MessageMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Chats.Entities.Message>)b
-MessageMap()REmprendeUCR.Infrastructure.Chats.TheMessage.EntityMappings.MessageMap.MessageMap()

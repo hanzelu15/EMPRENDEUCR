@@ -1,15 +1,0 @@
-“
-;EmprendeUCR_WebApplication.Data.Entities.Suggested_Categoryobjecth
-Suggested_Category()PEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.Suggested_Category()L
-ID.getBEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.ID.getL
-ID.setBEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.ID.setR
-	Title.getEEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.Title.getR
-	Title.setEEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.Title.set^
-Description.getKEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.Description.get^
-Description.setKEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.Description.setX
-ParentID.getHEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.ParentID.getX
-ParentID.setHEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.ParentID.setT
-
-Status.getFEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.Status.getT
-
-Status.setFEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.Status.set

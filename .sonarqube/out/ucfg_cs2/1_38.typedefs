@@ -1,22 +1,0 @@
-«
-,EmprendeUCR.Domain.Core.CoreEntities.ProductobjectK
-setPrice(int):EmprendeUCR.Domain.Core.CoreEntities.Product.setPrice(int)E
-
-getPrice()7EmprendeUCR.Domain.Core.CoreEntities.Product.getPrice()M
-setCodeID(int);EmprendeUCR.Domain.Core.CoreEntities.Product.setCodeID(int)G
-getCodeID()8EmprendeUCR.Domain.Core.CoreEntities.Product.getCodeID()Q
-setCategory(int)=EmprendeUCR.Domain.Core.CoreEntities.Product.setCategory(int)K
-getCategory():EmprendeUCR.Domain.Core.CoreEntities.Product.getCategory()C
-	Product()6EmprendeUCR.Domain.Core.CoreEntities.Product.Product()G
-Code_ID.get8EmprendeUCR.Domain.Core.CoreEntities.Product.Code_ID.getG
-Code_ID.set8EmprendeUCR.Domain.Core.CoreEntities.Product.Code_ID.setQ
-Product_Name.get=EmprendeUCR.Domain.Core.CoreEntities.Product.Product_Name.getQ
-Product_Name.set=EmprendeUCR.Domain.Core.CoreEntities.Product.Product_Name.set_
-Product_Description.getDEmprendeUCR.Domain.Core.CoreEntities.Product.Product_Description.get_
-Product_Description.setDEmprendeUCR.Domain.Core.CoreEntities.Product.Product_Description.setC
-	Price.get6EmprendeUCR.Domain.Core.CoreEntities.Product.Price.getC
-	Price.set6EmprendeUCR.Domain.Core.CoreEntities.Product.Price.set]
-Entrepreneur_Email.getCEmprendeUCR.Domain.Core.CoreEntities.Product.Entrepreneur_Email.get]
-Entrepreneur_Email.setCEmprendeUCR.Domain.Core.CoreEntities.Product.Entrepreneur_Email.setO
-Category_ID.get<EmprendeUCR.Domain.Core.CoreEntities.Product.Category_ID.getO
-Category_ID.set<EmprendeUCR.Domain.Core.CoreEntities.Product.Category_ID.set

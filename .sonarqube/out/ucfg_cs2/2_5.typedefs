@@ -1,8 +1,0 @@
-°	
-BEmprendeUCR.Application.Categories.Implementations.CategoryServiceobject3EmprendeUCR.Application.Categories.ICategoryServiceæ
-OCategoryService(EmprendeUCR.Domain.Categories.Repositories.ICategoryRepository)’EmprendeUCR.Application.Categories.Implementations.CategoryService.CategoryService(EmprendeUCR.Domain.Categories.Repositories.ICategoryRepository)y
-GetCategoryByIdAsync(int)\EmprendeUCR.Application.Categories.Implementations.CategoryService.GetCategoryByIdAsync(int)o
-GetCategoriesAsync()WEmprendeUCR.Application.Categories.Implementations.CategoryService.GetCategoriesAsync()¿
-<ChangeTitle(EmprendeUCR.Domain.Categories.Entities.Category)EmprendeUCR.Application.Categories.Implementations.CategoryService.ChangeTitle(EmprendeUCR.Domain.Categories.Entities.Category)Ì
-BChangeDescription(EmprendeUCR.Domain.Categories.Entities.Category)…EmprendeUCR.Application.Categories.Implementations.CategoryService.ChangeDescription(EmprendeUCR.Domain.Categories.Entities.Category)Æ
-?ChangeParentId(EmprendeUCR.Domain.Categories.Entities.Category)‚EmprendeUCR.Application.Categories.Implementations.CategoryService.ChangeParentId(EmprendeUCR.Domain.Categories.Entities.Category)

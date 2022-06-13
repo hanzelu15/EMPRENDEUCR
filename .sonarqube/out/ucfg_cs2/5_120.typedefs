@@ -1,4 +1,0 @@
-®
-WEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductServiceMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>˛
-êConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService>)ËEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductServiceMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService>)Ç
-ProductServiceMap()kEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductServiceMap.ProductServiceMap()

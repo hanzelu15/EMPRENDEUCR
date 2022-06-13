@@ -1,10 +1,0 @@
-Œ
-
-MEmprendeUCR.Infrastructure.Entrepreneurs.Repositories.ProductPhotosRepositoryobjectLEmprendeUCR.Domain.EntrepreneurContext.Repositories.IProductPhotosRepositoryƒ
-XProductPhotosRepository(EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext)¦EmprendeUCR.Infrastructure.Entrepreneurs.Repositories.ProductPhotosRepository.ProductPhotosRepository(EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext)Š
-GetAllByProductIDAsync(long)jEmprendeUCR.Infrastructure.Entrepreneurs.Repositories.ProductPhotosRepository.GetAllByProductIDAsync(long)l
-GetAllAsync()[EmprendeUCR.Infrastructure.Entrepreneurs.Repositories.ProductPhotosRepository.GetAllAsync()v
-GetByIdAsync(long)`EmprendeUCR.Infrastructure.Entrepreneurs.Repositories.ProductPhotosRepository.GetByIdAsync(long)‹
-\SaveAsync(EmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.ProductPhotos)ªEmprendeUCR.Infrastructure.Entrepreneurs.Repositories.ProductPhotosRepository.SaveAsync(EmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.ProductPhotos)n
-UnitOfWork.get\EmprendeUCR.Infrastructure.Entrepreneurs.Repositories.ProductPhotosRepository.UnitOfWork.getn
-UnitOfWork.set\EmprendeUCR.Infrastructure.Entrepreneurs.Repositories.ProductPhotosRepository.UnitOfWork.set

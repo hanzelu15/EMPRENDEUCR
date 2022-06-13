@@ -1,44 +1,0 @@
-
-JEmprendeUCR_WebApplication.Data.Services.RegisterService.RegisterService()à
-~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs ( "0*Ÿ
-0à
-~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.csS S(˙˜
-à
-~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs (,7
-%01EmprendeUCR_WebApplication.Data.Entities.Registro"1EmprendeUCR_WebApplication.Data.Entities.Registroì
-ê
-à
-~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs" (*
-
-%1void"<EmprendeUCR_WebApplication.Data.Entities.Registro.Registro()*9
-7
-%01EmprendeUCR_WebApplication.Data.Entities.RegistroŒ
-À
-à
-~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs (,}:
-8EmprendeUCR_WebApplication.Data.Services.RegisterService"?
-
-_oRegister1EmprendeUCR_WebApplication.Data.Entities.Registro"__id*9
-7
-%01EmprendeUCR_WebApplication.Data.Entities.RegistroÚÔ
-à
-~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs ( 3
-%2-EmprendeUCR_WebApplication.Data.Entities.User"-EmprendeUCR_WebApplication.Data.Entities.Userá
-Ñ
-à
-~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs (
-
-%3void"4EmprendeUCR_WebApplication.Data.Entities.User.User()*5
-3
-%2-EmprendeUCR_WebApplication.Data.Entities.User¬
-ø
-à
-~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs ( u:
-8EmprendeUCR_WebApplication.Data.Services.RegisterService"7
-_oUser-EmprendeUCR_WebApplication.Data.Entities.User"__id*5
-3
-%2-EmprendeUCR_WebApplication.Data.Entities.User"†
-à
-~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs S(
-implicit returnB<:
-8EmprendeUCR_WebApplication.Data.Services.RegisterService

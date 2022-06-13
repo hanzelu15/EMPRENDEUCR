@@ -1,26 +1,0 @@
-
-~EmprendeUCR.Application.Reports.Implementations.CreateReportService.AddReportAsync(EmprendeUCR.Domain.Reports.Entities.Report)å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs (("0*¿
-0å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs (0◊
-‘
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs (4
-%0.EmprendeUCR.Application.Reports.IReportService"__id*Ü*ÉE
-CEmprendeUCR.Application.Reports.Implementations.CreateReportService":
-_context.EmprendeUCR.Application.Reports.IReportServiceÃ…
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs (1!
-%1System.Threading.Tasks.Task"iEmprendeUCR.Application.Reports.IReportService.AddReportAsync(EmprendeUCR.Domain.Reports.Entities.Report)*6
-4
-%0.EmprendeUCR.Application.Reports.IReportService*6
-4
-report*EmprendeUCR.Domain.Reports.Entities.Report2:AddReportAsync(EmprendeUCR.Domain.Reports.Entities.Report)*
-1*π
-1å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs 	  (	"§
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs   (	
-implicit return:4
-report*EmprendeUCR.Domain.Reports.Entities.ReportBGE
-CEmprendeUCR.Application.Reports.Implementations.CreateReportService

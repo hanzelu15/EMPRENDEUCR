@@ -1,5 +1,0 @@
-Å
-KEmprendeUCR.Application.Entrepreneurs.Implementations.ProductServiceServiceobject<EmprendeUCR.Application.Entrepreneurs.IProductServiceService™
-dProductServiceService(EmprendeUCR.Domain.EntrepreneurContext.Repositories.IProductServiceRepository)°EmprendeUCR.Application.Entrepreneurs.Implementations.ProductServiceService.ProductServiceService(EmprendeUCR.Domain.EntrepreneurContext.Repositories.IProductServiceRepository)Ž
-GetProducServiceByIdAsync(long)kEmprendeUCR.Application.Entrepreneurs.Implementations.ProductServiceService.GetProducServiceByIdAsync(long)‚
-GetProductServicesAsync()eEmprendeUCR.Application.Entrepreneurs.Implementations.ProductServiceService.GetProductServicesAsync()

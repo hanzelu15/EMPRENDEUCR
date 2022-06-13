@@ -1,8 +1,0 @@
-¾
->EmprendeUCR_WebApplication.Data.Services.Product_PhotosServiceobjectè
-RProduct_PhotosService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)‘EmprendeUCR_WebApplication.Data.Services.Product_PhotosService.Product_PhotosService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)Ð
-FsavePhotoToDb(EmprendeUCR_WebApplication.Data.Entities.Product_Photos)…EmprendeUCR_WebApplication.Data.Services.Product_PhotosService.savePhotoToDb(EmprendeUCR_WebApplication.Data.Entities.Product_Photos)a
-loadAllPhotos()NEmprendeUCR_WebApplication.Data.Services.Product_PhotosService.loadAllPhotos()i
-loadPhotosByID(int)REmprendeUCR_WebApplication.Data.Services.Product_PhotosService.loadPhotosByID(int)y
-convertImageDisplay(byte[])ZEmprendeUCR_WebApplication.Data.Services.Product_PhotosService.convertImageDisplay(byte[])m
-loadProductPhoto(int)TEmprendeUCR_WebApplication.Data.Services.Product_PhotosService.loadProductPhoto(int)

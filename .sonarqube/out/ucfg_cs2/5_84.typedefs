@@ -1,13 +1,0 @@
-õ
-0EmprendeUCR_WebApplication.Data.Entities.MembersobjectG
-	Members():EmprendeUCR_WebApplication.Data.Entities.Members.Members()Q
-User_Email.get?EmprendeUCR_WebApplication.Data.Entities.Members.User_Email.getQ
-User_Email.set?EmprendeUCR_WebApplication.Data.Entities.Members.User_Email.setG
-	Score.get:EmprendeUCR_WebApplication.Data.Entities.Members.Score.getG
-	Score.set:EmprendeUCR_WebApplication.Data.Entities.Members.Score.setC
-Lat.get8EmprendeUCR_WebApplication.Data.Entities.Members.Lat.getC
-Lat.set8EmprendeUCR_WebApplication.Data.Entities.Members.Lat.setE
-Long.get9EmprendeUCR_WebApplication.Data.Entities.Members.Long.getE
-Long.set9EmprendeUCR_WebApplication.Data.Entities.Members.Long.setO
-Direction.get>EmprendeUCR_WebApplication.Data.Entities.Members.Direction.getO
-Direction.set>EmprendeUCR_WebApplication.Data.Entities.Members.Direction.set

@@ -1,64 +1,0 @@
-
-nEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.GetEntreprenurName(string)¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csÁ" Á(4"0*±
-0¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csÏ Ó(±
-Æ
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csÏ Ï(&K
-%0EEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext"__id*Ø*¨U
-SEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository"S
-
-_dbContextEEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContextÇˇ
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csÏ Ï(/A
-%1;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*M
-K
-%0EEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext2Database.getı
-Ú
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csÏ> Ï(`
-%2string"__concat*
-SELECT dbo.GetUserName('*
-
-emailstring‹
-Ÿ
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csÏ> Ï(g
-%3string"__concat*
-
-%2string*
-')Å
-˛
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csÏ Ï(h	
-%4int"§Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.ExecuteSqlRaw(Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade, string, params object[])*D"B
-@Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions*C
-A
-%1;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade*
-
-%3string*
-""◊
-‘
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csÏ Ï(s
-%5string"int.ToString()*
-	
-%4int‘
-—
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csÏ Ï(s
-retvalstring"__id*
-
-%5string"Ω
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csÓ Ó(
-
-retvalstring*Ì
-1¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csÔ	 Ô(	"æ
-¶
-ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.csÔ Ô(	
-implicit return:
-emailstringBWU
-SEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository

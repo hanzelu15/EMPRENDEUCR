@@ -1,8 +1,0 @@
-ô
-7EmprendeUCR_WebApplication.Data.Services.MembersService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÓ
-KMembersService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)ƒEmprendeUCR_WebApplication.Data.Services.MembersService.MembersService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)P
-
-GetAsync()BEmprendeUCR_WebApplication.Data.Services.MembersService.GetAsync()´
-<AddMembers(EmprendeUCR_WebApplication.Data.Entities.Members)tEmprendeUCR_WebApplication.Data.Services.MembersService.AddMembers(EmprendeUCR_WebApplication.Data.Entities.Members)j
-GetByEmailAsync(string)OEmprendeUCR_WebApplication.Data.Services.MembersService.GetByEmailAsync(string)¶
-=UpdateAsync(EmprendeUCR_WebApplication.Data.Entities.Members)uEmprendeUCR_WebApplication.Data.Services.MembersService.UpdateAsync(EmprendeUCR_WebApplication.Data.Entities.Members)

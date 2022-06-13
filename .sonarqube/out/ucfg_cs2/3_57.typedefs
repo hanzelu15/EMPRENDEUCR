@@ -1,4 +1,0 @@
-ƒ
-@EmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>…
-ÅConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Service_Photos>)¬EmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Service_Photos>)k
-Service_PhotosMap()TEmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMap.Service_PhotosMap()

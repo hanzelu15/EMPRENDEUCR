@@ -1,63 +1,0 @@
-
-|EmprendeUCR.Domain.Core.Helpers.ValidationExtensions.FailOrDefault<TFail, TSuccess>(LanguageExt.Validation<TFail, TSuccess>)|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs   (*"0*˛
-0|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs$ $( Ú
-Ô
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs$ $( 
-
-%0bool"0LanguageExt.Validation<FAIL, SUCCESS>.IsFail.get*1
-/
-result%LanguageExt.Validation<FAIL, SUCCESS>*
-1
-2*≈
-1|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs$# $(0
-Ì
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs$# $(0
-%4TFail"sEmprendeUCR.Domain.Core.Helpers.ValidationExtensions.Fail<TFail, TSuccess>(LanguageExt.Validation<TFail, TSuccess>)*8"6
-4EmprendeUCR.Domain.Core.Helpers.ValidationExtensions*1
-/
-result%LanguageExt.Validation<FAIL, SUCCESS>£
-†
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs$# $(0
-%2TFail"__id*
-
-%4TFail£
-†
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs$# $(0
-%1TFail"__id*
-
-%2TFail*
-3*Ω
-2|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs$3 $(:ï
-í
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs$3 $(:
-%3"__id*
-""ú
-ô
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs$3 $(:
-%1TFail"__id*
-
-%3*
-3*ë
-3|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs%	 %(	"ç
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs$ $(;
-
-%1TFail*ó
-4|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs%	 %(	"ì
-|
-rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\Helpers\ValidationExtensions.cs% %(	
-implicit return:/
-result%LanguageExt.Validation<FAIL, SUCCESS>B8"6
-4EmprendeUCR.Domain.Core.Helpers.ValidationExtensions

@@ -1,25 +1,0 @@
-
-WEmprendeUCR.Application.Categories.Implementations.CategoryService.GetCategoriesAsync()‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Categories\Implementations\CategoryService.cs1 (C"0*’
-0‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Categories\Implementations\CategoryService.cs (;€
-ý
-‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Categories\Implementations\CategoryService.cs (,D
-%0>EmprendeUCR.Domain.Categories.Repositories.ICategoryRepository"__id* *D
-BEmprendeUCR.Application.Categories.Implementations.CategoryService"U
-_categoryRepository>EmprendeUCR.Domain.Categories.Repositories.ICategoryRepositoryâß
-‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Categories\Implementations\CategoryService.cs (;*
-%1$System.Threading.Tasks.Task<TResult>"LEmprendeUCR.Domain.Categories.Repositories.ICategoryRepository.GetAllAsync()*F
-D
-%0>EmprendeUCR.Domain.Categories.Repositories.ICategoryRepository2GetAllAsync()"–
-‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Categories\Implementations\CategoryService.cs (<
-""*·
-1‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Categories\Implementations\CategoryService.cs	 (	"£
-‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Categories\Implementations\CategoryService.cs (	
-implicit returnBFD
-BEmprendeUCR.Application.Categories.Implementations.CategoryService

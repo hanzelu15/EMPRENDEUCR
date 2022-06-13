@@ -1,4 +1,0 @@
-’
-?EmprendeUCR.Infrastructure.Chats.TheChat.EntityMappings.ChatMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>­
-tConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Chats.Entities.Chat>)´EmprendeUCR.Infrastructure.Chats.TheChat.EntityMappings.ChatMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Chats.Entities.Chat>)V
-	ChatMap()IEmprendeUCR.Infrastructure.Chats.TheChat.EntityMappings.ChatMap.ChatMap()

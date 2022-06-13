@@ -1,38 +1,0 @@
-
-MEmprendeUCR.Domain.Categories.Entities.Category.Category(string, string, int)w
-mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Categories\Entities\Category.cs ("1*Å
-1w
-mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Categories\Entities\Category.cs	 (	*
-0*≤
-0w
-mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Categories\Entities\Category.cs (%Ç
-ˇ
-w
-mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Categories\Entities\Category.cs (	
-%0int"<EmprendeUCR.Domain.Categories.Entities.Category.ParentId.set*31
-/EmprendeUCR.Domain.Categories.Entities.Category*
-""ç
-ä
-w
-mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Categories\Entities\Category.cs (
-%1string"9EmprendeUCR.Domain.Categories.Entities.Category.Title.set*31
-/EmprendeUCR.Domain.Categories.Entities.Category*
-
-titlestringô
-ñ
-w
-mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Categories\Entities\Category.cs (%
-%2string"?EmprendeUCR.Domain.Categories.Entities.Category.Description.set*31
-/EmprendeUCR.Domain.Categories.Entities.Category*
-
-descriptionstring*
-2*ç
-2w
-mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Categories\Entities\Category.cs	 (	"é
-w
-mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Categories\Entities\Category.cs (	
-implicit return:
-titlestring:
-descriptionstring:
-parentidintB31
-/EmprendeUCR.Domain.Categories.Entities.Category

@@ -1,38 +1,0 @@
-
-]EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.CardPaymentInfo(string, int, string)€
-vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs ("1*‹
-1€
-vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs	 (	*
-0*¶
-0€
-vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs (3º
-·
-€
-vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs (*
-%0string"KEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.Account_Number.set*<:
-8EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo*
-
-accountNumberstring¥
-¢
-€
-vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs (+	
-%1int"LEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.Payment_Info_ID.set*<:
-8EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo*
-""Ã
-À
-€
-vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs (3
-%2string"PEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.Name_Payment_Method.set*<:
-8EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo*
-
-paymentMethodNamestring*
-2*¡
-2€
-vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs	 (	"˜
-€
-vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs (	
-implicit return:
-accountNumberstring:
-paymentInfoIDint:
-paymentMethodNamestringB<:
-8EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo

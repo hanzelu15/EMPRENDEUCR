@@ -1,36 +1,0 @@
-
-TEmprendeUCR_WebApplication.Data.Services.Product_PhotosService.loadProductPhoto(int)è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs1 1(."0*ˇ
-0è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs3 3(jÔ
-Ï
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs3 3(A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*é*ã@
->EmprendeUCR_WebApplication.Data.Services.Product_PhotosService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextﬁ
-€
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs3 3(*2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"NEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product_Photos.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextæ
-ª
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs3 3(k=
-%27EmprendeUCR_WebApplication.Data.Entities.Product_Photos"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-"""”
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs3 3(l?
-=
-%27EmprendeUCR_WebApplication.Data.Entities.Product_Photos*ø
-1è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs4	 4(	"ß
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs4 4(	
-implicit return:
-	productIDintBB@
->EmprendeUCR_WebApplication.Data.Services.Product_PhotosService

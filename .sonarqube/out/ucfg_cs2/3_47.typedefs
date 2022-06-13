@@ -1,4 +1,0 @@
-’
-9EmprendeUCR.Infrastructure.Core.EntityMappings.ProductMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>³
-zConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Product>)´EmprendeUCR.Infrastructure.Core.EntityMappings.ProductMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Product>)V
-ProductMap()FEmprendeUCR.Infrastructure.Core.EntityMappings.ProductMap.ProductMap()

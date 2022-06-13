@@ -1,6 +1,0 @@
-Ó
-6EmprendeUCR_WebApplication.Data.Services.CantonService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobject–
-JCantonService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)ÅEmprendeUCR_WebApplication.Data.Services.CantonService.CantonService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)O
-
-GetAsync()AEmprendeUCR_WebApplication.Data.Services.CantonService.GetAsync()Y
-GetList(string)FEmprendeUCR_WebApplication.Data.Services.CantonService.GetList(string)

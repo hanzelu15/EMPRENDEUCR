@@ -1,48 +1,0 @@
-
-\EmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.CardPaymentMethod(string, bool)„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.cs ( "1*
-1„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.cs	 (	*
-0*ö
-0„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.cs (;³
-°
-„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.cs (
-%0string"EEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.Name.set*@>
-<EmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod*
-
-namestring©
-¦
-„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.cs (
-
-%1bool"GEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.Status.set*@>
-<EmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod*
-""ØÕ
-„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.cs  (;(
-%2"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>í
-ê
-„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.cs$ (9
-
-%3void")System.Collections.Generic.List<T>.List()**
-(
-%2"System.Collections.Generic.List<T>·
-´
-„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.cs (;y>
-<EmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod"7
-_cardPaymentInfos"System.Collections.Generic.List<T>"__id**
-(
-%2"System.Collections.Generic.List<T>*
-2*©
-2„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.cs	 (	"œ
-„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.cs (	
-implicit return:
-namestring:
-statusboolB@>
-<EmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod

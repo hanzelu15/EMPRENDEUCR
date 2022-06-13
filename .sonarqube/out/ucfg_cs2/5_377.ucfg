@@ -1,16 +1,0 @@
-
-KEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Has_Keyword.get…
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs;0 ;(3"0*”
-0…
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs;4 ;(4Å
-Â
-…
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs;0 ;(42
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*~*|=
-;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext";
-Has_Keyword,Microsoft.EntityFrameworkCore.DbSet<TEntity>"¾
-…
-{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs;0 ;(44
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B?=
-;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext

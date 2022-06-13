@@ -1,5 +1,0 @@
-„
-7EmprendeUCR.Infrastructure.Core.EntityMappings.OfferMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>­
-xConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Offer>)°EmprendeUCR.Infrastructure.Core.EntityMappings.OfferMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Offer>)P
-
-OfferMap()BEmprendeUCR.Infrastructure.Core.EntityMappings.OfferMap.OfferMap()

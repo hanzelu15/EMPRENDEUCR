@@ -1,8 +1,0 @@
-»
-2EmprendeUCR.Infrastructure.Reports.ReportDbContext4EmprendeUCR.Infrastructure.Core.ApplicationDbContext'Microsoft.EntityFrameworkCore.DbContextobjectÓ
-ÍReportDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.Reports.ReportDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Reports.ReportDbContext>)€EmprendeUCR.Infrastructure.Reports.ReportDbContext.ReportDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.Reports.ReportDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Reports.ReportDbContext>)­
-;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)nEmprendeUCR.Infrastructure.Reports.ReportDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)K
-
-Report.get=EmprendeUCR.Infrastructure.Reports.ReportDbContext.Report.getK
-
-Report.set=EmprendeUCR.Infrastructure.Reports.ReportDbContext.Report.set

@@ -1,7 +1,0 @@
-ˆ
-8EmprendeUCR_WebApplication.Data.Services.RegisterServiceobjectc
-ConfirmMail(string)LEmprendeUCR_WebApplication.Data.Services.RegisterService.ConfirmMail(string)¹
->Registrarse(EmprendeUCR_WebApplication.Data.Entities.Registro)wEmprendeUCR_WebApplication.Data.Services.RegisterService.Registrarse(EmprendeUCR_WebApplication.Data.Entities.Registro)Ì
-GcheckRecordExistence(EmprendeUCR_WebApplication.Data.Entities.Registro)€EmprendeUCR_WebApplication.Data.Services.RegisterService.checkRecordExistence(EmprendeUCR_WebApplication.Data.Entities.Registro)s
-VerifyUserExistence(string)TEmprendeUCR_WebApplication.Data.Services.RegisterService.VerifyUserExistence(string)_
-RegisterService()JEmprendeUCR_WebApplication.Data.Services.RegisterService.RegisterService()

@@ -1,151 +1,0 @@
-
-êEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs'  '(/"0*∑[
-0•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs* 4(>ÒÓ
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs* *(.
-
-%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*XV
-TEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)„‡
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs,, ,(<]
-%1WEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductMap"WEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductMap˛
-˚
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs,0 ,(:
-
-%2void"dEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductMap.ProductMap()*_
-]
-%1WEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductMap‰·
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs, ,(=0
-%3*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*_
-]
-%1WEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ÒÓ
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs-, -(Cd
-%4^EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductServiceMap"^EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductServiceMapì
-ê
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs-0 -(A
-
-%5void"rEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductServiceMap.ProductServiceMap()*f
-d
-%4^EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductServiceMapÎË
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs- -(D0
-%6*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*f
-d
-%4^EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductServiceMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)„‡
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs., .(<]
-%7WEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ServiceMap"WEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ServiceMap˛
-˚
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs.0 .(:
-
-%8void"dEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ServiceMap.ServiceMap()*_
-]
-%7WEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ServiceMap‰·
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs. .(=0
-%9*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*_
-]
-%7WEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ServiceMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ÚÔ
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs/, /(Ce
-%10^EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.Product_PhotosMap"^EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.Product_PhotosMapï
-í
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs/0 /(A
-%11void"rEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.Product_PhotosMap.Product_PhotosMap()*g
-e
-%10^EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.Product_PhotosMapÌÍ
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs/ /(D1
-%12*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*g
-e
-%10^EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.Product_PhotosMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ÓÎ
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs1, 1(Ac
-%13\EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ShoppingCartMap"\EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ShoppingCartMapè
-å
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs10 1(?
-%14void"nEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ShoppingCartMap.ShoppingCartMap()*e
-c
-%13\EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ShoppingCartMapÎË
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs1 1(B1
-%15*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*e
-c
-%13\EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ShoppingCartMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ÏÈ
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs2, 2(@b
-%16[EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductLineMap"[EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductLineMapå
-â
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs20 2(>
-%17void"lEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductLineMap.ProductLineMap()*d
-b
-%16[EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductLineMapÍÁ
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs2 2(A1
-%18*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*d
-b
-%16[EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ProductLineMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)‡›
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs3, 3(:\
-%19UEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrderMap"UEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrderMap˙
-˜
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs30 3(8
-%20void"`EmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrderMap.OrderMap()*^
-\
-%19UEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrderMap‰·
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs3 3(;1
-%21*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*^
-\
-%19UEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrderMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ËÂ
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs4, 4(>`
-%22YEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrganizedMap"YEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrganizedMapÜ
-É
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs40 4(<
-%23void"hEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrganizedMap.OrganizedMap()*b
-`
-%22YEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrganizedMapËÂ
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs4 4(?1
-%24*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*b
-`
-%22YEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrganizedMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
-1*Î
-1•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs5	 5(	"Ω
-•
-öC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\ShoppingCartDbContext2.cs5 5(	
-implicit return::
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBXV
-TEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2

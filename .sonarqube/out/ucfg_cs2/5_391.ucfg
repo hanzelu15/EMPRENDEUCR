@@ -1,61 +1,0 @@
-
-fEmprendeUCR_WebApplication.Data.Services.Shopping_Cart_Has_Service_Pandemic.searchProduct(string, int)ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs (!"0*Ï
-0ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs ( ç
-ä
-ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs) (1C
-%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic"__id*ù*öM
-KEmprendeUCR_WebApplication.Data.Services.Shopping_Cart_Has_Service_Pandemic"I
-_context=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemicÚ
-Ô
-ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs) (C2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"SEmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic.Shopping_Cart_Has.get*E
-C
-%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemicœ
-Ã
-ù
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs) (à@
-%2:EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""µ
-≤
-ù
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs (àF
-existing:EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has"__id*B
-@
-%2:EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has∞
-≠
-ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs ( 
-
-%3bool""object.operator !=(object, object)*
-"
-object*H
-F
-existing:EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has*
-""*
-1
-2*Ã
-1ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs ("ß
-ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs (
-""*Ã
-2ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs ("ß
-ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs (
-""*Ÿ
-3ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs 	  (	"¥
-ú
-ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs   (	
-implicit return:
-emailstring:
-	idProductintBOM
-KEmprendeUCR_WebApplication.Data.Services.Shopping_Cart_Has_Service_Pandemic

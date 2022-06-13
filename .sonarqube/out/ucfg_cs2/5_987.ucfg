@@ -1,45 +1,0 @@
-
-ÖEmprendeUCR_WebApplication.Data.Services.Product_PhotosService.savePhotoToDb(EmprendeUCR_WebApplication.Data.Entities.Product_Photos)è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (!"0*«
-0è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (Ô
-Ï
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*é*ã@
->EmprendeUCR_WebApplication.Data.Services.Product_PhotosService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextﬁ
-€
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (#2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"NEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product_Photos.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextüú
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (,G
-%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*@
->
-p_p7EmprendeUCR_WebApplication.Data.Entities.Product_Photos2Add(TEntity)Ô
-Ï
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*é*ã@
->EmprendeUCR_WebApplication.Data.Services.Product_PhotosService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext´®
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs ("	
-%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
-A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()"ö
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (
-""*ø
-1è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs	 (	"ß
-è
-ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_PhotosService.cs (	
-implicit return:>
-p_p7EmprendeUCR_WebApplication.Data.Entities.Product_PhotosBB@
->EmprendeUCR_WebApplication.Data.Services.Product_PhotosService

@@ -1,7 +1,0 @@
-Ï
-0EmprendeUCR.Domain.Core.CoreEntities.CredentialsobjectO
-Credentials()>EmprendeUCR.Domain.Core.CoreEntities.Credentials.Credentials()Q
-User_Email.get?EmprendeUCR.Domain.Core.CoreEntities.Credentials.User_Email.getQ
-User_Email.set?EmprendeUCR.Domain.Core.CoreEntities.Credentials.User_Email.setM
-Password.get=EmprendeUCR.Domain.Core.CoreEntities.Credentials.Password.getM
-Password.set=EmprendeUCR.Domain.Core.CoreEntities.Credentials.Password.set

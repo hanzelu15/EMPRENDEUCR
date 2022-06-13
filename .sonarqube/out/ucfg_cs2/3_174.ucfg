@@ -1,59 +1,0 @@
-
-sEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetPurchasedProducts(string)Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csZ Z(2"0*…
-0Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs\ \(g³
-°
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs\ \(N
-%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext"__id*µ*²X
-VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository"V
-
-_dbContextHEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContextŽ‹
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs\ \(%2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"TEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Product.get*P
-N
-%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext2Product.getú
-÷
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs\1 \(`
-%2string"__concat*(&
-$exec products_based_last_purchases "*
-
-emailstringÔ
-Ñ
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs\1 \(g
-%3string"__concat*
-
-%2string*
-"î
-ë
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs\ \(h
-%4System.Linq.IQueryable<T>"–Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
-;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-
-%3string*
-""ô
-ñ
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs\ \(r4
-%5.EmprendeUCR.Domain.Core.CoreEntities.Product[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*!
-
-%4System.Linq.IQueryable<T>"Ú
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs\ \(s6
-4
-%5.EmprendeUCR.Domain.Core.CoreEntities.Product[]*ß
-1Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs]	 ](	"·
-Ÿ
-”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs] ](	
-implicit return:
-emailstringBZX
-VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository

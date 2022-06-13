@@ -1,47 +1,0 @@
-
-…EmprendeUCR_WebApplication.Data.Services.Has_StatusService.InsertHas_StatusAsync(EmprendeUCR_WebApplication.Data.Entities.Has_Status)‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.cs  (5"0*×
-0‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.cs (ç
-ä
-‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.cs (A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Š*‡<
-:EmprendeUCR_WebApplication.Data.Services.Has_StatusService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÖ
-Ó
-‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.cs (%2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"JEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Has_Status.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÜÙ
-‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.cs (6/
-%2)System.Threading.Tasks.ValueTask<TResult>"bMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddAsync(TEntity, System.Threading.CancellationToken)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*?
-=
-status3EmprendeUCR_WebApplication.Data.Entities.Has_Status*
-""25AddAsync(TEntity, System.Threading.CancellationToken)ç
-ä
-‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.cs (A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Š*‡<
-:EmprendeUCR_WebApplication.Data.Services.Has_StatusService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextž›
-‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.cs (-*
-%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
-A
-%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
-""24SaveChangesAsync(System.Threading.CancellationToken)"–
-‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.cs (
-""*·
-1‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.cs	 (	"£
-‹
-€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.cs (	
-implicit return:=
-status3EmprendeUCR_WebApplication.Data.Entities.Has_StatusB><
-:EmprendeUCR_WebApplication.Data.Services.Has_StatusService

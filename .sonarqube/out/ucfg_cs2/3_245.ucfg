@@ -1,37 +1,0 @@
-
-rEmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs  (/"0*‘
-0~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs (9«¨
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs (.
-
-%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*:8
-6EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)‹ˆ
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs, (9E
-%1?EmprendeUCR.Infrastructure.Chats.TheChat.EntityMappings.ChatMap"?EmprendeUCR.Infrastructure.Chats.TheChat.EntityMappings.ChatMap£
- 
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs0 (7
-
-%2void"IEmprendeUCR.Infrastructure.Chats.TheChat.EntityMappings.ChatMap.ChatMap()*G
-E
-%1?EmprendeUCR.Infrastructure.Chats.TheChat.EntityMappings.ChatMap¤¡
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs (:0
-%3*Microsoft.EntityFrameworkCore.ModelBuilder"‡Microsoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*G
-E
-%1?EmprendeUCR.Infrastructure.Chats.TheChat.EntityMappings.ChatMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
-1*›
-1~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs	 (	"•
-~
-tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\ChatDbContext.cs (	
-implicit return::
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB:8
-6EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext

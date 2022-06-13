@@ -1,27 +1,0 @@
-
-kEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.RequiredProductDescription(string)—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs (*"1*ª
-1—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs	 (	…
-‚
-
-%0void">EmprendeUCR.Domain.Core.ValueObjects.ValueObject.ValueObject()*42
-0EmprendeUCR.Domain.Core.ValueObjects.ValueObject*
-0*…
-0—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs (à
-Ý
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs (
-%1string"REmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.Value.set*LJ
-HEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription*
-
-valuestring*
-2*Ï
-2—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs	 (	"¯
-—
-ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductDescription.cs (	
-implicit return:
-valuestringBLJ
-HEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription

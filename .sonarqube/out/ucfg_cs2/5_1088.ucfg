@@ -1,106 +1,0 @@
-
-ÉEmprendeUCR_WebApplication.Data.Services.CredentialsService.updateCredentials(EmprendeUCR_WebApplication.Data.Entities.Credentials)å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs" "(%"0*⁄
-0å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs$ %(#È
-Ê
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs$& $(.A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ã*à=
-;EmprendeUCR_WebApplication.Data.Services.CredentialsService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÿ
-’
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs$& $(:2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"KEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Credentials.get*C
-A
-%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext∏
-µ
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs$& $(|:
-%24EmprendeUCR_WebApplication.Data.Entities.Credentials"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""õ
-ò
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs$ $(|C
-credentials4EmprendeUCR_WebApplication.Data.Entities.Credentials"__id*<
-:
-%24EmprendeUCR_WebApplication.Data.Entities.Credentialsù
-ö
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs% %(#
-
-%3bool""object.operator !=(object, object)*
-"
-object*E
-C
-credentials4EmprendeUCR_WebApplication.Data.Entities.Credentials*
-""*
-1
-2*Ω
-1å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs' *(&≠
-™
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs') '(@
-%4string"CEmprendeUCR_WebApplication.Data.Entities.Credentials.User_Email.get*F
-D
-_credentials4EmprendeUCR_WebApplication.Data.Entities.Credentialsº
-π
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs' '(@
-%5string"CEmprendeUCR_WebApplication.Data.Entities.Credentials.User_Email.set*E
-C
-credentials4EmprendeUCR_WebApplication.Data.Entities.Credentials*
-
-%4string´
-®
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs(' ((<
-%6string"AEmprendeUCR_WebApplication.Data.Entities.Credentials.Password.get*F
-D
-_credentials4EmprendeUCR_WebApplication.Data.Entities.Credentials∫
-∑
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs( ((<
-%7string"AEmprendeUCR_WebApplication.Data.Entities.Credentials.Password.set*E
-C
-credentials4EmprendeUCR_WebApplication.Data.Entities.Credentials*
-
-%6stringÈ
-Ê
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs) )(A
-%8;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ã*à=
-;EmprendeUCR_WebApplication.Data.Services.CredentialsService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext√¿
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs) )(,G
-%9AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Update<TEntity>(TEntity)*C
-A
-%8;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*E
-C
-credentials4EmprendeUCR_WebApplication.Data.Entities.Credentials2Update<TEntity>(TEntity)Í
-Á
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs* *(B
-%10;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ã*à=
-;EmprendeUCR_WebApplication.Data.Services.CredentialsService"G
-_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext™ß
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs* *(&
-
-%11int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*D
-B
-%10;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
-2*π
-2å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs-	 -(	"§
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs- -(	
-implicit return:D
-_credentials4EmprendeUCR_WebApplication.Data.Entities.CredentialsB?=
-;EmprendeUCR_WebApplication.Data.Services.CredentialsService

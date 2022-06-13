@@ -1,89 +1,0 @@
-
-REmprendeUCR.Application.Reports.Implementations.CreateReportService.CreateReport()å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.csT T(&"0*ì
-0å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.csV \(#É
-Ä
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.csV V()aE
-CEmprendeUCR.Application.Reports.Implementations.CreateReportService"
-AddDialogVisiblebool"__id*
-""Ì
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.csW W((0
-%0*EmprendeUCR.Domain.Reports.Entities.Report"*EmprendeUCR.Domain.Reports.Entities.Reportá
-Ñ
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.csW  W(&
-
-%1void"3EmprendeUCR.Domain.Reports.Entities.Report.Report()*2
-0
-%0*EmprendeUCR.Domain.Reports.Entities.ReportÇ
-ˇ
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.csW W((4
-report*EmprendeUCR.Domain.Reports.Entities.Report"__id*2
-0
-%0*EmprendeUCR.Domain.Reports.Entities.ReportÇ
-ˇ
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.csX X( 
-%2string"__id*Z*XE
-CEmprendeUCR.Application.Reports.Implementations.CreateReportService"
-Titlestringû
-õ
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.csX X( 
-%3string"4EmprendeUCR.Domain.Reports.Entities.Report.Title.set*6
-4
-report*EmprendeUCR.Domain.Reports.Entities.Report*
-
-%2stringÑ
-Å
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.csY Y($
-%4string"__id*\*ZE
-CEmprendeUCR.Application.Reports.Implementations.CreateReportService"
-Contentstring†
-ù
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.csY Y($
-%5string"6EmprendeUCR.Domain.Reports.Entities.Report.Content.set*6
-4
-report*EmprendeUCR.Domain.Reports.Entities.Report*
-
-%4stringÅ
-˛
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.csZ Z(
-%6string"__id*Y*WE
-CEmprendeUCR.Application.Reports.Implementations.CreateReportService"
-userstringù
-ö
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.csZ Z(
-%7string"3EmprendeUCR.Domain.Reports.Entities.Report.User.set*6
-4
-report*EmprendeUCR.Domain.Reports.Entities.Report*
-
-%6string∂
-≥
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs[ [((!
-%8System.Threading.Tasks.Task"~EmprendeUCR.Application.Reports.Implementations.CreateReportService.AddReportAsync(EmprendeUCR.Domain.Reports.Entities.Report)*GE
-CEmprendeUCR.Application.Reports.Implementations.CreateReportService*6
-4
-report*EmprendeUCR.Domain.Reports.Entities.Reportƒ
-¡
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs\ \(#
-
-%9void"[EmprendeUCR.Application.Reports.Implementations.CreateReportService.ResetCreateReportData()*GE
-CEmprendeUCR.Application.Reports.Implementations.CreateReportService*
-1*π
-1å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs]	 ](	"§
-å
-ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs] ](	
-implicit returnBGE
-CEmprendeUCR.Application.Reports.Implementations.CreateReportService

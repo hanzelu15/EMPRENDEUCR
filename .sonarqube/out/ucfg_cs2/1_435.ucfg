@@ -1,44 +1,0 @@
-
-WEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.TryCreateValidStatus(bool)„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.cs=8 =(L"0*’
-0„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.cs@ @(*
-1
-2*œ
-1„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.csA A("
-„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.csA A(
-""*’
-2„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.csB B($*
-3
-4*œ
-3„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.csC C("
-„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.csC C(
-""*Ü
-4„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.csF F(*¨¥
-„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.csF F(*P
-%0JEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.InvalidStatus"JEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.InvalidStatusÆ
-Ã
-„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.csF F((
-
-%1void"ZEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.InvalidStatus.InvalidStatus()*R
-P
-%0JEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.InvalidStatus"Û
-„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.csF F(+R
-P
-%0JEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.InvalidStatus*©
-5„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.csH	 H(	"œ
-„
-zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\CardPaymentMethod.csH H(	
-implicit return:
-statusboolB@">
-<EmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod

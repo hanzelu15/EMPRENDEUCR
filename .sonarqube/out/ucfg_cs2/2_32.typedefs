@@ -1,22 +1,0 @@
-×
-SEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientServiceobjectDEmprendeUCR.Application.HomePageClientContext.IHomePageClientServiceÈ
-·HomePageClientService(EmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository, EmprendeUCR.Domain.HomePageClientContext.Repositories.IDisplayProductRepository)‹EmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.HomePageClientService(EmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository, EmprendeUCR.Domain.HomePageClientContext.Repositories.IDisplayProductRepository)Ž
-convertImageDisplay(byte[])oEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.convertImageDisplay(byte[])€
-listAllNewProducts()hEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.listAllNewProducts()z
-listAllNewOffer()eEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.listAllNewOffer() 
-$listAllNewRecomendedProducts(string)xEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.listAllNewRecomendedProducts(string)†
-listAllProductsPhotos()kEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.listAllProductsPhotos()†
-getAllCategoriesAsync()kEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.getAllCategoriesAsync()Æ
-¶Rowdrop(Syncfusion.Blazor.Grids.RowDragEventArgs<EmprendeUCR.Domain.Core.CoreEntities.Category>, Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR.Domain.Core.CoreEntities.Category>)ŠEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.Rowdrop(Syncfusion.Blazor.Grids.RowDragEventArgs<EmprendeUCR.Domain.Core.CoreEntities.Category>, Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR.Domain.Core.CoreEntities.Category>)†
-ChangeParent(int, int?)kEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.ChangeParent(int, int?)ˆ
-verifyChildCategory(int)lEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.verifyChildCategory(int)”
-searchProductById(string, int)rEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.searchProductById(string, int)ñ
-LaddProductShoppingCart(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas) EmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.addProductShoppingCart(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)~
-GetAllOffersAsync()gEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.GetAllOffersAsync()’
-GetAllProductsServicesAsync()qEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.GetAllProductsServicesAsync()’
-listPurchasedProducts(string)qEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.listPurchasedProducts(string)r
-getIs_Offer()aEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.getIs_Offer()‚
-GetIs_OfferAsync(int)iEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.GetIs_OfferAsync(int)|
-getServicePhotos()fEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.getServicePhotos()œ
-"GetEntrepreneurNameByEmail(string)vEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.GetEntrepreneurNameByEmail(string)ù
-PGetAllIs_OfferRelatedToOfferNOTAsync(EmprendeUCR.Domain.Core.CoreEntities.Offer)¤EmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.GetAllIs_OfferRelatedToOfferNOTAsync(EmprendeUCR.Domain.Core.CoreEntities.Offer)

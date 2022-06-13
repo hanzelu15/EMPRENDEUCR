@@ -1,59 +1,0 @@
-
-ÄEmprendeUCR.Infrastructure.ConfirmAdminContext.ConfirmAdminDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs  (/"0*◊
-0ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs! $(9…∆
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs! !(.
-
-%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*HF
-DEmprendeUCR.Infrastructure.ConfirmAdminContext.ConfirmAdminDbContext*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)‘—
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs" "('0
-%1*Microsoft.EntityFrameworkCore.ModelBuilder"<Microsoft.EntityFrameworkCore.ModelBuilder.Ignore<TEntity>()*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Ignore<TEntity>()©¶
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs#, #(IL
-%2FEmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMap"FEmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMap—
-Œ
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs#0 #(G
-
-%3void"`EmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMap.ActiveAdministratorsMap()*N
-L
-%2FEmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMapª∏
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs# #(J0
-%4*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*N
-L
-%2FEmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)âÜ
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs$, $(9<
-%56EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap"6EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap°
-û
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs$0 $(7
-
-%6void"@EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap.UserMap()*>
-<
-%56EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap´®
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs$ $(:0
-%7*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*>
-<
-%56EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
-1*ª
-1ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs%	 %(	"•
-ç
-ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs% %(	
-implicit return::
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBHF
-DEmprendeUCR.Infrastructure.ConfirmAdminContext.ConfirmAdminDbContext
