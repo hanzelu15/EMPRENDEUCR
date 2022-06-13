@@ -1,0 +1,28 @@
+
+hEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService.GetClientOrders(string)¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csB' B(6"0*ª	
+0¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csD D(D£
+ 
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csD D()E
+%0?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository"__id*¬*©R
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService"S
+_orderRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository«¨
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csD D(E*
+%1$System.Threading.Tasks.Task<TResult>"\EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository.GetClientOrdersAsync(string)*G
+E
+%0?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository*
+
+emailstring2GetClientOrdersAsync(string)"¬
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csD D(F
+""*ã
+1¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csE	 E(	"¹
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csE E(	
+implicit return:
+emailstringBTR
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService

@@ -1,0 +1,404 @@
+
+∫EmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.PdfCreation.Generate(Microsoft.JSInterop.IJSRuntime, EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order, System.Collections.Generic.List<System.Tuple<int, EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product>>, string, string)¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs ("0*–Ñ
+0¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs H()ﬁ€
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs (1
+%0System.IO.MemoryStream"System.IO.MemoryStream˚
+¯
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs# (/
+
+%1void"%System.IO.MemoryStream.MemoryStream()*
+
+%0System.IO.MemoryStreamˆ
+Û
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs (1&
+memoryStreamSystem.IO.MemoryStream"__id*
+
+%0System.IO.MemoryStream 
+«
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs ("
+	margeLeftfloat"__id*
+""À
+»
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs (#
+
+margeRightfloat"__id*
+""«
+ƒ
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs (!
+margeTopfloat"__id*2 
+«
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs ($
+margeBottomfloat"__id*2ê
+ç
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs"$ "(/
+%2iTextSharp.text.Rectangle"__id*?*=
+iTextSharp.text.PageSize"
+A4iTextSharp.text.RectangleÄ
+˝
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs#$ #(5
+%3float"]EmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.Extensions.ToDpi(float)*T"R
+PEmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.Extensions*
+
+	margeLeftfloatÅ
+˛
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs$$ $(6
+%4float"]EmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.Extensions.ToDpi(float)*T"R
+PEmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.Extensions*
+
+
+margeRightfloatˇ
+¸
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs%$ %(4
+%5float"]EmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.Extensions.ToDpi(float)*T"R
+PEmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.Extensions*
+
+margeTopfloatÇ
+ˇ
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs&$ &(7
+%6float"]EmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.Extensions.ToDpi(float)*T"R
+PEmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.Extensions*
+
+margeBottomfloat‚ﬂ
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs! '($
+%7iTextSharp.text.Document"iTextSharp.text.Documentè
+å
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs! !('
+
+%8void"XiTextSharp.text.Document.Document(iTextSharp.text.Rectangle, float, float, float, float)* 
+
+%7iTextSharp.text.Document*!
+
+%2iTextSharp.text.Rectangle*
+
+%3float*
+
+%4float*
+
+%5float*
+
+%6floatÒ
+Ó
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs! '($
+pdfiTextSharp.text.Document"__id* 
+
+%7iTextSharp.text.Documentí
+è
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs) )(&
+
+%9bool")iTextSharp.text.Document.AddTitle(string)*!
+
+pdfiTextSharp.text.Document*
+
+Blazor-PDFú
+ô
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs* *(/
+%10bool"*iTextSharp.text.Document.AddAuthor(string)*!
+
+pdfiTextSharp.text.Document*
+Christophe PeugnetÑ
+Å
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs+ +(!
+%11bool"*iTextSharp.text.Document.AddCreationDate()*!
+
+pdfiTextSharp.text.Documentí
+è
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs, ,(%
+%12bool",iTextSharp.text.Document.AddKeywords(string)*!
+
+pdfiTextSharp.text.Document*
+
+blazorß
+§
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs- -(:
+%13bool"+iTextSharp.text.Document.AddSubject(string)*!
+
+pdfiTextSharp.text.Document* 
+Create a pdf file with iTextï
+í
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs/ /(G$
+%14iTextSharp.text.pdf.PdfWriter"UiTextSharp.text.pdf.PdfWriter.GetInstance(iTextSharp.text.Document, System.IO.Stream)*!"
+iTextSharp.text.pdf.PdfWriter*!
+
+pdfiTextSharp.text.Document*(
+&
+memoryStreamSystem.IO.MemoryStreamˇ
+¸
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs/ /(G'
+writeriTextSharp.text.pdf.PdfWriter"__id*&
+$
+%14iTextSharp.text.pdf.PdfWriterï
+í
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs0= 0(L 
+%15iTextSharp.text.BaseColor"__id*C*A
+iTextSharp.text.BaseColor""
+WhiteiTextSharp.text.BaseColorÍ
+Á
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs0 0(M
+%16iTextSharp.text.Font"MiTextSharp.text.FontFactory.GetFont(string, float, iTextSharp.text.BaseColor)*"
+iTextSharp.text.FontFactory*	
+Arial*2*"
+ 
+%15iTextSharp.text.BaseColor
+Ì
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs0 0(M!
+	fontStyleiTextSharp.text.Font"__id*
+
+%16iTextSharp.text.Font›⁄
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs1 1(I
+%17iTextSharp.text.Chunk"iTextSharp.text.ChunkŒ
+À
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs1" 1('
+%18void"9iTextSharp.text.Chunk.Chunk(string, iTextSharp.text.Font)*
+
+%17iTextSharp.text.Chunk*
+Factura de su orden*#
+!
+	fontStyleiTextSharp.text.FontÙ
+Ò
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs1 1(I$
+labelHeaderiTextSharp.text.Chunk"__id*
+
+%17iTextSharp.text.Chunkﬂ‹
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs23 2(J
+%19iTextSharp.text.Phrase"iTextSharp.text.Phrase¥
+±
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs27 2(=
+%20void"4iTextSharp.text.Phrase.Phrase(iTextSharp.text.Chunk)*
+
+%19iTextSharp.text.Phrase*&
+$
+labelHeaderiTextSharp.text.ChunkÎË
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs2" 7(#
+%21iTextSharp.text.HeaderFooter"iTextSharp.text.HeaderFooterŒ
+À
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs2& 2(2
+%22void"GiTextSharp.text.HeaderFooter.HeaderFooter(iTextSharp.text.Phrase, bool)*%
+#
+%21iTextSharp.text.HeaderFooter*
+
+%19iTextSharp.text.Phrase*
+""Â‚
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs4" 4(< 
+%23iTextSharp.text.BaseColor"iTextSharp.text.BaseColor†
+ù
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs4& 4(/
+%24void"2iTextSharp.text.BaseColor.BaseColor(int, int, int)*"
+ 
+%23iTextSharp.text.BaseColor*2*2]*2¢Ÿ÷
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs4 4(< 
+%25iTextSharp.text.BaseColor"-iTextSharp.text.Rectangle.BackgroundColor.set*%
+#
+%21iTextSharp.text.HeaderFooter*"
+ 
+%23iTextSharp.text.BaseColor2BackgroundColor.setΩ
+∫
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs5 5(0
+%26"__id*
+""ê
+ç
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs5 5(0
+
+%27int"*iTextSharp.text.HeaderFooter.Alignment.set*%
+#
+%21iTextSharp.text.HeaderFooter*
+
+%26Ω
+∫
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs6 6(,
+%28"__id*
+""ñì
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs6 6(,
+
+%29int"$iTextSharp.text.Rectangle.Border.set*%
+#
+%21iTextSharp.text.HeaderFooter*
+
+%282
+Border.set˝
+˙
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs2 7(&
+headeriTextSharp.text.HeaderFooter"__id*%
+#
+%21iTextSharp.text.HeaderFooterÀ»
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs8 8(#
+%30iTextSharp.text.HeaderFooter"#iTextSharp.text.Document.Header.set*!
+
+pdfiTextSharp.text.Document*(
+&
+headeriTextSharp.text.HeaderFooter2
+Header.set›⁄
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs: :(:
+%31iTextSharp.text.Chunk"iTextSharp.text.Chunkø
+º
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs:" :('
+%32void"9iTextSharp.text.Chunk.Chunk(string, iTextSharp.text.Font)*
+
+%31iTextSharp.text.Chunk*
+Page*#
+!
+	fontStyleiTextSharp.text.FontÙ
+Ò
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs: :(:$
+labelFooteriTextSharp.text.Chunk"__id*
+
+%31iTextSharp.text.Chunkﬂ‹
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs;3 ;(J
+%33iTextSharp.text.Phrase"iTextSharp.text.Phrase¥
+±
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs;7 ;(=
+%34void"4iTextSharp.text.Phrase.Phrase(iTextSharp.text.Chunk)*
+
+%33iTextSharp.text.Phrase*&
+$
+labelFooteriTextSharp.text.ChunkÎË
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs;" ?(#
+%35iTextSharp.text.HeaderFooter"iTextSharp.text.HeaderFooterŒ
+À
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs;& ;(2
+%36void"GiTextSharp.text.HeaderFooter.HeaderFooter(iTextSharp.text.Phrase, bool)*%
+#
+%35iTextSharp.text.HeaderFooter*
+
+%33iTextSharp.text.Phrase*
+""Ω
+∫
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs= =(,
+%37"__id*
+""ñì
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs= =(,
+
+%38int"$iTextSharp.text.Rectangle.Border.set*%
+#
+%35iTextSharp.text.HeaderFooter*
+
+%372
+Border.setΩ
+∫
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs> >(/
+%39"__id*
+""ê
+ç
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs> >(/
+
+%40int"*iTextSharp.text.HeaderFooter.Alignment.set*%
+#
+%35iTextSharp.text.HeaderFooter*
+
+%39˝
+˙
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs; ?(&
+footeriTextSharp.text.HeaderFooter"__id*%
+#
+%35iTextSharp.text.HeaderFooterÀ»
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.cs@ @(#
+%41iTextSharp.text.HeaderFooter"#iTextSharp.text.Document.Footer.set*!
+
+pdfiTextSharp.text.Document*(
+&
+footeriTextSharp.text.HeaderFooter2
+Footer.setÅ˛
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csB B(
+%42void"iTextSharp.text.Document.Open()*!
+
+pdfiTextSharp.text.Document2Open()„
+‡
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csD D(Q
+%43void"‘EmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.PdfCreation.PageTable(iTextSharp.text.Document, iTextSharp.text.pdf.PdfWriter, EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order, System.Collections.Generic.List<System.Tuple<int, EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product>>, string, string)*US
+QEmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.PdfCreation*!
+
+pdfiTextSharp.text.Document*)
+'
+writeriTextSharp.text.pdf.PdfWriter*H
+F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*0
+.
+products"System.Collections.Generic.List<T>*
+
+
+clientNamestring*
+
+entrepreneurNamestringÉÄ
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csF F(
+%44void" iTextSharp.text.Document.Close()*!
+
+pdfiTextSharp.text.Document2Close()éã
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csH H()
+%45byte[]" System.IO.MemoryStream.ToArray()*(
+&
+memoryStreamSystem.IO.MemoryStream2	ToArray()"∂
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csH H(*
+
+%45byte[]*Â
+1¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csI	 I(	"∫
+¢
+óC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\BillContext\Implementations\PdfCreation.csI I(	
+implicit return:$
+jsMicrosoft.JSInterop.IJSRuntime:F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order:.
+products"System.Collections.Generic.List<T>:
+entrepreneurNamestring:
+
+clientNamestringBUS
+QEmprendeUCR_WebApplication.Infrastructure.BillContext.Implementations.PdfCreation

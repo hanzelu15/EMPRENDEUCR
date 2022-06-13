@@ -1,0 +1,238 @@
+
+ÇEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.Rowdrop(Syncfusion.Blazor.Grids.RowDragEventArgs<EmprendeUCR_WebApplication.Data.Entities.Category>, Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR_WebApplication.Data.Entities.Category>)ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csè è(!"0*Ë
+0ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csë ì(*‡
+›
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csë ë( ÇE
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService"9
+TreeGrid-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>"__id*7
+5
+main-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>®
+•
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csí í(&
+%0Syncfusion.Blazor.DOM"6Syncfusion.Blazor.Grids.RowDragEventArgs<T>.Target.get*5
+3
+args+Syncfusion.Blazor.Grids.RowDragEventArgs<T>Á
+‰
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csí í()
+%1string"Syncfusion.Blazor.DOM.ID.get*
+
+%0Syncfusion.Blazor.DOM∆
+√
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csí í()
+positionstring"__id*
+
+%1stringÄ
+˝
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csì ì(*
+
+%2bool""string.operator ==(string, string)*
+"
+string*
+
+positionstring*
+ e-dropchild*
+1
+2*⁄"
+1ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csï ò(Gﬂ
+‹
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csï& ï(33
+%3-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>"__id*Ö*ÇE
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService"9
+TreeGrid-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>ƒ
+¡
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csï& ï(K(
+%4"System.Collections.Generic.List<T>"ESyncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>.GetCurrentViewRecords()*5
+3
+%3-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>Ö
+Ç
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csï ï(K5
+CurrentViewData"System.Collections.Generic.List<T>"__id**
+(
+%4"System.Collections.Generic.List<T>ú
+ô
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csñD ñ(R
+%5double"9Syncfusion.Blazor.Grids.RowDragEventArgs<T>.DropIndex.get*5
+3
+args+Syncfusion.Blazor.Grids.RowDragEventArgs<T>∏
+µ
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csñ? ñ(R
+%6"__id*
+
+%5doubleì
+ê
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csñ% ñ(S7
+%71EmprendeUCR_WebApplication.Data.Entities.Category"_System.Linq.Enumerable.ElementAt<TSource>(System.Collections.Generic.IEnumerable<TSource>, int)*"
+System.Linq.Enumerable*7
+5
+CurrentViewData"System.Collections.Generic.List<T>*
+
+%6¢
+ü
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csñ ñ(SC
+TargetCategory1EmprendeUCR_WebApplication.Data.Entities.Category"__id*9
+7
+%71EmprendeUCR_WebApplication.Data.Entities.Categoryú
+ô
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csóD ó(R
+%8double"9Syncfusion.Blazor.Grids.RowDragEventArgs<T>.FromIndex.get*5
+3
+args+Syncfusion.Blazor.Grids.RowDragEventArgs<T>∏
+µ
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csó? ó(R
+%9"__id*
+
+%8doubleî
+ë
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csó% ó(S8
+%101EmprendeUCR_WebApplication.Data.Entities.Category"_System.Linq.Enumerable.ElementAt<TSource>(System.Collections.Generic.IEnumerable<TSource>, int)*"
+System.Linq.Enumerable*7
+5
+CurrentViewData"System.Collections.Generic.List<T>*
+
+%9£
+†
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csó ó(SC
+SourceCategory1EmprendeUCR_WebApplication.Data.Entities.Category"__id*:
+8
+%101EmprendeUCR_WebApplication.Data.Entities.Category©
+¶
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csò# ò(4
+
+%11int"8EmprendeUCR_WebApplication.Data.Entities.Category.Id.get*E
+C
+SourceCategory1EmprendeUCR_WebApplication.Data.Entities.Category©
+¶
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csò6 ò(G
+
+%12int"8EmprendeUCR_WebApplication.Data.Entities.Category.Id.get*E
+C
+TargetCategory1EmprendeUCR_WebApplication.Data.Entities.CategoryÅ
+˛
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csò ò(H"
+%13System.Threading.Tasks.Task"ZEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.ChangeParent(int, int)*GE
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService*
+
+
+%11int*
+
+
+%12int*
+3*¶
+2ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csú ú(,ˇ
+¸
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csú ú(,
+%14bool""string.operator ==(string, string)*
+"
+string*
+
+positionstring*
+
+ e-droptop*
+4
+5*õ
+4ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csû †(<‡
+›
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csû* û(74
+%15-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>"__id*Ö*ÇE
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService"9
+TreeGrid-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>∆
+√
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csû* û(O)
+%16"System.Collections.Generic.List<T>"ESyncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>.GetCurrentViewRecords()*6
+4
+%15-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>Ü
+É
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csû û(O5
+CurrentViewData"System.Collections.Generic.List<T>"__id*+
+)
+%16"System.Collections.Generic.List<T>ù
+ö
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csüH ü(V
+%17double"9Syncfusion.Blazor.Grids.RowDragEventArgs<T>.FromIndex.get*5
+3
+args+Syncfusion.Blazor.Grids.RowDragEventArgs<T>∫
+∑
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csüC ü(V
+%18"__id*
+
+%17doubleï
+í
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csü) ü(W8
+%191EmprendeUCR_WebApplication.Data.Entities.Category"_System.Linq.Enumerable.ElementAt<TSource>(System.Collections.Generic.IEnumerable<TSource>, int)*"
+System.Linq.Enumerable*7
+5
+CurrentViewData"System.Collections.Generic.List<T>*
+
+%18£
+†
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csü ü(WC
+SourceCategory1EmprendeUCR_WebApplication.Data.Entities.Category"__id*:
+8
+%191EmprendeUCR_WebApplication.Data.Entities.Category©
+¶
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs†' †(8
+
+%20int"8EmprendeUCR_WebApplication.Data.Entities.Category.Id.get*E
+C
+SourceCategory1EmprendeUCR_WebApplication.Data.Entities.Category˚
+¯
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs† †(="
+%21System.Threading.Tasks.Task"ZEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.ChangeParent(int, int)*GE
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService*
+
+
+%20int*
+""*
+3*ƒ
+5ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs§ §(&†
+ù
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs§ §(&
+%22bool"6Syncfusion.Blazor.Grids.RowDragEventArgs<T>.Cancel.set*5
+3
+args+Syncfusion.Blazor.Grids.RowDragEventArgs<T>*
+""*
+3*Õ
+3ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csß	 ß(	"Æ
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csß ß(	
+implicit return:3
+args+Syncfusion.Blazor.Grids.RowDragEventArgs<T>:5
+main-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>BGE
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService

@@ -1,0 +1,43 @@
+
+HEmprendeUCR_WebApplication.Data.Services.ProductService.GetNewProducts()¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs¾ ¾(,"0*ò
+0¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÀ À(Dû
+ø
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÀ À(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
+7EmprendeUCR_WebApplication.Data.Services.ProductService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextê
+ç
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÀ À(#2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextú
+÷
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÀ À(E
+%2System.Linq.IQueryable<T>"–Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
+;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+exec getNewProducts*
+""û
+ø
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÀ À(O8
+%32EmprendeUCR_WebApplication.Data.Entities.Product[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%2System.Linq.IQueryable<T>"á
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÀ À(P:
+8
+%32EmprendeUCR_WebApplication.Data.Entities.Product[]*å
+1¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÁ	 Á(	"º
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÁ Á(	
+implicit returnB;9
+7EmprendeUCR_WebApplication.Data.Services.ProductService

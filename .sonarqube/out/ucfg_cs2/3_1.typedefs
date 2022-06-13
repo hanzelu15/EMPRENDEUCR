@@ -1,0 +1,4 @@
+¹
+BEmprendeUCR.Infrastructure.Categories.EntityMappings.CategoriesMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>Â
+}Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Categories.Entities.Category>)ÀEmprendeUCR.Infrastructure.Categories.EntityMappings.CategoriesMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Categories.Entities.Category>)e
+CategoriesMap()REmprendeUCR.Infrastructure.Categories.EntityMappings.CategoriesMap.CategoriesMap()

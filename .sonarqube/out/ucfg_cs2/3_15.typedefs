@@ -1,0 +1,25 @@
+Å
+HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext4EmprendeUCR.Infrastructure.Core.ApplicationDbContext'Microsoft.EntityFrameworkCore.DbContextobject—
+ÅHomePageClientDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext>) EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.HomePageClientDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext>)÷
+DOnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)çEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)ƒ
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ÑEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)o
+ProductPhotos.getZEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.ProductPhotos.geto
+ProductPhotos.setZEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.ProductPhotos.setc
+Product.getTEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Product.getc
+Product.setTEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Product.sete
+Category.getUEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Category.gete
+Category.setUEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Category.setm
+ShoppingCart.getYEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.ShoppingCart.getm
+ShoppingCart.setYEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.ShoppingCart.sets
+ShoppingCartHas.get\EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.ShoppingCartHas.gets
+ShoppingCartHas.set\EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.ShoppingCartHas.set_
+	Offer.getREmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Offer.get_
+	Offer.setREmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Offer.setq
+ProductService.get[EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.ProductService.getq
+ProductService.set[EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.ProductService.sete
+Is_Offer.getUEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Is_Offer.gete
+Is_Offer.setUEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Is_Offer.setq
+Service_Photos.get[EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Service_Photos.getq
+Service_Photos.set[EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Service_Photos.set]
+User.getQEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.User.get]
+User.setQEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.User.set

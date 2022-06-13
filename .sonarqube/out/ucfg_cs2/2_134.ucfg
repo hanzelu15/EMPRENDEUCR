@@ -1,0 +1,25 @@
+
+UEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.listCantons()’
+…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csù) ù(4"0*Ë
+0’
+…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csû û(<–
+“
+’
+…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csû û(,I
+%0CEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository"__id*ª*§I
+GEmprendeUCR.Application.RegisterContext.Implementations.RegisterService"Z
+_RegisterRepositoryCEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository÷ô
+’
+…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csû û(<*
+%1$System.Threading.Tasks.Task<TResult>"SEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository.getAllCantons()*K
+I
+%0CEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository2getAllCantons()"
+’
+…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csû û(=
+""*Å
+1’
+…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csü	 ü(	"ª
+’
+…C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.csü ü(	
+implicit returnBKI
+GEmprendeUCR.Application.RegisterContext.Implementations.RegisterService

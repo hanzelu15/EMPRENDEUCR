@@ -1,0 +1,4 @@
+®
+WEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.Product_PhotosMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>˛
+êConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product_Photos>)ËEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.Product_PhotosMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product_Photos>)Ç
+Product_PhotosMap()kEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.Product_PhotosMap.Product_PhotosMap()

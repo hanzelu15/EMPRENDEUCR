@@ -1,0 +1,77 @@
+
+~EmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.apply(EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product)å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs ("0*¸
+0å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs ('∂
+≥
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs (	
+%0int"MEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.CodeId.get*H
+F
+product;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product¶
+£
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs! ('	
+%1int"FEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.CodeId.get*?=
+;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer*
+1
+2*Å
+1å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs+ (Qƒ
+¡
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs+ (D
+%2string"XEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.EntrepreneurEmail.get*H
+F
+product;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product¨
+©
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.csH (Q
+%3string"IEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.UserEmail.get*?=
+;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOfferÓ
+Î
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs+ (Q
+
+%4bool""string.operator ==(string, string)*
+"
+string*
+
+%2string*
+
+%3string*
+3
+2*Ñ
+3å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs (2∫
+∑
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs ($	
+%5int"QEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.CategoryId.get*H
+F
+product;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product™
+ß
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs( (2	
+%6int"JEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.CategoryId.get*?=
+;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer*
+4
+2*ó
+4å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs5 (9*
+5*ó
+2å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs< (A*
+5*≥
+5å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs	 (	"û
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs (B
+	{unknown}*π
+6å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs	 (	"§
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\IsOffer.cs (	
+implicit return:F
+product;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductB?=
+;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer

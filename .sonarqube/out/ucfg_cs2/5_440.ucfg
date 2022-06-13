@@ -1,0 +1,61 @@
+
+dEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.UserNotification(string, int)—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs- -("1*Æ
+1—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs7	 7(	¡
+ž
+
+%0void"MEmprendeUCR_WebApplication.Domain.Core.Entities.AggregateRoot.AggregateRoot()*A?
+=EmprendeUCR_WebApplication.Domain.Core.Entities.AggregateRoot*
+0*Õ
+0—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs. 0(Ü
+Ù
+—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs. .(
+%1string"PEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.Email.set*JH
+FEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification*
+
+emailstringÑ
+Î
+—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs/ /(	
+%2int"SEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.TypeUser.set*JH
+FEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification*
+""*
+2*¥
+2—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs0 0(*
+3
+4*¢
+3—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs7	 7(	*
+4*¯
+4—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs5 5(4ëè
+—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs5 5(4(
+%3"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>€
+ý
+—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs5  5(2
+
+%4void")System.Collections.Generic.List<T>.List()**
+(
+%3"System.Collections.Generic.List<T>™
+–
+—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs5 5(4(
+%5"System.Collections.Generic.List<T>"XEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.Notifications.set*JH
+FEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification**
+(
+%3"System.Collections.Generic.List<T>*
+5*Ï
+5—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs7	 7(	"¯
+—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\NotificationContext\UserNotification.cs7 7(	
+implicit return:
+emailstring:
+typeUserintBJH
+FEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification

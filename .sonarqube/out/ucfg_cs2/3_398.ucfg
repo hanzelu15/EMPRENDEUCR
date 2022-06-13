@@ -1,0 +1,34 @@
+
+[EmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository.GetAllCategories()‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csN N(/"0*°
+0‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csP P(/û
+ø
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csP P(@
+%0:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext"__id*™*–J
+HEmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository"H
+
+_dbContext:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContextæã
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csP P(&2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Category.get*B
+@
+%0:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext2Category.getì
+é
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csP P(/(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"À
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csP P(0*
+(
+%2"System.Collections.Generic.List<T>*Ã
+1‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csQ	 Q(	"©
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csQ Q(	
+implicit returnBLJ
+HEmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository

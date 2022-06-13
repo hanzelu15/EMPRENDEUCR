@@ -1,0 +1,10 @@
+¾
+EEmprendeUCR.Presentation.HomePageClientContext.Component.ModalAddCart-Microsoft.AspNetCore.Components.ComponentBaseobjectã
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)’EmprendeUCR.Presentation.HomePageClientContext.Component.ModalAddCart.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)V
+Open()LEmprendeUCR.Presentation.HomePageClientContext.Component.ModalAddCart.Open()X
+Close()MEmprendeUCR.Presentation.HomePageClientContext.Component.ModalAddCart.Close()f
+ModalAddCart()TEmprendeUCR.Presentation.HomePageClientContext.Component.ModalAddCart.ModalAddCart()^
+
+inCart.getPEmprendeUCR.Presentation.HomePageClientContext.Component.ModalAddCart.inCart.get^
+
+inCart.setPEmprendeUCR.Presentation.HomePageClientContext.Component.ModalAddCart.inCart.set

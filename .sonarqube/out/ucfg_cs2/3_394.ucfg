@@ -1,0 +1,44 @@
+
+àEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.addEntry(EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To)ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csU U("0*Ø
+0ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csW X($ì
+ê
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csW W(F
+%0@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext"__id*•*¢P
+NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository"N
+
+_dbContext@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext¸˘
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csW W(!2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"OEmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext.Is_Able_To.get*H
+F
+%0@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext2Is_Able_To.get§°
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csW W(/G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*=
+;
+newEntry/EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To2Add(TEntity)ì
+ê
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csX X(F
+%3@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext"__id*•*¢P
+NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository"N
+
+_dbContext@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext∏µ
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csX X($	
+%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*H
+F
+%3@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext2SaveChanges()*
+1*œ
+1ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csY	 Y(	"Ø
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.csY Y(	
+implicit return:;
+newEntry/EmprendeUCR.Domain.Core.CoreEntities.Is_Able_ToBRP
+NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository

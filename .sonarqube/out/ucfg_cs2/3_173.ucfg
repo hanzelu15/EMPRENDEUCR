@@ -1,0 +1,53 @@
+
+LEmprendeUCR.Infrastructure.Core.ApplicationDbContext.BeginTransactionAsync()|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs (/"0*ı
+0|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs (+‹
+Ÿ
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs (#A
+%0;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id*è*å6
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransactionä
+á
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs (+
+
+%1bool""object.operator !=(object, object)*
+"
+object*C
+A
+%0;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction*
+""*
+1
+2*ä
+1|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs	 (	"Ü
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs- (4
+""*é	
+2|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs (Hµ≤
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs( (0A
+%2;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*+)
+'Microsoft.EntityFrameworkCore.DbContext2Database.get¨©
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs( (H*
+%3$System.Threading.Tasks.Task<TResult>"uMicrosoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.BeginTransactionAsync(System.Threading.CancellationToken)*C
+A
+%2;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade*
+""29BeginTransactionAsync(System.Threading.CancellationToken)û
+õ
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs (Hå6
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id*
+""*
+3*ó
+3|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs	 (	"ì
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs (	
+implicit returnB86
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext

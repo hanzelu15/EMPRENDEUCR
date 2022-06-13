@@ -1,0 +1,13 @@
+Œ
+
+CEmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationErrorobjectSystem.IEquatable<T>\
+
+ToString()NEmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError.ToString()ñ
+'PrintMembers(System.Text.StringBuilder)kEmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError.PrintMembers(System.Text.StringBuilder)b
+GetHashCode()QEmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError.GetHashCode()f
+Equals(object?)SEmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError.Equals(object?)·
+LEquals(EmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError?)êEmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError.Equals(EmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError?)Ò
+TValidationError(EmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError)òEmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError.ValidationError(EmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError)j
+ValidationError()UEmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError.ValidationError()p
+EqualityContract.getXEmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError.EqualityContract.getp
+EqualityContract.setXEmprendeUCR.Domain.Core.ValueObjects.RequiredString.ValidationError.EqualityContract.set

@@ -1,0 +1,34 @@
+
+=EmprendeUCR.Domain.Core.CoreEntities.Likes.Likes(string, int)r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Likes.cs ("1*|
+1r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Likes.cs	 (	*
+0*„
+0r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Likes.cs
+ ($Œ
+‰
+r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Likes.cs
+ 
+('
+%0string"<EmprendeUCR.Domain.Core.CoreEntities.Likes.Members_Email.set*.,
+*EmprendeUCR.Domain.Core.CoreEntities.Likes*
+
+memberEmailstringö
+ó
+r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Likes.cs ($	
+%1int":EmprendeUCR.Domain.Core.CoreEntities.Likes.Category_Id.set*.,
+*EmprendeUCR.Domain.Core.CoreEntities.Likes*
+""*
+2*ƒ
+2r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Likes.cs	 (	"‰
+r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Likes.cs (	
+implicit return:
+memberEmailstring:
+
+categoryIdintB.,
+*EmprendeUCR.Domain.Core.CoreEntities.Likes

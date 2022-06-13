@@ -1,0 +1,31 @@
+Ž
+AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organizedobject\
+Organized()MEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Organized()ê
+‘Organized(int, string, int, System.DateTime, string, string, int, System.DateTime, EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)ÓEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Organized(int, string, int, System.DateTime, string, string, int, System.DateTime, EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)n
+ChangeStatus(string)VEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.ChangeStatus(string)Z
+
+CodeId.getLEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.CodeId.getZ
+
+CodeId.setLEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.CodeId.setp
+EntrepreneurEmail.getWEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.EntrepreneurEmail.getp
+EntrepreneurEmail.setWEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.EntrepreneurEmail.setb
+CategoryId.getPEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.CategoryId.getb
+CategoryId.setPEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.CategoryId.sett
+DateAndHourCreation.getYEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.DateAndHourCreation.gett
+DateAndHourCreation.setYEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.DateAndHourCreation.setX
+	Email.getKEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Email.getX
+	Email.setKEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Email.setV
+Name.getJEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Name.getV
+Name.setJEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Name.set^
+Quantity.getNEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Quantity.get^
+Quantity.setNEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Quantity.setf
+DateOfChange.getREmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.DateOfChange.getf
+DateOfChange.setREmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.DateOfChange.setX
+	order.getKEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.order.getX
+	order.setKEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.order.setZ
+
+status.getLEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.status.getZ
+
+status.setLEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.status.setj
+productService.getTEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.productService.getj
+productService.setTEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.productService.set

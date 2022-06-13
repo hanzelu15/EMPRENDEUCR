@@ -1,0 +1,4 @@
+Ë
+AEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>Ì
+‚Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas>)ÄEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas>)n
+ShoppingCartHasMap()VEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMap.ShoppingCartHasMap()

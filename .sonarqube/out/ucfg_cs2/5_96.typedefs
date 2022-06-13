@@ -1,0 +1,9 @@
+Æ
+:EmprendeUCR_WebApplication.Data.Services.Has_StatusServiceobjectÜ
+NHas_StatusService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)‰EmprendeUCR_WebApplication.Data.Services.Has_StatusService.Has_StatusService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)S
+
+GetAsync()EEmprendeUCR_WebApplication.Data.Services.Has_StatusService.GetAsync()Ô
+JInsertHas_StatusAsync(EmprendeUCR_WebApplication.Data.Entities.Has_Status)…EmprendeUCR_WebApplication.Data.Services.Has_StatusService.InsertHas_StatusAsync(EmprendeUCR_WebApplication.Data.Entities.Has_Status)š
+mInsertListOfHas_Status(System.Collections.Generic.IList<EmprendeUCR_WebApplication.Data.Entities.Has_Status>)¨EmprendeUCR_WebApplication.Data.Services.Has_StatusService.InsertListOfHas_Status(System.Collections.Generic.IList<EmprendeUCR_WebApplication.Data.Entities.Has_Status>)m
+GetAllHas_StatusAsync()REmprendeUCR_WebApplication.Data.Services.Has_StatusService.GetAllHas_StatusAsync()i
+loadStatusesByID(int)PEmprendeUCR_WebApplication.Data.Services.Has_StatusService.loadStatusesByID(int)

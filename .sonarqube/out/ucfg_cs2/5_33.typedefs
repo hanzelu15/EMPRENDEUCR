@@ -1,0 +1,16 @@
+¸
+BEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductServiceobjectæ
+OGetProductStatus(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)’EmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.GetProductStatus(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)g
+ProductService()SEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.ProductService()[
+
+CodeId.getMEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.CodeId.get[
+
+CodeId.setMEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.CodeId.setq
+EntrepreneurEmail.getXEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.EntrepreneurEmail.getq
+EntrepreneurEmail.setXEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.EntrepreneurEmail.setg
+Availability.getSEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.Availability.getg
+Availability.setSEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.Availability.setc
+CategoryId.getQEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.CategoryId.getc
+CategoryId.setQEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.CategoryId.setm
+ShoppingCartHas.getVEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.ShoppingCartHas.getm
+ShoppingCartHas.setVEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.ShoppingCartHas.set

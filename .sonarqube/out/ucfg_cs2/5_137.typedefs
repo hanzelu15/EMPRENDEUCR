@@ -1,0 +1,7 @@
+å
+6EmprendeUCR_WebApplication.Data.Services.PhonesServiceobject–
+JPhonesService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)ÅEmprendeUCR_WebApplication.Data.Services.PhonesService.PhonesService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)≠
+9addPhone(EmprendeUCR_WebApplication.Data.Entities.Phones)pEmprendeUCR_WebApplication.Data.Services.PhonesService.addPhone(EmprendeUCR_WebApplication.Data.Entities.Phones)i
+getByEmailAsync(string)NEmprendeUCR_WebApplication.Data.Services.PhonesService.getByEmailAsync(string)i
+GetPhoneByEmail(string)NEmprendeUCR_WebApplication.Data.Services.PhonesService.GetPhoneByEmail(string)q
+UpdatePhone(string, string)REmprendeUCR_WebApplication.Data.Services.PhonesService.UpdatePhone(string, string)

@@ -1,0 +1,43 @@
+
+PEmprendeUCR_WebApplication.Data.Services.Has_StatusService.loadStatusesByID(int)ã
+ÄC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csI  I(0"0*˝
+0ã
+ÄC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csK K(FÁ
+‰
+ã
+ÄC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csK K(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ä*á<
+:EmprendeUCR_WebApplication.Data.Services.Has_StatusService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext÷
+”
+ã
+ÄC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csK K(&2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"JEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Has_Status.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextì
+ê
+ã
+ÄC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csK K(G
+%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""”
+–
+ã
+ÄC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csK K(P(
+%3"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%2System.Linq.IQueryable<T>"∫
+ã
+ÄC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csK K(Q*
+(
+%3"System.Collections.Generic.List<T>*∑
+1ã
+ÄC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csL	 L(	"£
+ã
+ÄC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csL L(	
+implicit return:
+Code_IDintB><
+:EmprendeUCR_WebApplication.Data.Services.Has_StatusService

@@ -1,0 +1,12 @@
+Ó
+1EmprendeUCR_WebApplication.Data.Entities.AllianceobjectJ
+
+Alliance()<EmprendeUCR_WebApplication.Data.Entities.Alliance.Alliance()T
+Alliance_Id.getAEmprendeUCR_WebApplication.Data.Entities.Alliance.Alliance_Id.getT
+Alliance_Id.setAEmprendeUCR_WebApplication.Data.Entities.Alliance.Alliance_Id.setR
+User_Email.get@EmprendeUCR_WebApplication.Data.Entities.Alliance.User_Email.getR
+User_Email.set@EmprendeUCR_WebApplication.Data.Entities.Alliance.User_Email.set\
+Ally_User_Email.getEEmprendeUCR_WebApplication.Data.Entities.Alliance.Ally_User_Email.get\
+Ally_User_Email.setEEmprendeUCR_WebApplication.Data.Entities.Alliance.Ally_User_Email.set\
+Alliance_Status.getEEmprendeUCR_WebApplication.Data.Entities.Alliance.Alliance_Status.get\
+Alliance_Status.setEEmprendeUCR_WebApplication.Data.Entities.Alliance.Alliance_Status.set

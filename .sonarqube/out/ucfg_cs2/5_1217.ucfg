@@ -1,0 +1,71 @@
+
+èEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs  (/"0*◊&
+0§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs! &(gÔÏ
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs! !(.
+
+%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*WU
+SEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ÜÉ
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs#, #(Lo
+%1iEmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationClientMap"iEmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationClientMap≤
+Ø
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs#0 #(J
+
+%2void"ÜEmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationClientMap.OrderNotificationClientMap()*q
+o
+%1iEmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationClientMapıÚ
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs# #(M0
+%3*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*q
+o
+%1iEmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationClientMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)êç
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs$, $(Qt
+%4nEmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationEntrepeneurMap"nEmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationEntrepeneurMap¡
+æ
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs$0 $(O
+
+%5void"êEmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationEntrepeneurMap.OrderNotificationEntrepeneurMap()*v
+t
+%4nEmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationEntrepeneurMap˙˜
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs$ $(R0
+%6*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*v
+t
+%4nEmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationEntrepeneurMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ãà
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs%" %(JP
+%7JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()„
+‡
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs% %(J]
+shoppingCartHasJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"__id*R
+P
+%7JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>µ≤
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs& &(h@
+%8:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*_
+]
+shoppingCartHasJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*
+1*È
+1§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs'	 '(	"º
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs' '(	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBWU
+SEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext

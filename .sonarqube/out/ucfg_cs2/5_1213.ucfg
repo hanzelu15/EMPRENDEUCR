@@ -1,0 +1,21 @@
+
+òEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs  (-"0*ƒ
+0§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs (Díè
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs (E;
+%05Microsoft.EntityFrameworkCore.DbContextOptionsBuilder"ºMicrosoft.EntityFrameworkCore.DbContextOptionsBuilder.LogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*I
+G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilder*
+""*
+""*
+""2ÜLogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*
+1*È
+1§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs	 (	"º
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs (	
+implicit return:G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilderBWU
+SEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext

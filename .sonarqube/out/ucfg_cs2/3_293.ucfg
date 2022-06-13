@@ -1,0 +1,77 @@
+
+‚EmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.changeCategoryParent(int, int?)«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs4 4(."0*æ"
+0«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs6 9(/ã
+à
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs6 6((Z
+%0TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext"__id*Í*Êd
+bEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository"b
+
+_dbContextTEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext´±
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs6 6(12
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"aEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext.Category.get*\
+Z
+%0TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext2Category.getÿü
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs6 6(:3
+%2-EmprendeUCR.Domain.Core.CoreEntities.Category"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""2Find(params object[])§
+¤
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs6 6(:7
+source-EmprendeUCR.Domain.Core.CoreEntities.Category"__id*5
+3
+%2-EmprendeUCR.Domain.Core.CoreEntities.CategoryÊ
+Ç
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs7 7(&
+%3System.Nullable<T>":EmprendeUCR.Domain.Core.CoreEntities.Category.ParentId.set*9
+7
+source-EmprendeUCR.Domain.Core.CoreEntities.Category*
+""ã
+à
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs8 8(Z
+%4TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext"__id*Í*Êd
+bEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository"b
+
+_dbContextTEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext´±
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs8 8(2
+%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>"aEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext.Category.get*\
+Z
+%4TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext2Category.getº·
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs8 8(.G
+%6AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Update(TEntity)*4
+2
+%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>*9
+7
+source-EmprendeUCR.Domain.Core.CoreEntities.Category2Update(TEntity)ã
+à
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs9 9(Z
+%7TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext"__id*Í*Êd
+bEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository"b
+
+_dbContextTEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext×Ô
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs9 9(/*
+%8$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*\
+Z
+%7TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)*
+1*÷
+1«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs:	 :(	"Ã
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs: :(	
+implicit return:	
+Idint:
+ParentIdSystem.Nullable<T>Bfd
+bEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository

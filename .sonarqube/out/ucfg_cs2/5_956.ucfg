@@ -1,0 +1,34 @@
+
+MEmprendeUCR_WebApplication.Data.Services.ProductService.GetProductsQuantity()¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csŸ Ÿ(&"0*–
+0¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs© ©(+û
+ø
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs© ©(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
+7EmprendeUCR_WebApplication.Data.Services.ProductService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextê
+ç
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs© ©(#2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextË
+È
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs© ©(+	
+%2int"ESystem.Linq.Queryable.Count<TSource>(System.Linq.IQueryable<TSource>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"²
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs© ©(,
+	
+%2int*å
+1¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs«	 «(	"º
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.cs« «(	
+implicit returnB;9
+7EmprendeUCR_WebApplication.Data.Services.ProductService

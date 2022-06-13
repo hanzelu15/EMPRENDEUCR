@@ -1,0 +1,27 @@
+
+ÙEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext.ProductsSearchClientDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext>)ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs (,"1*®
+1ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs	 (	*
+0*Ù
+0ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs ("…
+∆
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs (#
+
+%0void"’EmprendeUCR.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Core.ApplicationDbContext>)*86
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*€
+2ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs	 (	"µ
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>BXV
+TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext

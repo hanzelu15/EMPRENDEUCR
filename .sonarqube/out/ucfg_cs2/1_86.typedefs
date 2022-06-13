@@ -1,0 +1,12 @@
+⁄
+MEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationErrorobjectSystem.IEquatable<T>f
+
+ToString()XEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError.ToString()†
+'PrintMembers(System.Text.StringBuilder)uEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError.PrintMembers(System.Text.StringBuilder)l
+GetHashCode()[EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError.GetHashCode()p
+Equals(object?)]EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError.Equals(object?)ˇ
+VEquals(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError?)§EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError.Equals(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError?)è
+^ValidationError(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError)¨EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError.ValidationError(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError)t
+ValidationError()_EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError.ValidationError()z
+EqualityContract.getbEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError.EqualityContract.getz
+EqualityContract.setbEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError.EqualityContract.set

@@ -1,0 +1,38 @@
+
+nEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.Repositories.UtilizesChatRepository.GetByIdAsync(int, string)ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs) (5"0*¬
+0ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs (V´
+®
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs (#L
+%0FEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext"__id*±*ÆV
+TEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.Repositories.UtilizesChatRepository"T
+
+_dbContextFEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContextÄ
+˝
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs (02
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"WEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext.UtilizesChat.get*N
+L
+%0FEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext¿
+Ω
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs (W*
+%2$System.Threading.Tasks.Task<TResult>"‚Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*
+"""®
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs (X
+""*€
+1ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs	 (	"µ
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs (	
+implicit return:
+chatIDint:
+	userEmailstringBXV
+TEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.Repositories.UtilizesChatRepository

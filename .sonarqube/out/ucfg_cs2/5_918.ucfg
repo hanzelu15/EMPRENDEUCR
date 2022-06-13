@@ -1,0 +1,34 @@
+
+MEmprendeUCR_WebApplication.Data.Services.ServiceService.GetServicesQuantity() 
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs{ {(&"0*Œ
+0 
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs} }(+ù
+ö
+ 
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs} }(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
+7EmprendeUCR_WebApplication.Data.Services.ServiceService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextè
+å
+ 
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs} }(#2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Service.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÉ
+Æ
+ 
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs} }(+	
+%2int"ESystem.Linq.Queryable.Count<TSource>(System.Linq.IQueryable<TSource>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"°
+ 
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs} }(,
+	
+%2int*á
+1 
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs~	 ~(	"¸
+ 
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\ServiceService.cs~ ~(	
+implicit returnB;9
+7EmprendeUCR_WebApplication.Data.Services.ServiceService

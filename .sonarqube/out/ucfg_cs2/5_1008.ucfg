@@ -1,0 +1,36 @@
+
+}EmprendeUCR_WebApplication.Data.Services.Is_OfferService.GetProductRelated(EmprendeUCR_WebApplication.Data.Entities.Is_Offer)Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csg g(("0*´
+0Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csi i(nù
+ö
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csi i(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ˆ*…:
+8EmprendeUCR_WebApplication.Data.Services.Is_OfferService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextç
+ä
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csi i(#2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÇ
+Ä
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csi i(o6
+%20EmprendeUCR_WebApplication.Data.Entities.Product"ŽSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""Ü
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csi i(p8
+6
+%20EmprendeUCR_WebApplication.Data.Entities.Product*ß
+1Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csj	 j(	"·
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csj j(	
+implicit return:=
+is_offer1EmprendeUCR_WebApplication.Data.Entities.Is_OfferB<:
+8EmprendeUCR_WebApplication.Data.Services.Is_OfferService

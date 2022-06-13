@@ -1,0 +1,27 @@
+
+[EmprendeUCR.Application.Reports.Implementations.CreateReportService.GetReportByIdAsync(int)å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs# (5"0*Ë
+0å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs (7◊
+‘
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs (!4
+%0.EmprendeUCR.Application.Reports.IReportService"__id*Ü*ÉE
+CEmprendeUCR.Application.Reports.Implementations.CreateReportService":
+_context.EmprendeUCR.Application.Reports.IReportServiceﬂ‹
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs (8*
+%1$System.Threading.Tasks.Task<TResult>"FEmprendeUCR.Application.Reports.IReportService.GetReportByIdAsync(int)*6
+4
+%0.EmprendeUCR.Application.Reports.IReportService*
+""2GetReportByIdAsync(int)"ó
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs (9
+""*π
+1å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs	 (	"§
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Reports\Implementations\CreateReportService.cs (	
+implicit return:	
+idintBGE
+CEmprendeUCR.Application.Reports.Implementations.CreateReportService

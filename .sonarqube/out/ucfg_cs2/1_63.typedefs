@@ -1,0 +1,9 @@
+¥
+3EmprendeUCR.Domain.Core.ValueObjects.RequiredString0EmprendeUCR.Domain.Core.ValueObjects.ValueObject&CSharpFunctionalExtensions.ValueObjectobjectd
+RequiredString(string)JEmprendeUCR.Domain.Core.ValueObjects.RequiredString.RequiredString(string)X
+RequiredString()DEmprendeUCR.Domain.Core.ValueObjects.RequiredString.RequiredString()f
+GetEqualityComponents()KEmprendeUCR.Domain.Core.ValueObjects.RequiredString.GetEqualityComponents()L
+
+ToString()>EmprendeUCR.Domain.Core.ValueObjects.RequiredString.ToString()J
+	Value.get=EmprendeUCR.Domain.Core.ValueObjects.RequiredString.Value.getJ
+	Value.set=EmprendeUCR.Domain.Core.ValueObjects.RequiredString.Value.set

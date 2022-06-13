@@ -1,0 +1,28 @@
+
+®EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.setOrganized(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized>)Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs+ +( "0*°
+0Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs, ,(/µ
+²
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs, ,(/:
+%04System.Collections.ObjectModel.ReadOnlyCollection<T>"/System.Collections.Generic.List<T>.AsReadOnly()*2
+0
+
+organizeds"System.Collections.Generic.List<T>Ü
+Ù
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs, ,(/?
+=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order">
+	Organized1System.Collections.Generic.IReadOnlyCollection<T>"__id*<
+:
+%04System.Collections.ObjectModel.ReadOnlyCollection<T>*
+1*½
+1Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs-	 -(	"¦
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs- -(	
+implicit return:0
+
+organizeds"System.Collections.Generic.List<T>BA?
+=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order

@@ -1,0 +1,28 @@
+‚
+7EmprendeUCR_WebApplication.Data.Services.ProductService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÓ
+KProductService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)ƒEmprendeUCR_WebApplication.Data.Services.ProductService.ProductService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)P
+
+GetAsync()BEmprendeUCR_WebApplication.Data.Services.ProductService.GetAsync()Ä
+DInsertProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)|EmprendeUCR_WebApplication.Data.Services.ProductService.InsertProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)Û
+OInsertProductTransactionAsync(EmprendeUCR_WebApplication.Data.Entities.Product)‡EmprendeUCR_WebApplication.Data.Services.ProductService.InsertProductTransactionAsync(EmprendeUCR_WebApplication.Data.Entities.Product)Ä
+DUpdateProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)|EmprendeUCR_WebApplication.Data.Services.ProductService.UpdateProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)À
+ÁgetProducts_By_Supplies(System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.Product>, System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.HasSupplies>)ùEmprendeUCR_WebApplication.Data.Services.ProductService.getProducts_By_Supplies(System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.Product>, System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.HasSupplies>)Ä
+DDeleteProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)|EmprendeUCR_WebApplication.Data.Services.ProductService.DeleteProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)Š
+'GetProductsByCategoryAsync(string, int)_EmprendeUCR_WebApplication.Data.Services.ProductService.GetProductsByCategoryAsync(string, int)d
+GetProductAsync(int)LEmprendeUCR_WebApplication.Data.Services.ProductService.GetProductAsync(int)`
+GetProduct(string)JEmprendeUCR_WebApplication.Data.Services.ProductService.GetProduct(string)f
+GetAllProductsAsync()MEmprendeUCR_WebApplication.Data.Services.ProductService.GetAllProductsAsync()„
+$GetProductsEntrepreneurAsync(string)\EmprendeUCR_WebApplication.Data.Services.ProductService.GetProductsEntrepreneurAsync(string)z
+GetProductsEntrepreneur(string)WEmprendeUCR_WebApplication.Data.Services.ProductService.GetProductsEntrepreneur(string)V
+GetProducts()EEmprendeUCR_WebApplication.Data.Services.ProductService.GetProducts()Ý
+PGetProducts(EmprendeUCR_WebApplication.Data.Entities.ContextShop.ShopParameters)ˆEmprendeUCR_WebApplication.Data.Services.ProductService.GetProducts(EmprendeUCR_WebApplication.Data.Entities.ContextShop.ShopParameters)`
+RemoveProduct(int)JEmprendeUCR_WebApplication.Data.Services.ProductService.RemoveProduct(int)f
+GetProductsQuantity()MEmprendeUCR_WebApplication.Data.Services.ProductService.GetProductsQuantity()Z
+GetList(string)GEmprendeUCR_WebApplication.Data.Services.ProductService.GetList(string)h
+GetListByCategory(int)NEmprendeUCR_WebApplication.Data.Services.ProductService.GetListByCategory(int)x
+GetListRestricted(string, int)VEmprendeUCR_WebApplication.Data.Services.ProductService.GetListRestricted(string, int)\
+GetNewProducts()HEmprendeUCR_WebApplication.Data.Services.ProductService.GetNewProducts()`
+GetOfferProducts()JEmprendeUCR_WebApplication.Data.Services.ProductService.GetOfferProducts()x
+GetRecommendedProducts(string)VEmprendeUCR_WebApplication.Data.Services.ProductService.GetRecommendedProducts(string)Z
+GetProduct(int)GEmprendeUCR_WebApplication.Data.Services.ProductService.GetProduct(int)Z
+GetService(int)GEmprendeUCR_WebApplication.Data.Services.ProductService.GetService(int)

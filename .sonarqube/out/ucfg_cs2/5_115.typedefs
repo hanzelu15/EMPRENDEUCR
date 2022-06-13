@@ -1,0 +1,10 @@
+ù
+?EmprendeUCR_WebApplication.Data.Services.Keyword.KeywordService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÛ
+KKeywordService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)‹EmprendeUCR_WebApplication.Data.Services.Keyword.KeywordService.KeywordService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)X
+
+GetAsync()JEmprendeUCR_WebApplication.Data.Services.Keyword.KeywordService.GetAsync()h
+getKeyword(string)REmprendeUCR_WebApplication.Data.Services.Keyword.KeywordService.getKeyword(string)t
+GetKeywordTitleById(int)XEmprendeUCR_WebApplication.Data.Services.Keyword.KeywordService.GetKeywordTitleById(int)Ž
+%addKeyWordToProduct(int, string, int)eEmprendeUCR_WebApplication.Data.Services.Keyword.KeywordService.addKeyWordToProduct(int, string, int)f
+addToList(string)QEmprendeUCR_WebApplication.Data.Services.Keyword.KeywordService.addToList(string)n
+InsertKeyword(string)UEmprendeUCR_WebApplication.Data.Services.Keyword.KeywordService.InsertKeyword(string)

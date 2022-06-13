@@ -1,0 +1,4 @@
+°
+YEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrganizedMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>˛
+èConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized>)ÈEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrganizedMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized>)z
+OrganizedMap()hEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.OrganizedMap.OrganizedMap()

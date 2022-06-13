@@ -1,0 +1,9 @@
+Â
+.EmprendeUCR.Domain.Chats.Entities.UtilizesChatobjecte
+UtilizesChat(int, string)HEmprendeUCR.Domain.Chats.Entities.UtilizesChat.UtilizesChat(int, string)O
+UtilizesChat()=EmprendeUCR.Domain.Chats.Entities.UtilizesChat.UtilizesChat()—
+2AssignChat(EmprendeUCR.Domain.Chats.Entities.Chat)aEmprendeUCR.Domain.Chats.Entities.UtilizesChat.AssignChat(EmprendeUCR.Domain.Chats.Entities.Chat)I
+Chat_ID.get:EmprendeUCR.Domain.Chats.Entities.UtilizesChat.Chat_ID.getI
+Chat_ID.set:EmprendeUCR.Domain.Chats.Entities.UtilizesChat.Chat_ID.setO
+User_Email.get=EmprendeUCR.Domain.Chats.Entities.UtilizesChat.User_Email.getO
+User_Email.set=EmprendeUCR.Domain.Chats.Entities.UtilizesChat.User_Email.set

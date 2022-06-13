@@ -1,0 +1,4 @@
+’
+9EmprendeUCR.Infrastructure.Core.EntityMappings.MembersMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>³
+zConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Members>)´EmprendeUCR.Infrastructure.Core.EntityMappings.MembersMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Members>)V
+MembersMap()FEmprendeUCR.Infrastructure.Core.EntityMappings.MembersMap.MembersMap()

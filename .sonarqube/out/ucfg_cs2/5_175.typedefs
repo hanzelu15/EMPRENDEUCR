@@ -1,0 +1,4 @@
+‹
+WEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ServiceMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>ð
+‰Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Service>)áEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ServiceMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Service>)t
+ServiceMap()dEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.EntityMappings.ServiceMap.ServiceMap()

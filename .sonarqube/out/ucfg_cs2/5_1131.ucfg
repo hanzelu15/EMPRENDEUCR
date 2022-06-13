@@ -1,0 +1,46 @@
+
+lEmprendeUCR_WebApplication.Data.Services.Categories.EditCategoryService.EditCategoryDescription(int, string)ö
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs∆ ∆(,"0*˙
+0ö
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs» …(1É
+Ä
+ö
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs»  »((A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ó*îI
+GEmprendeUCR_WebApplication.Data.Services.Categories.EditCategoryService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext„
+‡
+ö
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs»  »(12
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Category.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÚÔ
+ö
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs»  »(:7
+%21EmprendeUCR_WebApplication.Data.Entities.Category"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""2Find(params object[])†
+ù
+ö
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs» »(:=
+category1EmprendeUCR_WebApplication.Data.Entities.Category"__id*9
+7
+%21EmprendeUCR_WebApplication.Data.Entities.CategoryŒ
+À
+ö
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs… …(1
+%3string"AEmprendeUCR_WebApplication.Data.Entities.Category.Description.set*?
+=
+category1EmprendeUCR_WebApplication.Data.Entities.Category*
+
+newDescriptionstring*
+1*’
+1ö
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs 	  (	"≤
+ö
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\EditCategoryService.cs   (	
+implicit return:	
+idint:
+newDescriptionstringBKI
+GEmprendeUCR_WebApplication.Data.Services.Categories.EditCategoryService

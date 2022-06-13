@@ -1,0 +1,5 @@
+“
++EmprendeUCR.Domain.Core.CoreEntities.Clientobject@
+Client()4EmprendeUCR.Domain.Core.CoreEntities.Client.Client()L
+User_Email.get:EmprendeUCR.Domain.Core.CoreEntities.Client.User_Email.getL
+User_Email.set:EmprendeUCR.Domain.Core.CoreEntities.Client.User_Email.set

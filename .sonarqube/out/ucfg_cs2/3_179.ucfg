@@ -1,0 +1,48 @@
+
+ˆEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.addMembersAsync(EmprendeUCR.Domain.Core.CoreEntities.Members)•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.cs‡  ‡(/"0*Ì
+0•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.cs‰ ‹(…
+‚
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.cs‰ ‰(B
+%0<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext"__id**šL
+JEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository"J
+
+_dbContext<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContextìé
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.cs‰ ‰($2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext.Members.get*D
+B
+%0<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext2Members.getàÝ
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.cs‰ ‰(6/
+%2)System.Threading.Tasks.ValueTask<TResult>"bMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddAsync(TEntity, System.Threading.CancellationToken)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*9
+7
+members,EmprendeUCR.Domain.Core.CoreEntities.Members*
+""25AddAsync(TEntity, System.Threading.CancellationToken)…
+‚
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csŠ Š(B
+%3<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext"__id**šL
+JEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository"J
+
+_dbContext<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext©¦
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csŠ Š(/*
+%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*D
+B
+%3<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)" 
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.cs‹ ‹(
+""*Ë
+1•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csŒ	 Œ(	"­
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csŒ Œ(	
+implicit return:7
+members,EmprendeUCR.Domain.Core.CoreEntities.MembersBNL
+JEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository

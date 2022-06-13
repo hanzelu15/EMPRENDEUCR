@@ -1,0 +1,27 @@
+
+ûEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.SqlServerDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext>)Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs (!"1*ê
+1Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs	 (	*
+0*Ø
+0Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs (!ú
+ô
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs ("
+
+%0void"«Lab2.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<Lab2.Infrastructure.Core.ApplicationDbContext>)*1/
+-Lab2.Infrastructure.Core.ApplicationDbContext*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*´
+2Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs	 (	"ù
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B?=
+;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext

@@ -1,0 +1,29 @@
+
+ÅEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService.SetProductStatuses(EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product, System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status>)°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csu u(,"0*é
+0°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csw w(K£
+†
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csw w("E
+%0?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository"__id*¨*©R
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService"S
+_orderRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepositoryπ∂
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csw w(L!
+%1System.Threading.Tasks.Task"EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository.SetProductStatuses(EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product, System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status>)*G
+E
+%0?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository*H
+F
+product;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product*4
+2
+statusesList"System.Collections.Generic.List<T>2∞SetProductStatuses(EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product, System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status>)*
+1*„
+1°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csy	 y(	"π
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csy y(	
+implicit return:F
+product;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product:2
+statusesList"System.Collections.Generic.List<T>BTR
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService

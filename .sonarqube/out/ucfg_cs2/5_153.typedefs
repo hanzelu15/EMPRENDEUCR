@@ -1,0 +1,10 @@
+÷
+1EmprendeUCR_WebApplication.Data.Entities.RegistroobjectJ
+
+Registro()<EmprendeUCR_WebApplication.Data.Entities.Registro.Registro()H
+	Email.get;EmprendeUCR_WebApplication.Data.Entities.Registro.Email.getH
+	Email.set;EmprendeUCR_WebApplication.Data.Entities.Registro.Email.setN
+Password.get>EmprendeUCR_WebApplication.Data.Entities.Registro.Password.getN
+Password.set>EmprendeUCR_WebApplication.Data.Entities.Registro.Password.set\
+ConfirmPassword.getEEmprendeUCR_WebApplication.Data.Entities.Registro.ConfirmPassword.get\
+ConfirmPassword.setEEmprendeUCR_WebApplication.Data.Entities.Registro.ConfirmPassword.set

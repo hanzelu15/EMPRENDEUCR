@@ -1,0 +1,43 @@
+
+ßEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetAllIs_OfferRelatedToOfferNOTAsync(EmprendeUCR.Domain.Core.CoreEntities.Offer)ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cst t(B"0*”
+0ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csv v(i≥
+∞
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csv v(N
+%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext"__id*µ*≤X
+VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository"V
+
+_dbContextHEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContextêç
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csv v(&2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"UEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Is_Offer.get*P
+N
+%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext2Is_Offer.getß
+§
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csv v(j
+%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Á
+‰
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csv v(s(
+%3"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%2System.Linq.IQueryable<T>"Œ
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csv v(t*
+(
+%3"System.Collections.Generic.List<T>*ﬂ
+1ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csw	 w(	"∑
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csw w(	
+implicit return:3
+offer*EmprendeUCR.Domain.Core.CoreEntities.OfferBZX
+VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository

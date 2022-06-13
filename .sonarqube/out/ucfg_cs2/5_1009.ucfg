@@ -1,0 +1,34 @@
+
+UEmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.GetAllProductsAsync()ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs<) <(<"0*Ò
+0ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs> >(7ı
+Ú
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs> >(!C
+%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic"__id*ë*éA
+?EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic"I
+_context=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic‹
+Ÿ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs> >()2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"IEmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic.Product.get*E
+C
+%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic„
+‡
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs> >(7*
+%2$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""õ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs> >(8
+""*¡
+1ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs?	 ?(	"®
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs? ?(	
+implicit returnBCA
+?EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic

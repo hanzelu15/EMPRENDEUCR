@@ -1,0 +1,14 @@
+©
+?EmprendeUCR_WebApplication.Data.Services.Product_ServiceService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectë
+SProduct_ServiceService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)“EmprendeUCR_WebApplication.Data.Services.Product_ServiceService.Product_ServiceService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)X
+
+GetAsync()JEmprendeUCR_WebApplication.Data.Services.Product_ServiceService.GetAsync()ë
+SInsertProductServiceAsync(EmprendeUCR_WebApplication.Data.Entities.Product_Service)“EmprendeUCR_WebApplication.Data.Services.Product_ServiceService.InsertProductServiceAsync(EmprendeUCR_WebApplication.Data.Entities.Product_Service)ë
+SUpdateProductServiceAsync(EmprendeUCR_WebApplication.Data.Entities.Product_Service)“EmprendeUCR_WebApplication.Data.Services.Product_ServiceService.UpdateProductServiceAsync(EmprendeUCR_WebApplication.Data.Entities.Product_Service)ë
+SDeleteProductServiceAsync(EmprendeUCR_WebApplication.Data.Entities.Product_Service)“EmprendeUCR_WebApplication.Data.Services.Product_ServiceService.DeleteProductServiceAsync(EmprendeUCR_WebApplication.Data.Entities.Product_Service)ˆ
+"DeleteProductServiceByIdAsync(int)bEmprendeUCR_WebApplication.Data.Services.Product_ServiceService.DeleteProductServiceByIdAsync(int)z
+GetProductServiceAsync(int)[EmprendeUCR_WebApplication.Data.Services.Product_ServiceService.GetProductServiceAsync(int)~
+GetAllProductsServicesAsync()]EmprendeUCR_WebApplication.Data.Services.Product_ServiceService.GetAllProductsServicesAsync()œ
+,GetProductsServicesEntrepreneurAsync(string)lEmprendeUCR_WebApplication.Data.Services.Product_ServiceService.GetProductsServicesEntrepreneurAsync(string)’
+'GetProductsByCategoryAsync(string, int)gEmprendeUCR_WebApplication.Data.Services.Product_ServiceService.GetProductsByCategoryAsync(string, int)b
+GetList(string)OEmprendeUCR_WebApplication.Data.Services.Product_ServiceService.GetList(string)

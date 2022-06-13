@@ -1,0 +1,6 @@
+Š
+KEmprendeUCR_WebApplication.Data.Services.Shopping_Cart_Has_Service_Pandemic-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobject“
+aShopping_Cart_Has_Service_Pandemic(EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic)­EmprendeUCR_WebApplication.Data.Services.Shopping_Cart_Has_Service_Pandemic.Shopping_Cart_Has_Service_Pandemic(EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic)„
+searchProduct(string, int)fEmprendeUCR_WebApplication.Data.Services.Shopping_Cart_Has_Service_Pandemic.searchProduct(string, int)Ý
+FaddProduct(EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has)’EmprendeUCR_WebApplication.Data.Services.Shopping_Cart_Has_Service_Pandemic.addProduct(EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has)†
+GetProductsQuantity(string)gEmprendeUCR_WebApplication.Data.Services.Shopping_Cart_Has_Service_Pandemic.GetProductsQuantity(string)

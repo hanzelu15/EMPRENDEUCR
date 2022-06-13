@@ -1,0 +1,33 @@
+
+ÄEmprendeUCR_WebApplication.Data.Services.Alliance_Service.updateAlliance(EmprendeUCR_WebApplication.Data.Entities.Alliance, int)õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs- -(""0*ò	
+0õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs/ 0("º
+π
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs/ /(1	
+%0int"EEmprendeUCR_WebApplication.Data.Entities.Alliance.Alliance_Status.set*?
+=
+alliance1EmprendeUCR_WebApplication.Data.Entities.Alliance*
+""ˆ
+Û
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs0 0(A
+%1;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*â*Ü;
+9EmprendeUCR_WebApplication.Data.Services.Alliance_Service"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext∑¥
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs0 0("	
+%2int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
+A
+%1;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
+1*◊
+1õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs1	 1(	"≥
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs1 1(	
+implicit return:=
+alliance1EmprendeUCR_WebApplication.Data.Entities.Alliance:
+
+new_statusintB=;
+9EmprendeUCR_WebApplication.Data.Services.Alliance_Service

@@ -1,0 +1,48 @@
+
+hEmprendeUCR.Domain.PaymentMethods.Entities.SinpeMovilPaymentMethod.SinpeMovilPaymentMethod(string, bool)‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\SinpeMovilPaymentMethod.cs (&"1*–
+1‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\SinpeMovilPaymentMethod.cs	 (	*
+0*Å
+0‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\SinpeMovilPaymentMethod.cs (GÆ
+Ã
+‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\SinpeMovilPaymentMethod.cs (
+%0string"KEmprendeUCR.Domain.PaymentMethods.Entities.SinpeMovilPaymentMethod.Name.set*FD
+BEmprendeUCR.Domain.PaymentMethods.Entities.SinpeMovilPaymentMethod*
+
+namestring¼
+¹
+‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\SinpeMovilPaymentMethod.cs (
+
+%1bool"MEmprendeUCR.Domain.PaymentMethods.Entities.SinpeMovilPaymentMethod.Status.set*FD
+BEmprendeUCR.Domain.PaymentMethods.Entities.SinpeMovilPaymentMethod*
+""ßÜ
+‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\SinpeMovilPaymentMethod.cs& (G(
+%2"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ô
+ñ
+‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\SinpeMovilPaymentMethod.cs* (E
+
+%3void")System.Collections.Generic.List<T>.List()**
+(
+%2"System.Collections.Generic.List<T>Ë
+È
+‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\SinpeMovilPaymentMethod.cs (G…D
+BEmprendeUCR.Domain.PaymentMethods.Entities.SinpeMovilPaymentMethod"=
+_sinpeMovilPaymentInfos"System.Collections.Generic.List<T>"__id**
+(
+%2"System.Collections.Generic.List<T>*
+2*·
+2‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\SinpeMovilPaymentMethod.cs	 (	"£
+‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentMethods\Entities\SinpeMovilPaymentMethod.cs (	
+implicit return:
+namestring:
+statusboolBFD
+BEmprendeUCR.Domain.PaymentMethods.Entities.SinpeMovilPaymentMethod

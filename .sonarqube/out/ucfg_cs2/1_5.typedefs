@@ -1,0 +1,11 @@
+è
+1EmprendeUCR.Domain.Core.CoreEntities.BannedAcountobjectR
+BannedAcount()@EmprendeUCR.Domain.Core.CoreEntities.BannedAcount.BannedAcount()P
+UserEmail.get?EmprendeUCR.Domain.Core.CoreEntities.BannedAcount.UserEmail.getP
+UserEmail.set?EmprendeUCR.Domain.Core.CoreEntities.BannedAcount.UserEmail.setP
+BeginDate.get?EmprendeUCR.Domain.Core.CoreEntities.BannedAcount.BeginDate.getP
+BeginDate.set?EmprendeUCR.Domain.Core.CoreEntities.BannedAcount.BeginDate.setR
+FinishDate.get@EmprendeUCR.Domain.Core.CoreEntities.BannedAcount.FinishDate.getR
+FinishDate.set@EmprendeUCR.Domain.Core.CoreEntities.BannedAcount.FinishDate.setF
+Type.get:EmprendeUCR.Domain.Core.CoreEntities.BannedAcount.Type.getF
+Type.set:EmprendeUCR.Domain.Core.CoreEntities.BannedAcount.Type.set

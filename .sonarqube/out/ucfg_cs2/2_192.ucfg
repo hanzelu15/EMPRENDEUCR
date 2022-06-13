@@ -1,0 +1,28 @@
+
+ŠEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.addPermission(EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To)”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csU U('"0*í
+0”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csW W(E¦
+£
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csW W('M
+%0GEmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository"__id*´*±M
+KEmprendeUCR.Application.PermissionContext.Implementations.PermissionService"`
+_permissionRepositoryGEmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository¢Ÿ
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csW W(F!
+%1System.Threading.Tasks.Task"‹EmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository.addPermissionAsync(EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To)*O
+M
+%0GEmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository*?
+=
+
+permission/EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To2CaddPermissionAsync(EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To)*
+1*É
+1”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csX	 X(	"¬
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csX X(	
+implicit return:=
+
+permission/EmprendeUCR.Domain.Core.CoreEntities.Is_Able_ToBOM
+KEmprendeUCR.Application.PermissionContext.Implementations.PermissionService

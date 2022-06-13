@@ -1,0 +1,38 @@
+
+sEmprendeUCR.Infrastructure.Chats.TheMessage.Repositories.MessageRepository.GetByIdAsync(int, System.DateTimeOffset)“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\Repositories\MessageRepository.cs$ (0"0*Ù
+0“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\Repositories\MessageRepository.cs (Sƒ
+€
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\Repositories\MessageRepository.cs (#B
+%0<EmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContext"__id**šL
+JEmprendeUCR.Infrastructure.Chats.TheMessage.Repositories.MessageRepository"J
+
+_dbContext<EmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContextÝ
+Ú
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\Repositories\MessageRepository.cs (+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContext.Message.get*D
+B
+%0<EmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContext¶
+³
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\Repositories\MessageRepository.cs (T*
+%2$System.Threading.Tasks.Task<TResult>"âMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*
+"""ž
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\Repositories\MessageRepository.cs (U
+""*Ç
+1“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\Repositories\MessageRepository.cs 	  (	"«
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\Repositories\MessageRepository.cs   (	
+implicit return:
+chatIDint:
+dateSystem.DateTimeOffsetBNL
+JEmprendeUCR.Infrastructure.Chats.TheMessage.Repositories.MessageRepository

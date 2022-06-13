@@ -1,0 +1,8 @@
+Ò
+0EmprendeUCR.Presentation.Core.Components.Loading-Microsoft.AspNetCore.Components.ComponentBaseobjectÍ
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)}EmprendeUCR.Presentation.Core.Components.Loading.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)G
+	Loading():EmprendeUCR.Presentation.Core.Components.Loading.Loading()O
+IsLoading.get>EmprendeUCR.Presentation.Core.Components.Loading.IsLoading.getO
+IsLoading.set>EmprendeUCR.Presentation.Core.Components.Loading.IsLoading.setU
+ChildContent.getAEmprendeUCR.Presentation.Core.Components.Loading.ChildContent.getU
+ChildContent.setAEmprendeUCR.Presentation.Core.Components.Loading.ChildContent.set

@@ -1,0 +1,35 @@
+
+PEmprendeUCR_WebApplication.Data.Services.UserService.GetUserByEmailAsync(string)Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.csF  F(3"0*±
+
+0Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.csH H(7⁄
+◊
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.csH H("A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ñ*Å6
+4EmprendeUCR_WebApplication.Data.Services.UserService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext…
+∆
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.csH H('2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"DEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.User.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÈÊ
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.csH H(8/
+%2)System.Threading.Tasks.ValueTask<TResult>"GMicrosoft.EntityFrameworkCore.DbSet<TEntity>.FindAsync(params object[])*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+emailstring2FindAsync(params object[])"è
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.csH H(:
+""*©
+1Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.csI	 I(	"ú
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.csI I(	
+implicit return:
+emailstringB86
+4EmprendeUCR_WebApplication.Data.Services.UserService

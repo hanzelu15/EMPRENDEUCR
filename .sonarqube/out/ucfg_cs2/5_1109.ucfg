@@ -1,0 +1,54 @@
+
+ÜEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs"  "(/"0*∆
+0õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs% '(:›⁄
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs% %(.
+
+%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*NL
+JEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)’“
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs&, &(<[
+%1UEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.IsOfferMap"UEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.IsOfferMap
+Ì
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs&0 &(:
+
+%2void"bEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.IsOfferMap.IsOfferMap()*]
+[
+%1UEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.IsOfferMapÿ’
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs& &(=0
+%3*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*]
+[
+%1UEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.IsOfferMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)—Œ
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs', '(:Y
+%4SEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.OfferMap"SEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.OfferMapÍ
+Á
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs'0 '(8
+
+%5void"^EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.OfferMap.OfferMap()*[
+Y
+%4SEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.OfferMap÷”
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs' '(;0
+%6*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*[
+Y
+%4SEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.OfferMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
+1*◊
+1õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs(	 ((	"≥
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs( ((	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBNL
+JEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext

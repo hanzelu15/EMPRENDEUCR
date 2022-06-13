@@ -1,0 +1,11 @@
+¿	
+<EmprendeUCR_WebApplication.Data.Services.UserServicePandemic-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectæ
+RUserServicePandemic(EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic)EmprendeUCR_WebApplication.Data.Services.UserServicePandemic.UserServicePandemic(EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic)U
+
+GetAsync()GEmprendeUCR_WebApplication.Data.Services.UserServicePandemic.GetAsync()­
+6AddUser(EmprendeUCR_WebApplication.Data.Entities.User)sEmprendeUCR_WebApplication.Data.Services.UserServicePandemic.AddUser(EmprendeUCR_WebApplication.Data.Entities.User)³
+9UpdateUser(EmprendeUCR_WebApplication.Data.Entities.User)vEmprendeUCR_WebApplication.Data.Services.UserServicePandemic.UpdateUser(EmprendeUCR_WebApplication.Data.Entities.User)o
+getConfirmEmail(string)TEmprendeUCR_WebApplication.Data.Services.UserServicePandemic.getConfirmEmail(string)_
+getUser(string)LEmprendeUCR_WebApplication.Data.Services.UserServicePandemic.getUser(string)a
+getPhoto(string)MEmprendeUCR_WebApplication.Data.Services.UserServicePandemic.getPhoto(string)m
+GetUserByEmail(string)SEmprendeUCR_WebApplication.Data.Services.UserServicePandemic.GetUserByEmail(string)

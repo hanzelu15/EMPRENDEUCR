@@ -1,0 +1,6 @@
+Ø
+9EmprendeUCR.Application.Chats.Implementations.ChatServiceobject*EmprendeUCR.Application.Chats.IChatServiceÂ
+BChatService(EmprendeUCR.Domain.Chats.Repositories.IChatRepository)|EmprendeUCR.Application.Chats.Implementations.ChatService.ChatService(EmprendeUCR.Domain.Chats.Repositories.IChatRepository)h
+GetChatByIdAsync(int)OEmprendeUCR.Application.Chats.Implementations.ChatService.GetChatByIdAsync(int)\
+GetChatsAsync()IEmprendeUCR.Application.Chats.Implementations.ChatService.GetChatsAsync()Z
+AddChatAsync()HEmprendeUCR.Application.Chats.Implementations.ChatService.AddChatAsync()

@@ -1,0 +1,10 @@
+û
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÛ
+RDeleteCategoryService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)úEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService.DeleteCategoryService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)Â
+KOpenRemoveCategoryDialog(EmprendeUCR_WebApplication.Data.Entities.Category)ïEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService.OpenRemoveCategoryDialog(EmprendeUCR_WebApplication.Data.Entities.Category)Ñ
+CloseRemoveCategoryDialog()eEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService.CloseRemoveCategoryDialog()Ä
+ResetRemoveCategoryData()cEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService.ResetRemoveCategoryData()ü
+hRemoveCategory(Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR_WebApplication.Data.Entities.Category>)≤EmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService.RemoveCategory(Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR_WebApplication.Data.Entities.Category>)t
+RemoveCategory(int)]EmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService.RemoveCategory(int)Ü
+RemoveCategoryRecursive(int)fEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService.RemoveCategoryRecursive(int)ê
+!AnyProductsServicesAssociate(int)kEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService.AnyProductsServicesAssociate(int)

@@ -1,0 +1,21 @@
+
+LEmprendeUCR.Infrastructure.Core.ApplicationDbContext.GetCurrentTransaction()|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs& (;"0*¶
+0|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.csA (T‹
+Ÿ
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.csA (TA
+%0;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id*è*å6
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"√
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.csA (TC
+A
+%0;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction*ó
+1|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.csU (U"ì
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.csT (U
+implicit returnB86
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext

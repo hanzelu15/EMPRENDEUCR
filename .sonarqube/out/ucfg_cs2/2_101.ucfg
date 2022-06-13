@@ -1,0 +1,29 @@
+
+¤EmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.GetAllIs_OfferRelatedToOfferNOTAsync(EmprendeUCR.Domain.Core.CoreEntities.Offer)ž
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs‰ ‰(B"0*™
+0ž
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs‹ ‹(WÌ
+É
+ž
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs‹ ‹(,U
+%0OEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository"__id*È*ÅU
+SEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService"l
+_homePageClientRepositoryOEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepositoryÓÐ
+ž
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs‹ ‹(X(
+%1"System.Collections.Generic.List<T>" EmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository.GetAllIs_OfferRelatedToOfferNOTAsync(EmprendeUCR.Domain.Core.CoreEntities.Offer)*W
+U
+%0OEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository*5
+3
+offer*EmprendeUCR.Domain.Core.CoreEntities.Offer2PGetAllIs_OfferRelatedToOfferNOTAsync(EmprendeUCR.Domain.Core.CoreEntities.Offer)"Í
+ž
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs‹ ‹(Y*
+(
+%1"System.Collections.Generic.List<T>*Ý
+1ž
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.csŒ	 Œ(	"¶
+ž
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.csŒ Œ(	
+implicit return:3
+offer*EmprendeUCR.Domain.Core.CoreEntities.OfferBWU
+SEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService

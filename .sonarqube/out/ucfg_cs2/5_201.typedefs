@@ -1,0 +1,8 @@
+Ø
+.EmprendeUCR_WebApplication.Pages.CreateReports-Microsoft.AspNetCore.Components.ComponentBaseobjectË
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder){EmprendeUCR_WebApplication.Pages.CreateReports.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)Q
+CreateReports()>EmprendeUCR_WebApplication.Pages.CreateReports.CreateReports()Q
+userService.get>EmprendeUCR_WebApplication.Pages.CreateReports.userService.getQ
+userService.set>EmprendeUCR_WebApplication.Pages.CreateReports.userService.setS
+CreateReport.get?EmprendeUCR_WebApplication.Pages.CreateReports.CreateReport.getS
+CreateReport.set?EmprendeUCR_WebApplication.Pages.CreateReports.CreateReport.set

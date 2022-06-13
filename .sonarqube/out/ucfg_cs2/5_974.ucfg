@@ -1,0 +1,42 @@
+
+GEmprendeUCR_WebApplication.Data.Services.ProductService.GetService(int)¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÐ Ð(!"0*ï
+0¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÒ Ó(û
+ø
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÒ Ò(&A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
+7EmprendeUCR_WebApplication.Data.Services.ProductService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextê
+ç
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÒ Ò(.2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Service.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÊ
+Ç
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÒ Ò(X6
+%20EmprendeUCR_WebApplication.Data.Entities.Service"ŽSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""¥
+¢
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÒ Ò(X;
+service0EmprendeUCR_WebApplication.Data.Entities.Service"__id*8
+6
+%20EmprendeUCR_WebApplication.Data.Entities.Service"ä
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÓ Ó(=
+;
+service0EmprendeUCR_WebApplication.Data.Entities.Service*å
+1¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÔ	 Ô(	"º
+¢
+•C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\ProductService.csÔ Ô(	
+implicit return:	
+IdintB;9
+7EmprendeUCR_WebApplication.Data.Services.ProductService

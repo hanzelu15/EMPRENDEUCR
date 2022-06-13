@@ -1,0 +1,31 @@
+
+xEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.verifyChildCategory(int)®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csV V('"0*ó
+
+0®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csX X(AÄ
+˝
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csX X(2a
+%0[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository"__id*Ê*„a
+_EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService"~
+_productsSearchClientRepository[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepositoryß§
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csX X(B
+
+%1bool"lEmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository.isChildNode(int)*c
+a
+%0[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository*
+""2isChildNode(int)"π
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csX X(C
+
+
+%1bool*Ò
+1®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csY	 Y(	"¿
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csY Y(	
+implicit return:	
+idintBca
+_EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService

@@ -1,0 +1,27 @@
+
+«EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext.OfferDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext>)õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs ("1*¶
+1õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs	 (	*
+0*€
+0õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs ("≤
+Ø
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs (#
+
+%0void"«Lab2.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<Lab2.Infrastructure.Core.ApplicationDbContext>)*1/
+-Lab2.Infrastructure.Core.ApplicationDbContext*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*◊
+2õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs	 (	"≥
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\OfferContext\OfferDbContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>BNL
+JEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.OfferDbContext

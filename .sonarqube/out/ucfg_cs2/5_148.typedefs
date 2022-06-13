@@ -1,0 +1,14 @@
+¸
+5EmprendeUCR_WebApplication.Data.Services.OfferService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÌ
+IOfferService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)EmprendeUCR_WebApplication.Data.Services.OfferService.OfferService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)N
+
+GetAsync()@EmprendeUCR_WebApplication.Data.Services.OfferService.GetAsync()º
+@InsertOfferAsync(EmprendeUCR_WebApplication.Data.Entities.Offer)vEmprendeUCR_WebApplication.Data.Services.OfferService.InsertOfferAsync(EmprendeUCR_WebApplication.Data.Entities.Offer)º
+@UpdateOfferAsync(EmprendeUCR_WebApplication.Data.Entities.Offer)vEmprendeUCR_WebApplication.Data.Services.OfferService.UpdateOfferAsync(EmprendeUCR_WebApplication.Data.Entities.Offer)º
+@DeleteOfferAsync(EmprendeUCR_WebApplication.Data.Entities.Offer)vEmprendeUCR_WebApplication.Data.Services.OfferService.DeleteOfferAsync(EmprendeUCR_WebApplication.Data.Entities.Offer)^
+GetOfferAsync(int)HEmprendeUCR_WebApplication.Data.Services.OfferService.GetOfferAsync(int)`
+GetAllOffersAsync()IEmprendeUCR_WebApplication.Data.Services.OfferService.GetAllOffersAsync()Ó
+LGetAllIs_OfferRelatedToOffer(EmprendeUCR_WebApplication.Data.Entities.Offer)‚EmprendeUCR_WebApplication.Data.Services.OfferService.GetAllIs_OfferRelatedToOffer(EmprendeUCR_WebApplication.Data.Entities.Offer)ã
+TGetAllIs_OfferRelatedToOfferNOTAsync(EmprendeUCR_WebApplication.Data.Entities.Offer)ŠEmprendeUCR_WebApplication.Data.Services.OfferService.GetAllIs_OfferRelatedToOfferNOTAsync(EmprendeUCR_WebApplication.Data.Entities.Offer)z
+ GetOfferFromEntrepreneur(string)VEmprendeUCR_WebApplication.Data.Services.OfferService.GetOfferFromEntrepreneur(string)x
+hasCommonOffers(string, string)UEmprendeUCR_WebApplication.Data.Services.OfferService.hasCommonOffers(string, string)

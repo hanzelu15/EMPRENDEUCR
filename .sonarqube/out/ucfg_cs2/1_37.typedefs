@@ -1,0 +1,15 @@
+‰
+2EmprendeUCR.Domain.Core.CoreEntities.ProductPhotosobjectU
+ProductPhotos()BEmprendeUCR.Domain.Core.CoreEntities.ProductPhotos.ProductPhotos()a
+Product_Photos_ID.getHEmprendeUCR.Domain.Core.CoreEntities.ProductPhotos.Product_Photos_ID.geta
+Product_Photos_ID.setHEmprendeUCR.Domain.Core.CoreEntities.ProductPhotos.Product_Photos_ID.setM
+Code_ID.get>EmprendeUCR.Domain.Core.CoreEntities.ProductPhotos.Code_ID.getM
+Code_ID.set>EmprendeUCR.Domain.Core.CoreEntities.ProductPhotos.Code_ID.setc
+Entrepreneur_Email.getIEmprendeUCR.Domain.Core.CoreEntities.ProductPhotos.Entrepreneur_Email.getc
+Entrepreneur_Email.setIEmprendeUCR.Domain.Core.CoreEntities.ProductPhotos.Entrepreneur_Email.setU
+Category_ID.getBEmprendeUCR.Domain.Core.CoreEntities.ProductPhotos.Category_ID.getU
+Category_ID.setBEmprendeUCR.Domain.Core.CoreEntities.ProductPhotos.Category_ID.setK
+
+Photos.get=EmprendeUCR.Domain.Core.CoreEntities.ProductPhotos.Photos.getK
+
+Photos.set=EmprendeUCR.Domain.Core.CoreEntities.ProductPhotos.Photos.set

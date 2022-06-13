@@ -1,0 +1,299 @@
+
+«EmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository.CreateOrder(EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart, string, string, System.DateTime, string)≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csj! j(,"0*ó:
+0≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csm y(8˝
+˙
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csm+ m(7
+%0System.DateTime"System.DateTime.Now.get*"
+System.DateTimeˇ
+¸
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csm m(7&
+DateAndHourCreationSystem.DateTime"__id*
+
+%0System.DateTimeâ
+Ü
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cso o(%
+
+%1long"System.DateTime.Ticks.get*(
+&
+DateAndHourCreationSystem.DateTimeâ
+Ü
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cso) o(B
+
+%2long"System.DateTime.Ticks.get*(
+&
+DateAndHourCreationSystem.DateTimeÃ
+…
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csoE o(\
+%3"__id*
+""ó
+î
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csp p($
+%4System.DateTimeKind"System.DateTime.Kind.get*(
+&
+DateAndHourCreationSystem.DateTime‡›
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csn" p(%
+%5System.DateTime"System.DateTime∑
+¥
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csn& n(.
+
+%6void"3System.DateTime.DateTime(long, System.DateTimeKind)*
+
+%5System.DateTime*
+""*
+
+%4System.DateTimeKindˇ
+¸
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csn p(%&
+DateAndHourCreationSystem.DateTime"__id*
+
+%5System.DateTimeÙ
+Ò
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csr! r(+
+%7string"UEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.Email.get*U
+S
+shopKEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCartÂ
+‚
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csr r(+
+ClientEmailstring"__id*
+
+%7string£
+†
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.css' s(57
+%81System.Collections.Generic.IReadOnlyCollection<T>"YEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.ShopLines.get*U
+S
+shopKEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCartø
+º
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.css' s(FM
+%9GEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine"_System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*9
+7
+%81System.Collections.Generic.IReadOnlyCollection<T>˜
+Ù
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.css' s(X
+%10string"]EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.EntrepreneurEmail.get*O
+M
+%9GEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLineÏ
+È
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.css s(X
+EntrepreneurEmailstring"__id*
+
+%10stringÎ
+Ë
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cst t(3
+statusstring"__id*
+Pendiente de revisionáÑ
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csu+ u(@)
+%11"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ù
+ö
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csu/ u(>
+%12void")System.Collections.Generic.List<T>.List()*+
+)
+%11"System.Collections.Generic.List<T>ü
+ú
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csu u(@2
+listShopLine"System.Collections.Generic.List<T>"__id*+
+)
+%11"System.Collections.Generic.List<T>Ω∫
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csw x(KD
+%13=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order"=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Orderì
+ê
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csw w(#
+%14void"ïEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.Order(System.DateTime, string, string, string, System.DateTime, string, string, string)*F
+D
+%13=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*(
+&
+DateAndHourCreationSystem.DateTime*
+
+ClientEmailstring*
+
+Detailsstring*
+
+DeliveryAddressstring*!
+
+DeliveryDateSystem.DateTime*
+
+EntrepreneurEmailstring*
+
+statusstring*!
+
+selectedPaymentMethodstringŒ
+À
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csw x(KF
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order"__id*F
+D
+%13=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order§
+°
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csy* y(88
+%151System.Collections.Generic.IReadOnlyCollection<T>"YEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.ShopLines.get*U
+S
+shopKEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart*
+1*¬
+1¥
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csÜ	 Ü(	*
+2
+3*Ã"
+2≥
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs{ Å(*Ù
+Ò
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs{ {(1
+
+%16int"REmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.CodeId.get*Z
+X
+organizedLineGEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine€
+ÿ
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs{ {(1
+codeIdint"__id*
+
+
+%16int¯
+ı
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs|! |(9
+
+%17int"VEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.CategoryId.get*Z
+X
+organizedLineGEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLineﬂ
+‹
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs| |(9
+
+categoryIdint"__id*
+
+
+%17intˆ
+Û
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs} }(5
+
+%18int"TEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.Quantity.get*Z
+X
+organizedLineGEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine›
+⁄
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs} }(5
+quantityint"__id*
+
+
+%18intÇ
+ˇ
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs~$ ~(C
+%19string"]EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine.EntrepreneurEmail.get*Z
+X
+organizedLineGEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLineÏ
+È
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs~ ~(C
+EntrepreneurEmailstring"__id*
+
+%19string∆√
+≥
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs& Ä(_H
+%20AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized"AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.OrganizedÉ
+Ä
+≤
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs* (3
+%21void"”EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Organized(int, string, int, System.DateTime, string, string, int, System.DateTime, EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)*J
+H
+%20AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*
+
+codeIdint*
+
+EntrepreneurEmailstring*
+
+
+categoryIdint*(
+&
+DateAndHourCreationSystem.DateTime*
+
+ClientEmailstring*
+
+statusstring*
+
+quantityint*!
+
+DeliveryDateSystem.DateTime*H
+F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order€
+ÿ
+≥
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs Ä(_N
+	organizedAEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized"__id*J
+H
+%20AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organizedﬂ
+‹
+¥
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csÅ Å(+
+%22void"
+__arrayAdd*4
+2
+listShopLine"System.Collections.Generic.List<T>*: *P
+N
+	organizedAEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*
+1*í
+3¥
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csÉ Ö(¯
+ı
+¥
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csÉ É(,
+%23void"ÆEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.setOrganized(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized>)*H
+F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*4
+2
+listShopLine"System.Collections.Generic.List<T>–
+Õ
+¥
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csÑ Ñ([
+%24TEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2"__id*∞*≠G
+EEmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository"b
+
+_dbContextTEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2ÉÄ
+¥
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csÑ Ñ(!H
+%25AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"=Microsoft.EntityFrameworkCore.DbContext.Add<TEntity>(TEntity)*]
+[
+%24TEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2*H
+F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order2Add<TEntity>(TEntity)"Å
+¥
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csÖ Ö(H
+F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*â
+4¥
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csÜ	 Ü(	"Ã
+¥
+ßC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csÜ Ü(	
+implicit return:S
+shopKEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart:
+Detailsstring:
+DeliveryAddressstring:
+DeliveryDateSystem.DateTime:
+selectedPaymentMethodstringBIG
+EEmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository

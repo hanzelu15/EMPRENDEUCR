@@ -1,0 +1,28 @@
+
+øEmprendeUCR_WebApplication.Application.NotificationContext.Implementations.NotificationService.GetNotificationsQuantity(EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification)Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs2 2(,"0*è
+
+0Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs4 4(M‘
+—
+Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs4 4(#L
+%0FEmprendeUCR_WebApplication.Domain.Repositories.INotificationRepository"__id*»*≈`
+^EmprendeUCR_WebApplication.Application.NotificationContext.Implementations.NotificationService"a
+_notificationRepositoryFEmprendeUCR_WebApplication.Domain.Repositories.INotificationRepository˚¯
+Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs4 4(N
+
+%1void"ßEmprendeUCR_WebApplication.Domain.Repositories.INotificationRepository.GetNotificationsQuantity(EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification)*N
+L
+%0FEmprendeUCR_WebApplication.Domain.Repositories.INotificationRepository*\
+Z
+UserNotificationFEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification2`GetNotificationsQuantity(EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification)*
+1*ˇ
+1Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs5	 5(	"«
+Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs5 5(	
+implicit return:Z
+UserNotificationFEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotificationBb`
+^EmprendeUCR_WebApplication.Application.NotificationContext.Implementations.NotificationService

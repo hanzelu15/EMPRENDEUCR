@@ -1,0 +1,82 @@
+
+hEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository.GetByIdAsync(string)¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs'' '(3"0*ç'
+0¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs* 2(¯
+¬
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs*' *(1K
+%0EEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext"__id*¯*¬U
+SEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository"S
+
+_dbContextEEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext‹ˆ
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs*' *(82
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"PEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext.Orders.get*M
+K
+%0EEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext2
+Orders.get¬
+©
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs*' +(j
+%2System.Linq.IQueryable<T>"…System.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""´
+±
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs*' ,(1R
+%3LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"ÂMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%2System.Linq.IQueryable<T>*
+""å
+â
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs*' -(GR
+%4LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"ÀMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ThenInclude<TEntity, TPreviousProperty, TProperty>(Microsoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, System.Collections.Generic.IEnumerable<TPreviousProperty>>, System.Linq.Expressions.Expression<System.Func<TPreviousProperty, TProperty>>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*T
+R
+%3LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
+""ç
+ä
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs*' .(2R
+%5LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"ÂMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*T
+R
+%4LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
+""å
+â
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs*' /(?R
+%6LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"ÀMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ThenInclude<TEntity, TPreviousProperty, TProperty>(Microsoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, System.Collections.Generic.IEnumerable<TPreviousProperty>>, System.Linq.Expressions.Expression<System.Func<TPreviousProperty, TProperty>>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*T
+R
+%5LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
+""—
+”
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs*' 0(*
+%7$System.Threading.Tasks.Task<TResult>"šMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*T
+R
+%6LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
+""æ
+ã
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs* 0(,
+orders"System.Collections.Generic.List<T>"__id*
+"""×
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs2 2(.
+,
+orders"System.Collections.Generic.List<T>*é
+1¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs3	 3(	"¼
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\Repositories\OrderRepository.cs3 3(	
+implicit return:
+emailstringBWU
+SEmprendeUCR_WebApplication.Infrastructure.OrderContext.Repositories.OrderRepository

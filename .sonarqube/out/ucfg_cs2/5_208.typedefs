@@ -1,0 +1,14 @@
+Ä
+7EmprendeUCR_WebApplication.Pages.NotificationsComponent-Microsoft.AspNetCore.Components.ComponentBaseobjectÕ
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)„EmprendeUCR_WebApplication.Pages.NotificationsComponent.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)é
+Vshow_notifications(EmprendeUCR_WebApplication.Domain.NotificationContext.Notification)ŽEmprendeUCR_WebApplication.Pages.NotificationsComponent.show_notifications(EmprendeUCR_WebApplication.Domain.NotificationContext.Notification)d
+OnInitializedAsync()LEmprendeUCR_WebApplication.Pages.NotificationsComponent.OnInitializedAsync()l
+NotificationsComponent()PEmprendeUCR_WebApplication.Pages.NotificationsComponent.NotificationsComponent()f
+ShowNotifications.getMEmprendeUCR_WebApplication.Pages.NotificationsComponent.ShowNotifications.getf
+ShowNotifications.setMEmprendeUCR_WebApplication.Pages.NotificationsComponent.ShowNotifications.setf
+NavigationManager.getMEmprendeUCR_WebApplication.Pages.NotificationsComponent.NavigationManager.getf
+NavigationManager.setMEmprendeUCR_WebApplication.Pages.NotificationsComponent.NavigationManager.setj
+NotificationService.getOEmprendeUCR_WebApplication.Pages.NotificationsComponent.NotificationService.getj
+NotificationService.setOEmprendeUCR_WebApplication.Pages.NotificationsComponent.NotificationService.set`
+sessionStorage.getJEmprendeUCR_WebApplication.Pages.NotificationsComponent.sessionStorage.get`
+sessionStorage.setJEmprendeUCR_WebApplication.Pages.NotificationsComponent.sessionStorage.set

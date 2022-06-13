@@ -1,0 +1,26 @@
+
+kEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.listAllProductsPhotos()œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs1$ 1(9"0*Ù	
+0œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs3 3(<Ê
+Ç
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs3 3(,U
+%0OEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository"__id*È*ÅU
+SEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService"l
+_homePageClientRepositoryOEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository˜•
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs3 3(<)
+%1#System.Collections.Generic.IList<T>"_EmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository.loadAllPhotos()*W
+U
+%0OEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository2loadAllPhotos()"Ì
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs3 3(=+
+)
+%1#System.Collections.Generic.IList<T>*Ù
+1œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs4	 4(	"´
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs4 4(	
+implicit returnBWU
+SEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService

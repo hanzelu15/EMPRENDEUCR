@@ -1,0 +1,74 @@
+
+REmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.TryCreateAccount(string?)€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs0: 0(J"0*Ž
+0€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs2 2(*
+1
+2*¬
+1€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs3 3((˜•
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs3 3((J
+%0DEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.AccountNull"DEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.AccountNull´
+±
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs3 3(&
+
+%1void"REmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.AccountNull.AccountNull()*L
+J
+%0DEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.AccountNull"Ñ
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs3 3()L
+J
+%0DEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.AccountNull*ç
+2€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs5 5(7¹
+¶
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs5 5(	
+%2int"string.Length.get*
+
+accountstringš
+—
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs5" 5(7
+%3"__id*
+""*
+3
+4*æ
+3€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs6 6(?š
+—
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs6* 6(?
+%4"__id*
+""ž›
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs6 6(@M
+%5GEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.AccountInvalid"GEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.AccountInvalidÈ
+Å
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs6 6()
+
+%6void"[EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.AccountInvalid.AccountInvalid(int)*O
+M
+%5GEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.AccountInvalid*
+
+%4"Ô
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs6 6(AO
+M
+%5GEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.AccountInvalid*¡
+4€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs8 8("˜
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs8 8(
+
+accountstring*¡
+5€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs9	 9(	"˜
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\CardPaymentInfo.cs9 9(	
+implicit return:
+accountstringB<":
+8EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo

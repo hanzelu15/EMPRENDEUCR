@@ -1,0 +1,37 @@
+
+fEmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo.SinpeMovilPaymentInfo(int, int, string)†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeMovilPaymentInfo.cs ($"1*‘
+1†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeMovilPaymentInfo.cs	 (	*
+0*Ú
+0†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeMovilPaymentInfo.cs (3´
+±
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeMovilPaymentInfo.cs (&	
+%0int"OEmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo.Phone_Number.set*B@
+>EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo*
+""·
+´
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeMovilPaymentInfo.cs (+	
+%1int"REmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo.Payment_Info_ID.set*B@
+>EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo*
+""Õ
+Ò
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeMovilPaymentInfo.cs (3
+%2string"VEmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo.Name_Payment_Method.set*B@
+>EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo*
+
+paymentMethodNamestring*
+2*­
+2†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeMovilPaymentInfo.cs	 (	"ž
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeMovilPaymentInfo.cs (	
+implicit return:
+phoneNumberint:
+paymentInfoIDint:
+paymentMethodNamestringBB@
+>EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo

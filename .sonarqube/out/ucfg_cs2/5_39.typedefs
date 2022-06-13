@@ -1,0 +1,9 @@
+½
+;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.ServiceBEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductServiceobjectR
+	Service()EEmprendeUCR_WebApplication.Domain.Core.CoreEntities.Service.Service()^
+ServiceName.getKEmprendeUCR_WebApplication.Domain.Core.CoreEntities.Service.ServiceName.get^
+ServiceName.setKEmprendeUCR_WebApplication.Domain.Core.CoreEntities.Service.ServiceName.setl
+ServiceDescription.getREmprendeUCR_WebApplication.Domain.Core.CoreEntities.Service.ServiceDescription.getl
+ServiceDescription.setREmprendeUCR_WebApplication.Domain.Core.CoreEntities.Service.ServiceDescription.set`
+PricePerHour.getLEmprendeUCR_WebApplication.Domain.Core.CoreEntities.Service.PricePerHour.get`
+PricePerHour.setLEmprendeUCR_WebApplication.Domain.Core.CoreEntities.Service.PricePerHour.set

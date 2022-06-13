@@ -1,0 +1,11 @@
+›
+-EmprendeUCR_WebApplication.Data.Entities.Cardobject>
+Card()4EmprendeUCR_WebApplication.Data.Entities.Card.Card()B
+Name.get6EmprendeUCR_WebApplication.Data.Entities.Card.Name.getB
+Name.set6EmprendeUCR_WebApplication.Data.Entities.Card.Name.setF
+
+Status.get8EmprendeUCR_WebApplication.Data.Entities.Card.Status.getF
+
+Status.set8EmprendeUCR_WebApplication.Data.Entities.Card.Status.setD
+	Brand.get7EmprendeUCR_WebApplication.Data.Entities.Card.Brand.getD
+	Brand.set7EmprendeUCR_WebApplication.Data.Entities.Card.Brand.set

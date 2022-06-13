@@ -1,0 +1,28 @@
+
+{EmprendeUCR.Application.ProfileContext.Implementations.ProfileService.UpdateUser(EmprendeUCR.Domain.Core.CoreEntities.User)Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csb  b(*"0*®	
+0Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csd d(8‹
+ˆ
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csd d(+G
+%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository"__id*¥*¢G
+EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService"W
+_profileRepositoryAEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepositoryíê
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csd d(9*
+%1$System.Threading.Tasks.Task<TResult>"wEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository.UserUpdate(EmprendeUCR.Domain.Core.CoreEntities.User)*I
+G
+%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository*0
+.
+u)EmprendeUCR.Domain.Core.CoreEntities.User25UserUpdate(EmprendeUCR.Domain.Core.CoreEntities.User)"™
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csd d(:
+""*½
+1Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cse	 e(	"¦
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cse e(	
+implicit return:.
+u)EmprendeUCR.Domain.Core.CoreEntities.UserBIG
+EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService

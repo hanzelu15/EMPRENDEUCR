@@ -1,0 +1,4 @@
+ƒ
+@EmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>…
+ÅConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.ProductService>)¬EmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.ProductService>)k
+ProductServiceMap()TEmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMap.ProductServiceMap()

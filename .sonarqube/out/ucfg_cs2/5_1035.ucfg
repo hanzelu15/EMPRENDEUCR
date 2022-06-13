@@ -1,0 +1,43 @@
+
+qEmprendeUCR_WebApplication.Data.Services.LikesService.RemoveLikes(EmprendeUCR_WebApplication.Data.Entities.Likes)Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs ("0*◊
+0Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs! "("‹
+Ÿ
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs! !(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ö*Ç7
+5EmprendeUCR_WebApplication.Data.Services.LikesService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÀ
+»
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs! !(2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"EEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Likes.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextîë
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs! !((G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*9
+7
+likes.EmprendeUCR_WebApplication.Data.Entities.Likes2Remove(TEntity)‹
+Ÿ
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs" "(A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ö*Ç7
+5EmprendeUCR_WebApplication.Data.Services.LikesService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext°û
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs" "("	
+%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
+A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
+1*´
+1Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs#	 #(	"ù
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs# #(	
+implicit return:7
+likes.EmprendeUCR_WebApplication.Data.Entities.LikesB97
+5EmprendeUCR_WebApplication.Data.Services.LikesService

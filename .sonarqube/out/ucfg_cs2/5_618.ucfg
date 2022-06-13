@@ -1,0 +1,49 @@
+
+íEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.GetProductStatus(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\ProductService.cs (&"0*‹
+0ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\ProductService.cs  (‰
+·
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\ProductService.cs ()7
+%01System.Collections.Generic.IReadOnlyCollection<T>"__id*â*ÜD
+BEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService">
+	Organized1System.Collections.Generic.IReadOnlyCollection<T>ù
+ö
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\ProductService.cs (J/
+%1)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*9
+7
+%01System.Collections.Generic.IReadOnlyCollection<T>*
+""â
+Ü
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\ProductService.cs (RG
+%2AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized"VSystem.Linq.Enumerable.First<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.IEnumerable<T>æ
+ª
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\ProductService.cs (W
+%3string"JEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.Name.get*I
+G
+%2AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized¿
+Ω
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\ProductService.cs (W
+statestring"__id*
+
+%3string"©
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\ProductService.cs   (
+
+statestring*«
+1ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\ProductService.cs!	 !(	"´
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\Core\CoreEntities\ProductService.cs! !(	
+implicit return:F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.OrderBFD
+BEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService

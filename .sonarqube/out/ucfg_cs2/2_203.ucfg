@@ -1,0 +1,26 @@
+
+[EmprendeUCR.Application.ProfileContext.Implementations.ProfileService.GetParentCategories()Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs? ?(2"0*à
+0Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csA A(;‹
+ˆ
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csA A(%G
+%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository"__id*¥*¢G
+EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService"W
+_profileRepositoryAEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepositoryú÷
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csA A(;)
+%1#System.Collections.Generic.IList<T>"WEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository.GetFatherCategories()*I
+G
+%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository2GetFatherCategories()"¾
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csA A(<+
+)
+%1#System.Collections.Generic.IList<T>*½
+1Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csB	 B(	"¦
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csB B(	
+implicit returnBIG
+EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService

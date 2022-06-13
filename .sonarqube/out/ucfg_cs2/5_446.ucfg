@@ -1,0 +1,56 @@
+
+wEmprendeUCR_WebApplication.Data.Services.RegisterService.Registrarse(EmprendeUCR_WebApplication.Data.Entities.Registro)ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs'  '(+"0*Å
+0ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs) )("¯
+¬
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs) )("
+	registrarbool"__id*
+""*
+1*ˆ
+1ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs, ,(E½
+º
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs," ,(F*
+%0$System.Threading.Tasks.Task<TResult>"€EmprendeUCR_WebApplication.Data.Services.RegisterService.checkRecordExistence(EmprendeUCR_WebApplication.Data.Entities.Registro)*<:
+8EmprendeUCR_WebApplication.Data.Services.RegisterService*@
+>
+	oRegistro1EmprendeUCR_WebApplication.Data.Entities.Registro¯
+¬
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs, ,(F
+	registrarbool"__id*
+""*
+2
+3*Û
+2ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs0 0(,áÞ
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs0" 0(,
+%1string"System.Exception.Message.get*
+
+exSystem.Exception2Message.getá
+Þ
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs0 0(-
+
+%2void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%1string*
+3*±
+3ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs2 2(" 
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs2 2(
+
+	registrarbool*±
+4ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs3	 3(	" 
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs3 3(	
+implicit return:>
+	oRegistro1EmprendeUCR_WebApplication.Data.Entities.RegistroB<:
+8EmprendeUCR_WebApplication.Data.Services.RegisterService

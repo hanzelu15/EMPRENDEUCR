@@ -1,0 +1,44 @@
+
+¾EmprendeUCR_WebApplication.Application.BillContext.Implementations.BillService.returnBillBytes(Microsoft.JSInterop.IJSRuntime, EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order, System.Collections.Generic.List<System.Tuple<int, EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product>>, string, string)Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\BillContext\Implementations\BillService.cs* *(%"0*ó
+0Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\BillContext\Implementations\BillService.cs, ,(X¡
+ž
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\BillContext\Implementations\BillService.cs, ,(H
+%0BEmprendeUCR_WebApplication.Infrastructure.BillContext.IPdfCreation"__id*©*¦P
+NEmprendeUCR_WebApplication.Application.BillContext.Implementations.BillService"R
+_pdfCreationBEmprendeUCR_WebApplication.Infrastructure.BillContext.IPdfCreationòï
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\BillContext\Implementations\BillService.cs, ,(Y
+%1byte[]"«EmprendeUCR_WebApplication.Infrastructure.BillContext.IPdfCreation.Generate(Microsoft.JSInterop.IJSRuntime, EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order, System.Collections.Generic.List<System.Tuple<int, EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product>>, string, string)*J
+H
+%0BEmprendeUCR_WebApplication.Infrastructure.BillContext.IPdfCreation*&
+$
+jsMicrosoft.JSInterop.IJSRuntime*H
+F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*0
+.
+products"System.Collections.Generic.List<T>*
+
+entrepreneurNamestring*
+
+
+clientNamestring2èGenerate(Microsoft.JSInterop.IJSRuntime, EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order, System.Collections.Generic.List<System.Tuple<int, EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product>>, string, string)"²
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\BillContext\Implementations\BillService.cs,
+ ,(Z
+
+%1byte[]*ß
+1Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\BillContext\Implementations\BillService.cs-	 -(	"·
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\BillContext\Implementations\BillService.cs- -(	
+implicit return:$
+jsMicrosoft.JSInterop.IJSRuntime:F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order:.
+products"System.Collections.Generic.List<T>:
+entrepreneurNamestring:
+
+clientNamestringBRP
+NEmprendeUCR_WebApplication.Application.BillContext.Implementations.BillService

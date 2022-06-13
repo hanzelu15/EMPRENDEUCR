@@ -1,0 +1,39 @@
+
+=EmprendeUCR.Domain.Core.CoreEntities.Service.setCategory(int)t
+jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs; ;("0*
+0t
+jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs= >(™
+–
+t
+jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.cs= =(!
+responsebool"__id*
+""*
+1
+2*™
+1t
+jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.csB C()™
+–
+t
+jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.csB B(
+responsebool"__id*
+""ü
+ù
+t
+jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.csC C()	
+%0int"<EmprendeUCR.Domain.Core.CoreEntities.Service.Category_ID.set*0.
+,EmprendeUCR.Domain.Core.CoreEntities.Service*
+""*
+2*†
+2t
+jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.csE E("Š
+t
+jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.csE E(
+
+responsebool*‡
+3t
+jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.csG	 G(	"‹
+t
+jC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Service.csG G(	
+implicit return:
+cat_idintB0.
+,EmprendeUCR.Domain.Core.CoreEntities.Service

@@ -1,0 +1,95 @@
+
+FEmprendeUCR.Domain.Core.ValueObjects.RequiredString.TryCreate(string?){
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs ("0*Ú
+0{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (/Ï
+Ì
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (0
+
+%0bool""string.IsNullOrWhiteSpace(string?)*
+"
+string*
+
+valuestring*
+1
+2*¥
+1{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (/–“
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (/L
+%1FEmprendeUCR.Domain.Core.ValueObjects.RequiredString.IsNullOrWhitespace"FEmprendeUCR.Domain.Core.ValueObjects.RequiredString.IsNullOrWhitespace¹
+¶
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (-
+
+%2void"[EmprendeUCR.Domain.Core.ValueObjects.RequiredString.IsNullOrWhitespace.IsNullOrWhitespace()*N
+L
+%1FEmprendeUCR.Domain.Core.ValueObjects.RequiredString.IsNullOrWhitespace"Í
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (0N
+L
+%1FEmprendeUCR.Domain.Core.ValueObjects.RequiredString.IsNullOrWhitespace*Ó
+2{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs ((±
+®
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (	
+%3int"string.Length.get*
+
+valuestring”
+‘
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs ((
+%4"__id*
+""*
+3
+4*…
+3{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (,”
+‘
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs# (,
+%5"__id*
+""€ý
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (-A
+%6;EmprendeUCR.Domain.Core.ValueObjects.RequiredString.TooLong";EmprendeUCR.Domain.Core.ValueObjects.RequiredString.TooLong£
+ 
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs ("
+
+%7void"HEmprendeUCR.Domain.Core.ValueObjects.RequiredString.TooLong.TooLong(int)*C
+A
+%6;EmprendeUCR.Domain.Core.ValueObjects.RequiredString.TooLong*
+
+%5"Â
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (.C
+A
+%6;EmprendeUCR.Domain.Core.ValueObjects.RequiredString.TooLong*Û
+4{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (+ðí
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (,9
+%83EmprendeUCR.Domain.Core.ValueObjects.RequiredString"3EmprendeUCR.Domain.Core.ValueObjects.RequiredString¨
+¥
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (%
+
+%9void"JEmprendeUCR.Domain.Core.ValueObjects.RequiredString.RequiredString(string)*;
+9
+%83EmprendeUCR.Domain.Core.ValueObjects.RequiredString*
+
+valuestring"º
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (-;
+9
+%83EmprendeUCR.Domain.Core.ValueObjects.RequiredString*•
+5{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs	 (	"’
+{
+qC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\ValueObjects\RequiredString.cs (	
+implicit return:
+valuestringB7"5
+3EmprendeUCR.Domain.Core.ValueObjects.RequiredString

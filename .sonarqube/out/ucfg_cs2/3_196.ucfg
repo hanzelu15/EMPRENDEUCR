@@ -1,0 +1,37 @@
+
+xEmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs  (/"0*Û
+0„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs (<¸µ
+„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs (.
+
+%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*@>
+<EmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContext*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ž›
+„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs, (<K
+%1EEmprendeUCR.Infrastructure.Chats.TheMessage.EntityMappings.MessageMap"EEmprendeUCR.Infrastructure.Chats.TheMessage.EntityMappings.MessageMap¹
+¶
+„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs0 (:
+
+%2void"REmprendeUCR.Infrastructure.Chats.TheMessage.EntityMappings.MessageMap.MessageMap()*M
+K
+%1EEmprendeUCR.Infrastructure.Chats.TheMessage.EntityMappings.MessageMap±®
+„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs (=0
+%3*Microsoft.EntityFrameworkCore.ModelBuilder"‡Microsoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*M
+K
+%1EEmprendeUCR.Infrastructure.Chats.TheMessage.EntityMappings.MessageMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
+1*©
+1„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs	 (	"œ
+„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs (	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB@>
+<EmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContext

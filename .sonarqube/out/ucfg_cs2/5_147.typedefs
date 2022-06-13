@@ -1,0 +1,14 @@
+ë
+?EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectï
+UProductServicePandemic(EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic)•EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.ProductServicePandemic(EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic)X
+
+GetAsync()JEmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.GetAsync()Í
+DInsertProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)„EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.InsertProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)Í
+DUpdateProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)„EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.UpdateProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)Í
+DDeleteProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)„EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.DeleteProductAsync(EmprendeUCR_WebApplication.Data.Entities.Product)l
+GetProductAsync(int)TEmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.GetProductAsync(int)n
+GetAllProductsAsync()UEmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.GetAllProductsAsync()Œ
+$GetProductsEntrepreneurAsync(string)dEmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.GetProductsEntrepreneurAsync(string)^
+GetProducts()MEmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.GetProducts()n
+GetProductsQuantity()UEmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.GetProductsQuantity()x
+getUserPermissions(string)ZEmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.getUserPermissions(string)

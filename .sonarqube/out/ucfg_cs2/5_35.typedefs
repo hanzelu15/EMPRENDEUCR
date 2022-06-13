@@ -1,0 +1,6 @@
+Ú
+=EmprendeUCR_WebApplication.Data.Services.AdministratorService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÂ
+QAdministratorService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)èEmprendeUCR_WebApplication.Data.Services.AdministratorService.AdministratorService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)”
+HAddAdministrator(EmprendeUCR_WebApplication.Data.Entities.Administrator)ÜEmprendeUCR_WebApplication.Data.Services.AdministratorService.AddAdministrator(EmprendeUCR_WebApplication.Data.Entities.Administrator)p
+GetByEmailAsync(string)UEmprendeUCR_WebApplication.Data.Services.AdministratorService.GetByEmailAsync(string)…
+CUpdateAsync(EmprendeUCR_WebApplication.Data.Entities.Administrator)ÅEmprendeUCR_WebApplication.Data.Services.AdministratorService.UpdateAsync(EmprendeUCR_WebApplication.Data.Entities.Administrator)

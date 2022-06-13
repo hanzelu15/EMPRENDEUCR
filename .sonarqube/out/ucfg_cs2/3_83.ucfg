@@ -1,0 +1,43 @@
+
+SEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository.GetAllAsync()ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs) (4"0*ÿ
+0ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs (BÅ
+˛
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs (#E
+%0?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext"__id*õ*òG
+EEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository"M
+
+_dbContext?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext·
+ﬁ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs (,2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"LEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.Products.get*G
+E
+%0?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext≥
+∞
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs (CR
+%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"¬Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""É
+Ä
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs (Q*
+%3$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*T
+R
+%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
+"""õ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs (R
+""*¡
+1ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs	 (	"®
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs (	
+implicit returnBIG
+EEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository

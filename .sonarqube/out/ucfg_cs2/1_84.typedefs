@@ -1,0 +1,11 @@
+È	
+=EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfoobject”
+)SinpeIbanPaymentInfo(string, int, string)gEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.SinpeIbanPaymentInfo(string, int, string)n
+SinpeIbanPaymentInfo()TEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.SinpeIbanPaymentInfo()ï
+VAssignPaymentMethod(EmprendeUCR.Domain.PaymentMethods.Entities.SinpeIbanPaymentMethod)”EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.AssignPaymentMethod(EmprendeUCR.Domain.PaymentMethods.Entities.SinpeIbanPaymentMethod)f
+Account_Number.getPEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.Account_Number.getf
+Account_Number.setPEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.Account_Number.seth
+Payment_Info_ID.getQEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.Payment_Info_ID.geth
+Payment_Info_ID.setQEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.Payment_Info_ID.setp
+Name_Payment_Method.getUEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.Name_Payment_Method.getp
+Name_Payment_Method.setUEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.Name_Payment_Method.set

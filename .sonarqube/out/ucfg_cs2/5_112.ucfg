@@ -1,0 +1,53 @@
+
+ELab2.Infrastructure.Core.ApplicationDbContext.BeginTransactionAsync()”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs" "(/"0*¹
+0”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs$ $(+î
+ë
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs$ $(#A
+%0;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id*ˆ*…/
+-Lab2.Infrastructure.Core.ApplicationDbContext"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction£
+ 
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs$ $(+
+
+%1bool""object.operator !=(object, object)*
+"
+object*C
+A
+%0;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction*
+""*
+1
+2*¼
+1”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs'	 '(	"Ÿ
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs$- $(4
+""*ë	
+2”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs& &(HÎË
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs&( &(0A
+%2;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*+)
+'Microsoft.EntityFrameworkCore.DbContext2Database.getÅÂ
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs&( &(H*
+%3$System.Threading.Tasks.Task<TResult>"uMicrosoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.BeginTransactionAsync(System.Threading.CancellationToken)*C
+A
+%2;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade*
+""29BeginTransactionAsync(System.Threading.CancellationToken)°
+­
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs& &(H…/
+-Lab2.Infrastructure.Core.ApplicationDbContext"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id*
+""*
+3*É
+3”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs'	 '(	"¬
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs' '(	
+implicit returnB1/
+-Lab2.Infrastructure.Core.ApplicationDbContext

@@ -1,0 +1,26 @@
+
+†EmprendeUCR.Application.Chats.Implementations.UtilizesChatService.AddUtilizesChatAsync(EmprendeUCR.Domain.Chats.Entities.UtilizesChat)‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs (."0*”
+0‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs (Fÿ
+ü
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs ()C
+%0=EmprendeUCR.Domain.Chats.Repositories.IUtilizesChatRepository"__id*¢*ŸC
+AEmprendeUCR.Application.Chats.Implementations.UtilizesChatService"X
+_utilizesChatRepository=EmprendeUCR.Domain.Chats.Repositories.IUtilizesChatRepositoryûø
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs (G!
+%1System.Threading.Tasks.Task"}EmprendeUCR.Domain.Chats.Repositories.IUtilizesChatRepository.AddUtilizesChat(EmprendeUCR.Domain.Chats.Entities.UtilizesChat)*E
+C
+%0=EmprendeUCR.Domain.Chats.Repositories.IUtilizesChatRepository*@
+>
+utilizesChat.EmprendeUCR.Domain.Chats.Entities.UtilizesChat2?AddUtilizesChat(EmprendeUCR.Domain.Chats.Entities.UtilizesChat)*
+1*³
+1‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs	 (	"¡
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\UtilizesChatService.cs (	
+implicit return:>
+utilizesChat.EmprendeUCR.Domain.Chats.Entities.UtilizesChatBEC
+AEmprendeUCR.Application.Chats.Implementations.UtilizesChatService

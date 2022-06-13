@@ -1,0 +1,29 @@
+
+ºEmprendeUCR_WebApplication.Application.NotificationContext.Implementations.NotificationService.GetProductsQuantity(EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification)¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs7 7(&"0*Á
+0¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs9 9(OÔ
+Ñ
+¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs9 9(*L
+%0FEmprendeUCR_WebApplication.Domain.Repositories.INotificationRepository"__id*È*Å`
+^EmprendeUCR_WebApplication.Application.NotificationContext.Implementations.NotificationService"a
+_notificationRepositoryFEmprendeUCR_WebApplication.Domain.Repositories.INotificationRepositoryðí
+¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs9 9(P	
+%1int"¢EmprendeUCR_WebApplication.Domain.Repositories.INotificationRepository.GetProductsQuantity(EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification)*N
+L
+%0FEmprendeUCR_WebApplication.Domain.Repositories.INotificationRepository*\
+Z
+UserNotificationFEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification2[GetProductsQuantity(EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification)"¿
+¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs9 9(Q
+	
+%1int*ÿ
+1¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs:	 :(	"Ç
+¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\NotificationContext\Implementations\NotificationService.cs: :(	
+implicit return:Z
+UserNotificationFEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotificationBb`
+^EmprendeUCR_WebApplication.Application.NotificationContext.Implementations.NotificationService

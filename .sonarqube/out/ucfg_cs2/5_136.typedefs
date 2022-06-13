@@ -1,0 +1,15 @@
+»	
+0EmprendeUCR_WebApplication.Data.Entities.ServiceobjectG
+	Service():EmprendeUCR_WebApplication.Data.Entities.Service.Service()K
+Code_ID.get<EmprendeUCR_WebApplication.Data.Entities.Service.Code_ID.getK
+Code_ID.set<EmprendeUCR_WebApplication.Data.Entities.Service.Code_ID.seta
+Entrepreneur_Email.getGEmprendeUCR_WebApplication.Data.Entities.Service.Entrepreneur_Email.geta
+Entrepreneur_Email.setGEmprendeUCR_WebApplication.Data.Entities.Service.Entrepreneur_Email.setS
+Category_ID.get@EmprendeUCR_WebApplication.Data.Entities.Service.Category_ID.getS
+Category_ID.set@EmprendeUCR_WebApplication.Data.Entities.Service.Category_ID.setU
+Service_Name.getAEmprendeUCR_WebApplication.Data.Entities.Service.Service_Name.getU
+Service_Name.setAEmprendeUCR_WebApplication.Data.Entities.Service.Service_Name.setc
+Service_Description.getHEmprendeUCR_WebApplication.Data.Entities.Service.Service_Description.getc
+Service_Description.setHEmprendeUCR_WebApplication.Data.Entities.Service.Service_Description.setY
+Price_per_hour.getCEmprendeUCR_WebApplication.Data.Entities.Service.Price_per_hour.getY
+Price_per_hour.setCEmprendeUCR_WebApplication.Data.Entities.Service.Price_per_hour.set

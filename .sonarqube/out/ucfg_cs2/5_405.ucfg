@@ -1,0 +1,59 @@
+
+GEmprendeUCR_WebApplication.Data.Services.Serviceservice.GetList(string)‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Serviceservice.cs& (-"0*ó
+0‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Serviceservice.cs (]à
+Ý
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Serviceservice.cs (A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
+7EmprendeUCR_WebApplication.Data.Services.Serviceservice"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext×
+Ô
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Serviceservice.cs (+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"OEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.ServicePandemic.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÒ
+Ï
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Serviceservice.cs7 (V
+%2string"__concat*
+exec GetServices "*
+
+productstring¼
+¹
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Serviceservice.cs7 (]
+%3string"__concat*
+
+%2string*
+"Ö
+Ó
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Serviceservice.cs (^
+%4System.Linq.IQueryable<T>"–Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
+;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+%3string*
+""è
+å
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Serviceservice.cs (h@
+%5:EmprendeUCR_WebApplication.Data.Entities.ServicePandemic[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%4System.Linq.IQueryable<T>"Î
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Serviceservice.cs (iB
+@
+%5:EmprendeUCR_WebApplication.Data.Entities.ServicePandemic[]*¯
+1‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Serviceservice.cs	 (	"Ÿ
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Serviceservice.cs (	
+implicit return:
+productstringB;9
+7EmprendeUCR_WebApplication.Data.Services.Serviceservice

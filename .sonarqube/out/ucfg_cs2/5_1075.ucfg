@@ -1,0 +1,183 @@
+
+UEmprendeUCR_WebApplication.Data.Services.OfferService.hasCommonOffers(string, string)ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csa a(#"0*Ø
+0ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csc i(9…
+∆
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csc c((
+hasCommonOffersbool"__id*
+""˛
+˚
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cse2 e(](
+%0"System.Collections.Generic.List<T>"VEmprendeUCR_WebApplication.Data.Services.OfferService.GetOfferFromEntrepreneur(string)*97
+5EmprendeUCR_WebApplication.Data.Services.OfferService*
+
+firstEntrepreneurstringì
+ê
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cse e(]=
+firstEntrepreneurOffers"System.Collections.Generic.List<T>"__id**
+(
+%0"System.Collections.Generic.List<T>ˇ
+¸
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csf3 f(_(
+%1"System.Collections.Generic.List<T>"VEmprendeUCR_WebApplication.Data.Services.OfferService.GetOfferFromEntrepreneur(string)*97
+5EmprendeUCR_WebApplication.Data.Services.OfferService*
+
+secondEntrepreneurstringî
+ë
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csf f(_>
+secondEntrepreneurOffers"System.Collections.Generic.List<T>"__id**
+(
+%1"System.Collections.Generic.List<T>Ì
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csg0 g(D(
+%2"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>Ö
+Ç
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csg4 g(B
+
+%3void")System.Collections.Generic.List<T>.List()**
+(
+%2"System.Collections.Generic.List<T>é
+ã
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csg g(D8
+is_OffersIntoOffer"System.Collections.Generic.List<T>"__id**
+(
+%2"System.Collections.Generic.List<T>*
+1*¨
+1û
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csÖ	 Ö(	*
+2
+3*ä
+2ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csk l(;œ
+Ã
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csk% k(P(
+%4"System.Collections.Generic.List<T>"äEmprendeUCR_WebApplication.Data.Services.OfferService.GetAllIs_OfferRelatedToOfferNOTAsync(EmprendeUCR_WebApplication.Data.Entities.Offer)*97
+5EmprendeUCR_WebApplication.Data.Services.OfferService*9
+7
+offer.EmprendeUCR_WebApplication.Data.Entities.Offeré
+ã
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csk k(P8
+is_OffersIntoOffer"System.Collections.Generic.List<T>"__id**
+(
+%4"System.Collections.Generic.List<T>*
+4*¨
+4û
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csÖ	 Ö(	*
+5
+1*√
+5ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csn p('≥
+∞
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csn& n(9
+%5string"@EmprendeUCR_WebApplication.Data.Entities.Is_Offer.User_Email.get*?
+=
+is_offer1EmprendeUCR_WebApplication.Data.Entities.Is_Offeré
+ã
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csn& n(O
+
+%6bool""string.operator ==(string, string)*
+"
+string*
+
+%5string*
+
+secondEntrepreneurstringœ
+Ã
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csn n(O
+hasCommonOffersbool"__id*
+
+
+%6bool*
+6
+4*Ã
+6ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csr r(#"ß
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csr r($
+""*ß
+3ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csw" w(:*
+7*¨
+7û
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csÖ	 Ö(	*
+8
+9*ã
+8ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csy z(;œ
+Ã
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csy% y(P(
+%7"System.Collections.Generic.List<T>"äEmprendeUCR_WebApplication.Data.Services.OfferService.GetAllIs_OfferRelatedToOfferNOTAsync(EmprendeUCR_WebApplication.Data.Entities.Offer)*97
+5EmprendeUCR_WebApplication.Data.Services.OfferService*9
+7
+offer.EmprendeUCR_WebApplication.Data.Entities.Offeré
+ã
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csy y(P8
+is_OffersIntoOffer"System.Collections.Generic.List<T>"__id**
+(
+%7"System.Collections.Generic.List<T>*
+10*Æ
+10û
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csÖ	 Ö(	*
+11
+7*≈
+11ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs| ~('≥
+∞
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs|& |(9
+%8string"@EmprendeUCR_WebApplication.Data.Entities.Is_Offer.User_Email.get*?
+=
+is_offer1EmprendeUCR_WebApplication.Data.Entities.Is_Offerç
+ä
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs|& |(N
+
+%9bool""string.operator ==(string, string)*
+"
+string*
+
+%8string*
+
+firstEntrepreneurstringœ
+Ã
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs| |(N
+hasCommonOffersbool"__id*
+
+
+%9bool*
+12
+10*—
+12û
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csÄ Ä(#"©
+û
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csÄ Ä($
+""*–
+9û
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csÑ Ñ("©
+û
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csÑ Ñ(
+""*ﬁ
+13û
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csÖ	 Ö(	"∂
+û
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.csÖ Ö(	
+implicit return:
+firstEntrepreneurstring:
+secondEntrepreneurstringB97
+5EmprendeUCR_WebApplication.Data.Services.OfferService

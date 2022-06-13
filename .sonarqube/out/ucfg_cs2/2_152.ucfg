@@ -1,0 +1,29 @@
+
+\EmprendeUCR.Application.LoginContext.Implementations.LoginService.getUserCredentials(string)‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csø ø(-"0*í
+0‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csú ú(8ú
+÷
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csú ú(#C
+%0=EmprendeUCR.Domain.LoginContext.Repositories.ILoginRepository"__id*›*˜C
+AEmprendeUCR.Application.LoginContext.Implementations.LoginService"Q
+_loginRepository=EmprendeUCR.Domain.LoginContext.Repositories.ILoginRepository‘Ž
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csú ú(96
+%10EmprendeUCR.Domain.Core.CoreEntities.Credentials"TEmprendeUCR.Domain.LoginContext.Repositories.ILoginRepository.getCredentials(string)*E
+C
+%0=EmprendeUCR.Domain.LoginContext.Repositories.ILoginRepository*
+
+emailstring2getCredentials(string)"È
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csú ú(:8
+6
+%10EmprendeUCR.Domain.Core.CoreEntities.Credentials*·
+1‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csû	 û(	"£
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csû û(	
+implicit return:
+emailstringBEC
+AEmprendeUCR.Application.LoginContext.Implementations.LoginService

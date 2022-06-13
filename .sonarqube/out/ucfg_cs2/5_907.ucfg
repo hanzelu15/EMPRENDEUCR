@@ -1,0 +1,61 @@
+
+áEmprendeUCR_WebApplication.Data.Services.Alliance_Service.InsertAllianceServiceAsync(EmprendeUCR_WebApplication.Data.Entities.Alliance)õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs  (:"0*Ü
+0õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs! %(¢
+ü
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs! !(#8
+obj1EmprendeUCR_WebApplication.Data.Entities.Alliance"__id*?
+=
+alliance1EmprendeUCR_WebApplication.Data.Entities.Allianceˆ
+Û
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs" "(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*â*Ü;
+9EmprendeUCR_WebApplication.Data.Services.Alliance_Service"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext‰
+·
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs" "(#2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Alliance.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÁ‰
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs" "(1/
+%2)System.Threading.Tasks.ValueTask<TResult>"bMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddAsync(TEntity, System.Threading.CancellationToken)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*:
+8
+obj1EmprendeUCR_WebApplication.Data.Entities.Alliance*
+""25AddAsync(TEntity, System.Threading.CancellationToken)ˆ
+Û
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs# #(A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*â*Ü;
+9EmprendeUCR_WebApplication.Data.Services.Alliance_Service"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÆ´
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs# #(-*
+%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
+A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)†
+ù
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs$ $("
+
+%5void"!System.Console.WriteLine(object?)*"
+System.Console*:
+8
+obj1EmprendeUCR_WebApplication.Data.Entities.Alliance"¶
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs% %(
+""*◊
+1õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs&	 &(	"≥
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs& &(	
+implicit return:=
+alliance1EmprendeUCR_WebApplication.Data.Entities.AllianceB=;
+9EmprendeUCR_WebApplication.Data.Services.Alliance_Service

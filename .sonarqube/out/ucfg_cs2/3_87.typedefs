@@ -1,0 +1,21 @@
+®
+bEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepositoryobject[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository–
+tProductsSearchClientRepository(EmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext)◊EmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.ProductsSearchClientRepository(EmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext)Ö
+loadAllPhotos()rEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.loadAllPhotos()è
+getCategoriesAsync()wEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.getCategoriesAsync()¢
+getProductListByCategory(int)ÄEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.getProductListByCategory(int)¢
+getServiceListByCategory(int)ÄEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.getServiceListByCategory(int)≤
+%getListProductRestricted(string, int)àEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.getListProductRestricted(string, int)ë
+getListProduc(string)xEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.getListProduc(string)¶
+changeCategoryParent(int, int?)ÇEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.changeCategoryParent(int, int?)á
+isChildNode(int)sEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.isChildNode(int)õ
+searchProduct(string, int)}EmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.searchProduct(string, int)Ë
+@addProduct(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)£EmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.addProduct(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)ì
+getListService(string)yEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.getListService(string)≤
+%GetListServiceRestricted(string, int)àEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.GetListServiceRestricted(string, int)ç
+GetProductService()vEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.GetProductService()ë
+getAllServicePhotos()xEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.getAllServicePhotos()è
+GetProductPrice(int)wEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.GetProductPrice(int)ì
+GetServiceByPrice(int)yEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.GetServiceByPrice(int)É
+UnitOfWork.getqEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.UnitOfWork.getÉ
+UnitOfWork.setqEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.UnitOfWork.set

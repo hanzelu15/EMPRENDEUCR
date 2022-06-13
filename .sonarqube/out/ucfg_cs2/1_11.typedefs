@@ -1,0 +1,12 @@
+·
+6EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmationobjectÁ
+CEmailConfirmation(string, string, System.DateTime, System.DateTime)zEmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.EmailConfirmation(string, string, System.DateTime, System.DateTime)a
+EmailConfirmation()JEmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.EmailConfirmation()M
+	Email.get@EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.Email.getM
+	Email.set@EmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.Email.setU
+Hash_Code.getDEmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.Hash_Code.getU
+Hash_Code.setDEmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.Hash_Code.set]
+Creation_Date.getHEmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.Creation_Date.get]
+Creation_Date.setHEmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.Creation_Date.seta
+Expiration_Date.getJEmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.Expiration_Date.geta
+Expiration_Date.setJEmprendeUCR.Domain.Core.CoreEntities.EmailConfirmation.Expiration_Date.set

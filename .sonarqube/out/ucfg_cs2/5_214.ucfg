@@ -1,0 +1,32 @@
+
+bEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.eraseAllProductLines()œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs% %(*"0*±
+0œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs&% &(.‡
+„
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs&% &(.7
+%01System.Collections.Generic.IReadOnlyCollection<T>"YEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.ShopLines.get*OM
+KEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart*
+1*ª
+1œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs)	 )(	*
+2
+3*µ
+2œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs' '(6‹
+ˆ
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs' '(7
+
+%1void"²EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.DeleteProductFromShoppingCart(EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine)*OM
+KEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart*U
+S
+shopLineGEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine*
+1*Ù
+3œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs)	 )(	"´
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\ShoppingCartContext\Entities\ShoppingCart.cs) )(	
+implicit returnBOM
+KEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart

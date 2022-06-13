@@ -1,0 +1,21 @@
+
+…EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs  (-"0*Œ
+0ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs (Döó
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs (E;
+%05Microsoft.EntityFrameworkCore.DbContextOptionsBuilder"¼Microsoft.EntityFrameworkCore.DbContextOptionsBuilder.LogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*I
+G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilder*
+""*
+""*
+""2†LogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*
+1*±
+1ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs	 (	" 
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs (	
+implicit return:G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilderBDB
+@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext

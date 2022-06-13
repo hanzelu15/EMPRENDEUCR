@@ -1,0 +1,134 @@
+
+cEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService.AddSuggestedCategory()ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.cs_ _(."0*°
+0ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csa g( ù
+ö
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csa a()jN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService"
+AddDialogVisiblebool"__id*
+""£†
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csb* b(BA
+%0;EmprendeUCR_WebApplication.Data.Entities.Suggested_Category";EmprendeUCR_WebApplication.Data.Entities.Suggested_Category∆
+√
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csb. b(@
+
+%1void"PEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.Suggested_Category()*C
+A
+%0;EmprendeUCR_WebApplication.Data.Entities.Suggested_Category∑
+¥
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csb b(BG
+Category;EmprendeUCR_WebApplication.Data.Entities.Suggested_Category"__id*C
+A
+%0;EmprendeUCR_WebApplication.Data.Entities.Suggested_Categoryú
+ô
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csd d("
+%2string"__id*c*aN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService"
+Titlestring”
+–
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csd d("
+%3string"EEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.Title.set*I
+G
+Category;EmprendeUCR_WebApplication.Data.Entities.Suggested_Category*
+
+%2string¢
+ü
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.cse# e(.
+%4string"__id*i*gN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService"
+DescriptionstringŸ
+÷
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.cse e(.
+%5string"KEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.Description.set*I
+G
+Category;EmprendeUCR_WebApplication.Data.Entities.Suggested_Category*
+
+%4stringü
+ú
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csf f(&
+%6string"__id*f*dN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService"
+ParentIDstringˆ
+Û
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csf f('
+
+%7void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%6stringü
+ú
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csg g(
+%8string"__id*f*dN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService"
+ParentIDstring˜
+Ù
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csg g( 
+
+%9bool""string.operator !=(string, string)*
+"
+string*
+
+%8string*
+""*
+1
+2*é
+1ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csi i(6†
+ù
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csi. i(6
+%10string"__id*f*dN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService"
+ParentIDstring‹
+Ÿ
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csi$ i(7
+
+%11int"int.Parse(string)*"
+int*
+
+%10string·
+ﬁ
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csi i(7
+%12System.Nullable<T>"HEmprendeUCR_WebApplication.Data.Entities.Suggested_Category.ParentID.set*I
+G
+Category;EmprendeUCR_WebApplication.Data.Entities.Suggested_Category*
+
+
+%11int*
+2*´
+2ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csk m("ñ
+ì
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csk k(8+
+%13$System.Threading.Tasks.Task<TResult>"¶EmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService.InsertSuggestedCategoryAsync(EmprendeUCR_WebApplication.Data.Entities.Suggested_Category)*PN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService*I
+G
+Category;EmprendeUCR_WebApplication.Data.Entities.Suggested_CategoryÁ
+‰
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csm m("
+%14void"cEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService.ResetAddCategoryData()*PN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService*
+3*€
+3ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csn	 n(	"µ
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csn n(	
+implicit returnBPN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService

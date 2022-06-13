@@ -1,0 +1,167 @@
+
+ÅEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs&  &(/"0*√`
+0ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs( 2(E”–
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs( ((.
+
+%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*IG
+EEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)‘—
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs*, *(C]
+%1WEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductServiceMap"WEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductServiceMapˆ
+Û
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs*0 *(A
+
+%2void"kEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductServiceMap.ProductServiceMap()*_
+]
+%1WEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductServiceMap’“
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs* *(D0
+%3*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*_
+]
+%1WEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductServiceMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)∆√
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs+, +(<V
+%4PEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductMap"PEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductMap·
+ﬁ
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs+0 +(:
+
+%5void"]EmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductMap.ProductMap()*X
+V
+%4PEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductMapŒÀ
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs+ +(=0
+%6*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*X
+V
+%4PEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)∆√
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs,, ,(<V
+%7PEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ServiceMap"PEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ServiceMap·
+ﬁ
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs,0 ,(:
+
+%8void"]EmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ServiceMap.ServiceMap()*X
+V
+%7PEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ServiceMapŒÀ
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs, ,(=0
+%9*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*X
+V
+%7PEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ServiceMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)√¿
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs-, -(:U
+%10NEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrderMap"NEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrderMap›
+⁄
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs-0 -(8
+%11void"YEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrderMap.OrderMap()*W
+U
+%10NEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrderMapŒÀ
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs- -(;1
+%12*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*W
+U
+%10NEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrderMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)À»
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs., .(>Y
+%13REmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrganizedMap"REmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrganizedMapÈ
+Ê
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs.0 .(<
+%14void"aEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrganizedMap.OrganizedMap()*[
+Y
+%13REmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrganizedMap“œ
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs. .(?1
+%15*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*[
+Y
+%13REmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrganizedMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)≈¬
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs/, /(;V
+%16OEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.StatusMap"OEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.StatusMap‡
+›
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs/0 /(9
+%17void"[EmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.StatusMap.StatusMap()*X
+V
+%16OEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.StatusMapœÃ
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs/ /(<1
+%18*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*X
+V
+%16OEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.StatusMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)”–
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs0, 0(B]
+%19VEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.GenericStatusMap"VEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.GenericStatusMapı
+Ú
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs00 0(@
+%20void"iEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.GenericStatusMap.GenericStatusMap()*_
+]
+%19VEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.GenericStatusMap÷”
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs0 0(C1
+%21*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*_
+]
+%19VEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.GenericStatusMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)›⁄
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs1, 1(Gb
+%22[EmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.PersonalizedStatusMap"[EmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.PersonalizedStatusMapÑ
+Å
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs10 1(E
+%23void"sEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.PersonalizedStatusMap.PersonalizedStatusMap()*d
+b
+%22[EmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.PersonalizedStatusMap€ÿ
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs1 1(H1
+%24*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*d
+b
+%22[EmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.PersonalizedStatusMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)Ÿ÷
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs2, 2(E`
+%25YEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductHasStatusMap"YEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductHasStatusMap˛
+˚
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs20 2(C
+%26void"oEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductHasStatusMap.ProductHasStatusMap()*b
+`
+%25YEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductHasStatusMapŸ÷
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs2 2(F1
+%27*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*b
+`
+%25YEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductHasStatusMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
+1*Õ
+1ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs3	 3(	"Æ
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\OrderDbContext.cs3 3(	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBIG
+EEmprendeUCR_WebApplication.Infrastructure.OrderContext.OrderDbContext

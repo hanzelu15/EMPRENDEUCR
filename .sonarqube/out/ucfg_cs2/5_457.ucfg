@@ -1,0 +1,43 @@
+
+wEmprendeUCR_WebApplication.Data.Services.ProvinceService.addProvince(EmprendeUCR_WebApplication.Data.Entities.Province)ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProvinceService.cs ("0*ò
+0ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProvinceService.cs  !("â
+ß
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProvinceService.cs   (A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ˆ*…:
+8EmprendeUCR_WebApplication.Data.Services.ProvinceService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÑ
+Î
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProvinceService.cs   (2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Province.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext—”
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProvinceService.cs   (+G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*?
+=
+province1EmprendeUCR_WebApplication.Data.Entities.Province2Add(TEntity)â
+ß
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProvinceService.cs! !(A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ˆ*…:
+8EmprendeUCR_WebApplication.Data.Services.ProvinceService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext¤¡
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProvinceService.cs! !("	
+%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
+A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
+1*±
+1ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProvinceService.cs"	 "(	" 
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProvinceService.cs" "(	
+implicit return:=
+province1EmprendeUCR_WebApplication.Data.Entities.ProvinceB<:
+8EmprendeUCR_WebApplication.Data.Services.ProvinceService

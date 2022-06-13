@@ -1,0 +1,13 @@
+Ö
+BEmprendeUCR_WebApplication.Domain.NotificationContext.Notificationobject[
+
+ToString()MEmprendeUCR_WebApplication.Domain.NotificationContext.Notification.ToString()c
+Notification()QEmprendeUCR_WebApplication.Domain.NotificationContext.Notification.Notification()W
+date.getKEmprendeUCR_WebApplication.Domain.NotificationContext.Notification.date.getW
+date.setKEmprendeUCR_WebApplication.Domain.NotificationContext.Notification.date.setU
+url.getJEmprendeUCR_WebApplication.Domain.NotificationContext.Notification.url.getU
+url.setJEmprendeUCR_WebApplication.Domain.NotificationContext.Notification.url.setY
+	color.getLEmprendeUCR_WebApplication.Domain.NotificationContext.Notification.color.getY
+	color.setLEmprendeUCR_WebApplication.Domain.NotificationContext.Notification.color.setW
+Type.getKEmprendeUCR_WebApplication.Domain.NotificationContext.Notification.Type.getW
+Type.setKEmprendeUCR_WebApplication.Domain.NotificationContext.Notification.Type.set

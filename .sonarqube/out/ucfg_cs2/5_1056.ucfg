@@ -1,0 +1,43 @@
+
+fEmprendeUCR_WebApplication.Data.Services.HasSuppliesService.GetAllHasSuppliesEntrepreneurAsync(string)å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs>- >(O"0*Ÿ
+0å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs@ @(bÈ
+Ê
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs@ @(!A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ã*à=
+;EmprendeUCR_WebApplication.Data.Services.HasSuppliesService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÿ
+’
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs@ @(-2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"KEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.HasSupplies.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextî
+ë
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs@ @(c
+%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Ã
+…
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs@ @(q*
+%3$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%2System.Linq.IQueryable<T>*
+"""ó
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.cs@ @(r
+""*π
+1å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.csA	 A(	"§
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\HasSuppliesService.csA A(	
+implicit return:
+entrepreneurEmailstringB?=
+;EmprendeUCR_WebApplication.Data.Services.HasSuppliesService

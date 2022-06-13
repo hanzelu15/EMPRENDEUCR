@@ -1,0 +1,31 @@
+
+aEmprendeUCR.Application.ProfileContext.Implementations.ProfileService.UpdatePhone(string, string)Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs]  ](+"0*î
+0Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs_ _(D‹
+ˆ
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs_ _(+G
+%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository"__id*¥*¢G
+EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService"W
+_profileRepositoryAEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository­ª
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs_ _(E*
+%1$System.Threading.Tasks.Task<TResult>"]EmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository.PhoneUpdate(string, string)*I
+G
+%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository*
+
+emailstring*
+
+phonestring2PhoneUpdate(string, string)"™
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs_ _(F
+""*½
+1Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs`	 `(	"¦
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs` `(	
+implicit return:
+emailstring:
+phonestringBIG
+EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService

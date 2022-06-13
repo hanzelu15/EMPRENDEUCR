@@ -1,0 +1,111 @@
+
+ÖEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService.ValidateTitle(Microsoft.AspNetCore.Components.ChangeEventArgs)ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csL L(!"0*Ç
+0ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csN P( é
+ã
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csN N( aH
+FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"
+TitleNotValidbool"__id*
+""°
+û
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csO O(&
+%0object"9Microsoft.AspNetCore.Components.ChangeEventArgs.Value.get*9
+7
+args/Microsoft.AspNetCore.Components.ChangeEventArgsπ
+∂
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csO O(&
+%1"__id*
+
+%0objectà
+Ö
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csO O(&[H
+FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"
+Titlestring"__id*
+
+%1ê
+ç
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csP P(
+%2string"__id*]*[H
+FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"
+TitlestringÀ
+»
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csP P(	
+%3int"string.Length.get*
+
+%2string*
+1
+2*µ	
+1ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csR R(@ñ
+ì
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csR R(#I
+%4CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService"__id*•*¢H
+FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"V
+CategoryServiceCEmprendeUCR_WebApplication.Data.Services.Categories.CategoryServiceê
+ç
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csR2 R(7
+%5string"__id*]*[H
+FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"
+Titlestring·
+ﬁ
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csR R(8
+
+%6bool"YEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.ValidateTitle(string)*K
+I
+%4CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService*
+
+%5string*
+3
+2*≥
+3ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csT T()é
+ã
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csT T()aH
+FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"
+TitleNotValidbool"__id*
+""*
+2*Ÿ
+2ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csW" W(/±
+Æ
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csW" W(/
+%7"__id*
+""*
+4
+5*÷
+5ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csW3 W(C±
+Æ
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csW3 W(C
+%8"__id*
+""*
+4*π
+4ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csW W(Cî
+ë
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csW W(CgH
+FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService"
+AddCategoryDisabledbool"__id*
+""*
+6*œ
+6ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csX	 X(	"Ø
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\AddCategoryService.csX X(	
+implicit return:7
+args/Microsoft.AspNetCore.Components.ChangeEventArgsBJH
+FEmprendeUCR_WebApplication.Data.Services.Categories.AddCategoryService

@@ -1,0 +1,52 @@
+
+gEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.deleteAllEntries(string)ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs[ [($"0*Ÿ
+0ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs] ^($ì
+ê
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs] ](F
+%0@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext"__id*•*¢P
+NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository"N
+
+_dbContext@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext¸˘
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs] ](!2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"OEmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext.Is_Able_To.get*H
+F
+%0@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext2Is_Able_To.getñ
+ì
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs]. ](H)
+%2#System.Collections.Generic.IList<T>"eEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getPermissions(string)*RP
+NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository*
+
+emailstringµ≤
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs] ](I
+
+%3void"iMicrosoft.EntityFrameworkCore.DbSet<TEntity>.RemoveRange(System.Collections.Generic.IEnumerable<TEntity>)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*+
+)
+%2#System.Collections.Generic.IList<T>2<RemoveRange(System.Collections.Generic.IEnumerable<TEntity>)ì
+ê
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs^ ^(F
+%4@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext"__id*•*¢P
+NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository"N
+
+_dbContext@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext∏µ
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs^ ^($	
+%5int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*H
+F
+%4@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext2SaveChanges()*
+1*œ
+1ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs_	 _(	"Ø
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs_ _(	
+implicit return:
+emailstringBRP
+NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository

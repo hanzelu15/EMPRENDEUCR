@@ -1,0 +1,41 @@
+
+vEmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository.SaveAsync(EmprendeUCR.Domain.Reports.Entities.Report)ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs" "(#"0*Û
+0ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs$ %(0Ú
+×
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs$ $(8
+%02EmprendeUCR.Infrastructure.Reports.ReportDbContext"__id*‰*†B
+@EmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository"@
+
+_dbContext2EmprendeUCR.Infrastructure.Reports.ReportDbContext§¤
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs$ $(%G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Update<TEntity>(TEntity)*:
+8
+%02EmprendeUCR.Infrastructure.Reports.ReportDbContext*6
+4
+report*EmprendeUCR.Domain.Reports.Entities.Report2Update<TEntity>(TEntity)Ú
+×
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs% %(8
+%22EmprendeUCR.Infrastructure.Reports.ReportDbContext"__id*‰*†B
+@EmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository"@
+
+_dbContext2EmprendeUCR.Infrastructure.Reports.ReportDbContextá
+Þ
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs% %(0!
+%3System.Threading.Tasks.Task"jEmprendeUCR.Infrastructure.Core.ApplicationDbContext.SaveEntitiesAsync(System.Threading.CancellationToken)*:
+8
+%22EmprendeUCR.Infrastructure.Reports.ReportDbContext*
+""*
+1*±
+1ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs&	 &(	" 
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs& &(	
+implicit return:4
+report*EmprendeUCR.Domain.Reports.Entities.ReportBDB
+@EmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository

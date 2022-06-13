@@ -1,0 +1,35 @@
+
+ZEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getAllCantons()“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.cs^) ^(6"0*”
+0“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.cs` `(8ƒ
+€
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.cs` `(#B
+%0<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext"__id**šL
+JEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository"J
+
+_dbContext<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContextèå
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.cs` `(*2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext.Canton.get*D
+B
+%0<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext2
+Canton.getæ
+ã
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.cs` `(8*
+%2$System.Threading.Tasks.Task<TResult>"šMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""ž
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.cs` `(9
+""*Ç
+1“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csa	 a(	"«
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csa a(	
+implicit returnBNL
+JEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository

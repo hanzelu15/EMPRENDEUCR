@@ -1,0 +1,27 @@
+
+wEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.ChangeParent(int, int?)®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csQ Q(&"0*ù	
+0®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csS S(SÄ
+˝
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csS S(1a
+%0[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository"__id*Ê*„a
+_EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService"~
+_productsSearchClientRepository[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository‰·
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csS S(T!
+%1System.Threading.Tasks.Task"{EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository.changeCategoryParent(int, int?)*c
+a
+%0[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository*
+""*
+""2changeCategoryParent(int, int?)*
+1*Ò
+1®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csT	 T(	"¿
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.csT T(	
+implicit return:	
+Idint:
+ParentIdSystem.Nullable<T>Bca
+_EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService

@@ -1,0 +1,43 @@
+
+dEmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.GetProductsEntrepreneurAsync(string)ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.csA* A(F"0*˘
+0ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.csC C(_ı
+Ú
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.csC C(!C
+%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic"__id*ë*éA
+?EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic"I
+_context=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic‹
+Ÿ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.csC C()2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"IEmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic.Product.get*E
+C
+%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemicò
+ï
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.csC C(`
+%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""–
+Õ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.csC C(n*
+%3$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%2System.Linq.IQueryable<T>*
+"""õ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.csC C(o
+""*¡
+1ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.csE	 E(	"®
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.csE E(	
+implicit return:
+emailstringBCA
+?EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic

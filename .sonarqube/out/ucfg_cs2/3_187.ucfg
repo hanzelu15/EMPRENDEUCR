@@ -1,0 +1,34 @@
+
+lEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetAllServicePhotos()Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csd% d(8"0*È
+0Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csf f(5³
+°
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csf f(N
+%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext"__id*µ*²X
+VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository"V
+
+_dbContextHEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContextœ™
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csf f(,2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"[EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Service_Photos.get*P
+N
+%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext2Service_Photos.getú
+÷
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csf f(5(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"Î
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csf f(6*
+(
+%2"System.Collections.Generic.List<T>*ß
+1Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csg	 g(	"·
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csg g(	
+implicit returnBZX
+VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository

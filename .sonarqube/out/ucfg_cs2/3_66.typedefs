@@ -1,0 +1,4 @@
+ý
+6EmprendeUCR.Infrastructure.Core.EntityMappings.UserMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>ª
+wConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.User>)®EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.User>)M
+	UserMap()@EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap.UserMap()

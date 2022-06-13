@@ -1,0 +1,5 @@
+„
+7EmprendeUCR.Infrastructure.Core.EntityMappings.LikesMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>­
+xConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Likes>)°EmprendeUCR.Infrastructure.Core.EntityMappings.LikesMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Likes>)P
+
+LikesMap()BEmprendeUCR.Infrastructure.Core.EntityMappings.LikesMap.LikesMap()

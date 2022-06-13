@@ -1,0 +1,43 @@
+
+PEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.getParents()ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs∑ ∑()"0*”
+0ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csπ π(_˚
+¯
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csπ π(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ì*êE
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextﬂ
+‹
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csπ π($2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Category.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextà
+Ö
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csπ π(`
+%2System.Linq.IQueryable<T>"ñMicrosoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
+;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*1/
+-SELECT * FROM Category WHERE ParentId IS NULL*
+""
+Ì
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csπ π(j9
+%33EmprendeUCR_WebApplication.Data.Entities.Category[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%2System.Linq.IQueryable<T>"÷
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csπ π(k;
+9
+%33EmprendeUCR_WebApplication.Data.Entities.Category[]*Õ
+1ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs∫	 ∫(	"Æ
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs∫ ∫(	
+implicit returnBGE
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService

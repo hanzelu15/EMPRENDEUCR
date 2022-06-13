@@ -1,0 +1,59 @@
+
+xEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.getListProduc(string)«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs/ /(+"0*‘
+0«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs1 1(Wã
+à
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs1 1(Z
+%0TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext"__id*Í*Êd
+bEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository"b
+
+_dbContextTEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext²¯
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs1 1(%2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"`EmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext.Product.get*\
+Z
+%0TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext2Product.getö
+ó
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs11 1(P
+%2string"__concat*
+exec GetProducts "*
+
+productstringà
+Ý
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs11 1(W
+%3string"__concat*
+
+%2string*
+"ú
+÷
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs1 1(X
+%4System.Linq.IQueryable<T>"–Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
+;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+%3string*
+""€
+ý
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs1 1(b4
+%5.EmprendeUCR.Domain.Core.CoreEntities.Product[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%4System.Linq.IQueryable<T>"æ
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs1 1(c6
+4
+%5.EmprendeUCR.Domain.Core.CoreEntities.Product[]*÷
+1«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs2	 2(	"Ã
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs2 2(	
+implicit return:
+productstringBfd
+bEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository

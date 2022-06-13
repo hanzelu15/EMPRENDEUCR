@@ -1,0 +1,38 @@
+
+]EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingLink.PagingLink(int, bool, string)ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagingLink.cs ("1*õ
+1ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagingLink.cs	 (	*
+0*›
+0ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagingLink.cs (∏
+µ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagingLink.cs (	
+%0int"HEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingLink.Page.set*CA
+?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingLink*
+""º
+π
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagingLink.cs (
+
+%1bool"KEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingLink.Enabled.set*CA
+?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingLink*
+""≈
+¬
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagingLink.cs (
+%2string"HEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingLink.Text.set*CA
+?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingLink*
+
+textstring*
+2*¡
+2ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagingLink.cs	 (	"®
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagingLink.cs (	
+implicit return:
+pageint:
+enabledbool:
+textstringBCA
+?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingLink

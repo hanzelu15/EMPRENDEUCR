@@ -1,0 +1,4 @@
+ì
+BEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>û
+™Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.Product>)ÜEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.Product>)_
+ProductMap()OEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductMap.ProductMap()

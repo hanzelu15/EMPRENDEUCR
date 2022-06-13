@@ -1,0 +1,43 @@
+
+UEmprendeUCR.Infrastructure.Categories.Repositories.CategoriesRepository.GetAllAsync()ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs1 (<"0*É
+0ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs (I˜
+Ù
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs (#?
+%09EmprendeUCR.Infrastructure.Categories.CategoriesDbContext"__id*ó*îI
+GEmprendeUCR.Infrastructure.Categories.Repositories.CategoriesRepository"G
+
+_dbContext9EmprendeUCR.Infrastructure.Categories.CategoriesDbContext◊
+‘
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs (.2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR.Infrastructure.Categories.CategoriesDbContext.Categories.get*A
+?
+%09EmprendeUCR.Infrastructure.Categories.CategoriesDbContext•
+¢
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs (J
+%2System.Linq.IQueryable<T>"íSystem.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""–
+Õ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs (*
+%3$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%2System.Linq.IQueryable<T>*
+"""õ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs (
+""*¡
+1ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs	 (	"®
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\Repositories\CategoriesRepository.cs (	
+implicit returnBKI
+GEmprendeUCR.Infrastructure.Categories.Repositories.CategoriesRepository

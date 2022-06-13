@@ -1,0 +1,77 @@
+
+JEmprendeUCR.Infrastructure.Core.ApplicationDbContext.RollbackTransaction()|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs0 0('"0*è
+0|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs4 4(#Ü
+Ù
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs4 4(#A
+%0;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id**Œ6
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction*
+1
+2*¯
+2|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs4$ 4(-¦£
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs4$ 4(/
+
+%1void"FMicrosoft.EntityFrameworkCore.Storage.IDbContextTransaction.Rollback()*C
+A
+%0;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction2
+Rollback()*
+1*†
+1|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs>	 >(	*
+3*õ
+3|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs8 8(/Ü
+Ù
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs8 8('A
+%2;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id**Œ6
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransactionŠ
+‡
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs8 8(/
+
+%3bool""object.operator !=(object, object)*
+"
+object*C
+A
+%2;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction*
+""*
+4
+5*„
+4|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs: ;(.Ü
+Ù
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs: :('A
+%4;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id**Œ6
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransactionûø
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs: :(1
+
+%5void"System.IDisposable.Dispose()*C
+A
+%4;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction2	Dispose()ž
+›
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs; ;(.Œ6
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id*
+""*
+5*‰
+5|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs>	 >(	*
+6
+6*—
+6|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs>	 >(	"“
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs> >(	
+implicit returnB86
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext

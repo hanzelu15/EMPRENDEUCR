@@ -1,0 +1,71 @@
+
+{EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs  (/"0*¼ 
+0‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs  (A¾»
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs (.
+
+%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*CA
+?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)›˜
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs, (<H
+%1BEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductMap"BEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductMap¶
+³
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs0 (:
+
+%2void"OEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductMap.ProductMap()*J
+H
+%1BEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductMap±®
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs (=0
+%3*Microsoft.EntityFrameworkCore.ModelBuilder"‡Microsoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*J
+H
+%1BEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)©¦
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs, (CO
+%4IEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductServiceMap"IEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductServiceMapË
+È
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs0 (A
+
+%5void"]EmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductServiceMap.ProductServiceMap()*Q
+O
+%4IEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductServiceMap¸µ
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs (D0
+%6*Microsoft.EntityFrameworkCore.ModelBuilder"‡Microsoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*Q
+O
+%4IEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductServiceMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)¥¢
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs ,  (AM
+%7GEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductPhotoMap"GEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductPhotoMapÅ
+Â
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs 0  (?
+
+%8void"YEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductPhotoMap.ProductPhotoMap()*O
+M
+%7GEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductPhotoMap¶³
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs   (B0
+%9*Microsoft.EntityFrameworkCore.ModelBuilder"‡Microsoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*O
+M
+%7GEmprendeUCR.Infrastructure.Entrepreneurs.EntityMappings.ProductPhotoMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
+1*¯
+1‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs!	 !(	"Ÿ
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs! !(	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBCA
+?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext

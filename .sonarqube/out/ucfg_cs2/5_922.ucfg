@@ -1,0 +1,59 @@
+
+FEmprendeUCR_WebApplication.Data.Services.CantonService.GetList(string)†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CantonService.cs (!"0*Ú
+0†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CantonService.cs (]Þ
+Û
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CantonService.cs (A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*†*ƒ8
+6EmprendeUCR_WebApplication.Data.Services.CantonService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÍ
+Ê
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CantonService.cs ("2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Canton.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÜ
+Ù
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CantonService.cs. (X
+%2string"__concat* 
+exec GetCantons @province ="*
+
+provincestring»
+¸
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CantonService.cs. (]
+%3string"__concat*
+
+%2string*
+"Õ
+Ò
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CantonService.cs (^
+%4System.Linq.IQueryable<T>"–Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
+;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+%3string*
+""Þ
+Û
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CantonService.cs (h7
+%51EmprendeUCR_WebApplication.Data.Entities.Canton[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%4System.Linq.IQueryable<T>"Ä
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CantonService.cs (i9
+7
+%51EmprendeUCR_WebApplication.Data.Entities.Canton[]*­
+1†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CantonService.cs ("ž
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CantonService.cs (
+implicit return:
+provincestringB:8
+6EmprendeUCR_WebApplication.Data.Services.CantonService

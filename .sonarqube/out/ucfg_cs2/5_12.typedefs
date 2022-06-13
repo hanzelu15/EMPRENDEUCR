@@ -1,0 +1,4 @@
+…
+UEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.IsOfferMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>î
+‰Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer>)ßEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.IsOfferMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer>)r
+IsOfferMap()bEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.IsOfferMap.IsOfferMap()

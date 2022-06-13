@@ -1,0 +1,44 @@
+
+‹EmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.ShoppingCartNotificationRepository.GetProductsQuantity(EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification)—
+∆C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csB B(&"0*Å
+0—
+∆C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csD D(Uß
+§
+—
+∆C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csD D(Y
+%0SEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext"__id*Ï*ÈÉ
+ÄEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.ShoppingCartNotificationRepository"a
+
+_dbContextSEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext”
+–
+—
+∆C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csD D(/2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"iEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext.Shopping_Cart_Has.get*[
+Y
+%0SEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContextŸ
+÷
+—
+∆C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csD D(V
+%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Á
+‰
+—
+∆C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csD D(^	
+%3int"ESystem.Linq.Queryable.Count<TSource>(System.Linq.IQueryable<TSource>)*"
+System.Linq.Queryable*!
+
+%2System.Linq.IQueryable<T>"·
+—
+∆C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csD D(_
+	
+%3int*√
+1—
+∆C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csE	 E(	"È
+—
+∆C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csE E(	
+implicit return:Z
+UserNotificationFEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotificationBÜÉ
+ÄEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.ShoppingCartNotificationRepository

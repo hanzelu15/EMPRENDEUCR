@@ -1,0 +1,43 @@
+
+pEmprendeUCR_WebApplication.Data.Services.PhonesService.addPhone(EmprendeUCR_WebApplication.Data.Entities.Phones)†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs ("0*Ü
+0†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs ("Þ
+Û
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs (A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*†*ƒ8
+6EmprendeUCR_WebApplication.Data.Services.PhonesService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÍ
+Ê
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs (2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Phones.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext‘Ž
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs ('G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*;
+9
+phones/EmprendeUCR_WebApplication.Data.Entities.Phones2Add(TEntity)Þ
+Û
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs (A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*†*ƒ8
+6EmprendeUCR_WebApplication.Data.Services.PhonesService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext¢Ÿ
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs ("	
+%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
+A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
+1*­
+1†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs	 (	"ž
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs (	
+implicit return:9
+phones/EmprendeUCR_WebApplication.Data.Entities.PhonesB:8
+6EmprendeUCR_WebApplication.Data.Services.PhonesService

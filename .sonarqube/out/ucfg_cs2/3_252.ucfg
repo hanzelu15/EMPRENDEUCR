@@ -1,0 +1,36 @@
+
+mEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.DisplayProductRepository.GetUserByEmail(string)ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\DisplayProductRepository.cs (""0*Å
+0ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\DisplayProductRepository.cs (R≥
+∞
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\DisplayProductRepository.cs (N
+%0HEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext"__id*µ*≤X
+VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.DisplayProductRepository"V
+
+_dbContextHEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContextàÖ
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\DisplayProductRepository.cs ("2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"QEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext.User.get*P
+N
+%0HEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext2User.get¿
+Ω
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\DisplayProductRepository.cs (S/
+%2)EmprendeUCR.Domain.Core.CoreEntities.User"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""’
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\DisplayProductRepository.cs (T1
+/
+%2)EmprendeUCR.Domain.Core.CoreEntities.User*ﬂ
+1ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\DisplayProductRepository.cs	 (	"∑
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\DisplayProductRepository.cs (	
+implicit return:
+emailstringBZX
+VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.DisplayProductRepository

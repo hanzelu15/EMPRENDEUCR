@@ -1,0 +1,18 @@
+¡
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobject·
+LCategoryService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)êEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.CategoryService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)\
+
+GetAsync()NEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.GetAsync()r
+ValidateTitle(string)YEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.ValidateTitle(string)~
+ValidateDescription(string)_EmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.ValidateDescription(string)t
+ChangeParent(int, int)ZEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.ChangeParent(int, int)n
+getParentId(string)WEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.getParentId(string)h
+getCategory(int)TEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.getCategory(int)ñ
+'GetProductsByCategoryAsync(string, int)kEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.GetProductsByCategoryAsync(string, int)Œ
+¬getAllCategoryBySupplies(System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.Product>, System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.HasSupplies>)ÜEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.getAllCategoryBySupplies(System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.Product>, System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.HasSupplies>)h
+isChildNode(int)TEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.isChildNode(int)∆
+æRowdrop(Syncfusion.Blazor.Grids.RowDragEventArgs<EmprendeUCR_WebApplication.Data.Entities.Category>, Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR_WebApplication.Data.Entities.Category>)ÇEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.Rowdrop(Syncfusion.Blazor.Grids.RowDragEventArgs<EmprendeUCR_WebApplication.Data.Entities.Category>, Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR_WebApplication.Data.Entities.Category>)l
+GetTitleById(int?)VEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.GetTitleById(int?)`
+getParents()PEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.getParents()l
+getChildrenOf(int)VEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.getChildrenOf(int)b
+GetTitle(int)QEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.GetTitle(int)

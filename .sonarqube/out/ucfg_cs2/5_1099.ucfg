@@ -1,0 +1,47 @@
+
+¶EmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService.InsertSuggestedCategoryAsync(EmprendeUCR_WebApplication.Data.Entities.Suggested_Category)ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csã  ã(<"0*ô
+0ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csç è(ç
+ä
+ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csç ç(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ú*ôN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÚ
+Ô
+ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csç ç(-2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"REmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Suggested_Category.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext˙˜
+ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csç ç(@/
+%2)System.Threading.Tasks.ValueTask<TResult>"bMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddAsync(TEntity, System.Threading.CancellationToken)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*I
+G
+category;EmprendeUCR_WebApplication.Data.Entities.Suggested_Category*
+""25AddAsync(TEntity, System.Threading.CancellationToken)ç
+ä
+ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csé é(A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ú*ôN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext≤Ø
+ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csé é(-*
+%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
+A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)"™
+ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csè è(
+""*ﬂ
+1ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csê	 ê(	"∑
+ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csê ê(	
+implicit return:G
+category;EmprendeUCR_WebApplication.Data.Entities.Suggested_CategoryBPN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService

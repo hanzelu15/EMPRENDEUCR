@@ -1,0 +1,18 @@
+˛
+HEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBigMEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationErrorobjectSystem.IEquatable<T>k
+NameTooBig(int)XEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.NameTooBig(int)a
+
+ToString()SEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.ToString()õ
+'PrintMembers(System.Text.StringBuilder)pEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.PrintMembers(System.Text.StringBuilder)g
+GetHashCode()VEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.GetHashCode()k
+Equals(object?)XEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.Equals(object?)˙
+VEquals(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError?)üEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.Equals(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.ValidationError?)
+QEquals(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig?)öEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.Equals(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig?)a
+
+<Clone>$()SEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.<Clone>$()ˆ
+TNameTooBig(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig)ùEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.NameTooBig(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig)u
+Deconstruct(out int)]EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.Deconstruct(out int)u
+EqualityContract.get]EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.EqualityContract.getu
+EqualityContract.set]EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.EqualityContract.setg
+MaxLength.getVEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.MaxLength.getg
+MaxLength.setVEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.MaxLength.set

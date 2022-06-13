@@ -1,0 +1,25 @@
+
+OEmprendeUCR.Application.Chats.Implementations.MessageService.GetMessagesAsync()„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\MessageService.cs0 (@"0*×
+0„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\MessageService.cs (9æ
+ã
+„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\MessageService.cs (+>
+%08EmprendeUCR.Domain.Chats.Repositories.IMessageRepository"__id*“*>
+<EmprendeUCR.Application.Chats.Implementations.MessageService"N
+_messageRepository8EmprendeUCR.Domain.Chats.Repositories.IMessageRepositoryÏÌ
+„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\MessageService.cs (9*
+%1$System.Threading.Tasks.Task<TResult>"FEmprendeUCR.Domain.Chats.Repositories.IMessageRepository.GetAllAsync()*@
+>
+%08EmprendeUCR.Domain.Chats.Repositories.IMessageRepository2GetAllAsync()"
+„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\MessageService.cs (:
+""*©
+1„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\MessageService.cs	 (	"œ
+„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Chats\Implementations\MessageService.cs (	
+implicit returnB@>
+<EmprendeUCR.Application.Chats.Implementations.MessageService

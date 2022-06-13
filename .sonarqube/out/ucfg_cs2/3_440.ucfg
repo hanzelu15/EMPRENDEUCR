@@ -1,0 +1,60 @@
+
+sEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository.isChildNode(int)«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs< <("0*£
+0«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs> ?(RÐ
+Í
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs> >( 
+isChildbool"__id*
+""ã
+à
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs? ?(Z
+%0TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext"__id*Í*Êd
+bEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository"b
+
+_dbContextTEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext´±
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs? ?(#2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"aEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext.Category.get*\
+Z
+%0TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext2Category.get³
+°
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs? ?(E
+%2System.Linq.IQueryable<T>"…System.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Á
+¾
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.cs? ?(M	
+%3int"ESystem.Linq.Queryable.Count<TSource>(System.Linq.IQueryable<TSource>)*"
+System.Linq.Queryable*!
+
+%2System.Linq.IQueryable<T>*
+1
+2*‰
+1«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.csA A(Ð
+Í
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.csA A(
+isChildbool"__id*
+""*
+2*õ
+2«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.csC C("Á
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.csC C(
+
+isChildbool*÷
+3«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.csD	 D(	"Ã
+«
+ C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\Repositories\ProductsSearchClientRepository.csD D(	
+implicit return:	
+IdintBfd
+bEmprendeUCR.Infrastructure.ProductsSearchClientContext.Repositories.ProductsSearchClientRepository

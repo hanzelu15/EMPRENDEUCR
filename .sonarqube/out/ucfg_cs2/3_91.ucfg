@@ -1,0 +1,41 @@
+
+úEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository.SaveAsync(EmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.Product)ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs- -(#"0*˝
+0ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs/ 1(0Å
+˛
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs/ /(E
+%0?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext"__id*õ*òG
+EEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository"M
+
+_dbContext?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContextﬁ€
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs/ /(&G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Update<TEntity>(TEntity)*G
+E
+%0?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext*X
+V
+productKEmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.Product2Update<TEntity>(TEntity)Å
+˛
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs1 1(E
+%2?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext"__id*õ*òG
+EEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository"M
+
+_dbContext?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContextˆ
+Û
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs1 1(0!
+%3System.Threading.Tasks.Task"jEmprendeUCR.Infrastructure.Core.ApplicationDbContext.SaveEntitiesAsync(System.Threading.CancellationToken)*G
+E
+%2?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext*
+""*
+1*¡
+1ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs2	 2(	"®
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs2 2(	
+implicit return:V
+productKEmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.ProductBIG
+EEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository

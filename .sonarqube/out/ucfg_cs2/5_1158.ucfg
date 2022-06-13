@@ -1,0 +1,40 @@
+
+QEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.GetTitle(int)ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs∆ ∆("0*æ
+0ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs« «(,˚
+¯
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs« «(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ì*êE
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextﬂ
+‹
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs« «($2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Category.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÓÎ
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs« «(-7
+%21EmprendeUCR_WebApplication.Data.Entities.Category"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""2Find(params object[])¢
+ü
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs« «(3
+%3string";EmprendeUCR_WebApplication.Data.Entities.Category.Title.get*9
+7
+%21EmprendeUCR_WebApplication.Data.Entities.Category"©
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs« «(4
+
+%3string*Õ
+1ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs»	 »(	"Æ
+ñ
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.cs» »(	
+implicit return:	
+idintBGE
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService

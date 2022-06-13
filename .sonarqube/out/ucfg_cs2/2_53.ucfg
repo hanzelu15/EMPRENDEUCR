@@ -1,0 +1,26 @@
+
+hEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.listAllNewProducts()œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs$ $(0"0*Û	
+0œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs& &(=Ê
+Ç
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs& &(,U
+%0OEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository"__id*È*ÅU
+SEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService"l
+_homePageClientRepositoryOEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepositoryš—
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs& &(=)
+%1#System.Collections.Generic.IList<T>"`EmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository.getNewProducts()*W
+U
+%0OEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository2getNewProducts()"Ì
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs& &(>+
+)
+%1#System.Collections.Generic.IList<T>*Ù
+1œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs'	 '(	"´
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs' '(	
+implicit returnBWU
+SEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService

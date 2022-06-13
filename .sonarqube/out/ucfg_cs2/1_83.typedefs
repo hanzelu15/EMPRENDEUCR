@@ -1,0 +1,6 @@
+ü
+4EmprendeUCR.Domain.PaymentInfos.Entities.PaymentInfoobjectY
+PaymentInfo(int)EEmprendeUCR.Domain.PaymentInfos.Entities.PaymentInfo.PaymentInfo(int)S
+PaymentInfo()BEmprendeUCR.Domain.PaymentInfos.Entities.PaymentInfo.PaymentInfo()E
+ID.get;EmprendeUCR.Domain.PaymentInfos.Entities.PaymentInfo.ID.getE
+ID.set;EmprendeUCR.Domain.PaymentInfos.Entities.PaymentInfo.ID.set

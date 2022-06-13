@@ -1,0 +1,18 @@
+«
+PEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLongXEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.ValidationErrorobjectSystem.IEquatable<T>m
+TooLong(int)]EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.TooLong(int)i
+
+ToString()[EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.ToString()£
+'PrintMembers(System.Text.StringBuilder)xEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.PrintMembers(System.Text.StringBuilder)o
+GetHashCode()^EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.GetHashCode()s
+Equals(object?)`EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.Equals(object?)˜
+aEquals(EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.ValidationError?)²EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.Equals(EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.ValidationError?)ˆ
+YEquals(EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong?)ªEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.Equals(EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong?)i
+
+<Clone>$()[EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.<Clone>$()ˆ
+YTooLong(EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong)ªEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.TooLong(EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong)}
+Deconstruct(out int)eEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.Deconstruct(out int)}
+EqualityContract.geteEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.EqualityContract.get}
+EqualityContract.seteEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.EqualityContract.seto
+MaxLength.get^EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.MaxLength.geto
+MaxLength.set^EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductDescription.TooLong.MaxLength.set

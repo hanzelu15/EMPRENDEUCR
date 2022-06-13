@@ -1,0 +1,4 @@
+§
+<EmprendeUCR.Infrastructure.Core.EntityMappings.Is_Able_ToMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>¼
+}Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To>)ºEmprendeUCR.Infrastructure.Core.EntityMappings.Is_Able_ToMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Is_Able_To>)_
+Is_Able_ToMap()LEmprendeUCR.Infrastructure.Core.EntityMappings.Is_Able_ToMap.Is_Able_ToMap()

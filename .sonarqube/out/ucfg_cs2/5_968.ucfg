@@ -1,0 +1,49 @@
+
+¶EmprendeUCR_WebApplication.Data.Services.Personalized_StatusService.InsertListOfStatus(System.Collections.Generic.IList<EmprendeUCR_WebApplication.Data.Entities.Personalized_Status>)¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs  (2"0*¯
+0¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs"' "(2*
+1*²
+1¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs.	 .(	*
+2
+3*±
+2¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs$ $(2ÿ
+ü
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs$ $(3*
+%0$System.Threading.Tasks.Task<TResult>"“EmprendeUCR_WebApplication.Data.Services.Personalized_StatusService.InsertStatusAsync(EmprendeUCR_WebApplication.Data.Entities.Personalized_Status)*GE
+CEmprendeUCR_WebApplication.Data.Services.Personalized_StatusService*H
+F
+status<EmprendeUCR_WebApplication.Data.Entities.Personalized_Status*
+1*û
+3¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs& &(1‰
+†
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs& &(A
+%1;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*“*E
+CEmprendeUCR_WebApplication.Data.Services.Personalized_StatusService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext·´
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs& &(1*
+%2$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
+A
+%1;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)*	
+4
+4
+5*Ü
+4¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs- -("¯
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs- -(
+""*é
+5¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs.	 .(	"¼
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs. .(	
+implicit return:2
+status_List#System.Collections.Generic.IList<T>BGE
+CEmprendeUCR_WebApplication.Data.Services.Personalized_StatusService

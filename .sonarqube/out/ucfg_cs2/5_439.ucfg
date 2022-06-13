@@ -1,0 +1,35 @@
+
+IEmprendeUCR_WebApplication.Data.Services.ReportService.getReportById(int)†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs (#"0*×
+
+0†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs! !(*Þ
+Û
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs! !(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*†*ƒ8
+6EmprendeUCR_WebApplication.Data.Services.ReportService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÍ
+Ê
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs! !("2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Report.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext×Ô
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs! !(+0
+%2*EmprendeUCR.Domain.Reports.Entities.Report"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""2Find(params object[])"½
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs! !(,2
+0
+%2*EmprendeUCR.Domain.Reports.Entities.Report*­
+1†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs"	 "(	"ž
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs" "(	
+implicit return:	
+IdintB:8
+6EmprendeUCR_WebApplication.Data.Services.ReportService

@@ -1,0 +1,41 @@
+
+éEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.Repositories.UtilizesChatRepository.SaveAsync(EmprendeUCR.Domain.Chats.Entities.UtilizesChat)ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs" "(#"0*Ó
+0ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs$ %(0´
+®
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs$ $(L
+%0FEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext"__id*±*ÆV
+TEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.Repositories.UtilizesChatRepository"T
+
+_dbContextFEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext⁄◊
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs$ $(+G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Update<TEntity>(TEntity)*N
+L
+%0FEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext*@
+>
+utilizesChat.EmprendeUCR.Domain.Chats.Entities.UtilizesChat2Update<TEntity>(TEntity)´
+®
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs% %(L
+%2FEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext"__id*±*ÆV
+TEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.Repositories.UtilizesChatRepository"T
+
+_dbContextFEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContextä
+á
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs% %(0!
+%3System.Threading.Tasks.Task"jEmprendeUCR.Infrastructure.Core.ApplicationDbContext.SaveEntitiesAsync(System.Threading.CancellationToken)*N
+L
+%2FEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext*
+""*
+1*€
+1ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs&	 &(	"µ
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\Repositories\UtilizesChatRepository.cs& &(	
+implicit return:>
+utilizesChat.EmprendeUCR.Domain.Chats.Entities.UtilizesChatBXV
+TEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.Repositories.UtilizesChatRepository

@@ -1,0 +1,48 @@
+
+ÅEmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository.RemoveReport(EmprendeUCR.Domain.Reports.Entities.Report)ì
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csß  ß(,"0*Ê
+0ì
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.cs© ´(˝
+˙
+ì
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.cs© ©(@
+%0:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext"__id*ô*ñJ
+HEmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository"H
+
+_dbContext:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext‰·
+ì
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.cs© ©(2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"EEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Report.get*B
+@
+%0:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext2
+Report.getöó
+ì
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.cs© ©('G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*1
+/
+r*EmprendeUCR.Domain.Reports.Entities.Report2Remove(TEntity)˝
+˙
+ì
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.cs™ ™(@
+%3:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext"__id*ô*ñJ
+HEmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository"H
+
+_dbContext:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext•¢
+ì
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.cs™ ™(/*
+%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*B
+@
+%3:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)"û
+ì
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.cs´ ´(
+""*«
+1ì
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.cs¨	 ¨(	"´
+ì
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.cs¨ ¨(	
+implicit return:/
+r*EmprendeUCR.Domain.Reports.Entities.ReportBLJ
+HEmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository

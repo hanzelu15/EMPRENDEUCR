@@ -1,0 +1,18 @@
+
+HEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Is_Offer.set…
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs+/ +(2"0*Û
+0…
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs+3 +(3Å
+Â
+…
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs+/ +(3y=
+;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"8
+Is_Offer,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"…
+…
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Contexts\SqlDbContext.cs+/ +(3{*y=
+;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"8
+Is_Offer,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B?=
+;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext

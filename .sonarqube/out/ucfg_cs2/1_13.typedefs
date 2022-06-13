@@ -1,0 +1,6 @@
+š
+&EmprendeUCR.Domain.Chats.Entities.Chatobject=
+	Chat(int)0EmprendeUCR.Domain.Chats.Entities.Chat.Chat(int)7
+Chat()-EmprendeUCR.Domain.Chats.Entities.Chat.Chat()7
+ID.get-EmprendeUCR.Domain.Chats.Entities.Chat.ID.get7
+ID.set-EmprendeUCR.Domain.Chats.Entities.Chat.ID.set

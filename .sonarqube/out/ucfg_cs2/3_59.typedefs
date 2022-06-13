@@ -1,0 +1,4 @@
+ý
+6EmprendeUCR.Infrastructure.Core.EntityMappings.RoleMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>ª
+wConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Role>)®EmprendeUCR.Infrastructure.Core.EntityMappings.RoleMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Role>)M
+	RoleMap()@EmprendeUCR.Infrastructure.Core.EntityMappings.RoleMap.RoleMap()

@@ -1,0 +1,12 @@
+ï
+1EmprendeUCR_WebApplication.Data.Entities.CategoryobjectJ
+
+Category()<EmprendeUCR_WebApplication.Data.Entities.Category.Category()B
+Id.get8EmprendeUCR_WebApplication.Data.Entities.Category.Id.getB
+Id.set8EmprendeUCR_WebApplication.Data.Entities.Category.Id.setH
+	Title.get;EmprendeUCR_WebApplication.Data.Entities.Category.Title.getH
+	Title.set;EmprendeUCR_WebApplication.Data.Entities.Category.Title.setN
+ParentId.get>EmprendeUCR_WebApplication.Data.Entities.Category.ParentId.getN
+ParentId.set>EmprendeUCR_WebApplication.Data.Entities.Category.ParentId.setT
+Description.getAEmprendeUCR_WebApplication.Data.Entities.Category.Description.getT
+Description.setAEmprendeUCR_WebApplication.Data.Entities.Category.Description.set

@@ -1,0 +1,27 @@
+≥
+&EmprendeUCR_WebApplication.Pages.Admin-Microsoft.AspNetCore.Components.ComponentBaseobject√
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)sEmprendeUCR_WebApplication.Pages.Admin.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)Y
+closeViewReportDialog()>EmprendeUCR_WebApplication.Pages.Admin.closeViewReportDialog()S
+OnInitializedAsync();EmprendeUCR_WebApplication.Pages.Admin.OnInitializedAsync()à
+nCommandClickHandler(Syncfusion.Blazor.Grids.CommandClickEventArgs<EmprendeUCR.Domain.Reports.Entities.Report>)ïEmprendeUCR_WebApplication.Pages.Admin.CommandClickHandler(Syncfusion.Blazor.Grids.CommandClickEventArgs<EmprendeUCR.Domain.Reports.Entities.Report>)¸
+hSelectionHandler(Syncfusion.Blazor.Grids.RowSelectEventArgs<EmprendeUCR.Domain.Reports.Entities.Report>)èEmprendeUCR_WebApplication.Pages.Admin.SelectionHandler(Syncfusion.Blazor.Grids.RowSelectEventArgs<EmprendeUCR.Domain.Reports.Entities.Report>)_
+AddTemporalBannedAccount()AEmprendeUCR_WebApplication.Pages.Admin.AddTemporalBannedAccount()O
+AddBannedAccount()9EmprendeUCR_WebApplication.Pages.Admin.AddBannedAccount()I
+deleteRequest()6EmprendeUCR_WebApplication.Pages.Admin.deleteRequest()a
+closeViewSuggestedtDialog()BEmprendeUCR_WebApplication.Pages.Admin.closeViewSuggestedtDialog()™
+CommandClickHandler(Syncfusion.Blazor.Grids.CommandClickEventArgs<EmprendeUCR_WebApplication.Data.Entities.Suggested_Category>)¶EmprendeUCR_WebApplication.Pages.Admin.CommandClickHandler(Syncfusion.Blazor.Grids.CommandClickEventArgs<EmprendeUCR_WebApplication.Data.Entities.Suggested_Category>)E
+AddCategory()4EmprendeUCR_WebApplication.Pages.Admin.AddCategory()K
+RejectCategory()7EmprendeUCR_WebApplication.Pages.Admin.RejectCategory()9
+Admin().EmprendeUCR_WebApplication.Pages.Admin.Admin();
+Grid.get/EmprendeUCR_WebApplication.Pages.Admin.Grid.get;
+Grid.set/EmprendeUCR_WebApplication.Pages.Admin.Grid.set=
+	Grids.get0EmprendeUCR_WebApplication.Pages.Admin.Grids.get=
+	Grids.set0EmprendeUCR_WebApplication.Pages.Admin.Grids.setI
+addCategory.get6EmprendeUCR_WebApplication.Pages.Admin.addCategory.getI
+addCategory.set6EmprendeUCR_WebApplication.Pages.Admin.addCategory.setU
+suggestedCategory.get<EmprendeUCR_WebApplication.Pages.Admin.suggestedCategory.getU
+suggestedCategory.set<EmprendeUCR_WebApplication.Pages.Admin.suggestedCategory.setM
+bannedAccount.get8EmprendeUCR_WebApplication.Pages.Admin.bannedAccount.getM
+bannedAccount.set8EmprendeUCR_WebApplication.Pages.Admin.bannedAccount.setM
+ReportService.get8EmprendeUCR_WebApplication.Pages.Admin.ReportService.getM
+ReportService.set8EmprendeUCR_WebApplication.Pages.Admin.ReportService.set

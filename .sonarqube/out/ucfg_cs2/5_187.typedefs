@@ -1,0 +1,4 @@
+ì
+AEmprendeUCR_WebApplication.Data.Services.Shopping_Cart_HasService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectñ
+UShopping_Cart_HasService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)—EmprendeUCR_WebApplication.Data.Services.Shopping_Cart_HasService.Shopping_Cart_HasService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)|
+GetProductsQuantity(string)]EmprendeUCR_WebApplication.Data.Services.Shopping_Cart_HasService.GetProductsQuantity(string)

@@ -1,0 +1,135 @@
+
+êEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs$  $(/"0*∂G
+0ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs& .(CÈÊ
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs& &(.
+
+%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*XV
+TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)°û
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs(, ((=@
+%1:EmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap":EmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMapΩ
+∫
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs(0 ((;
+
+%2void"HEmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap.CategoryMap()*B
+@
+%1:EmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMapøº
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs( ((>0
+%3*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*B
+@
+%1:EmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)üú
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs), )(<?
+%49EmprendeUCR.Infrastructure.Core.EntityMappings.ServiceMap"9EmprendeUCR.Infrastructure.Core.EntityMappings.ServiceMap∫
+∑
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs)0 )(:
+
+%5void"FEmprendeUCR.Infrastructure.Core.EntityMappings.ServiceMap.ServiceMap()*A
+?
+%49EmprendeUCR.Infrastructure.Core.EntityMappings.ServiceMapæª
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs) )(=0
+%6*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*A
+?
+%49EmprendeUCR.Infrastructure.Core.EntityMappings.ServiceMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)´®
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs*, *(BE
+%7?EmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMap"?EmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMapÃ
+…
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs*0 *(@
+
+%8void"REmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMap.ProductPhotosMap()*G
+E
+%7?EmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMapƒ¡
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs* *(C0
+%9*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*G
+E
+%7?EmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)†ù
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs+, +(<@
+%109EmprendeUCR.Infrastructure.Core.EntityMappings.ProductMap"9EmprendeUCR.Infrastructure.Core.EntityMappings.ProductMapº
+π
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs+0 +(:
+%11void"FEmprendeUCR.Infrastructure.Core.EntityMappings.ProductMap.ProductMap()*B
+@
+%109EmprendeUCR.Infrastructure.Core.EntityMappings.ProductMap¿Ω
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs+ +(=1
+%12*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*B
+@
+%109EmprendeUCR.Infrastructure.Core.EntityMappings.ProductMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)∞≠
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs,, ,(DH
+%13AEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMap"AEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMap‘
+—
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs,0 ,(B
+%14void"VEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMap.ShoppingCartHasMap()*J
+H
+%13AEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMap»≈
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs, ,(E1
+%15*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*J
+H
+%13AEmprendeUCR.Infrastructure.Core.EntityMappings.ShoppingCartHasMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)Æ´
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs-, -(CG
+%16@EmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMap"@EmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMap—
+Œ
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs-0 -(A
+%17void"TEmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMap.ProductServiceMap()*I
+G
+%16@EmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMap«ƒ
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs- -(D1
+%18*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*I
+G
+%16@EmprendeUCR.Infrastructure.Core.EntityMappings.ProductServiceMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)Æ´
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs., .(CG
+%19@EmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMap"@EmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMap—
+Œ
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs.0 .(A
+%20void"TEmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMap.Service_PhotosMap()*I
+G
+%19@EmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMap«ƒ
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs. .(D1
+%21*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*I
+G
+%19@EmprendeUCR.Infrastructure.Core.EntityMappings.Service_PhotosMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
+1*€
+1ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs/	 /(	"µ
+ù
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProductsSearchClientContext\ProductsSearchClientDbContext.cs/ /(	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBXV
+TEmprendeUCR.Infrastructure.ProductsSearchClientContext.ProductsSearchClientDbContext

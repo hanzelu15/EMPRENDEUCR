@@ -1,0 +1,66 @@
+
+ZEmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository.GetByIdAsync(string)²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs3) 3(5"0*‘"
+0²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs5 :(Í
+Ê
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs5& 5(0Z
+%0TEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2"__id*°*­G
+EEmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository"b
+
+_dbContextTEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2ÅÂ
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs5& 5(>2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"fEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2.ShoppingCarts.get*\
+Z
+%0TEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext22ShoppingCarts.getÕ
+Ò
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs5& 6(/R
+%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"ÂMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""ó
+ð
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs5& 7(0R
+%3LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"ÀMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ThenInclude<TEntity, TPreviousProperty, TProperty>(Microsoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, System.Collections.Generic.IEnumerable<TPreviousProperty>>, System.Linq.Expressions.Expression<System.Func<TPreviousProperty, TProperty>>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*T
+R
+%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
+""Ë
+È
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs5& 8(7R
+%4LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"˜Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ThenInclude<TEntity, TPreviousProperty, TProperty>(Microsoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TPreviousProperty>, System.Linq.Expressions.Expression<System.Func<TPreviousProperty, TProperty>>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*T
+R
+%3LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
+""õ
+ò
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs5& 9(:*
+%5$System.Threading.Tasks.Task<TResult>"âMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*T
+R
+%4LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*
+""*
+""›
+˜
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs5 9(:S
+shopKEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart"__id*
+"""Œ
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs: :(U
+S
+shopKEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart*…
+1²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs;	 ;(	"Ê
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs; ;(	
+implicit return:
+emailstringBIG
+EEmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository

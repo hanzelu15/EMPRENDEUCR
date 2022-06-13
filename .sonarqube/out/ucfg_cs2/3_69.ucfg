@@ -1,0 +1,33 @@
+
+™EmprendeUCR.Infrastructure.Categories.CategoriesDbContext.CategoriesDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.Categories.CategoriesDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Categories.CategoriesDbContext>)€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs (""1*Ù
+1€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs	 (	Ë
+È
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs (@2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR.Infrastructure.Categories.CategoriesDbContext.Categories.set*=;
+9EmprendeUCR.Infrastructure.Categories.CategoriesDbContext*
+""*
+0*º
+0€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs ("¬
+©
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs (#
+
+%1void"ÕEmprendeUCR.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Core.ApplicationDbContext>)*86
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*¡
+2€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs	 (	"˜
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B=;
+9EmprendeUCR.Infrastructure.Categories.CategoriesDbContext

@@ -1,0 +1,24 @@
+©
+=EmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance-Microsoft.AspNetCore.Components.ComponentBaseobject€
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)äEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)j
+OnInitializedAsync()REmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.OnInitializedAsync()ñ
+*DeleteOrder(System.DateTime, string, bool)hEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.DeleteOrder(System.DateTime, string, bool)Î
+TAcceptAndGenerateBill(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)íEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.AcceptAndGenerateBill(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)T
+	getName()GEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.getName()Å
+_createBillingPdf(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order, string, string)ùEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.createBillingPdf(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order, string, string)·
+OsendBillToClient(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)çEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.sendBillToClient(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)◊
+JgetProducts(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)àEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.getProducts(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)¡
+setTotalAmount(System.Collections.Generic.List<System.Tuple<int, EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product>>)ΩEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.setTotalAmount(System.Collections.Generic.List<System.Tuple<int, EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product>>)d
+OrderAcceptance()OEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.OrderAcceptance()N
+js.getDEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.js.getN
+js.setDEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.js.setf
+ProfileService.getPEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.ProfileService.getf
+ProfileService.setPEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.ProfileService.set`
+BillService.getMEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.BillService.get`
+BillService.setMEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.BillService.setb
+OrderService.getNEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.OrderService.getb
+OrderService.setNEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.OrderService.seth
+RegisterService.getQEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.RegisterService.geth
+RegisterService.setQEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.RegisterService.setf
+sessionStorage.getPEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.sessionStorage.getf
+sessionStorage.setPEmprendeUCR_WebApplication.Pages.OrderContext.OrderAcceptance.sessionStorage.set

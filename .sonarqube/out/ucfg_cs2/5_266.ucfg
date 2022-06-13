@@ -1,0 +1,43 @@
+
+kEmprendeUCR_WebApplication.Data.Services.UserService.AddUser(EmprendeUCR_WebApplication.Data.Entities.User)Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs ("0*∆
+0Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs ("⁄
+◊
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs (A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ñ*Å6
+4EmprendeUCR_WebApplication.Data.Services.UserService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext…
+∆
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs (2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"DEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.User.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextãà
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs (#G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*7
+5
+user-EmprendeUCR_WebApplication.Data.Entities.User2Add(TEntity)⁄
+◊
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs (A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ñ*Å6
+4EmprendeUCR_WebApplication.Data.Services.UserService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext†ù
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs ("	
+%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
+A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
+1*©
+1Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs	 (	"ú
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserService.cs (	
+implicit return:5
+user-EmprendeUCR_WebApplication.Data.Entities.UserB86
+4EmprendeUCR_WebApplication.Data.Services.UserService

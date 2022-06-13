@@ -1,0 +1,9 @@
+›
+AEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName0EmprendeUCR.Domain.Core.ValueObjects.ValueObject&CSharpFunctionalExtensions.ValueObjectobject|
+RequiredProductName(string)]EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.RequiredProductName(string)p
+RequiredProductName()WEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.RequiredProductName()t
+GetEqualityComponents()YEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.GetEqualityComponents()Z
+
+ToString()LEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ToString()X
+	Value.getKEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.Value.getX
+	Value.setKEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.Value.set

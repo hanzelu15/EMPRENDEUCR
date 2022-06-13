@@ -1,0 +1,28 @@
+
+{EmprendeUCR.Application.ProfileContext.Implementations.ProfileService.AddReport(EmprendeUCR.Domain.Reports.Entities.Report)é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs  ()"0*∑	
+0ê
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csÅ Å(7ç
+ä
+ê
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csÅ Å(+G
+%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository"__id*•*¢G
+EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService"W
+_profileRepositoryAEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepositoryÌ
+ê
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csÅ Å(8*
+%1$System.Threading.Tasks.Task<TResult>"wEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository.AddReport(EmprendeUCR.Domain.Reports.Entities.Report)*I
+G
+%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository*1
+/
+r*EmprendeUCR.Domain.Reports.Entities.Report25AddReport(EmprendeUCR.Domain.Reports.Entities.Report)"õ
+ê
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csÅ Å(9
+""*¡
+1ê
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csÇ	 Ç(	"®
+ê
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csÇ Ç(	
+implicit return:/
+r*EmprendeUCR.Domain.Reports.Entities.ReportBIG
+EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService

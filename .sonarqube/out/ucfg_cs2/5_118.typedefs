@@ -1,0 +1,29 @@
+—
+=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order=EmprendeUCR_WebApplication.Domain.Core.Entities.AggregateRootobjectP
+Order()EEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.Order()ñ
+WOrder(System.DateTime, string, string, string, System.DateTime, string, string, string)•EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.Order(System.DateTime, string, string, string, System.DateTime, string, string, string)£
+psetOrganized(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized>)®EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.setOrganized(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized>)v
+changeGlobalStatus(string)XEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.changeGlobalStatus(string)¯
+vSortEntrepreneurOrders(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order>)´EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.SortEntrepreneurOrders(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order>)£
+pSortClientOrders(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order>)®EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.SortClientOrders(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order>)v
+ChangerOrderStatus(string)XEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.ChangerOrderStatus(string)œ
+-changeProductStatus(string, int, string, int)kEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.changeProductStatus(string, int, string, int)«
+tfilterOrders(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order>, string)²EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.filterOrders(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order>, string)p
+DateAndHourCreation.getUEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.DateAndHourCreation.getp
+DateAndHourCreation.setUEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.DateAndHourCreation.set`
+ClientEmail.getMEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.ClientEmail.get`
+ClientEmail.setMEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.ClientEmail.setX
+Details.getIEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.Details.getX
+Details.setIEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.Details.setb
+DeliveryDate.getNEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.DeliveryDate.getb
+DeliveryDate.setNEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.DeliveryDate.seth
+DeliveryAddress.getQEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.DeliveryAddress.geth
+DeliveryAddress.setQEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.DeliveryAddress.setl
+EntrepreneurEmail.getSEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.EntrepreneurEmail.getl
+EntrepreneurEmail.setSEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.EntrepreneurEmail.setT
+	State.getGEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.State.getT
+	State.setGEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.State.set`
+PaymentName.getMEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.PaymentName.get`
+PaymentName.setMEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.PaymentName.setd
+genericStatus.getOEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.genericStatus.getd
+genericStatus.setOEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.genericStatus.set

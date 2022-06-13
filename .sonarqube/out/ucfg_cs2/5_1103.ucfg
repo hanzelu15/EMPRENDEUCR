@@ -1,0 +1,34 @@
+
+bEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService.getSuggestedById(int)ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csï" ï(2"0*ò
+0ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csó ó(6ç
+ä
+ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csó ó(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ú*ôN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÚ
+Ô
+ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csó ó(.2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"REmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Suggested_Category.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÅ˛
+ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csó ó(7A
+%2;EmprendeUCR_WebApplication.Data.Entities.Suggested_Category"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""2Find(params object[])"Á
+ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csó ó(8C
+A
+%2;EmprendeUCR_WebApplication.Data.Entities.Suggested_Category*ﬂ
+1ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csò	 ò(	"∑
+ü
+íC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\SuggestedCategoryService.csò ò(	
+implicit return:	
+IdintBPN
+LEmprendeUCR_WebApplication.Data.Services.Categories.SuggestedCategoryService

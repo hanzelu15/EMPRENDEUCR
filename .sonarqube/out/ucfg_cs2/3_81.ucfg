@@ -1,0 +1,37 @@
+
+uEmprendeUCR.Infrastructure.Categories.CategoriesDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs  (/"0*¸
+0€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs (?±®
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs (.
+
+%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*=;
+9EmprendeUCR.Infrastructure.Categories.CategoriesDbContext*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)”‘
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs, (?H
+%1BEmprendeUCR.Infrastructure.Categories.EntityMappings.CategoriesMap"BEmprendeUCR.Infrastructure.Categories.EntityMappings.CategoriesMap²
+¯
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs0 (=
+
+%2void"REmprendeUCR.Infrastructure.Categories.EntityMappings.CategoriesMap.CategoriesMap()*J
+H
+%1BEmprendeUCR.Infrastructure.Categories.EntityMappings.CategoriesMapª§
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs (@0
+%3*Microsoft.EntityFrameworkCore.ModelBuilder"‡Microsoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*J
+H
+%1BEmprendeUCR.Infrastructure.Categories.EntityMappings.CategoriesMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
+1*¡
+1€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs	 (	"˜
+€
+vC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Categories\CategoriesDbContex.cs (	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB=;
+9EmprendeUCR.Infrastructure.Categories.CategoriesDbContext

@@ -1,0 +1,28 @@
+
+VEmprendeUCR.Application.ProfileContext.Implementations.ProfileService.GetLikes(string)é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs0( 0(0"0*≈
+0é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs2 2(:ã
+à
+é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs2 2(+G
+%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository"__id*•*¢G
+EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService"W
+_profileRepositoryAEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepositoryÑÅ
+é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs2 2(;*
+%1$System.Threading.Tasks.Task<TResult>"REmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository.GetLikes(string)*I
+G
+%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository*
+
+emailstring2GetLikes(string)"ô
+é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs2 2(<
+""*Ω
+1é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs3	 3(	"¶
+é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.cs3 3(	
+implicit return:
+emailstringBIG
+EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService

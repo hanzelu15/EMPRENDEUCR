@@ -1,0 +1,4 @@
+Þ
+HEmprendeUCR_WebApplication.Infrastructure.Core.EntityMappings.ProductMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>á
+‰Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product>)ÒEmprendeUCR_WebApplication.Infrastructure.Core.EntityMappings.ProductMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product>)e
+ProductMap()UEmprendeUCR_WebApplication.Infrastructure.Core.EntityMappings.ProductMap.ProductMap()

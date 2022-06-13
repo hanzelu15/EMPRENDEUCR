@@ -1,0 +1,8 @@
+í
+6EmprendeUCR_WebApplication.Data.Services.StatusServiceobject–
+JStatusService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)ÅEmprendeUCR_WebApplication.Data.Services.StatusService.StatusService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)O
+
+GetAsync()AEmprendeUCR_WebApplication.Data.Services.StatusService.GetAsync()ø
+BInsertStatusAsync(EmprendeUCR_WebApplication.Data.Entities.Status)yEmprendeUCR_WebApplication.Data.Services.StatusService.InsertStatusAsync(EmprendeUCR_WebApplication.Data.Entities.Status)Ü
+eInsertListOfStatus(System.Collections.Generic.IList<EmprendeUCR_WebApplication.Data.Entities.Status>)úEmprendeUCR_WebApplication.Data.Services.StatusService.InsertListOfStatus(System.Collections.Generic.IList<EmprendeUCR_WebApplication.Data.Entities.Status>)a
+GetAllStatusAsync()JEmprendeUCR_WebApplication.Data.Services.StatusService.GetAllStatusAsync()

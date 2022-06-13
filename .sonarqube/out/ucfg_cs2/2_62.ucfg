@@ -1,0 +1,31 @@
+
+ëEmprendeUCR.Application.RegisterContext.Implementations.RegisterService.verifyUserExistence(EmprendeUCR.Domain.RegisterContext.Entities.Register)ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs! !('"0*ﬂ	
+0ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs# #(Cî
+ë
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs# #(&I
+%0CEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository"__id*™*ßI
+GEmprendeUCR.Application.RegisterContext.Implementations.RegisterService"Z
+_RegisterRepositoryCEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepositoryãà
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs# #(D
+
+%1bool"äEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository.verifyUserRecord(EmprendeUCR.Domain.RegisterContext.Entities.Register)*K
+I
+%0CEmprendeUCR.Domain.RegisterContext.Repositories.IRegisterRepository*E
+C
+newRegister4EmprendeUCR.Domain.RegisterContext.Entities.Register2FverifyUserRecord(EmprendeUCR.Domain.RegisterContext.Entities.Register)"°
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs# #(E
+
+
+%1bool*¡
+1ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs$	 $(	"®
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\RegisterContext\Implementations\RegisterService.cs$ $(	
+implicit return:C
+newRegister4EmprendeUCR.Domain.RegisterContext.Entities.RegisterBKI
+GEmprendeUCR.Application.RegisterContext.Implementations.RegisterService

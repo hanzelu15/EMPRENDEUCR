@@ -1,0 +1,31 @@
+
+ﬂEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService.OrderService(EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository, EmprendeUCR_WebApplication.Domain.Repositories.IOfferRepository)°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs ("1*¨
+1°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs	 (	*
+0*è
+0°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs (-Ø
+¨
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs (.©R
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService"S
+_orderRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository"__id*T
+R
+orderRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepositoryÆ
+´
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs (-®R
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService"R
+_offerRepositoy?EmprendeUCR_WebApplication.Domain.Repositories.IOfferRepository"__id*T
+R
+offerRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOfferRepository*
+2*„
+2°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs	 (	"π
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs (	
+implicit return:R
+orderRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository:R
+offerRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOfferRepositoryBTR
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService

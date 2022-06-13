@@ -1,0 +1,45 @@
+
+…EmprendeUCR_WebApplication.Data.Services.Service_PhotosService.savePhotoToDb(EmprendeUCR_WebApplication.Data.Entities.Service_Photos)§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (!"0*ï
+0§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (‡
+„
+§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ž*‹@
+>EmprendeUCR_WebApplication.Data.Services.Service_PhotosService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextö
+ó
+§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (#2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"NEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Service_Photos.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext·´
+§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (,G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*@
+>
+s_p7EmprendeUCR_WebApplication.Data.Entities.Service_Photos2Add(TEntity)‡
+„
+§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ž*‹@
+>EmprendeUCR_WebApplication.Data.Services.Service_PhotosService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÃÀ
+§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs ("	
+%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
+A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()"²
+§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (
+""*ï
+1§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs	 (	"¿
+§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs (	
+implicit return:>
+s_p7EmprendeUCR_WebApplication.Data.Entities.Service_PhotosBB@
+>EmprendeUCR_WebApplication.Data.Services.Service_PhotosService

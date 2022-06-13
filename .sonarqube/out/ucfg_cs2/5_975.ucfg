@@ -1,0 +1,60 @@
+
+vEmprendeUCR_WebApplication.Data.Services.OfferService.InsertOfferAsync(EmprendeUCR_WebApplication.Data.Entities.Offer)œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (/"0*ÿ
+0œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (š
+—
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (5
+obj.EmprendeUCR_WebApplication.Data.Entities.Offer"__id*9
+7
+offer.EmprendeUCR_WebApplication.Data.Entities.Offeró
+ð
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*…*‚7
+5EmprendeUCR_WebApplication.Data.Services.OfferService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextâ
+ß
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs ( 2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"EEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Offer.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextåâ
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (./
+%2)System.Threading.Tasks.ValueTask<TResult>"bMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddAsync(TEntity, System.Threading.CancellationToken)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*7
+5
+obj.EmprendeUCR_WebApplication.Data.Entities.Offer*
+""25AddAsync(TEntity, System.Threading.CancellationToken)ó
+ð
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*…*‚7
+5EmprendeUCR_WebApplication.Data.Services.OfferService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext¯¬
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (-*
+%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
+A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)£
+ 
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (	
+%5int";EmprendeUCR_WebApplication.Data.Entities.Offer.Offer_ID.get*7
+5
+obj.EmprendeUCR_WebApplication.Data.Entities.Offer"¬
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs ( 
+	
+%5int*Ù
+1œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs	 (	"´
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (	
+implicit return:7
+offer.EmprendeUCR_WebApplication.Data.Entities.OfferB97
+5EmprendeUCR_WebApplication.Data.Services.OfferService

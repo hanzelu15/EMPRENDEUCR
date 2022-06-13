@@ -1,0 +1,94 @@
+
+~EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>.PagedList(System.Collections.Generic.List<T>, int, int, int)è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs ("1*˝
+1è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs	 (	a
+_
+
+%0void")System.Collections.Generic.List<T>.List()*&$
+"System.Collections.Generic.List<T>*
+0*÷
+0è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (ùö
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (E
+%1?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData"?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData∏
+µ
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs ('
+
+%2void"LEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData.PagingData()*G
+E
+%1?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData¡
+æ
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs ("	
+%3int"NEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData.TotalCount.set*G
+E
+%1?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData*
+""ø
+º
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (#	
+%4int"LEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData.PageSize.set*G
+E
+%1?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData*
+""¬
+ø
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs ((	
+%5int"OEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData.CurrentPage.set*G
+E
+%1?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData*
+""©
+¶
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs7 (G
+%6"__id*
+""Ÿ
+÷
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs" (H
+%7double"System.Math.Ceiling(double)*"
+System.Math*
+""±
+Æ
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (H
+%8"__id*
+
+%7double¡
+æ
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (H	
+%9int"NEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData.TotalPages.set*G
+E
+%1?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData*
+
+%8ø
+º
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (F
+%10?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData"PEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>.pagingData.set*EC
+AEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>*G
+E
+%1?EmprendeUCR_WebApplication.Data.Entities.ContextShop.PagingData—
+Œ
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (
+%11void"VSystem.Collections.Generic.List<T>.AddRange(System.Collections.Generic.IEnumerable<T>)*&$
+"System.Collections.Generic.List<T>*-
++
+items"System.Collections.Generic.List<T>*
+2*ø
+2è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs	 (	"ß
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Entities\ContextShop\PagedList.cs (	
+implicit return:+
+items"System.Collections.Generic.List<T>:
+countint:
+
+pageNumberint:
+pageSizeintBEC
+AEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>

@@ -1,0 +1,7 @@
+·
++EmprendeUCR.Domain.Core.CoreEntities.Phonesobject@
+Phones()4EmprendeUCR.Domain.Core.CoreEntities.Phones.Phones()L
+User_Email.get:EmprendeUCR.Domain.Core.CoreEntities.Phones.User_Email.getL
+User_Email.set:EmprendeUCR.Domain.Core.CoreEntities.Phones.User_Email.setP
+Phone_Number.get<EmprendeUCR.Domain.Core.CoreEntities.Phones.Phone_Number.getP
+Phone_Number.set<EmprendeUCR.Domain.Core.CoreEntities.Phones.Phone_Number.set

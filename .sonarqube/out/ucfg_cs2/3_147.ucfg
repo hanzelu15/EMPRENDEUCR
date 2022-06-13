@@ -1,0 +1,41 @@
+
+™EmprendeUCR.Infrastructure.Entrepreneurs.Repositories.ProductPhotosRepository.SaveAsync(EmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.ProductPhotos)ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductPhotosRepository.cs, ,(#"0*∑
+0ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductPhotosRepository.cs. 0(0è
+å
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductPhotosRepository.cs. .(E
+%0?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext"__id*£*†O
+MEmprendeUCR.Infrastructure.Entrepreneurs.Repositories.ProductPhotosRepository"M
+
+_dbContext?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContextÌ
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductPhotosRepository.cs. .(,G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Update<TEntity>(TEntity)*G
+E
+%0?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext*d
+b
+ProductPhotosQEmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.ProductPhotos2Update<TEntity>(TEntity)è
+å
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductPhotosRepository.cs0 0(E
+%2?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext"__id*£*†O
+MEmprendeUCR.Infrastructure.Entrepreneurs.Repositories.ProductPhotosRepository"M
+
+_dbContext?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext¸
+˘
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductPhotosRepository.cs0 0(0!
+%3System.Threading.Tasks.Task"jEmprendeUCR.Infrastructure.Core.ApplicationDbContext.SaveEntitiesAsync(System.Threading.CancellationToken)*G
+E
+%2?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext*
+""*
+1*Õ
+1ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductPhotosRepository.cs1	 1(	"Æ
+ñ
+ãC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductPhotosRepository.cs1 1(	
+implicit return:b
+ProductPhotosQEmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.ProductPhotosBQO
+MEmprendeUCR.Infrastructure.Entrepreneurs.Repositories.ProductPhotosRepository

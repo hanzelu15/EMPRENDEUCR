@@ -1,0 +1,27 @@
+‡
+)EmprendeUCR_WebApplication.Shared.NavMenu-Microsoft.AspNetCore.Components.ComponentBaseobjectSystem.IDisposableÆ
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)vEmprendeUCR_WebApplication.Shared.NavMenu.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)T
+showNotifications()=EmprendeUCR_WebApplication.Shared.NavMenu.showNotifications()V
+OnInitializedAsync()>EmprendeUCR_WebApplication.Shared.NavMenu.OnInitializedAsync()ÿ
+hquantityEvent(object, EmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs)’EmprendeUCR_WebApplication.Shared.NavMenu.quantityEvent(object, EmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs)P
+UpdateParams(int);EmprendeUCR_WebApplication.Shared.NavMenu.UpdateParams(int)>
+logear()2EmprendeUCR_WebApplication.Shared.NavMenu.logear()B
+
+registro()4EmprendeUCR_WebApplication.Shared.NavMenu.registro()X
+GetUserNotification()?EmprendeUCR_WebApplication.Shared.NavMenu.GetUserNotification()@
+	Dispose()3EmprendeUCR_WebApplication.Shared.NavMenu.Dispose()@
+	NavMenu()3EmprendeUCR_WebApplication.Shared.NavMenu.NavMenu()R
+sessionStorage.get<EmprendeUCR_WebApplication.Shared.NavMenu.sessionStorage.getR
+sessionStorage.set<EmprendeUCR_WebApplication.Shared.NavMenu.sessionStorage.set\
+UserServicePandemic.getAEmprendeUCR_WebApplication.Shared.NavMenu.UserServicePandemic.get\
+UserServicePandemic.setAEmprendeUCR_WebApplication.Shared.NavMenu.UserServicePandemic.setX
+NavigationManager.get?EmprendeUCR_WebApplication.Shared.NavMenu.NavigationManager.getX
+NavigationManager.set?EmprendeUCR_WebApplication.Shared.NavMenu.NavigationManager.set\
+NotificationService.getAEmprendeUCR_WebApplication.Shared.NavMenu.NotificationService.get\
+NotificationService.setAEmprendeUCR_WebApplication.Shared.NavMenu.NotificationService.setz
+&Shopping_Cart_Has_Service_Pandemic.getPEmprendeUCR_WebApplication.Shared.NavMenu.Shopping_Cart_Has_Service_Pandemic.getz
+&Shopping_Cart_Has_Service_Pandemic.setPEmprendeUCR_WebApplication.Shared.NavMenu.Shopping_Cart_Has_Service_Pandemic.setf
+Shopping_Cart_HasService.getFEmprendeUCR_WebApplication.Shared.NavMenu.Shopping_Cart_HasService.getf
+Shopping_Cart_HasService.setFEmprendeUCR_WebApplication.Shared.NavMenu.Shopping_Cart_HasService.setb
+ProductServicePandemic.getDEmprendeUCR_WebApplication.Shared.NavMenu.ProductServicePandemic.getb
+ProductServicePandemic.setDEmprendeUCR_WebApplication.Shared.NavMenu.ProductServicePandemic.set

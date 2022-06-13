@@ -1,0 +1,64 @@
+
+€EmprendeUCR_WebApplication.Data.Services.RegisterService.checkRecordExistence(EmprendeUCR_WebApplication.Data.Entities.Registro)ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs5  5(4"0*¿
+0ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs7 8(5°
+­
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs7 7(#
+
+encontradobool"__id*
+""›
+˜
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs8& 8(5
+%0string";EmprendeUCR_WebApplication.Data.Entities.Registro.Email.get*@
+>
+	oRegistro1EmprendeUCR_WebApplication.Data.Entities.RegistroÕ
+Ò
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs8 8(6
+
+%1bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%0string*
+1
+2*Å
+1ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs: :(K›
+˜
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs:< :(K
+%2string";EmprendeUCR_WebApplication.Data.Entities.Registro.Email.get*@
+>
+	oRegistro1EmprendeUCR_WebApplication.Data.Entities.RegistroÞ
+Û
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs:# :(L*
+%3$System.Threading.Tasks.Task<TResult>"TEmprendeUCR_WebApplication.Data.Services.RegisterService.VerifyUserExistence(string)*<:
+8EmprendeUCR_WebApplication.Data.Services.RegisterService*
+
+%2string°
+­
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs: :(L
+
+encontradobool"__id*
+""*
+2*²
+2ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs< <("¡
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs< <(
+
+
+encontradobool*±
+3ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs=	 =(	" 
+ˆ
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\RegisterService.cs= =(	
+implicit return:>
+	oRegistro1EmprendeUCR_WebApplication.Data.Entities.RegistroB<:
+8EmprendeUCR_WebApplication.Data.Services.RegisterService

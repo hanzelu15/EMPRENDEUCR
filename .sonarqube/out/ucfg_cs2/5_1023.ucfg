@@ -1,0 +1,40 @@
+
+OEmprendeUCR_WebApplication.Data.Services.MembersService.GetByEmailAsync(string)‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs# (2"0*Ì
+0‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs! "(à
+Ý
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs! !(#A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*‡*„9
+7EmprendeUCR_WebApplication.Data.Services.MembersService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÏ
+Ì
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs! !(+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Members.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextìé
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs! !(</
+%2)System.Threading.Tasks.ValueTask<TResult>"GMicrosoft.EntityFrameworkCore.DbSet<TEntity>.FindAsync(params object[])*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+emailstring2FindAsync(params object[])Ò
+Ï
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs! !(=5
+a0EmprendeUCR_WebApplication.Data.Entities.Members"__id*
+"""Ã
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs" "(7
+5
+a0EmprendeUCR_WebApplication.Data.Entities.Members*¯
+1‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs#	 #(	"Ÿ
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\MembersService.cs# #(	
+implicit return:
+emailstringB;9
+7EmprendeUCR_WebApplication.Data.Services.MembersService

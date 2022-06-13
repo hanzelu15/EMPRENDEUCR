@@ -1,0 +1,29 @@
+
+ôEmprendeUCR.Application.ConfirmAdminContext.Implementations.ConfirmAdminService.acceptNewAdmin(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)ò
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ConfirmAdminContext\Implementations\ConfirmAdminService.cs  (."0*ƒ
+
+0ò
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ConfirmAdminContext\Implementations\ConfirmAdminService.cs (B∏
+µ
+ò
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ConfirmAdminContext\Implementations\ConfirmAdminService.cs (0Q
+%0KEmprendeUCR.Domain.ConfirmAdminContext.Repositories.IConfirmAdminRepository"__id*æ*ªQ
+OEmprendeUCR.Application.ConfirmAdminContext.Implementations.ConfirmAdminService"f
+_confirmAdminRepositoryKEmprendeUCR.Domain.ConfirmAdminContext.Repositories.IConfirmAdminRepository¬ø
+ò
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ConfirmAdminContext\Implementations\ConfirmAdminService.cs (C*
+%1$System.Threading.Tasks.Task<TResult>"íEmprendeUCR.Domain.ConfirmAdminContext.Repositories.IConfirmAdminRepository.acceptAdmin(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)*S
+Q
+%0KEmprendeUCR.Domain.ConfirmAdminContext.Repositories.IConfirmAdminRepository*D
+B
+admin9EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators2FacceptAdmin(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)"£
+ò
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ConfirmAdminContext\Implementations\ConfirmAdminService.cs (D
+""*—
+1ò
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ConfirmAdminContext\Implementations\ConfirmAdminService.cs	 (	"∞
+ò
+çC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ConfirmAdminContext\Implementations\ConfirmAdminService.cs (	
+implicit return:B
+admin9EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministratorsBSQ
+OEmprendeUCR.Application.ConfirmAdminContext.Implementations.ConfirmAdminService

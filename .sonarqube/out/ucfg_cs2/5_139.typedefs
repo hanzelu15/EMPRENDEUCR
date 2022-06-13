@@ -1,0 +1,16 @@
+ý
+
+>EmprendeUCR_WebApplication.Domain.OrderContext.Entities.StatusobjectS
+Status()GEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.Status()S
+Name.getGEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.Name.getS
+Name.setGEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.Name.setm
+PreviousStateName.getTEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.PreviousStateName.getm
+PreviousStateName.setTEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.PreviousStateName.setg
+previousStatus.getQEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.previousStatus.getg
+previousStatus.setQEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.previousStatus.seti
+posteriorStatus.getREmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.posteriorStatus.geti
+posteriorStatus.setREmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.posteriorStatus.seto
+personalizedStatus.getUEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.personalizedStatus.geto
+personalizedStatus.setUEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.personalizedStatus.sete
+genericStatus.getPEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.genericStatus.gete
+genericStatus.setPEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Status.genericStatus.set

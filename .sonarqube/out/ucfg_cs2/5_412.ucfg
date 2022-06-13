@@ -1,0 +1,32 @@
+
+²EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.filterOrders(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order>, string)Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csz z('"0*Õ
+0Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs| |(D•
+’
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs| |(E/
+%0)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*6
+4
+ordersToFilter"System.Collections.Generic.List<T>*
+""æ
+ã
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs| |(N(
+%1"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%0)System.Collections.Generic.IEnumerable<T>"½
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs| |(O*
+(
+%1"System.Collections.Generic.List<T>*½
+1Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs}	 }(	"¦
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs} }(	
+implicit return:4
+ordersToFilter"System.Collections.Generic.List<T>:
+statusstringBA?
+=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order

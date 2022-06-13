@@ -1,0 +1,42 @@
+
+YEmprendeUCR_WebApplication.Data.Services.EntrepreneurService.GetEntrepreneurAsync(string)ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs4( 4(<"0*ÿ
+0ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs6 7(Î
+Ë
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs6. 6(6A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*å*â>
+<EmprendeUCR_WebApplication.Data.Services.EntrepreneurService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext⁄
+◊
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs6. 6(C2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"LEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Entrepreneur.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext∞
+≠
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs6. 6(x*
+%2$System.Threading.Tasks.Task<TResult>"‚Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*
+""Ë
+Â
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs6 6(xE
+entrepreneur5EmprendeUCR_WebApplication.Data.Entities.Entrepreneur"__id*
+"""Ÿ
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs7 7( G
+E
+entrepreneur5EmprendeUCR_WebApplication.Data.Entities.Entrepreneur*ª
+1ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs8	 8(	"•
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\EntrepreneurService.cs8 8(	
+implicit return:
+emailstringB@>
+<EmprendeUCR_WebApplication.Data.Services.EntrepreneurService

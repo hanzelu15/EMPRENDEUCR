@@ -1,0 +1,32 @@
+
+ÇLab2.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<Lab2.Infrastructure.Core.ApplicationDbContext>)”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs (#"1*Ÿ
+1”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs	 (	*
+0*ì
+0”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs (ó
+ð
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs (
+
+%0void"aMicrosoft.EntityFrameworkCore.DbContext.DbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*+)
+'Microsoft.EntityFrameworkCore.DbContext*;
+9
+options.Microsoft.EntityFrameworkCore.DbContextOptionsÔ
+Ñ
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs (q/
+-Lab2.Infrastructure.Core.ApplicationDbContext">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*É
+2”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs	 (	"¬
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\Core\ApplicationDbContext.cs (	
+implicit return:9
+options.Microsoft.EntityFrameworkCore.DbContextOptions:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B1/
+-Lab2.Infrastructure.Core.ApplicationDbContext

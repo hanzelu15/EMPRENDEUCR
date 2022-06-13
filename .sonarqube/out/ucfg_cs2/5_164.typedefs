@@ -1,0 +1,9 @@
+¿
+KEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart=EmprendeUCR_WebApplication.Domain.Core.Entities.AggregateRootobjectù
+fDeleteProductFromShoppingCart(EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine)≤EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.DeleteProductFromShoppingCart(EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShopLine)|
+eraseAllProductLines()bEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.eraseAllProductLines()l
+ShoppingCart()ZEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.ShoppingCart()b
+	Email.getUEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.Email.getb
+	Email.setUEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.Email.setj
+ShopLines.getYEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.ShopLines.getj
+ShopLines.setYEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.ShopLines.set

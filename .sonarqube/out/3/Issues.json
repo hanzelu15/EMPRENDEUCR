@@ -1,0 +1,1492 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.1.0.0",
+        "fileVersion": "4.1.0-5.22116.13 (dbffaa4a)",
+        "semanticVersion": "4.1.0",
+        "language": "es-ES"
+      },
+      "results": [
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Entrepreneurs/Repositories/ProductRepository.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 34,
+                  "endLine": 35,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Core/ApplicationDbContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 37,
+                  "endLine": 14,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentInfos/Card/Repositories/CardPaymentInfoRepository.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 42,
+                  "endLine": 26,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentInfos/Card/Repositories/CardPaymentInfoRepository.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 42,
+                  "endLine": 45,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Core/ApplicationDbContext.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 38,
+                  "endLine": 13,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Entrepreneurs/Repositories/ProductPhotosRepository.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 40,
+                  "endLine": 34,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentInfos/PaymentInformation/Repositories/PaymentInfoRepository.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 38,
+                  "endLine": 25,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentInfos/PaymentInformation/Repositories/PaymentInfoRepository.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 38,
+                  "endLine": 38,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentInfos/SinpeIban/Repositories/SinpeIbanPaymentInfoRepository.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 47,
+                  "endLine": 26,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentInfos/SinpeIban/Repositories/SinpeIbanPaymentInfoRepository.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 47,
+                  "endLine": 71,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentMethods/Repositories/CardPaymentMethodRepository.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 44,
+                  "endLine": 26,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentInfos/SinpeMovil/Repositories/SinpeMovilPaymentInfoRepository.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 48,
+                  "endLine": 25,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentMethods/Repositories/SinpeIbanPaymentMethodRepository.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 49,
+                  "endLine": 25,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentInfos/SinpeMovil/Repositories/SinpeMovilPaymentInfoRepository.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 48,
+                  "endLine": 44,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentMethods/Repositories/SinpeMovilPaymentMethodRepository.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 50,
+                  "endLine": 26,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Chats/TheMessage/Repositories/MessageRepository.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 34,
+                  "endLine": 28,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Chats/TheChat/Repositories/ChatRepository.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 31,
+                  "endLine": 26,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Chats/TheChat/Repositories/ChatRepository.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 31,
+                  "endLine": 39,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Chats/TheUtilizesChat/Repositories/UtilizesChatRepository.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 39,
+                  "endLine": 26,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8632",
+          "level": "warning",
+          "message": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Reports/Repositories/ReportRepository.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 33,
+                  "endLine": 26,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/HomePageClientContext/Repositories/HomePageClientRepository.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 41,
+                  "endLine": 78,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Core/EntityMappings/ProductServiceMap.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 13,
+                  "endLine": 27,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/DependencyInjection.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 1,
+                  "endLine": 16,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Entrepreneurs/EntityMappings/ProductServiceMap.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 13,
+                  "endLine": 26,
+                  "endColumn": 88
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Entrepreneurs/Repositories/ProductRepository.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 9,
+                  "endLine": 53,
+                  "endColumn": 12
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/HomePageClientContext/HomePageClientDbContext.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 13,
+                  "endLine": 46,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/HomePageClientContext/HomePageClientDbContext.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 13,
+                  "endLine": 49,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProfileContext/ProfileDbContext.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 13,
+                  "endLine": 59,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/RegisterContext/RegisterDbContext.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 13,
+                  "endLine": 57,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field '_logger' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Core/ApplicationDbContext.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 56,
+                  "endLine": 12,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'Is_Able_ToMap' to match pascal case naming rules, consider using 'IsAbleToMap'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Core/EntityMappings/Is_Able_ToMap.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 18,
+                  "endLine": 7,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'Is_OfferMap' to match pascal case naming rules, consider using 'IsOfferMap'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Core/EntityMappings/Is_OfferMap.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 11,
+                  "endLine": 7,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'Service_PhotosMap' to match pascal case naming rules, consider using 'ServicePhotosMap'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Core/EntityMappings/Service_PhotosMap.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 18,
+                  "endLine": 7,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ConfirmAdminContext/Repositories/ConfirmAdminRepository.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 77,
+                  "endLine": 24,
+                  "endColumn": 82
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'ID' to 'id' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Reports/Repositories/ReportRepository.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 53,
+                  "endLine": 26,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'Id' to 'id' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Categories/Repositories/CategoriesRepository.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 54,
+                  "endLine": 26,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'categories' to 'category' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/Categories/Repositories/CategoriesRepository.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 46,
+                  "endLine": 34,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/HomePageClientContext/Repositories/HomePageClientRepository.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 20,
+                  "endLine": 33,
+                  "endColumn": 102
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/RegisterContext/Repositories/RegisterRepository.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 26,
+                  "endLine": 70,
+                  "endColumn": 111
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to 'bool'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/RegisterContext/Repositories/RegisterRepository.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 31,
+                  "endLine": 84,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1827",
+          "level": "note",
+          "message": "Count() is used where Any() could be used instead to improve performance",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/HomePageClientContext/Repositories/HomePageClientRepository.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 17,
+                  "endLine": 56,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "OperationKey": "OperationBinaryLeft",
+              "ShouldNegateKey": ""
+            }
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/HomePageClientContext/Repositories/HomePageClientRepository.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 20,
+                  "endLine": 92,
+                  "endColumn": 105
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter '_user' to 'user' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/RegisterContext/Repositories/RegisterRepository.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 54,
+                  "endLine": 109,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/RegisterContext/Repositories/RegisterRepository.cs",
+                "region": {
+                  "startLine": 179,
+                  "startColumn": 20,
+                  "endLine": 179,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProductsSearchClientContext/Repositories/ProductsSearchClientRepository.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 20,
+                  "endLine": 34,
+                  "endColumn": 93
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProductsSearchClientContext/Repositories/ProductsSearchClientRepository.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 20,
+                  "endLine": 39,
+                  "endColumn": 93
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProductsSearchClientContext/Repositories/ProductsSearchClientRepository.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 20,
+                  "endLine": 44,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProductsSearchClientContext/Repositories/ProductsSearchClientRepository.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 20,
+                  "endLine": 49,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PermissionContext/Repositories/PermissionRepository.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 26,
+                  "endLine": 77,
+                  "endColumn": 116
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PermissionContext/Repositories/PermissionRepository.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 20,
+                  "endLine": 82,
+                  "endColumn": 110
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProfileContext/Repositories/ProfileRepository.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 20,
+                  "endLine": 75,
+                  "endColumn": 105
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProfileContext/Repositories/ProfileRepository.cs",
+                "region": {
+                  "startLine": 90,
+                  "startColumn": 20,
+                  "endLine": 90,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProfileContext/Repositories/ProfileRepository.cs",
+                "region": {
+                  "startLine": 95,
+                  "startColumn": 20,
+                  "endLine": 95,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/RegisterContext/Repositories/RegisterRepository.cs",
+                "region": {
+                  "startLine": 184,
+                  "startColumn": 20,
+                  "endLine": 184,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1827",
+          "level": "note",
+          "message": "Count() is used where Any() could be used instead to improve performance",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProductsSearchClientContext/Repositories/ProductsSearchClientRepository.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 17,
+                  "endLine": 63,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "OperationKey": "OperationBinaryLeft",
+              "ShouldNegateKey": ""
+            }
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProductsSearchClientContext/Repositories/ProductsSearchClientRepository.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 20,
+                  "endLine": 88,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProductsSearchClientContext/Repositories/ProductsSearchClientRepository.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 20,
+                  "endLine": 93,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProductsSearchClientContext/Repositories/ProductsSearchClientRepository.cs",
+                "region": {
+                  "startLine": 108,
+                  "startColumn": 20,
+                  "endLine": 108,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/ProductsSearchClientContext/Repositories/ProductsSearchClientRepository.cs",
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 20,
+                  "endLine": 113,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'paymentMethod' to 'sinpeMovilPaymentMethod' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentMethods/Repositories/SinpeMovilPaymentMethodRepository.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 61,
+                  "endLine": 34,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'paymentMethod' to 'sinpeIbanPaymentMethod' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentMethods/Repositories/SinpeIbanPaymentMethodRepository.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 60,
+                  "endLine": 33,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'paymentMethod' to 'cardPaymentMethod' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Hansel/Documents/cloneEmprendeUCR/EMPRENDEUCR/EmprendeUCR/src/Infrastructure/PaymentMethods/Repositories/CardPaymentMethodRepository.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 55,
+                  "endLine": 34,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1827": {
+          "id": "CA1827",
+          "shortDescription": "Do not use Count() or LongCount() when Any() can be used",
+          "fullDescription": "For non-empty collections, Count() and LongCount() enumerate the entire sequence, while Any() stops at the first item or the first item that satisfies a condition.",
+          "defaultLevel": "note",
+          "helpUri": "https://docs.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1827",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS1998": {
+          "id": "CS1998",
+          "shortDescription": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1998)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8632": {
+          "id": "CS8632",
+          "shortDescription": "La anotación para tipos de referencia que aceptan valores NULL solo debe usarse en el código dentro de un contexto de anotaciones \"#nullable\".",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8632)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1125": {
+          "id": "S1125",
+          "shortDescription": "Boolean literals should not be redundant",
+          "fullDescription": "Redundant Boolean literals should be removed from expressions to improve readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1125",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1905": {
+          "id": "S1905",
+          "shortDescription": "Redundant casts should not be used",
+          "fullDescription": "Unnecessary casting expressions make the code harder to read and understand.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1905",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2077": {
+          "id": "S2077",
+          "shortDescription": "Formatting SQL queries is security-sensitive",
+          "fullDescription": "Formatted SQL queries can be difficult to maintain, debug and can increase the risk of SQL injection when concatenating untrusted values into the query. However, this rule doesn’t detect SQL injections (unlike rule {rule:csharpsquid:S3649}), the goal is only to highlight complex/formatted queries.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2077",
+          "properties": {
+            "category": "Major Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "S4487": {
+          "id": "S4487",
+          "shortDescription": "Unread \"private\" fields should be removed",
+          "fullDescription": "Private fields only used to store values without reading them later is a case of dead store. So changing the value of such field is useless and most probably indicates a serious error in the code.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4487",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope",
+              "Unnecessary"
+            ]
+          }
+        },
+        "S927": {
+          "id": "S927",
+          "shortDescription": "Parameter names should match base declaration and other partial definitions",
+          "fullDescription": "The name of a parameter in an externally visible. This rule raises an issue when method override does not match the name of the parameter in the base declaration of the method, or the name of the parameter in the interface declaration of the method or the name of any other partial definition.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-927",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

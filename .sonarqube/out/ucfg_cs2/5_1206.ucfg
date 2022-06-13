@@ -1,0 +1,33 @@
+
+˜EmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.ShoppingCartNotificationRepository.ShoppingCartChange(object, TableDependency.SqlClient.Base.EventArgs.RecordChangedEventArgs<EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has>)Ñ
+ÆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csP P('"0*¸
+0Ñ
+ÆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csR R(Rƒ€
+Ñ
+ÆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csR- R(SW
+%0QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs"QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs»
+¸
+Ñ
+ÆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csR1 R(L
+
+%1void"sEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs.NotificationChangeEventArgs(bool)*Y
+W
+%0QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs*
+""•
+’
+Ñ
+ÆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csR R(T!
+%2System.Threading.Tasks.Task"¬EmprendeUCR_WebApplication.Domain.NotificationContext.newEventNotification.Invoke(object, EmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs)*
+""*†ƒ
+€EmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.ShoppingCartNotificationRepository*Y
+W
+%0QEmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs*
+1*Ã
+1Ñ
+ÆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csS	 S(	"é
+Ñ
+ÆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\ShoppingCartNotificationRepository.csS S(	
+implicit return:
+senderobject:G
+eBTableDependency.SqlClient.Base.EventArgs.RecordChangedEventArgs<T>B†ƒ
+€EmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.ShoppingCartNotificationRepository

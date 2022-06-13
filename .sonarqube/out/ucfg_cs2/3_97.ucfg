@@ -1,0 +1,41 @@
+
+vEmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository.AddReport(EmprendeUCR.Domain.Reports.Entities.Report)à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs( ((#"0*»
+0à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs* +(/⁄
+◊
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs* *(8
+%02EmprendeUCR.Infrastructure.Reports.ReportDbContext"__id*â*ÜB
+@EmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository"@
+
+_dbContext2EmprendeUCR.Infrastructure.Reports.ReportDbContext„‡
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs* *(-/
+%1)System.Threading.Tasks.ValueTask<TResult>"fMicrosoft.EntityFrameworkCore.DbContext.AddAsync<TEntity>(TEntity, System.Threading.CancellationToken)*:
+8
+%02EmprendeUCR.Infrastructure.Reports.ReportDbContext*6
+4
+report*EmprendeUCR.Domain.Reports.Entities.Report*
+""2>AddAsync<TEntity>(TEntity, System.Threading.CancellationToken)⁄
+◊
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs+ +(8
+%22EmprendeUCR.Infrastructure.Reports.ReportDbContext"__id*â*ÜB
+@EmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository"@
+
+_dbContext2EmprendeUCR.Infrastructure.Reports.ReportDbContextíè
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs+ +(/*
+%3$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*:
+8
+%22EmprendeUCR.Infrastructure.Reports.ReportDbContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)*
+1*±
+1à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs,	 ,(	"†
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs, ,(	
+implicit return:4
+report*EmprendeUCR.Domain.Reports.Entities.ReportBDB
+@EmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository

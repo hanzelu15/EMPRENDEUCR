@@ -1,0 +1,34 @@
+
+]EmprendeUCR_WebApplication.Data.Services.Product_ServiceService.GetAllProductsServicesAsync()®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csN1 N(L"0*È
+0®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csP P(?â
+Ü
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csP P(!A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*è*åA
+?EmprendeUCR_WebApplication.Data.Services.Product_ServiceService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext¯
+ı
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csP P(12
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"OEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product_Service.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext˚
+¯
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csP P(?*
+%2$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""≥
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csP P(@
+""*Ò
+1®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csQ	 Q(	"¿
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csQ Q(	
+implicit returnBCA
+?EmprendeUCR_WebApplication.Data.Services.Product_ServiceService

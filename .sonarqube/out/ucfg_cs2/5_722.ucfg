@@ -1,0 +1,36 @@
+
+TEmprendeUCR_WebApplication.Data.Services.Service_PhotosService.loadServicePhoto(int)§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs1 1(."0*÷
+0§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs3 3(j‡
+„
+§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs3 3(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ž*‹@
+>EmprendeUCR_WebApplication.Data.Services.Service_PhotosService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextö
+ó
+§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs3 3(*2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"NEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Service_Photos.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÖ
+Ó
+§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs3 3(k=
+%27EmprendeUCR_WebApplication.Data.Entities.Service_Photos"ŽSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""ë
+§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs3 3(l?
+=
+%27EmprendeUCR_WebApplication.Data.Entities.Service_Photos*ï
+1§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs4	 4(	"¿
+§
+œC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Service\Service_PhotosService.cs4 4(	
+implicit return:
+	serviceIDintBB@
+>EmprendeUCR_WebApplication.Data.Services.Service_PhotosService

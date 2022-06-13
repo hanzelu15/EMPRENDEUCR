@@ -1,0 +1,46 @@
+
+NEmprendeUCR.Domain.Reports.Entities.Report.Report(string, string, string, int)r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Reports\Entities\Report.cs ("1*|
+1r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Reports\Entities\Report.cs	 (	*
+0*ñ
+0r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Reports\Entities\Report.cs (þ
+û
+r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Reports\Entities\Report.cs (
+%0string"4EmprendeUCR.Domain.Reports.Entities.Report.Title.set*.,
+*EmprendeUCR.Domain.Reports.Entities.Report*
+
+titlestring‚
+ÿ
+r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Reports\Entities\Report.cs (
+%1string"6EmprendeUCR.Domain.Reports.Entities.Report.Content.set*.,
+*EmprendeUCR.Domain.Reports.Entities.Report*
+
+contentstringü
+ù
+r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Reports\Entities\Report.cs (
+%2string"3EmprendeUCR.Domain.Reports.Entities.Report.User.set*.,
+*EmprendeUCR.Domain.Reports.Entities.Report*
+
+userstringí
+ê
+r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Reports\Entities\Report.cs (	
+%3int"1EmprendeUCR.Domain.Reports.Entities.Report.ID.set*.,
+*EmprendeUCR.Domain.Reports.Entities.Report*
+""*
+2*ƒ
+2r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Reports\Entities\Report.cs	 (	"‰
+r
+hC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Reports\Entities\Report.cs (	
+implicit return:
+titlestring:
+contentstring:
+userstring:	
+idintB.,
+*EmprendeUCR.Domain.Reports.Entities.Report

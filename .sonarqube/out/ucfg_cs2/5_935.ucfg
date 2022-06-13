@@ -1,0 +1,84 @@
+
+bEmprendeUCR_WebApplication.Data.Services.Product_ServiceService.DeleteProductServiceByIdAsync(int)®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.cs5  5(="0*∂
+0®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csE	 E(	*
+1
+2*å
+1®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.cs9  <(â
+Ü
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.cs9' 9(/A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*è*åA
+?EmprendeUCR_WebApplication.Data.Services.Product_ServiceService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext¯
+ı
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.cs9' 9(?2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"OEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product_Service.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextœ
+Ã
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.cs9' 9(_>
+%28EmprendeUCR_WebApplication.Data.Entities.Product_Service"ÖSystem.Linq.Queryable.First<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""∏
+µ
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.cs9  9(_@
+prod8EmprendeUCR_WebApplication.Data.Entities.Product_Service"__id*@
+>
+%28EmprendeUCR_WebApplication.Data.Entities.Product_Serviceâ
+Ü
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.cs: :(A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*è*åA
+?EmprendeUCR_WebApplication.Data.Services.Product_ServiceService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext¯
+ı
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.cs: :((2
+%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>"OEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product_Service.get*C
+A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext¿Ω
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.cs: :(5G
+%5AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
+2
+%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>*B
+@
+prod8EmprendeUCR_WebApplication.Data.Entities.Product_Service2Remove(TEntity)â
+Ü
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.cs; ;(A
+%6;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*è*åA
+?EmprendeUCR_WebApplication.Data.Services.Product_ServiceService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextª∏
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.cs; ;(1*
+%7$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*C
+A
+%6;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)"≥
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.cs< <(
+""*≥
+2®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csE	 E(	*
+3*‰
+4®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csA A("≥
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csA A(
+""*Ò
+3®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csE	 E(	"¿
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Product\Product_ServiceService.csE E(	
+implicit return:
+codeIdintBCA
+?EmprendeUCR_WebApplication.Data.Services.Product_ServiceService

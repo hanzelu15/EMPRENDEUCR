@@ -1,0 +1,4 @@
+¾
+YEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductHasStatusMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>Œ
+–Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.ProductHasStatus>)ðEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductHasStatusMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.ProductHasStatus>)ˆ
+ProductHasStatusMap()oEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ProductHasStatusMap.ProductHasStatusMap()

@@ -1,0 +1,28 @@
+
+aEmprendeUCR.Application.LoginContext.Implementations.LoginService.getActiveAdministrators(string)‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csÛ0 Û(G"0*¿
+0‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csÝ Ý(Fú
+÷
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csÝ Ý()C
+%0=EmprendeUCR.Domain.LoginContext.Repositories.ILoginRepository"__id*›*˜C
+AEmprendeUCR.Application.LoginContext.Implementations.LoginService"Q
+_loginRepository=EmprendeUCR.Domain.LoginContext.Repositories.ILoginRepository•’
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csÝ Ý(G*
+%1$System.Threading.Tasks.Task<TResult>"\EmprendeUCR.Domain.LoginContext.Repositories.ILoginRepository.getActiveAdministrator(string)*E
+C
+%0=EmprendeUCR.Domain.LoginContext.Repositories.ILoginRepository*
+
+emailstring2getActiveAdministrator(string)"–
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csÝ Ý(H
+""*·
+1‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csÞ	 Þ(	"£
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csÞ Þ(	
+implicit return:
+emailstringBEC
+AEmprendeUCR.Application.LoginContext.Implementations.LoginService

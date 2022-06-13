@@ -1,0 +1,12 @@
+”
+HEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationErrorobjectSystem.IEquatable<T>a
+
+ToString()SEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError.ToString()›
+'PrintMembers(System.Text.StringBuilder)pEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError.PrintMembers(System.Text.StringBuilder)g
+GetHashCode()VEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError.GetHashCode()k
+Equals(object?)XEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError.Equals(object?)ð
+QEquals(EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError?)šEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError.Equals(EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError?)€
+YValidationError(EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError)¢EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError.ValidationError(EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError)o
+ValidationError()ZEmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError.ValidationError()u
+EqualityContract.get]EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError.EqualityContract.getu
+EqualityContract.set]EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo.ValidationError.EqualityContract.set

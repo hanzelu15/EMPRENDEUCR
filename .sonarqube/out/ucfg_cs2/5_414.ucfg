@@ -1,0 +1,46 @@
+
+kEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.changeProductStatus(string, int, string, int)é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cst t('"0*–
+0é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csv w(.⁄
+◊
+é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csv v(#7
+%01System.Collections.Generic.IReadOnlyCollection<T>"__id*Ñ*Å?
+=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order">
+	Organized1System.Collections.Generic.IReadOnlyCollection<T>∫
+∑
+è
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csv v(ïG
+%1AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*9
+7
+%01System.Collections.Generic.IReadOnlyCollection<T>*
+""¥
+±
+è
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csv v(ïL
+productAEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized"__id*I
+G
+%1AEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized„
+‡
+é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csw w(/
+
+%2void"VEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.ChangeStatus(string)*N
+L
+productAEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*
+
+productStatusstring*
+1*Ω
+1é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csx	 x(	"¶
+é
+ÉC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csx x(	
+implicit return:
+productStatusstring:
+CodeIdint:
+EntrepreneurEmailstring:
+
+CategoryIdintBA?
+=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order

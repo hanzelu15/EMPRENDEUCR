@@ -1,0 +1,4 @@
+‡
+iEmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationClientMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>¦
+›Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClient>)…EmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationClientMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.NotificationContext.OrderNotificationClient>)§
+OrderNotificationClientMap()†EmprendeUCR_WebApplication.Infrastructure.NotificationContext.EntitityMappings.OrderNotificationClientMap.OrderNotificationClientMap()

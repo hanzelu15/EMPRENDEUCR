@@ -1,0 +1,91 @@
+
+õEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService.GetProducts(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csM) M(4"0*·
+0°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csO R(*ﬂ
+‹
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csO! O(:
+%0System.DateTime"UEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.DateAndHourCreation.get*H
+F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order‰
+·
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csO O(:
+	dateOrderSystem.DateTime"__id*
+
+%0System.DateTime¢
+ü
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csP" P(1E
+%1?EmprendeUCR_WebApplication.Domain.Repositories.IOfferRepository"__id*´*®R
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService"R
+_offerRepositoy?EmprendeUCR_WebApplication.Domain.Repositories.IOfferRepository¿Ω
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csP" P(M(
+%2"System.Collections.Generic.List<T>"aEmprendeUCR_WebApplication.Domain.Repositories.IOfferRepository.getOffersToOrder(System.DateTime)*G
+E
+%1?EmprendeUCR_WebApplication.Domain.Repositories.IOfferRepository*
+
+	dateOrderSystem.DateTime2!getOffersToOrder(System.DateTime)á
+Ñ
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csP P(M,
+offers"System.Collections.Generic.List<T>"__id**
+(
+%2"System.Collections.Generic.List<T>£
+†
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csQ Q()E
+%3?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository"__id*¨*©R
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService"S
+_orderRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository«ƒ
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csQ Q(A(
+%4"System.Collections.Generic.List<T>"èEmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository.GetProductsAsync(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)*G
+E
+%3?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository*H
+F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order2OGetProductsAsync(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)á
+Ñ
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csQ Q(A,
+orders"System.Collections.Generic.List<T>"__id**
+(
+%4"System.Collections.Generic.List<T>*
+1*Ø
+1°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csW	 W(	*
+2
+3*±
+2°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csT T(4≠
+™
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csT T(A
+%5;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product"System.Tuple<T1, T2>.Item2.get*!
+
+productSystem.Tuple<T1, T2>“
+œ
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csT T(5
+
+%6void"ßEmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product.getCurrentPrice(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Offer>)*C
+A
+%5;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product*.
+,
+offers"System.Collections.Generic.List<T>*
+1*˛
+3°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csV V("‘
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csV V(.
+,
+orders"System.Collections.Generic.List<T>*„
+4°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csW	 W(	"π
+°
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csW W(	
+implicit return:F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.OrderBTR
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService

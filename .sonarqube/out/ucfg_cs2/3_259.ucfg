@@ -1,0 +1,151 @@
+
+rEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs  (/"0*πJ
+0~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs! )(A´®
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs! !(.
+
+%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*:8
+6EmprendeUCR.Infrastructure.LoginContext.LoginDbContext*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)˘ˆ
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs", "(9<
+%16EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap"6EmprendeUCR.Infrastructure.Core.EntityMappings.UserMapë
+é
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs"0 "(7
+
+%2void"@EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap.UserMap()*>
+<
+%16EmprendeUCR.Infrastructure.Core.EntityMappings.UserMapõò
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs" "(:0
+%3*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*>
+<
+%16EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)˝˙
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs#, #(;>
+%48EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap"8EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMapó
+î
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs#0 #(9
+
+%5void"DEmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap.ClientMap()*@
+>
+%48EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMapùö
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs# #(<0
+%6*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*@
+>
+%48EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)âÜ
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs$, $(AD
+%7>EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap">EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap©
+¶
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs$0 $(?
+
+%8void"PEmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap.EntrepreneurMap()*F
+D
+%7>EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap£†
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs$ $(B0
+%9*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*F
+D
+%7>EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)åâ
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs%, %(BF
+%10?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap"?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMapÆ
+´
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs%0 %(@
+%11void"REmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap.AdministratorMap()*H
+F
+%10?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap¶£
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs% %(C1
+%12*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*H
+F
+%10?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)àÖ
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs&, &(@D
+%13=EmprendeUCR.Infrastructure.Core.EntityMappings.CredentialsMap"=EmprendeUCR.Infrastructure.Core.EntityMappings.CredentialsMap®
+•
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs&0 &(>
+%14void"NEmprendeUCR.Infrastructure.Core.EntityMappings.CredentialsMap.CredentialsMap()*F
+D
+%13=EmprendeUCR.Infrastructure.Core.EntityMappings.CredentialsMap§°
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs& &(A1
+%15*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*F
+D
+%13=EmprendeUCR.Infrastructure.Core.EntityMappings.CredentialsMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)îë
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs', '(FJ
+%16CEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMap"CEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMap∫
+∑
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs'0 '(D
+%17void"ZEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMap.EmailConfirmationMap()*L
+J
+%16CEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMap™ß
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs' '(G1
+%18*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*L
+J
+%16CEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)öó
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs(, ((IM
+%19FEmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMap"FEmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMap√
+¿
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs(0 ((G
+%20void"`EmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMap.ActiveAdministratorsMap()*O
+M
+%19FEmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMap≠™
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs( ((J1
+%21*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*O
+M
+%19FEmprendeUCR.Infrastructure.Core.EntityMappings.ActiveAdministratorsMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)äá
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs), )(AE
+%22>EmprendeUCR.Infrastructure.Core.EntityMappings.BannedAcountMap">EmprendeUCR.Infrastructure.Core.EntityMappings.BannedAcountMap´
+®
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs)0 )(?
+%23void"PEmprendeUCR.Infrastructure.Core.EntityMappings.BannedAcountMap.BannedAcountMap()*G
+E
+%22>EmprendeUCR.Infrastructure.Core.EntityMappings.BannedAcountMap•¢
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs) )(B1
+%24*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*G
+E
+%22>EmprendeUCR.Infrastructure.Core.EntityMappings.BannedAcountMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
+1*õ
+1~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs*	 *(	"ï
+~
+tC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\LoginContext\LoginDbContext.cs* *(	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB:8
+6EmprendeUCR.Infrastructure.LoginContext.LoginDbContext

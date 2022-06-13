@@ -1,0 +1,64 @@
+
+ôEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.PersonalizedStatusMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.PersonalizedStatus>)¬
+¡C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\EntityMappings\PersonalizedStatusMap.cs ("0*ò'
+0¬
+¡C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\EntityMappings\PersonalizedStatusMap.cs #(Fµ²
+¬
+¡C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\EntityMappings\PersonalizedStatusMap.cs (/@
+%0:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"“Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)ê
+ç
+¬
+¡C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\EntityMappings\PersonalizedStatusMap.cs (2P
+%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"¨Microsoft.EntityFrameworkCore.RelationalEntityTypeBuilderExtensions.ToTable<TEntity>(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>, string)*G"E
+CMicrosoft.EntityFrameworkCore.RelationalEntityTypeBuilderExtensions*W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+Personalized_Statusåâ
+¬
+¡C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\EntityMappings\PersonalizedStatusMap.cs ()P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)ÏÌ
+¬
+¡C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\EntityMappings\PersonalizedStatusMap.cs (!P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"\Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.HasMaxLength(int)*R
+P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*22HasMaxLength(int)Ú
+×
+¬
+¡C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\EntityMappings\PersonalizedStatusMap.cs (&P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"®Microsoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions.HasColumnName<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string)*E"C
+AMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions*R
+P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+NameŽ‹
+¬
+¡C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\EntityMappings\PersonalizedStatusMap.cs! !()i
+%5cMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>"«Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity>>)*W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2`HasOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity>>)œ™
+¬
+¡C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\EntityMappings\PersonalizedStatusMap.cs! "(3h
+%6bMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceReferenceBuilder<TEntity, TRelatedEntity>"µMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>.WithOne(System.Linq.Expressions.Expression<System.Func<TRelatedEntity, TEntity>>)*k
+i
+%5cMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>*
+""2QWithOne(System.Linq.Expressions.Expression<System.Func<TRelatedEntity, TEntity>>)ÌÉ
+¬
+¡C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\EntityMappings\PersonalizedStatusMap.cs! #(Gh
+%7bMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceReferenceBuilder<TEntity, TRelatedEntity>"ÍMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceReferenceBuilder<TEntity, TRelatedEntity>.HasForeignKey<TDependentEntity>(System.Linq.Expressions.Expression<System.Func<TDependentEntity, object>>)*j
+h
+%6bMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceReferenceBuilder<TEntity, TRelatedEntity>*
+""2jHasForeignKey<TDependentEntity>(System.Linq.Expressions.Expression<System.Func<TDependentEntity, object>>)*
+1*ù
+1¬
+¡C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\EntityMappings\PersonalizedStatusMap.cs%	 %(	"Ä
+¬
+¡C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\OrderContext\EntityMappings\PersonalizedStatusMap.cs% %(	
+implicit return:U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>B_]
+[EmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.PersonalizedStatusMap

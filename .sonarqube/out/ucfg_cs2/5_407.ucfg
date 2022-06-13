@@ -1,0 +1,71 @@
+
+XEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.ChangerOrderStatus(string)Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csh h(&"0*Ü
+0Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csj k('Å
+Â
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csj j("
+%0string"GEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.State.set*A?
+=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
+
+	newStatusstringõ
+ò
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csk k('
+
+%1bool""string.operator ==(string, string)*
+"
+string*
+
+	newStatusstring*
+
+Aceptado*
+1
+2*•
+2Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csk+ k(Cö
+ó
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csk+ k(C
+
+%2bool""string.operator ==(string, string)*
+"
+string*
+
+	newStatusstring*
+	Terminado*
+1
+3*ö
+1Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csm* m(3Ú
+×
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csm* m(37
+%31System.Collections.Generic.IReadOnlyCollection<T>"__id*„*?
+=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order">
+	Organized1System.Collections.Generic.IReadOnlyCollection<T>*
+4*œ
+4Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csr	 r(	*
+5
+3*ý
+5Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cso o(4á
+Þ
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cso o(5
+
+%4void"VEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.ChangeStatus(string)*P
+N
+	orderLineAEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*
+
+	newStatusstring*
+4*½
+3Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csr	 r(	"¦
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.csr r(	
+implicit return:
+	newStatusstringBA?
+=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order

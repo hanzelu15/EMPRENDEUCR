@@ -1,0 +1,37 @@
+
+íEmprendeUCR_WebApplication.Data.Services.Shopping_Cart_Has_Service_Pandemic.addProduct(EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has)ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs" "("0*ÿ
+0ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs$ %("ç
+ä
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs$ $(C
+%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic"__id*ù*öM
+KEmprendeUCR_WebApplication.Data.Services.Shopping_Cart_Has_Service_Pandemic"I
+_context=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic—Œ
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs$ $(!G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"=Microsoft.EntityFrameworkCore.DbContext.Add<TEntity>(TEntity)*E
+C
+%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic*G
+E
+product:EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_Has2Add<TEntity>(TEntity)ç
+ä
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs% %(C
+%2=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic"__id*ù*öM
+KEmprendeUCR_WebApplication.Data.Services.Shopping_Cart_Has_Service_Pandemic"I
+_context=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic∫∑
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs% %("	
+%3int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*E
+C
+%2=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic2SaveChanges()*
+1*Ÿ
+1ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs&	 &(	"¥
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Shopping_Cart_Has_Service_Pandemic.cs& &(	
+implicit return:E
+product:EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart_HasBOM
+KEmprendeUCR_WebApplication.Data.Services.Shopping_Cart_Has_Service_Pandemic

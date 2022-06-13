@@ -1,0 +1,10 @@
+¶
+_EmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.Repositories.SinpeMovilPaymentInfoRepositoryobjectMEmprendeUCR.Domain.PaymentInfos.Repositories.ISinpeMovilPaymentInfoRepository…
+rSinpeMovilPaymentInfoRepository(EmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.SinpeMovilPaymentInfoDbContext)“EmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.Repositories.SinpeMovilPaymentInfoRepository.SinpeMovilPaymentInfoRepository(EmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.SinpeMovilPaymentInfoDbContext)~
+GetAllAsync()mEmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.Repositories.SinpeMovilPaymentInfoRepository.GetAllAsync()Ü
+GetByIdAsync(int)qEmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.Repositories.SinpeMovilPaymentInfoRepository.GetByIdAsync(int)˜
+ISaveAsync(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo)©EmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.Repositories.SinpeMovilPaymentInfoRepository.SaveAsync(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo)Å
+NAddPaymentInfo(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo)ÆEmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.Repositories.SinpeMovilPaymentInfoRepository.AddPaymentInfo(EmprendeUCR.Domain.PaymentInfos.Entities.SinpeMovilPaymentInfo)í
+GetByPaymentInfoID(int)wEmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.Repositories.SinpeMovilPaymentInfoRepository.GetByPaymentInfoID(int)Ä
+UnitOfWork.getnEmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.Repositories.SinpeMovilPaymentInfoRepository.UnitOfWork.getÄ
+UnitOfWork.setnEmprendeUCR.Infrastructure.PaymentInfos.SinpeMovil.Repositories.SinpeMovilPaymentInfoRepository.UnitOfWork.set

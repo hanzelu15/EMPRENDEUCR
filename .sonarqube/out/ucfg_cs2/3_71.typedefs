@@ -1,0 +1,39 @@
+·
+:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext4EmprendeUCR.Infrastructure.Core.ApplicationDbContext'Microsoft.EntityFrameworkCore.DbContextobjectý
+ÞProfileDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext>)™EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.ProfileDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext>)Ç
+DOnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)µ
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)vEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)O
+User.getCEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.User.getO
+User.setCEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.User.setU
+Members.getFEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Members.getU
+Members.setFEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Members.setS
+
+Client.getEEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Client.getS
+
+Client.setEEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Client.set_
+Entrepreneur.getKEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Entrepreneur.get_
+Entrepreneur.setKEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Entrepreneur.seta
+Administrator.getLEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Administrator.geta
+Administrator.setLEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Administrator.setQ
+	Likes.getDEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Likes.getQ
+	Likes.setDEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Likes.setS
+
+Phones.getEEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Phones.getS
+
+Phones.setEEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Phones.setW
+Category.getGEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Category.getW
+Category.setGEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Category.setW
+Province.getGEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Province.getW
+Province.setGEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Province.setS
+
+Canton.getEEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Canton.getS
+
+Canton.setEEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Canton.setW
+District.getGEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.District.getW
+District.setGEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.District.seti
+EmailConfirmation.getPEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.EmailConfirmation.geti
+EmailConfirmation.setPEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.EmailConfirmation.setS
+
+Report.getEEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Report.getS
+
+Report.setEEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Report.set

@@ -1,0 +1,4 @@
+’
+9EmprendeUCR.Infrastructure.Core.EntityMappings.ServiceMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>³
+zConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Service>)´EmprendeUCR.Infrastructure.Core.EntityMappings.ServiceMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Service>)V
+ServiceMap()FEmprendeUCR.Infrastructure.Core.EntityMappings.ServiceMap.ServiceMap()

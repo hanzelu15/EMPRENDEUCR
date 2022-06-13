@@ -1,0 +1,4 @@
+½
+?EmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>Æ
+€Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.ProductPhotos>)ÀEmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.ProductPhotos>)h
+ProductPhotosMap()REmprendeUCR.Infrastructure.Core.EntityMappings.ProductPhotosMap.ProductPhotosMap()

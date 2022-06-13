@@ -1,0 +1,36 @@
+
+gEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository.getAdministrator(string)ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs+ +(-"0*’
+0ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs- -(Zì
+ê
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs- -(F
+%0@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext"__id*•*¢P
+NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository"N
+
+_dbContext@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContextÇˇ
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs- -(+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"REmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext.Administrator.get*H
+F
+%0@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext2Administrator.get¡
+æ
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs- -([8
+%22EmprendeUCR.Domain.Core.CoreEntities.Administrator"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""÷
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs- -(\:
+8
+%22EmprendeUCR.Domain.Core.CoreEntities.Administrator*œ
+1ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs.	 .(	"Ø
+ó
+åC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\Repositories\PermissionRepository.cs. .(	
+implicit return:
+emailstringBRP
+NEmprendeUCR.Infrastructure.PermissionContext.Repositories.PermissionRepository

@@ -1,0 +1,53 @@
+
+‡EmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.OrderNotificationClientRepository.GetNotificationsQuantity(EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification)–
+≈C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\OrderNotificationClientRepository.csb b(,"0*é
+0–
+≈C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\OrderNotificationClientRepository.csd e(~†
+ù
+–
+≈C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\OrderNotificationClientRepository.csd d(1	
+%0int"_EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.notificationQuantity.get*\
+Z
+UserNotificationFEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification§
+°
+–
+≈C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\OrderNotificationClientRepository.csd5 d(?Y
+%1SEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext"__id*Í*ÁÅ
+EmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.OrderNotificationClientRepository"a
+
+_dbContextSEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext˜Ù
+–
+≈C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\OrderNotificationClientRepository.csd5 d(X2
+%2,Microsoft.EntityFrameworkCore.DbSet<TEntity>"pEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext.OrderNotificationClients.get*[
+Y
+%1SEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext2OrderNotificationClients.getÿ
+’
+–
+≈C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\OrderNotificationClientRepository.csd5 e(
+%3System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%2,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Ê
+„
+–
+≈C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\OrderNotificationClientRepository.csd5 f(	
+%4int"ESystem.Linq.Queryable.Count<TSource>(System.Linq.IQueryable<TSource>)*"
+System.Linq.Queryable*!
+
+%3System.Linq.IQueryable<T>®
+•
+–
+≈C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\OrderNotificationClientRepository.csd f(	
+%5int"_EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.notificationQuantity.set*\
+Z
+UserNotificationFEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification*
+""*
+1*¡
+1–
+≈C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\OrderNotificationClientRepository.csg	 g(	"Ë
+–
+≈C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\OrderNotificationClientRepository.csg g(	
+implicit return:Z
+UserNotificationFEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotificationBÑÅ
+EmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.OrderNotificationClientRepository

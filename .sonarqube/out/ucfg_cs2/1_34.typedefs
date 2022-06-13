@@ -1,0 +1,10 @@
+¹
+/EmprendeUCR.Domain.Core.CoreEntities.Permissionobjectl
+Permission(int, int, string)LEmprendeUCR.Domain.Core.CoreEntities.Permission.Permission(int, int, string)L
+Permission()<EmprendeUCR.Domain.Core.CoreEntities.Permission.Permission()@
+Id.get6EmprendeUCR.Domain.Core.CoreEntities.Permission.Id.get@
+Id.set6EmprendeUCR.Domain.Core.CoreEntities.Permission.Id.setJ
+Role_Id.get;EmprendeUCR.Domain.Core.CoreEntities.Permission.Role_Id.getJ
+Role_Id.set;EmprendeUCR.Domain.Core.CoreEntities.Permission.Role_Id.setR
+Description.get?EmprendeUCR.Domain.Core.CoreEntities.Permission.Description.getR
+Description.set?EmprendeUCR.Domain.Core.CoreEntities.Permission.Description.set

@@ -1,0 +1,5 @@
+£
+1EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartobjectR
+ShoppingCart()@EmprendeUCR.Domain.Core.CoreEntities.ShoppingCart.ShoppingCart()H
+	Email.get;EmprendeUCR.Domain.Core.CoreEntities.ShoppingCart.Email.getH
+	Email.set;EmprendeUCR.Domain.Core.CoreEntities.ShoppingCart.Email.set

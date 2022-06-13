@@ -1,0 +1,28 @@
+
+MEmprendeUCR.Infrastructure.Core.ApplicationDbContext.HasActiveTransaction.get|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs (("0*Ú
+0|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs, (G‹
+Ÿ
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs, (?A
+%0;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id*è*å6
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext"R
+_currentTransaction;Microsoft.EntityFrameworkCore.Storage.IDbContextTransactionä
+á
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.cs, (G
+
+%1bool""object.operator !=(object, object)*
+"
+object*C
+A
+%0;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction*
+""*
+1*ó
+1|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.csH (H"ì
+|
+rC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Core\ApplicationDbContext.csG (H
+implicit returnB86
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext

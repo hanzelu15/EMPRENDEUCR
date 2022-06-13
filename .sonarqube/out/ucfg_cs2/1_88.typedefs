@@ -1,0 +1,15 @@
+ý
+*EmprendeUCR.Domain.Reports.Entities.Reportobjectu
+#Report(string, string, string, int)NEmprendeUCR.Domain.Reports.Entities.Report.Report(string, string, string, int)?
+Report()3EmprendeUCR.Domain.Reports.Entities.Report.Report()Y
+ChangeContent(string)@EmprendeUCR.Domain.Reports.Entities.Report.ChangeContent(string)U
+ChangeTitle(string)>EmprendeUCR.Domain.Reports.Entities.Report.ChangeTitle(string)M
+SetUser(string):EmprendeUCR.Domain.Reports.Entities.Report.SetUser(string);
+ID.get1EmprendeUCR.Domain.Reports.Entities.Report.ID.get;
+ID.set1EmprendeUCR.Domain.Reports.Entities.Report.ID.setA
+	Title.get4EmprendeUCR.Domain.Reports.Entities.Report.Title.getA
+	Title.set4EmprendeUCR.Domain.Reports.Entities.Report.Title.setE
+Content.get6EmprendeUCR.Domain.Reports.Entities.Report.Content.getE
+Content.set6EmprendeUCR.Domain.Reports.Entities.Report.Content.set?
+User.get3EmprendeUCR.Domain.Reports.Entities.Report.User.get?
+User.set3EmprendeUCR.Domain.Reports.Entities.Report.User.set

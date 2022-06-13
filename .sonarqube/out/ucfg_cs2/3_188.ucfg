@@ -1,0 +1,33 @@
+
+ŸEmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContext.MessageDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContext>)„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs ("1*ä
+1„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs	 (	Ò
+Ï
+„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs (<2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContext.Message.set*@>
+<EmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContext*
+""*
+0*Â
+0„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs ("°
+­
+„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs (#
+
+%1void"ÕEmprendeUCR.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Core.ApplicationDbContext>)*86
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*©
+2„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs	 (	"œ
+„
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheMessage\MessageDbContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B@>
+<EmprendeUCR.Infrastructure.Chats.TheMessage.MessageDbContext

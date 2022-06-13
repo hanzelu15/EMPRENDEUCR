@@ -1,0 +1,36 @@
+
+©EmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService.updateOrderStatus(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order, string)£
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csõ õ(+"0*Ñ
+0£
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csú ù(4
+Ì
+£
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csú ú(/
+
+%0void"XEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.ChangerOrderStatus(string)*H
+F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
+
+	newStatusstring•
+¢
+£
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csù ù("E
+%1?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository"__id*¨*©R
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService"S
+_orderRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository∏µ
+£
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csù ù(5!
+%2System.Threading.Tasks.Task"äEmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository.orderUpdate(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)*G
+E
+%1?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository*H
+F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order2JorderUpdate(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)*
+1*Á
+1£
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csû	 û(	"ª
+£
+ñC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csû û(	
+implicit return:F
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order:
+	newStatusstringBTR
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService

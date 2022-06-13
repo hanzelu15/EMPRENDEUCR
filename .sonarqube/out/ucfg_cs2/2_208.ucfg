@@ -1,0 +1,26 @@
+
+TEmprendeUCR.Application.ProfileContext.Implementations.ProfileService.GetProvinces()Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csN N(+"0*Ø
+0Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csP P(7‹
+ˆ
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csP P(%G
+%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository"__id*¥*¢G
+EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService"W
+_profileRepositoryAEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepositoryòï
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csP P(7)
+%1#System.Collections.Generic.IList<T>"SEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository.GetAllProvinces()*I
+G
+%0AEmprendeUCR.Domain.ProfileContext.Repositories.IProfileRepository2GetAllProvinces()"¾
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csP P(8+
+)
+%1#System.Collections.Generic.IList<T>*½
+1Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csQ	 Q(	"¦
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProfileContext\Implementations\ProfileService.csQ Q(	
+implicit returnBIG
+EEmprendeUCR.Application.ProfileContext.Implementations.ProfileService

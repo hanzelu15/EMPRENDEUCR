@@ -1,0 +1,20 @@
+„
+;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOfferobjectÄ
+Bapply(EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product)~EmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.apply(EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product)R
+	IsOffer()EEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.IsOffer()V
+OfferId.getGEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.OfferId.getV
+OfferId.setGEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.OfferId.setT
+
+CodeId.getFEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.CodeId.getT
+
+CodeId.setFEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.CodeId.setZ
+UserEmail.getIEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.UserEmail.getZ
+UserEmail.setIEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.UserEmail.set\
+CategoryId.getJEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.CategoryId.get\
+CategoryId.setJEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.CategoryId.setT
+
+Amount.getFEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.Amount.getT
+
+Amount.setFEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.Amount.setR
+	Offer.getEEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.Offer.getR
+	Offer.setEEmprendeUCR_WebApplication.Domain.Core.CoreEntities.IsOffer.Offer.set

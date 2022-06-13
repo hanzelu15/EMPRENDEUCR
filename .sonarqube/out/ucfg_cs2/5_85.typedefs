@@ -1,0 +1,8 @@
+‹
+6EmprendeUCR_WebApplication.Data.Services.ClientService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobject–
+JClientService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)ÅEmprendeUCR_WebApplication.Data.Services.ClientService.ClientService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)O
+
+GetAsync()AEmprendeUCR_WebApplication.Data.Services.ClientService.GetAsync()Ø
+:AddClient(EmprendeUCR_WebApplication.Data.Entities.Client)qEmprendeUCR_WebApplication.Data.Services.ClientService.AddClient(EmprendeUCR_WebApplication.Data.Entities.Client)i
+GetByEmailAsync(string)NEmprendeUCR_WebApplication.Data.Services.ClientService.GetByEmailAsync(string)©
+7Update(EmprendeUCR_WebApplication.Data.Entities.Client)nEmprendeUCR_WebApplication.Data.Services.ClientService.Update(EmprendeUCR_WebApplication.Data.Entities.Client)

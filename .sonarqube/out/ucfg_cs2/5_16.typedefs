@@ -1,0 +1,5 @@
+÷
+SEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.OfferMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>è
+‡Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Offer>)ÛEmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.OfferMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Offer>)l
+
+OfferMap()^EmprendeUCR_WebApplication.Infrastructure.Core.OfferContext.EntityMappings.OfferMap.OfferMap()

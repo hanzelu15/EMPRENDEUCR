@@ -1,0 +1,231 @@
+
+vEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs+  +(/"0*”u
+0Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs- <(F¥±
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs- -(.
+
+%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*><
+:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)˛˚
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs/, /(9<
+%16EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap"6EmprendeUCR.Infrastructure.Core.EntityMappings.UserMapñ
+ì
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs/0 /(7
+
+%2void"@EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap.UserMap()*>
+<
+%16EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap†ù
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs/ /(:0
+%3*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*>
+<
+%16EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ÑÅ
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs0, 0(<?
+%49EmprendeUCR.Infrastructure.Core.EntityMappings.MembersMap"9EmprendeUCR.Infrastructure.Core.EntityMappings.MembersMapü
+ú
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs00 0(:
+
+%5void"FEmprendeUCR.Infrastructure.Core.EntityMappings.MembersMap.MembersMap()*A
+?
+%49EmprendeUCR.Infrastructure.Core.EntityMappings.MembersMap£†
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs0 0(=0
+%6*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*A
+?
+%49EmprendeUCR.Infrastructure.Core.EntityMappings.MembersMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)Çˇ
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs1, 1(;>
+%78EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap"8EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMapú
+ô
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs10 1(9
+
+%8void"DEmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap.ClientMap()*@
+>
+%78EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap¢ü
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs1 1(<0
+%9*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*@
+>
+%78EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)èå
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs2, 2(AE
+%10>EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap">EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap∞
+≠
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs20 2(?
+%11void"PEmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap.EntrepreneurMap()*G
+E
+%10>EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap™ß
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs2 2(B1
+%12*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*G
+E
+%10>EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ëé
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs3, 3(BF
+%13?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap"?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap≥
+∞
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs30 3(@
+%14void"REmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap.AdministratorMap()*H
+F
+%13?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap´®
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs3 3(C1
+%15*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*H
+F
+%13?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)Å˛
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs4, 4(:>
+%167EmprendeUCR.Infrastructure.Core.EntityMappings.LikesMap"7EmprendeUCR.Infrastructure.Core.EntityMappings.LikesMapõ
+ò
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs40 4(8
+%17void"BEmprendeUCR.Infrastructure.Core.EntityMappings.LikesMap.LikesMap()*@
+>
+%167EmprendeUCR.Infrastructure.Core.EntityMappings.LikesMap£†
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs4 4(;1
+%18*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*@
+>
+%167EmprendeUCR.Infrastructure.Core.EntityMappings.LikesMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ÉÄ
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs5, 5(;?
+%198EmprendeUCR.Infrastructure.Core.EntityMappings.PhonesMap"8EmprendeUCR.Infrastructure.Core.EntityMappings.PhonesMapû
+õ
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs50 5(9
+%20void"DEmprendeUCR.Infrastructure.Core.EntityMappings.PhonesMap.PhonesMap()*A
+?
+%198EmprendeUCR.Infrastructure.Core.EntityMappings.PhonesMap§°
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs5 5(<1
+%21*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*A
+?
+%198EmprendeUCR.Infrastructure.Core.EntityMappings.PhonesMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)áÑ
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs6, 6(=A
+%22:EmprendeUCR.Infrastructure.Core.EntityMappings.ProvinceMap":EmprendeUCR.Infrastructure.Core.EntityMappings.ProvinceMap§
+°
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs60 6(;
+%23void"HEmprendeUCR.Infrastructure.Core.EntityMappings.ProvinceMap.ProvinceMap()*C
+A
+%22:EmprendeUCR.Infrastructure.Core.EntityMappings.ProvinceMap¶£
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs6 6(>1
+%24*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*C
+A
+%22:EmprendeUCR.Infrastructure.Core.EntityMappings.ProvinceMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ÉÄ
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs7, 7(;?
+%258EmprendeUCR.Infrastructure.Core.EntityMappings.CantonMap"8EmprendeUCR.Infrastructure.Core.EntityMappings.CantonMapû
+õ
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs70 7(9
+%26void"DEmprendeUCR.Infrastructure.Core.EntityMappings.CantonMap.CantonMap()*A
+?
+%258EmprendeUCR.Infrastructure.Core.EntityMappings.CantonMap§°
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs7 7(<1
+%27*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*A
+?
+%258EmprendeUCR.Infrastructure.Core.EntityMappings.CantonMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)áÑ
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs8, 8(=A
+%28:EmprendeUCR.Infrastructure.Core.EntityMappings.DistrictMap":EmprendeUCR.Infrastructure.Core.EntityMappings.DistrictMap§
+°
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs80 8(;
+%29void"HEmprendeUCR.Infrastructure.Core.EntityMappings.DistrictMap.DistrictMap()*C
+A
+%28:EmprendeUCR.Infrastructure.Core.EntityMappings.DistrictMap¶£
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs8 8(>1
+%30*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*C
+A
+%28:EmprendeUCR.Infrastructure.Core.EntityMappings.DistrictMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)áÑ
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs9, 9(=A
+%31:EmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap":EmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap§
+°
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs90 9(;
+%32void"HEmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap.CategoryMap()*C
+A
+%31:EmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap¶£
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs9 9(>1
+%33*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*C
+A
+%31:EmprendeUCR.Infrastructure.Core.EntityMappings.CategoryMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ÉÄ
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs:, :(;?
+%348EmprendeUCR.Infrastructure.Core.EntityMappings.ReportMap"8EmprendeUCR.Infrastructure.Core.EntityMappings.ReportMapû
+õ
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs:0 :(9
+%35void"DEmprendeUCR.Infrastructure.Core.EntityMappings.ReportMap.ReportMap()*A
+?
+%348EmprendeUCR.Infrastructure.Core.EntityMappings.ReportMap§°
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs: :(<1
+%36*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*A
+?
+%348EmprendeUCR.Infrastructure.Core.EntityMappings.ReportMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ôñ
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs<, <(FJ
+%37CEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMap"CEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMapø
+º
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs<0 <(D
+%38void"ZEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMap.EmailConfirmationMap()*L
+J
+%37CEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMapØ¨
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs< <(G1
+%39*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*L
+J
+%37CEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
+1*•
+1Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs=	 =(	"ö
+Ç
+xC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\ProfileDbContext.cs= =(	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB><
+:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext

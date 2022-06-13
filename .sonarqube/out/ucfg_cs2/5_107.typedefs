@@ -1,0 +1,4 @@
+¨
+VEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.GenericStatusMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>ƒ
+“Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.GenericStatus>)êEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.GenericStatusMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.GenericStatus>)
+GenericStatusMap()iEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.GenericStatusMap.GenericStatusMap()

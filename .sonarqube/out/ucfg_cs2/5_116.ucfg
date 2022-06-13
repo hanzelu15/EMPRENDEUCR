@@ -1,0 +1,29 @@
+
+©EmprendeUCR_WebApplication.Application.ShoppingCartContext.Implementations.ShoppingCartService.LoadAllPhotos(EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product)¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs9* 9(7"0*Å
+0¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs; ;(<Ô
+Ñ
+¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs; ;(*L
+%0FEmprendeUCR_WebApplication.Domain.Repositories.IShoppingCartRepository"__id*È*Å`
+^EmprendeUCR_WebApplication.Application.ShoppingCartContext.Implementations.ShoppingCartService"a
+_shoppingCartRepositoryFEmprendeUCR_WebApplication.Domain.Repositories.IShoppingCartRepositoryÓÐ
+¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs; ;(=*
+%1$System.Threading.Tasks.Task<TResult>"EmprendeUCR_WebApplication.Domain.Repositories.IShoppingCartRepository.GetPhotos(EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product)*N
+L
+%0FEmprendeUCR_WebApplication.Domain.Repositories.IShoppingCartRepository*H
+F
+product;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product2FGetPhotos(EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product)"à
+¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs; ;(>,
+*
+%1$System.Threading.Tasks.Task<TResult>*ÿ
+1¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs<	 <(	"Ç
+¯
+¤C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs< <(	
+implicit return:F
+product;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductBb`
+^EmprendeUCR_WebApplication.Application.ShoppingCartContext.Implementations.ShoppingCartService

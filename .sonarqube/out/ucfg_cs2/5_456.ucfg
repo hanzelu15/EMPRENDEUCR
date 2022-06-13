@@ -1,0 +1,34 @@
+
+AEmprendeUCR_WebApplication.Data.Services.StatusService.GetAsync()—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\StatusService.cs) (1"0*‚
+0—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\StatusService.cs (6ï
+ì
+—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\StatusService.cs (!A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*†*ƒ8
+6EmprendeUCR_WebApplication.Data.Services.StatusService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÞ
+Û
+—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\StatusService.cs ((2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Status.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextê
+ç
+—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\StatusService.cs (6*
+%2$System.Threading.Tasks.Task<TResult>"šMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""¢
+—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\StatusService.cs (7
+""*Ï
+1—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\StatusService.cs	 (	"¯
+—
+ŒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\StatusService.cs (	
+implicit returnB:8
+6EmprendeUCR_WebApplication.Data.Services.StatusService

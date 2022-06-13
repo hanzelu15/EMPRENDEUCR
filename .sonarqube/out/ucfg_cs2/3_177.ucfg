@@ -1,0 +1,43 @@
+
+gEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetAllIs_Offer()ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs_ _(-"0*π
+0ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csa a(B≥
+∞
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csa a(N
+%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext"__id*µ*≤X
+VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository"V
+
+_dbContextHEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContextêç
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csa a(&2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"UEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Is_Offer.get*P
+N
+%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext2Is_Offer.getÚ
+Ô
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csa a(C
+%2System.Linq.IQueryable<T>"ñMicrosoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
+;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+exec GetOffers*
+""ı
+Ú
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csa a(M5
+%3/EmprendeUCR.Domain.Core.CoreEntities.Is_Offer[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%2System.Linq.IQueryable<T>"€
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csa a(N7
+5
+%3/EmprendeUCR.Domain.Core.CoreEntities.Is_Offer[]*ﬂ
+1ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csb	 b(	"∑
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csb b(	
+implicit returnBZX
+VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository

@@ -1,0 +1,44 @@
+
+MEmprendeUCR_WebApplication.Data.Services.LikesService.GetByEmailAsync(string)Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs%" %(1"0*£
+0Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs'
+ '(O‹
+Ÿ
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs' '(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ö*Ç7
+5EmprendeUCR_WebApplication.Data.Services.LikesService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÀ
+»
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs' '(2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"EEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Likes.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextç
+ä
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs' '(P
+%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""≈
+¬
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs' '(^*
+%3$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%2System.Linq.IQueryable<T>*
+"""ê
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs' '(_
+""*´
+1Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs( (("ù
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LikesService.cs( ((
+implicit return:
+emailstringB97
+5EmprendeUCR_WebApplication.Data.Services.LikesService

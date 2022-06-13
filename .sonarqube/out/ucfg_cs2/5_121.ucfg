@@ -1,0 +1,64 @@
+
+∑EmprendeUCR_WebApplication.Application.ShoppingCartContext.Implementations.ShoppingCartService.GetProducts(EmprendeUCR_WebApplication.Data.Entities.ContextShop.ShopParameters, string)Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.csX/ X(:"0*î
+0Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.csZ \(j‘
+—
+Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.csZ" Z(9L
+%0FEmprendeUCR_WebApplication.Domain.Repositories.IShoppingCartRepository"__id*»*≈`
+^EmprendeUCR_WebApplication.Application.ShoppingCartContext.Implementations.ShoppingCartService"a
+_shoppingCartRepositoryFEmprendeUCR_WebApplication.Domain.Repositories.IShoppingCartRepository∑¥
+Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.csZ" Z(M*
+%1$System.Threading.Tasks.Task<TResult>"[EmprendeUCR_WebApplication.Domain.Repositories.IShoppingCartRepository.GetByIdAsync(string)*N
+L
+%0FEmprendeUCR_WebApplication.Domain.Repositories.IShoppingCartRepository*
+
+emailstring2GetByIdAsync(string)ù
+ö
+Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.csZ Z(MX
+	_productsKEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart"__id*
+""•
+¢
+Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs\ \(07
+%21System.Collections.Generic.IReadOnlyCollection<T>"YEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart.ShopLines.get*Z
+X
+	_productsKEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart
+Ì
+Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs\2 \(N	
+%3int"REmprendeUCR_WebApplication.Data.Entities.ContextShop.ShopParameters.PageNumber.get*Z
+X
+productParametersCEmprendeUCR_WebApplication.Data.Entities.ContextShop.ShopParametersÓ
+Î
+Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs\P \(j	
+%4int"PEmprendeUCR_WebApplication.Data.Entities.ContextShop.ShopParameters.PageSize.get*Z
+X
+productParametersCEmprendeUCR_WebApplication.Data.Entities.ContextShop.ShopParametersü
+ú
+Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs[ \(kG
+%5AEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>"ÇEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>.ToPagedList(System.Collections.Generic.IEnumerable<T>, int, int)*E"C
+AEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>*9
+7
+%21System.Collections.Generic.IReadOnlyCollection<T>*
+	
+%3int*
+	
+%4int"˝
+Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs[ \(lI
+G
+%5AEmprendeUCR_WebApplication.Data.Entities.ContextShop.PagedList<T>*ˇ
+1Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs]	 ](	"«
+Ø
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\ShoppingCartContext\Implementations\ShoppingCartService.cs] ](	
+implicit return:X
+productParametersCEmprendeUCR_WebApplication.Data.Entities.ContextShop.ShopParameters:
+emailstringBb`
+^EmprendeUCR_WebApplication.Application.ShoppingCartContext.Implementations.ShoppingCartService

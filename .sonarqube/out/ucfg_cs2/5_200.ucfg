@@ -1,0 +1,24 @@
+
+ßEmprendeUCR_WebApplication.Data.Context.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR_WebApplication.Data.Context.AppDbContext>)Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Context\AppDbContext.cs ("1*è
+1Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Context\AppDbContext.cs	 (	*
+0*ˇ
+0Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Context\AppDbContext.cs (Ì
+Í
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Context\AppDbContext.cs (
+
+%0void"aMicrosoft.EntityFrameworkCore.DbContext.DbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*+)
+'Microsoft.EntityFrameworkCore.DbContext*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*
+2*©
+2Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Context\AppDbContext.cs	 (	"ú
+Ñ
+zC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Context\AppDbContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>B86
+4EmprendeUCR_WebApplication.Data.Context.AppDbContext

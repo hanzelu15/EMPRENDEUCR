@@ -1,0 +1,25 @@
+ 
+@EmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView-Microsoft.AspNetCore.Components.ComponentBaseobjectﬁ
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)çEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)m
+OnInitializedAsync()UEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.OnInitializedAsync(){
+ChargeNonRepetedCustomers()\EmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.ChargeNonRepetedCustomers()y
+FindMostRecentDate(string)[EmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.FindMostRecentDate(string)⁄
+JloadProductsByTerms(Microsoft.AspNetCore.Components.Web.KeyboardEventArgs)ãEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.loadProductsByTerms(Microsoft.AspNetCore.Components.Web.KeyboardEventArgs)y
+LinktoPage(string, string)[EmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.LinktoPage(string, string)o
+CustomersReportView()VEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.CustomersReportView()a
+NavManager.getOEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.NavManager.geta
+NavManager.setOEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.NavManager.sete
+OrderService.getQEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.OrderService.gete
+OrderService.setQEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.OrderService.seti
+sessionStorage.getSEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.sessionStorage.geti
+sessionStorage.setSEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.sessionStorage.setc
+UserService.getPEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.UserService.getc
+UserService.setPEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.UserService.seti
+Client_Service.getSEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.Client_Service.geti
+Client_Service.setSEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.Client_Service.sety
+Product_ServiceService.get[EmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.Product_ServiceService.gety
+Product_ServiceService.set[EmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.Product_ServiceService.seti
+ProductService.getSEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.ProductService.geti
+ProductService.setSEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.ProductService.sets
+EntrepreneurService.getXEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.EntrepreneurService.gets
+EntrepreneurService.setXEmprendeUCR_WebApplication.Pages.MyCustomers.CustomersReportView.EntrepreneurService.set

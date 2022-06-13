@@ -1,0 +1,20 @@
+¯
+FEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification=EmprendeUCR_WebApplication.Domain.Core.Entities.AggregateRootobjects
+orderNotifications()[EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.orderNotifications()
+OnNotificationChangeds.addaEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.OnNotificationChangeds.add…
+OnNotificationChangeds.removedEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.OnNotificationChangeds.remove…
+UserNotification(string, int)dEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.UserNotification(string, int)œ
+hQuantityEvent(object, EmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs)¯EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.QuantityEvent(object, EmprendeUCR_WebApplication.Domain.NotificationContext.NotificationChangeEventArgs){
+getNotificationsWanted()_EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.getNotificationsWanted()¼
+xsetNewNotifications(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.NotificationContext.Notification>)¿EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.setNewNotifications(System.Collections.Generic.List<EmprendeUCR_WebApplication.Domain.NotificationContext.Notification>)o
+notificationPoll()YEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.notificationPoll()]
+	Email.getPEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.Email.get]
+	Email.setPEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.Email.setc
+TypeUser.getSEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.TypeUser.getc
+TypeUser.setSEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.TypeUser.setm
+Notifications.getXEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.Notifications.getm
+Notifications.setXEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.Notifications.setu
+alreadySubscribed.get\EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.alreadySubscribed.getu
+alreadySubscribed.set\EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.alreadySubscribed.set{
+notificationQuantity.get_EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.notificationQuantity.get{
+notificationQuantity.set_EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification.notificationQuantity.set

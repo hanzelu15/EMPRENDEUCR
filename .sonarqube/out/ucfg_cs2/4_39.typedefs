@@ -1,0 +1,14 @@
+ð
+
+:EmprendeUCR.Presentation.PermissionContext.UserPermissions-Microsoft.AspNetCore.Components.ComponentBaseobjectØ
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)‡EmprendeUCR.Presentation.PermissionContext.UserPermissions.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)g
+OnInitializedAsync()OEmprendeUCR.Presentation.PermissionContext.UserPermissions.OnInitializedAsync()e
+changePermissions()NEmprendeUCR.Presentation.PermissionContext.UserPermissions.changePermissions()s
+updatePermission(int, int)UEmprendeUCR.Presentation.PermissionContext.UserPermissions.updatePermission(int, int)m
+returnListPermissions()REmprendeUCR.Presentation.PermissionContext.UserPermissions.returnListPermissions()]
+getUser(string)JEmprendeUCR.Presentation.PermissionContext.UserPermissions.getUser(string)a
+UserPermissions()LEmprendeUCR.Presentation.PermissionContext.UserPermissions.UserPermissions()i
+NavigationManager.getPEmprendeUCR.Presentation.PermissionContext.UserPermissions.NavigationManager.geti
+NavigationManager.setPEmprendeUCR.Presentation.PermissionContext.UserPermissions.NavigationManager.seti
+PermissionService.getPEmprendeUCR.Presentation.PermissionContext.UserPermissions.PermissionService.geti
+PermissionService.setPEmprendeUCR.Presentation.PermissionContext.UserPermissions.PermissionService.set

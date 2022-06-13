@@ -1,0 +1,34 @@
+
+NEmprendeUCR_WebApplication.Data.Services.Personalized_StatusService.GetAsync()§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs6 (>"0*›
+0§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs (Câ
+Ü
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs (!A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ì*êE
+CEmprendeUCR_WebApplication.Data.Services.Personalized_StatusService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext¯
+ı
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs (52
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"SEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Personalized_Status.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext˜
+Ù
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs (C*
+%2$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""Ø
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs (D
+""*È
+1§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs	 (	"º
+§
+ôC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Personalized_StatusService.cs (	
+implicit returnBGE
+CEmprendeUCR_WebApplication.Data.Services.Personalized_StatusService

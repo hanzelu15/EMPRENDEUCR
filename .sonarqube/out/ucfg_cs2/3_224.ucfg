@@ -1,0 +1,42 @@
+
+lEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.GetIs_OfferAsync(int)ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csn$ n(4"0*Ä
+0ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csp r(≥
+∞
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csp# p(-N
+%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext"__id*µ*≤X
+VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository"V
+
+_dbContextHEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContextêç
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csp# p(62
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"UEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.Is_Offer.get*P
+N
+%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext2Is_Offer.get¬
+ø
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csp# p(o*
+%2$System.Threading.Tasks.Task<TResult>"‚Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*
+""Î
+Ë
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csp p(o6
+offer-EmprendeUCR.Domain.Core.CoreEntities.Is_Offer"__id*
+"""‹
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csr r(8
+6
+offer-EmprendeUCR.Domain.Core.CoreEntities.Is_Offer*ﬂ
+1ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.css	 s(	"∑
+ü
+îC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.css s(	
+implicit return:
+Is_Offer_IdintBZX
+VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository

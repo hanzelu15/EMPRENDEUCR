@@ -1,0 +1,55 @@
+
+WEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService.getParentId(string)î
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csL L("0*„
+0î
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csN O($˘
+ˆ
+î
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csN& N(.A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ì*êE
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext›
+⁄
+î
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csN& N(72
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Category.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextú
+ô
+î
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csN& N(_
+%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""ÿ
+’
+î
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csN& N(g7
+%31EmprendeUCR_WebApplication.Data.Entities.Category"ESystem.Linq.Queryable.First<TSource>(System.Linq.IQueryable<TSource>)*"
+System.Linq.Queryable*!
+
+%2System.Linq.IQueryable<T>†
+ù
+î
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csN N(gC
+parentCategory1EmprendeUCR_WebApplication.Data.Entities.Category"__id*9
+7
+%31EmprendeUCR_WebApplication.Data.Entities.Category¶
+£
+î
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csO O($	
+%4int"8EmprendeUCR_WebApplication.Data.Entities.Category.Id.get*E
+C
+parentCategory1EmprendeUCR_WebApplication.Data.Entities.Category"§
+î
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csO O(%
+	
+%4int*…
+1î
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csP	 P(	"¨
+î
+âC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\CategoryService.csP P(	
+implicit return:
+TitleDadstringBGE
+CEmprendeUCR_WebApplication.Data.Services.Categories.CategoryService

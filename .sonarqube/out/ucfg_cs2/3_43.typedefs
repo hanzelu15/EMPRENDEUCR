@@ -1,0 +1,4 @@
+≠
+XEmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.EntityMappings.SinpeIbanPaymentInfoMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>ı
+ãConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo>)‰EmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.EntityMappings.SinpeIbanPaymentInfoMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo>)è
+SinpeIbanPaymentInfoMap()rEmprendeUCR.Infrastructure.PaymentInfos.SinpeIban.EntityMappings.SinpeIbanPaymentInfoMap.SinpeIbanPaymentInfoMap()

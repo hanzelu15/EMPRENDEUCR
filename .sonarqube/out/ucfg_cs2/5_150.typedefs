@@ -1,0 +1,6 @@
+—
+1EmprendeUCR_WebApplication.Data.Entities.ProvinceobjectJ
+
+Province()<EmprendeUCR_WebApplication.Data.Entities.Province.Province()F
+Name.get:EmprendeUCR_WebApplication.Data.Entities.Province.Name.getF
+Name.set:EmprendeUCR_WebApplication.Data.Entities.Province.Name.set

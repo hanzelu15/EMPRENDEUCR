@@ -1,0 +1,33 @@
+
+¬EmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext.UtilizesChatDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext>)è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs ($"1*ì
+1è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs	 (	ˆ
+Û
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs (F2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"WEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext.UtilizesChat.set*JH
+FEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext*
+""*
+0*ÿ
+0è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs ("ª
+∏
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs (#
+
+%1void"’EmprendeUCR.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Core.ApplicationDbContext>)*86
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*ø
+2è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs	 (	"ß
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheUtilizesChat\UtilizesChatDbContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>BJH
+FEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.UtilizesChatDbContext

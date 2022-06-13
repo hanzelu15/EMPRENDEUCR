@@ -1,0 +1,45 @@
+
+XEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.changeGlobalStatus(string)Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs5 5(&"0*ö
+0Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs6& 6(/Ú
+×
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs6& 6(/7
+%01System.Collections.Generic.IReadOnlyCollection<T>"__id*„*?
+=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order">
+	Organized1System.Collections.Generic.IReadOnlyCollection<T>*
+1*œ
+1Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs;	 ;(	*
+2
+3*ý
+2Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs8 8(/á
+Þ
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs8 8(0
+
+%1void"VEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized.ChangeStatus(string)*P
+N
+	orderLineAEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Organized*
+
+	newStatusstring*
+1*á
+3Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs: :("Å
+Â
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs: :("
+%2string"GEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.State.set*A?
+=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
+
+	newStatusstring*
+4*½
+4Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs;	 ;(	"¦
+Ž
+ƒC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Domain\OrderContext\Entities\Order.cs; ;(	
+implicit return:
+	newStatusstringBA?
+=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order

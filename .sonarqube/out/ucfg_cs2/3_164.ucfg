@@ -1,0 +1,21 @@
+
+çEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)ë
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs  (-"0*û
+0ë
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs (Dˇ¸
+ë
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs (E;
+%05Microsoft.EntityFrameworkCore.DbContextOptionsBuilder"ºMicrosoft.EntityFrameworkCore.DbContextOptionsBuilder.LogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*I
+G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilder*
+""*
+""*
+""2ÜLogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*
+1*√
+1ë
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs	 (	"©
+ë
+ÜC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\DisplayProductDbContext.cs (	
+implicit return:G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilderBLJ
+HEmprendeUCR.Infrastructure.HomePageClientContext.DisplayProductDbContext

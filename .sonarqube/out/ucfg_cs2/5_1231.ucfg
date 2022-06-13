@@ -1,0 +1,114 @@
+
+ŸEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.NotificationRepository.OrderNotificationSuscription(EmprendeUCR_WebApplication.Domain.NotificationContext.UserNotification)«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csö ö(0"0*ß0
+0«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csõ ®(&øº
+«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csõ õ(O:
+%04TableDependency.SqlClient.Base.ModelToTableMapper<T>"4TableDependency.SqlClient.Base.ModelToTableMapper<T>‚
+ﬂ
+«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csõ õ(M
+
+%1void"ITableDependency.SqlClient.Base.ModelToTableMapper<T>.ModelToTableMapper()*<
+:
+%04TableDependency.SqlClient.Base.ModelToTableMapper<T>—
+Œ
+«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csõ õ(O>
+mapper4TableDependency.SqlClient.Base.ModelToTableMapper<T>"__id*<
+:
+%04TableDependency.SqlClient.Base.ModelToTableMapper<T>Î
+Ë
+«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csù ù(A:
+%24TableDependency.SqlClient.Base.ModelToTableMapper<T>"ÉTableDependency.SqlClient.Base.ModelToTableMapper<T>.AddMapping(System.Linq.Expressions.Expression<System.Func<T, object>>, string)*@
+>
+mapper4TableDependency.SqlClient.Base.ModelToTableMapper<T>*
+""*
+Client_Emailò
+ï
+«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.csüA †(O;
+
+expression-System.Linq.Expressions.Expression<TDelegate>"__id*
+""Õ 
+«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs¢4 §(A
+%3;TableDependency.SqlClient.Where.SqlTableDependencyFilter<T>";TableDependency.SqlClient.Where.SqlTableDependencyFilter<T>€
+ÿ
+«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs¢8 ¢(n
+
+%4void"πTableDependency.SqlClient.Where.SqlTableDependencyFilter<T>.SqlTableDependencyFilter(System.Linq.Expressions.Expression, TableDependency.SqlClient.Base.Abstracts.IModelToTableMapper<T>)*C
+A
+%3;TableDependency.SqlClient.Where.SqlTableDependencyFilter<T>*=
+;
+
+expression-System.Linq.Expressions.Expression<TDelegate>*@
+>
+mapper4TableDependency.SqlClient.Base.ModelToTableMapper<T>Î
+Ë
+«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs¢# §(Q
+whereCondition?TableDependency.SqlClient.Base.Abstracts.ITableDependencyFilter"__id*C
+A
+%3;TableDependency.SqlClient.Where.SqlTableDependencyFilter<T>—
+Œ
+…
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs¶á ¶(ï7
+%51Microsoft.Extensions.Configuration.IConfiguration"__id*¿*Ωv
+tEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.NotificationRepository"C
+_configuration1Microsoft.Extensions.Configuration.IConfiguration˚
+¯
+…
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs¶á ¶(æ
+%6string"âMicrosoft.Extensions.Configuration.ConfigurationExtensions.GetConnectionString(Microsoft.Extensions.Configuration.IConfiguration, string)*>"<
+:Microsoft.Extensions.Configuration.ConfigurationExtensions*9
+7
+%51Microsoft.Extensions.Configuration.IConfiguration*
+DefaultConnection∂≥
+»
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs¶R ¶(5
+%7/TableDependency.SqlClient.SqlTableDependency<T>"/TableDependency.SqlClient.SqlTableDependency<T>…
+∆
+»
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs¶V ¶(Ü
+
+%8void"ŸTableDependency.SqlClient.SqlTableDependency<T>.SqlTableDependency(string, string, string, TableDependency.SqlClient.Base.Abstracts.IModelToTableMapper<T>, TableDependency.SqlClient.Base.Abstracts.IUpdateOfModel<T>, TableDependency.SqlClient.Base.Abstracts.ITableDependencyFilter, TableDependency.SqlClient.Base.Enums.DmlTriggerType, bool, bool)*7
+5
+%7/TableDependency.SqlClient.SqlTableDependency<T>*
+
+%6string*	
+Order*
+""*@
+>
+mapper4TableDependency.SqlClient.Base.ModelToTableMapper<T>*
+""*S
+Q
+whereCondition?TableDependency.SqlClient.Base.Abstracts.ITableDependencyFilter*
+""*
+""*
+""‘
+—
+»
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs¶= ¶(E
+sqlTableDependency/TableDependency.SqlClient.SqlTableDependency<T>"__id*7
+5
+%7/TableDependency.SqlClient.SqlTableDependency<T>ÑÅ
+«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs® ®(&
+
+%9void"?TableDependency.SqlClient.SqlTableDependency<T>.Start(int, int)*G
+E
+sqlTableDependency/TableDependency.SqlClient.SqlTableDependency<T>*
+""*
+""2Start(int, int)*
+1*Ø
+1«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs©	 ©(	"ﬂ
+«
+∫C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\ClientRepositories\NotificationRepository.cs© ©(	
+implicit return:N
+userFEmprendeUCR_WebApplication.Domain.NotificationContext.UserNotificationBxv
+tEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.ClientRepositories.NotificationRepository

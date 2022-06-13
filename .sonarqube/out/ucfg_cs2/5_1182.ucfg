@@ -1,0 +1,40 @@
+
+•EmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.Handlers.ClientNotificationRepository.ClientNotificationRepository(EmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext, Microsoft.Extensions.Configuration.IConfiguration)Á
+¶C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\Handlers\ClientNotificationRepository.cs (+"1*Ì
+1Á
+¶C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\Handlers\ClientNotificationRepository.cs	 (	*
+0*ˆ
+0Á
+¶C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\Handlers\ClientNotificationRepository.cs ('Œ
+‰
+Á
+¶C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\Handlers\ClientNotificationRepository.cs (#×r
+pEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.Handlers.ClientNotificationRepository"a
+
+_dbContextSEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext"__id*c
+a
+
+unitOfWorkSEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContextÏ
+Ì
+Á
+¶C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\Handlers\ClientNotificationRepository.cs (*¹r
+pEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.Handlers.ClientNotificationRepository"C
+_configuration1Microsoft.Extensions.Configuration.IConfiguration"__id*D
+B
+configuration1Microsoft.Extensions.Configuration.IConfigurationØ
+Õ
+Á
+¶C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\Handlers\ClientNotificationRepository.cs ('
+
+%0void"ŒEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.Handlers.ClientNotificationRepository.createChainResponsability()*tr
+pEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.Handlers.ClientNotificationRepository*
+2*£
+2Á
+¶C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\Handlers\ClientNotificationRepository.cs	 (	"Ù
+Á
+¶C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\Repositories\Handlers\ClientNotificationRepository.cs (	
+implicit return:a
+
+unitOfWorkSEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext:B
+configuration1Microsoft.Extensions.Configuration.IConfigurationBtr
+pEmprendeUCR_WebApplication.Infrastructure.NotificationContext.Repositories.Handlers.ClientNotificationRepository

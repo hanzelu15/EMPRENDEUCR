@@ -1,0 +1,46 @@
+
+…EmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.AddMemberLikes(EmprendeUCR.Domain.Core.CoreEntities.Likes)•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csÂ Â(""0*‡
+0•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csÄ Æ(…
+‚
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csÄ Ä(B
+%0<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext"__id**šL
+JEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository"J
+
+_dbContext<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContextèå
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csÄ Ä(2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FEmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext.Likes.get*D
+B
+%0<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext2	Likes.get–“
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csÄ Ä(#G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*1
+/
+l*EmprendeUCR.Domain.Core.CoreEntities.Likes2Add(TEntity)…
+‚
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csÅ Å(B
+%3<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext"__id**šL
+JEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository"J
+
+_dbContext<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext²¯
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csÅ Å($	
+%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*D
+B
+%3<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext2SaveChanges()" 
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csÆ Æ(
+""*Ë
+1•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csÇ	 Ç(	"­
+•
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csÇ Ç(	
+implicit return:/
+l*EmprendeUCR.Domain.Core.CoreEntities.LikesBNL
+JEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository

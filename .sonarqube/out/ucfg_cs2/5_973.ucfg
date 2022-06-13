@@ -1,0 +1,34 @@
+
+@EmprendeUCR_WebApplication.Data.Services.OfferService.GetAsync()œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs( (0"0*™
+0œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (5ó
+ð
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (!A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*…*‚7
+5EmprendeUCR_WebApplication.Data.Services.OfferService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextâ
+ß
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs ('2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"EEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Offer.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextï
+ì
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (5*
+%2$System.Threading.Tasks.Task<TResult>"šMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""§
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (6
+""*Ù
+1œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs	 (	"´
+œ
+‘C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\OfferService.cs (	
+implicit returnB97
+5EmprendeUCR_WebApplication.Data.Services.OfferService

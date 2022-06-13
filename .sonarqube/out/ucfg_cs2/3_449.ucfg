@@ -1,0 +1,41 @@
+
+vEmprendeUCR.Infrastructure.Chats.TheChat.Repositories.ChatRepository.SaveAsync(EmprendeUCR.Domain.Chats.Entities.Chat)ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\Repositories\ChatRepository.cs" "(#"0*é
+0ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\Repositories\ChatRepository.cs$ %(0Î
+Ë
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\Repositories\ChatRepository.cs$ $(<
+%06EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext"__id*ë*éF
+DEmprendeUCR.Infrastructure.Chats.TheChat.Repositories.ChatRepository"D
+
+_dbContext6EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext™ß
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\Repositories\ChatRepository.cs$ $(#G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Update<TEntity>(TEntity)*>
+<
+%06EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext*0
+.
+chat&EmprendeUCR.Domain.Chats.Entities.Chat2Update<TEntity>(TEntity)Î
+Ë
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\Repositories\ChatRepository.cs% %(<
+%26EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext"__id*ë*éF
+DEmprendeUCR.Infrastructure.Chats.TheChat.Repositories.ChatRepository"D
+
+_dbContext6EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContextÍ
+Á
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\Repositories\ChatRepository.cs% %(0!
+%3System.Threading.Tasks.Task"jEmprendeUCR.Infrastructure.Core.ApplicationDbContext.SaveEntitiesAsync(System.Threading.CancellationToken)*>
+<
+%26EmprendeUCR.Infrastructure.Chats.TheChat.ChatDbContext*
+""*
+1*ª
+1ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\Repositories\ChatRepository.cs&	 &(	"•
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Chats\TheChat\Repositories\ChatRepository.cs& &(	
+implicit return:.
+chat&EmprendeUCR.Domain.Chats.Entities.ChatBHF
+DEmprendeUCR.Infrastructure.Chats.TheChat.Repositories.ChatRepository

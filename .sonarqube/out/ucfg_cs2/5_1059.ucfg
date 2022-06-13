@@ -1,0 +1,34 @@
+
+REmprendeUCR_WebApplication.Data.Services.Has_StatusService.GetAllHas_StatusAsync()‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csC, C(A"0*Î
+0‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csF F(:ç
+ä
+‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csF F(!A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Š*‡<
+:EmprendeUCR_WebApplication.Data.Services.Has_StatusService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÖ
+Ó
+‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csF F(,2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"JEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Has_Status.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÞ
+Û
+‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csF F(:*
+%2$System.Threading.Tasks.Task<TResult>"šMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""–
+‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csF F(;
+""*·
+1‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csG	 G(	"£
+‹
+€C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Has_StatusService.csG G(	
+implicit returnB><
+:EmprendeUCR_WebApplication.Data.Services.Has_StatusService

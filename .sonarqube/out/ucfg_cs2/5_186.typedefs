@@ -1,0 +1,7 @@
+´
+"EmprendeUCR_WebApplication.Startupobjectõ
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)]EmprendeUCR_WebApplication.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)√
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)qEmprendeUCR_WebApplication.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)Ç
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)êEmprendeUCR_WebApplication.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)I
+Configuration.get4EmprendeUCR_WebApplication.Startup.Configuration.getI
+Configuration.set4EmprendeUCR_WebApplication.Startup.Configuration.set

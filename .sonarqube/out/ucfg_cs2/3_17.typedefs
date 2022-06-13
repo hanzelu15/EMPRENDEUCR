@@ -1,0 +1,11 @@
+µ
+
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext'Microsoft.EntityFrameworkCore.DbContextobject0EmprendeUCR.Domain.Core.Repositories.IUnitOfWorkg
+GetCurrentTransaction()LEmprendeUCR.Infrastructure.Core.ApplicationDbContext.GetCurrentTransaction()g
+BeginTransactionAsync()LEmprendeUCR.Infrastructure.Core.ApplicationDbContext.BeginTransactionAsync()û
+ ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Core.ApplicationDbContext>)ÕEmprendeUCR.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Core.ApplicationDbContext>)i
+CommitTransactionAsync()MEmprendeUCR.Infrastructure.Core.ApplicationDbContext.CommitTransactionAsync()c
+RollbackTransaction()JEmprendeUCR.Infrastructure.Core.ApplicationDbContext.RollbackTransaction()£
+5SaveEntitiesAsync(System.Threading.CancellationToken)jEmprendeUCR.Infrastructure.Core.ApplicationDbContext.SaveEntitiesAsync(System.Threading.CancellationToken)i
+HasActiveTransaction.getMEmprendeUCR.Infrastructure.Core.ApplicationDbContext.HasActiveTransaction.geti
+HasActiveTransaction.setMEmprendeUCR.Infrastructure.Core.ApplicationDbContext.HasActiveTransaction.set

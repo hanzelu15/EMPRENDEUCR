@@ -1,0 +1,17 @@
+•	
+;EmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModelobject^
+ListDataModel()KEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.ListDataModel()L
+Id.getBEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.Id.getL
+Id.setBEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.Id.setP
+Chat.getDEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.Chat.getP
+Chat.setDEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.Chat.setN
+Pic.getCEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.Pic.getN
+Pic.setCEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.Pic.setT
+
+Avatar.getFEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.Avatar.getT
+
+Avatar.setFEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.Avatar.setP
+Name.getDEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.Name.getP
+Name.setDEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.Name.set^
+MensajeChat.getKEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.MensajeChat.get^
+MensajeChat.setKEmprendeUCR.Presentation.Pages.Chats.ChatPage.ListDataModel.MensajeChat.set

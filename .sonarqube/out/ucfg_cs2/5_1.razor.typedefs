@@ -1,0 +1,18 @@
+”	
+AspNetCore.Pages_Products_List(Microsoft.AspNetCore.Mvc.RazorPages.Page,Microsoft.AspNetCore.Mvc.RazorPages.PageBase,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseobject?
+ExecuteAsync()-AspNetCore.Pages_Products_List.ExecuteAsync()M
+Pages_Products_List()4AspNetCore.Pages_Products_List.Pages_Products_List()Y
+ModelExpressionProvider.get:AspNetCore.Pages_Products_List.ModelExpressionProvider.getY
+ModelExpressionProvider.set:AspNetCore.Pages_Products_List.ModelExpressionProvider.set1
+Url.get&AspNetCore.Pages_Products_List.Url.get1
+Url.set&AspNetCore.Pages_Products_List.Url.set=
+Component.get,AspNetCore.Pages_Products_List.Component.get=
+Component.set,AspNetCore.Pages_Products_List.Component.set3
+Json.get'AspNetCore.Pages_Products_List.Json.get3
+Json.set'AspNetCore.Pages_Products_List.Json.set3
+Html.get'AspNetCore.Pages_Products_List.Html.get3
+Html.set'AspNetCore.Pages_Products_List.Html.set;
+ViewData.get+AspNetCore.Pages_Products_List.ViewData.get;
+ViewData.set+AspNetCore.Pages_Products_List.ViewData.set5
+	Model.get(AspNetCore.Pages_Products_List.Model.get5
+	Model.set(AspNetCore.Pages_Products_List.Model.set

@@ -1,0 +1,34 @@
+
+OEmprendeUCR_WebApplication.Data.Services.Is_OfferService.GetAllIs_OffersAsync()Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csW* W(>"0*®
+0Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csZ Z(8ù
+ö
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csZ Z(!A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ˆ*…:
+8EmprendeUCR_WebApplication.Data.Services.Is_OfferService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextè
+å
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csZ Z(*2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Is_Offer.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextò
+ï
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csZ Z(8*
+%2$System.Threading.Tasks.Task<TResult>"šMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""ª
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.csZ Z(9
+""*ß
+1Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cs[	 [(	"·
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Product_Service\Offer\Is_OfferService.cs[ [(	
+implicit returnB<:
+8EmprendeUCR_WebApplication.Data.Services.Is_OfferService

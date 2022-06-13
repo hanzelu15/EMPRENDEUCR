@@ -1,0 +1,21 @@
+
+âEmprendeUCR.Infrastructure.ConfirmAdminContext.ConfirmAdminDbContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs  (-"0*ñ
+0ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs (D˚¯
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs (E;
+%05Microsoft.EntityFrameworkCore.DbContextOptionsBuilder"ºMicrosoft.EntityFrameworkCore.DbContextOptionsBuilder.LogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*I
+G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilder*
+""*
+""*
+""2ÜLogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*
+1*ª
+1ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs	 (	"•
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs (	
+implicit return:G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilderBHF
+DEmprendeUCR.Infrastructure.ConfirmAdminContext.ConfirmAdminDbContext

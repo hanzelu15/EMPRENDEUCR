@@ -1,0 +1,61 @@
+
+èEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService.updateProductStatus(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order, string, EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product)£
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs¦ ¦(-"0*ï
+0£
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs§ ¨(;Õ
+Ò
+£
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs§< §(R	
+%0int"MEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.CodeId.get*P
+N
+productToUpdate;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Productã
+à
+£
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs§T §(u
+%1string"XEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.EntrepreneurEmail.get*P
+N
+productToUpdate;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductÚ
+×
+¤
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs§x §(’	
+%2int"QEmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductService.CategoryId.get*P
+N
+productToUpdate;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Product¹
+¶
+¤
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs§ §(“
+
+%3void"kEmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order.changeProductStatus(string, int, string, int)*O
+M
+currentOrder=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order*
+
+productStatusstring*
+	
+%0int*
+
+%1string*
+	
+%2int¥
+¢
+£
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs¨ ¨("E
+%4?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository"__id*¬*©R
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService"S
+_orderRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository¿¼
+£
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs¨ ¨(<!
+%5System.Threading.Tasks.Task"ŠEmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository.orderUpdate(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)*G
+E
+%4?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository*O
+M
+currentOrder=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order2JorderUpdate(EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order)*
+1*ç
+1£
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs©	 ©(	"»
+£
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs© ©(	
+implicit return:M
+currentOrder=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order:
+productStatusstring:N
+productToUpdate;EmprendeUCR_WebApplication.Domain.Core.CoreEntities.ProductBTR
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService

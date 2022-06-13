@@ -1,0 +1,284 @@
+
+rEmprendeUCR.Application.LoginContext.Implementations.LoginService.encryptStringToBytes_Aes(string, byte[], byte[])‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs( ((."0*ƒ
+0‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs* *( é
+æ
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs* *( 
+
+%0bool""string.operator ==(string, string)*
+"
+string*
+
+passwordstring*
+""*
+1
+2*Ý
+2‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs*$ *(8Ã
+À
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs*$ *(3	
+%1int"string.Length.get*
+
+passwordstring*
+1
+3*÷
+1‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs+ +(:ÑÎ
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs+ +(;"
+%2System.ArgumentNullException"System.ArgumentNullExceptionŒ
+‰
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs+ +(/
+
+%3void";System.ArgumentNullException.ArgumentNullException(string?)*$
+"
+%2System.ArgumentNullException*
+
+password*
+4*þ
+3‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs, ,(ä
+á
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs, ,(
+
+%4bool""object.operator ==(object, object)*
+"
+object*
+
+Keybyte[]*
+""*
+5
+6*Þ
+6‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs, ,(.Ä
+Á
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs, ,()	
+%5int"System.Array.Length.get*
+
+Keybyte[]*
+5
+7*ò
+5‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs- -(5ÑÎ
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs- -(6"
+%6System.ArgumentNullException"System.ArgumentNullException‡
+„
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs- -(/
+
+%7void";System.ArgumentNullException.ArgumentNullException(string?)*$
+"
+%6System.ArgumentNullException*
+Key*
+4*ý
+7‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs. .(ã
+à
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs. .(
+
+%8bool""object.operator ==(object, object)*
+"
+object*
+
+IVbyte[]*
+""*
+8
+9*Þ
+9‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs. .(,Ã
+À
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs. .('	
+%9int"System.Array.Length.get*
+
+IVbyte[]*
+8
+10*ô
+8‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs/ /(4ÒÏ
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs/ /(5#
+%10System.ArgumentNullException"System.ArgumentNullExceptionˆ
+…
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs/ /(/
+%11void";System.ArgumentNullException.ArgumentNullException(string?)*%
+#
+%10System.ArgumentNullException*
+IV*
+4*‘
+10‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs0 2(,‰
+†
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs2  2(,'
+%12 System.Security.Cryptography.Aes")System.Security.Cryptography.Aes.Create()*$""
+ System.Security.Cryptography.Aesì
+é
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs2 2(,*
+aesAlg System.Security.Cryptography.Aes"__id*)
+'
+%12 System.Security.Cryptography.Aes*
+11*û
+11‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs4 9(BŸœ
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs4 4( 
+%13byte[]"7System.Security.Cryptography.SymmetricAlgorithm.Key.set*,
+*
+aesAlg System.Security.Cryptography.Aes*
+
+Keybyte[]2Key.setœ™
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs5 5(
+%14byte[]"6System.Security.Cryptography.SymmetricAlgorithm.IV.set*,
+*
+aesAlg System.Security.Cryptography.Aes*
+
+IVbyte[]2IV.setŽ‹
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs7D 7(N
+%15byte[]"7System.Security.Cryptography.SymmetricAlgorithm.Key.get*,
+*
+aesAlg System.Security.Cryptography.Aes2Key.getŒ‰
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs7P 7(Y
+%16byte[]"6System.Security.Cryptography.SymmetricAlgorithm.IV.get*,
+*
+aesAlg System.Security.Cryptography.Aes2IV.getç
+ä
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs7- 7(Z4
+%17-System.Security.Cryptography.ICryptoTransform"PSystem.Security.Cryptography.SymmetricAlgorithm.CreateEncryptor(byte[], byte[]?)*,
+*
+aesAlg System.Security.Cryptography.Aes*
+
+%15byte[]*
+
+%16byte[]‰
+†
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs7! 7(Z:
+	encryptor-System.Security.Cryptography.ICryptoTransform"__id*6
+4
+%17-System.Security.Cryptography.ICryptoTransformÆÃ
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs90 9(B
+%18System.IO.MemoryStream"System.IO.MemoryStreamä
+á
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs94 9(@
+%19void"%System.IO.MemoryStream.MemoryStream()*
+
+%18System.IO.MemoryStreamÛ
+Ø
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs9$ 9(B#
+	msEncryptSystem.IO.MemoryStream"__id*
+
+%18System.IO.MemoryStream*
+12*š
+
+12‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs;( ;(q¤
+¡
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs;[ ;(q
+%20"__id*
+""ìé
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs;4 ;(r0
+%21)System.Security.Cryptography.CryptoStream")System.Security.Cryptography.CryptoStreamç
+ä
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs;8 ;(D
+%22void"¦System.Security.Cryptography.CryptoStream.CryptoStream(System.IO.Stream, System.Security.Cryptography.ICryptoTransform, System.Security.Cryptography.CryptoStreamMode)*2
+0
+%21)System.Security.Cryptography.CryptoStream*%
+#
+	msEncryptSystem.IO.MemoryStream*<
+:
+	encryptor-System.Security.Cryptography.ICryptoTransform*
+
+%20
+þ
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs;( ;(r6
+	csEncrypt)System.Security.Cryptography.CryptoStream"__id*2
+0
+%21)System.Security.Cryptography.CryptoStream*
+13*î
+13‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs=, =(RÆÃ
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs=8 =(S
+%23System.IO.StreamWriter"System.IO.StreamWriter®
+«
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs=< =(H
+%24void"5System.IO.StreamWriter.StreamWriter(System.IO.Stream)*
+
+%23System.IO.StreamWriter*8
+6
+	csEncrypt)System.Security.Cryptography.CryptoStreamÛ
+Ø
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs=, =(S#
+	swEncryptSystem.IO.StreamWriter"__id*
+
+%23System.IO.StreamWriter*
+14*©
+14‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs? ?(4
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.cs? ?(5
+%25void"%System.IO.StreamWriter.Write(string?)*%
+#
+	swEncryptSystem.IO.StreamWriter*
+
+passwordstring2Write(string?)*
+15*É
+15‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csA A(7òï
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csA$ A(7
+%26byte[]" System.IO.MemoryStream.ToArray()*%
+#
+	msEncryptSystem.IO.MemoryStream2	ToArray()»
+¸
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csA A(7
+	encryptedbyte[]"__id*
+
+%26byte[]*
+16*–
+16‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csF	 F(	*
+17*–
+17‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csF	 F(	*
+18*¶
+18‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csE E("£
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csE E(
+
+	encryptedbyte[]*³
+4‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csF	 F(	"¡
+‰
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csF F(	
+implicit return:
+passwordstring:
+Keybyte[]:
+IVbyte[]BEC
+AEmprendeUCR.Application.LoginContext.Implementations.LoginService

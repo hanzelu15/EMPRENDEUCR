@@ -1,0 +1,43 @@
+
+oEmprendeUCR_WebApplication.Data.Services.ReportService.deleteReport(EmprendeUCR.Domain.Reports.Entities.Report)Ü
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs$ $( "0*›
+0Ü
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs% &("ﬁ
+€
+Ü
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs% %(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ü*É8
+6EmprendeUCR_WebApplication.Data.Services.ReportService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÕ
+ 
+Ü
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs% %(2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Report.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextíè
+Ü
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs% %(*G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*6
+4
+report*EmprendeUCR.Domain.Reports.Entities.Report2Remove(TEntity)ﬁ
+€
+Ü
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs& &(A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ü*É8
+6EmprendeUCR_WebApplication.Data.Services.ReportService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext¢ü
+Ü
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs& &("	
+%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
+A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
+1*≠
+1Ü
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs'	 '(	"û
+Ü
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ReportService.cs' '(	
+implicit return:4
+report*EmprendeUCR.Domain.Reports.Entities.ReportB:8
+6EmprendeUCR_WebApplication.Data.Services.ReportService

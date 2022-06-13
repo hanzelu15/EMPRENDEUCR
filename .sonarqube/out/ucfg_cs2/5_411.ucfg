@@ -1,0 +1,89 @@
+
+SEmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService.CreateReport()ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csH H(&"0*ù
+0ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csJ P(#ç
+ä
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csJ J()bF
+DEmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService"
+AddDialogVisiblebool"__id*
+""˘ˆ
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csK K((0
+%0*EmprendeUCR.Domain.Reports.Entities.Report"*EmprendeUCR.Domain.Reports.Entities.Reportê
+ç
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csK  K(&
+
+%1void"3EmprendeUCR.Domain.Reports.Entities.Report.Report()*2
+0
+%0*EmprendeUCR.Domain.Reports.Entities.Reportã
+à
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csK K((4
+report*EmprendeUCR.Domain.Reports.Entities.Report"__id*2
+0
+%0*EmprendeUCR.Domain.Reports.Entities.Reportå
+â
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csL L( 
+%2string"__id*[*YF
+DEmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService"
+Titlestringß
+§
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csL L( 
+%3string"4EmprendeUCR.Domain.Reports.Entities.Report.Title.set*6
+4
+report*EmprendeUCR.Domain.Reports.Entities.Report*
+
+%2stringé
+ã
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csM M($
+%4string"__id*]*[F
+DEmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService"
+Contentstring©
+¶
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csM M($
+%5string"6EmprendeUCR.Domain.Reports.Entities.Report.Content.set*6
+4
+report*EmprendeUCR.Domain.Reports.Entities.Report*
+
+%4stringã
+à
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csN N(
+%6string"__id*Z*XF
+DEmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService"
+userstring¶
+£
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csN N(
+%7string"3EmprendeUCR.Domain.Reports.Entities.Report.User.set*6
+4
+report*EmprendeUCR.Domain.Reports.Entities.Report*
+
+%6stringŒ
+À
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csO O(+*
+%8$System.Threading.Tasks.Task<TResult>"ÇEmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService.InsertReportAsync(EmprendeUCR.Domain.Reports.Entities.Report)*HF
+DEmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService*6
+4
+report*EmprendeUCR.Domain.Reports.Entities.Reportœ
+Ã
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csP P(#
+
+%9void"\EmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService.ResetCreateReportData()*HF
+DEmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService*
+1*À
+1ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csQ	 Q(	"≠
+ï
+äC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Reports\CreateReportService.csQ Q(	
+implicit returnBHF
+DEmprendeUCR_WebApplication.Data.Services.Reports.CreateReportService

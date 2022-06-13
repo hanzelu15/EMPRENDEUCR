@@ -1,0 +1,39 @@
+
+LEmprendeUCR.Domain.Core.CoreEntities.Permission.Permission(int, int, string)w
+mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Permission.cs
+ ("1*Å
+1w
+mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Permission.cs	 (	*
+0*†
+0w
+mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Permission.cs (¸
+˘
+w
+mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Permission.cs (
+	
+%0int"6EmprendeUCR.Domain.Core.CoreEntities.Permission.Id.set*31
+/EmprendeUCR.Domain.Core.CoreEntities.Permission*
+""Å
+˛
+w
+mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Permission.cs (	
+%1int";EmprendeUCR.Domain.Core.CoreEntities.Permission.Role_Id.set*31
+/EmprendeUCR.Domain.Core.CoreEntities.Permission*
+""ô
+ñ
+w
+mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Permission.cs (
+%2string"?EmprendeUCR.Domain.Core.CoreEntities.Permission.Description.set*31
+/EmprendeUCR.Domain.Core.CoreEntities.Permission*
+
+descriptionstring*
+2*ç
+2w
+mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Permission.cs	 (	"é
+w
+mC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\Permission.cs (	
+implicit return:	
+idint:
+roleIdint:
+descriptionstringB31
+/EmprendeUCR.Domain.Core.CoreEntities.Permission

@@ -1,0 +1,16 @@
+†
+7EmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient-Microsoft.AspNetCore.Components.ComponentBaseobjectÕ
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)„EmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)d
+OnInitializedAsync()LEmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.OnInitializedAsync()L
+goBack()@EmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.goBack()T
+ViewClient()DEmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.ViewClient()V
+userEmail.getEEmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.userEmail.getV
+userEmail.setEEmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.userEmail.setT
+backPage.getDEmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.backPage.getT
+backPage.setDEmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.backPage.set`
+sessionStorage.getJEmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.sessionStorage.get`
+sessionStorage.setJEmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.sessionStorage.setf
+NavigationManager.getMEmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.NavigationManager.getf
+NavigationManager.setMEmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.NavigationManager.set`
+profileService.getJEmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.profileService.get`
+profileService.setJEmprendeUCR_WebApplication.Pages.MyCustomers.ViewClient.profileService.set

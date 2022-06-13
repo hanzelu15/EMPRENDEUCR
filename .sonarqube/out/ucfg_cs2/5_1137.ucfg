@@ -1,0 +1,101 @@
+
+≤EmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService.RemoveCategory(Syncfusion.Blazor.TreeGrid.SfTreeGrid<EmprendeUCR_WebApplication.Data.Entities.Category>)ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csE E(("0*Ö
+0ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csG J(Í
+Á
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csG G( àK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"9
+TreeGrid-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>"__id*7
+5
+main-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>ö
+ó
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csH H(,jK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"
+RemoveDialogVisiblebool"__id*
+""¥
+±
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csI I(%
+%0"__id*
+""‚
+ﬂ
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csI I(&
+
+%1void"]EmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService.RemoveCategory(int)*MK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService*
+
+%0¥
+±
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csJ J(
+%2"__id*
+""*
+1
+2*‘
+1ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csL M(FÈ
+Ê
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csL* L(23
+%3-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>"__id*ã*àK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"9
+TreeGrid-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>˘
+ˆ
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csLK L([7
+%41EmprendeUCR_WebApplication.Data.Entities.Category"__id*ó*îK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"E
+SelectedCategory1EmprendeUCR_WebApplication.Data.Entities.Category†
+ù
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csLK L(^	
+%5int"8EmprendeUCR_WebApplication.Data.Entities.Category.Id.get*9
+7
+%41EmprendeUCR_WebApplication.Data.Entities.Categoryﬂ
+‹
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csL* L(_*
+%6$System.Threading.Tasks.Task<TResult>"MSyncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>.GetRowIndexByPrimaryKey(object)*5
+3
+%3-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>*
+	
+%5int«
+ƒ
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csL L(_
+SelectedIndexdouble"__id*
+""È
+Ê
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csM M(3
+%7-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>"__id*ã*àK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"9
+TreeGrid-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>˘
+ˆ
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csM6 M(F7
+%81EmprendeUCR_WebApplication.Data.Entities.Category"__id*ó*îK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"E
+SelectedCategory1EmprendeUCR_WebApplication.Data.Entities.Categoryç
+ä
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csM M(G!
+%9System.Threading.Tasks.Task"JSyncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>.DeleteRecord(string, TValue)*5
+3
+%7-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>*
+
+Nombre*9
+7
+%81EmprendeUCR_WebApplication.Data.Entities.Category*
+2*’
+2ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csO	 O(	"≤
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csO O(	
+implicit return:5
+main-Syncfusion.Blazor.TreeGrid.SfTreeGrid<TValue>BMK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService

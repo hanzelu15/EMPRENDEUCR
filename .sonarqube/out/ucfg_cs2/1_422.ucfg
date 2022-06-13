@@ -1,0 +1,106 @@
+
+PEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.TryCreate(string?)Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs%: %(C"0*ì
+0Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs' '(*
+1
+2*”
+1Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs( (('•¢
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs( (('N
+%0HEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameIsNull"HEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameIsNull¿
+Ω
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs( ((%
+
+%1void"UEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameIsNull.NameIsNull()*P
+N
+%0HEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameIsNull"⁄
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs( (((P
+N
+%0HEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameIsNull*—
+2Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs* *( ª
+∏
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs* *(	
+%2int"string.Length.get*
+
+namestring*
+3
+4*å	
+3Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs+ +(>ü
+ú
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs+( +(>
+%3"__id*
+""©¶
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs+ +(?P
+%4JEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooSmall"JEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooSmall—
+Œ
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs+ +('
+
+%5void"\EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooSmall.NameTooSmall(int)*R
+P
+%4JEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooSmall*
+
+%3"‹
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs+ +(@R
+P
+%4JEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooSmall*Û
+4Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs- -(4ª
+∏
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs- -(	
+%6int"string.Length.get*
+
+namestringü
+ú
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs- -(4
+%7"__id*
+""*
+5
+6*Å	
+5Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs. .(<ü
+ú
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs.& .(<
+%8"__id*
+""•¢
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs. .(=N
+%9HEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig"HEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBigÃ
+…
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs. .(%
+%10void"XEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig.NameTooBig(int)*P
+N
+%9HEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig*
+
+%8"⁄
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs. .(>P
+N
+%9HEmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo.NameTooBig*®
+6Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs0 0("ö
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs0 0(
+
+namestring*´
+7Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs1	 1(	"ù
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\PaymentInfos\Entities\SinpeIbanPaymentInfo.cs1 1(	
+implicit return:
+namestringBA"?
+=EmprendeUCR.Domain.PaymentInfos.Entities.SinpeIbanPaymentInfo

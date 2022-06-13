@@ -1,0 +1,30 @@
+
+ÄEmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService.getServicesListByCategoryId(int)®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs1 1(9"0*Ô
+
+0®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs3 3(VÄ
+˝
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs3 3(2a
+%0[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository"__id*Ê*„a
+_EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService"~
+_productsSearchClientRepository[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository‡›
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs3 3(W)
+%1#System.Collections.Generic.IList<T>"yEmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository.getServiceListByCategory(int)*c
+a
+%0[EmprendeUCR.Domain.ProductsSearchClientContext.Repositories.IProductsSearchClientRepository*
+""2getServiceListByCategory(int)"ÿ
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs3 3(X+
+)
+%1#System.Collections.Generic.IList<T>*Ò
+1®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs4	 4(	"¿
+®
+ùC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\ProductsSearchClientContext\Implementations\ProductsSearchClientService.cs4 4(	
+implicit return:
+
+categoryIDintBca
+_EmprendeUCR.Application.ProductsSearchClientContext.Implementations.ProductsSearchClientService

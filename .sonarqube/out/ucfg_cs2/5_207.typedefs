@@ -1,0 +1,7 @@
+†
+@EmprendeUCR_WebApplication.Pages.Entrepreneurs.ListEntrepreneurs-Microsoft.AspNetCore.Components.ComponentBaseobjectﬁ
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)çEmprendeUCR_WebApplication.Pages.Entrepreneurs.ListEntrepreneurs.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)m
+OnInitializedAsync()UEmprendeUCR_WebApplication.Pages.Entrepreneurs.ListEntrepreneurs.OnInitializedAsync()k
+ListEntrepreneurs()TEmprendeUCR_WebApplication.Pages.Entrepreneurs.ListEntrepreneurs.ListEntrepreneurs()s
+EntrepreneurService.getXEmprendeUCR_WebApplication.Pages.Entrepreneurs.ListEntrepreneurs.EntrepreneurService.gets
+EntrepreneurService.setXEmprendeUCR_WebApplication.Pages.Entrepreneurs.ListEntrepreneurs.EntrepreneurService.set

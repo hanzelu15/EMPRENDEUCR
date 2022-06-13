@@ -1,0 +1,60 @@
+
+cEmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository.GetProvinceCantons(string)‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csX X(/"0*Æ
+0‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csZ Z(aû
+ø
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csZ Z(@
+%0:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext"__id*™*–J
+HEmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository"H
+
+_dbContext:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContextâß
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csZ Z($2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"EEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Canton.get*B
+@
+%0:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext2
+Canton.getç
+ä
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csZ0 Z(Z
+%2string"__concat* 
+exec GetCantons @province ="*
+
+provincestringÆ
+Ã
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csZ0 Z(a
+%3string"__concat*
+
+%2string*
+"à
+Ý
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csZ Z(b
+%4System.Linq.IQueryable<T>"–Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
+;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+%3string*
+""å
+â
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csZ Z(l3
+%5-EmprendeUCR.Domain.Core.CoreEntities.Canton[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%4System.Linq.IQueryable<T>"Ë
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csZ Z(m5
+3
+%5-EmprendeUCR.Domain.Core.CoreEntities.Canton[]*Ã
+1‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.cs[	 [(	"©
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.cs[ [(	
+implicit return:
+provincestringBLJ
+HEmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository

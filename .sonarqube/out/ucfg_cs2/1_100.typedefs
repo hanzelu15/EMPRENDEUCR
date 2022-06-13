@@ -1,0 +1,12 @@
+¼
+<EmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethodobject
+CardPaymentMethod(string, bool)\EmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.CardPaymentMethod(string, bool)]
+ChangeStatus()KEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.ChangeStatus()Ú
+LAddCardPaymentInfo(EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo)‰EmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.AddCardPaymentInfo(EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo)â
+PRemovePhonePaymentInfo(EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo)EmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.RemovePhonePaymentInfo(EmprendeUCR.Domain.PaymentInfos.Entities.CardPaymentInfo)Q
+Name.getEEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.Name.getQ
+Name.setEEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.Name.setU
+
+Status.getGEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.Status.getU
+
+Status.setGEmprendeUCR.Domain.PaymentMethods.Entities.CardPaymentMethod.Status.set

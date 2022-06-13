@@ -1,0 +1,67 @@
+
+PEmprendeUCR.Domain.Core.CoreEntities.RegisterValidator.ValidAge(System.DateTime)q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs- -("0*˝
+0q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs/ 6((ª
+∏
+q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs/ /(*
+%0System.DateTime"System.DateTime.Now.get*"
+System.DateTime¥
+±
+q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs/ /(/	
+%1int"System.DateTime.Year.get*
+
+%0System.DateTimeù
+ö
+q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs/ /(/
+currentYearint"__id*
+	
+%1int∂
+≥
+q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs0 0(%	
+%2int"System.DateTime.Year.get*
+
+dateSystem.DateTimeõ
+ò
+q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs0 0(%
+	birthYearint"__id*
+	
+%2intê
+ç
+q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs1 1(-
+
+ageint"__id*
+""*
+1
+2*~
+1q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs6, 6(J*
+3
+2*~
+3q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs6O 6(X*
+4
+2*Û
+4q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs8 8("{
+q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs8 8(
+""*Û
+2q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs; ;("{
+q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs; ;(
+""*Å
+5q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs<	 <(	"à
+q
+gC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\Core\CoreEntities\User.cs< <(	
+implicit return:
+dateSystem.DateTimeB:8
+6EmprendeUCR.Domain.Core.CoreEntities.RegisterValidator

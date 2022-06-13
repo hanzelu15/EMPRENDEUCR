@@ -1,0 +1,4 @@
+µ
+>EmprendeUCR.Infrastructure.Core.EntityMappings.BannedAcountMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>Â
+Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.BannedAcount>)¾EmprendeUCR.Infrastructure.Core.EntityMappings.BannedAcountMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.BannedAcount>)e
+BannedAcountMap()PEmprendeUCR.Infrastructure.Core.EntityMappings.BannedAcountMap.BannedAcountMap()

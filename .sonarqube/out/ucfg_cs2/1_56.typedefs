@@ -1,0 +1,12 @@
+’
+QEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationErrorobjectSystem.IEquatable<T>j
+
+ToString()\EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError.ToString()¤
+'PrintMembers(System.Text.StringBuilder)yEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError.PrintMembers(System.Text.StringBuilder)p
+GetHashCode()_EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError.GetHashCode()t
+Equals(object?)aEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError.Equals(object?)‹
+ZEquals(EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError?)¬EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError.Equals(EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError?)›
+bValidationError(EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError)´EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError.ValidationError(EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError)x
+ValidationError()cEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError.ValidationError()~
+EqualityContract.getfEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError.EqualityContract.get~
+EqualityContract.setfEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.ValidationError.EqualityContract.set

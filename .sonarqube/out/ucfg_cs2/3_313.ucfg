@@ -1,0 +1,151 @@
+
+|EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs$  $(/"0*ÔK
+0à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs& .(F¿Ω
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs& &(.
+
+%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*DB
+@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)ÑÅ
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs', '(9<
+%16EmprendeUCR.Infrastructure.Core.EntityMappings.RoleMap"6EmprendeUCR.Infrastructure.Core.EntityMappings.RoleMapú
+ô
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs'0 '(7
+
+%2void"@EmprendeUCR.Infrastructure.Core.EntityMappings.RoleMap.RoleMap()*>
+<
+%16EmprendeUCR.Infrastructure.Core.EntityMappings.RoleMap¶£
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs' '(:0
+%3*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*>
+<
+%16EmprendeUCR.Infrastructure.Core.EntityMappings.RoleMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)êç
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs(, ((?B
+%4<EmprendeUCR.Infrastructure.Core.EntityMappings.Is_Able_ToMap"<EmprendeUCR.Infrastructure.Core.EntityMappings.Is_Able_ToMapÆ
+´
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs(0 ((=
+
+%5void"LEmprendeUCR.Infrastructure.Core.EntityMappings.Is_Able_ToMap.Is_Able_ToMap()*D
+B
+%4<EmprendeUCR.Infrastructure.Core.EntityMappings.Is_Able_ToMap¨©
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs( ((@0
+%6*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*D
+B
+%4<EmprendeUCR.Infrastructure.Core.EntityMappings.Is_Able_ToMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)êç
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs), )(?B
+%7<EmprendeUCR.Infrastructure.Core.EntityMappings.PermissionMap"<EmprendeUCR.Infrastructure.Core.EntityMappings.PermissionMapÆ
+´
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs)0 )(=
+
+%8void"LEmprendeUCR.Infrastructure.Core.EntityMappings.PermissionMap.PermissionMap()*D
+B
+%7<EmprendeUCR.Infrastructure.Core.EntityMappings.PermissionMap¨©
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs) )(@0
+%9*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*D
+B
+%7<EmprendeUCR.Infrastructure.Core.EntityMappings.PermissionMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ÖÇ
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs*, *(9=
+%106EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap"6EmprendeUCR.Infrastructure.Core.EntityMappings.UserMapû
+õ
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs*0 *(7
+%11void"@EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap.UserMap()*?
+=
+%106EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap®•
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs* *(:1
+%12*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*?
+=
+%106EmprendeUCR.Infrastructure.Core.EntityMappings.UserMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)óî
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs+, +(BF
+%13?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap"?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMapπ
+∂
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs+0 +(@
+%14void"REmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap.AdministratorMap()*H
+F
+%13?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap±Æ
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs+ +(C1
+%15*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*H
+F
+%13?EmprendeUCR.Infrastructure.Core.EntityMappings.AdministratorMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)âÜ
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs,, ,(;?
+%168EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap"8EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap§
+°
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs,0 ,(9
+%17void"DEmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap.ClientMap()*A
+?
+%168EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap™ß
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs, ,(<1
+%18*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*A
+?
+%168EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)ïí
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs-, -(AE
+%19>EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap">EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap∂
+≥
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs-0 -(?
+%20void"PEmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap.EntrepreneurMap()*G
+E
+%19>EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap∞≠
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs- -(B1
+%21*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*G
+E
+%19>EmprendeUCR.Infrastructure.Core.EntityMappings.EntrepreneurMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)üú
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs., .(FJ
+%22CEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMap"CEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMap≈
+¬
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs.0 .(D
+%23void"ZEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMap.EmailConfirmationMap()*L
+J
+%22CEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMapµ≤
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs. .(G1
+%24*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*L
+J
+%22CEmprendeUCR.Infrastructure.Core.EntityMappings.EmailConfirmationMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*
+1*±
+1à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs/	 /(	"†
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\PermissionContext\PermissionDbContext.cs/ /(	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderBDB
+@EmprendeUCR.Infrastructure.PermissionContext.PermissionDbContext

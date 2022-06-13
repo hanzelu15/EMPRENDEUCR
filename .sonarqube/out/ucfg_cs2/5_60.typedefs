@@ -1,0 +1,11 @@
+§
+;EmprendeUCR_WebApplication.Data.Entities.Email_Confirmationobjecth
+Email_Confirmation()PEmprendeUCR_WebApplication.Data.Entities.Email_Confirmation.Email_Confirmation()R
+	Email.getEEmprendeUCR_WebApplication.Data.Entities.Email_Confirmation.Email.getR
+	Email.setEEmprendeUCR_WebApplication.Data.Entities.Email_Confirmation.Email.setZ
+Hash_Code.getIEmprendeUCR_WebApplication.Data.Entities.Email_Confirmation.Hash_Code.getZ
+Hash_Code.setIEmprendeUCR_WebApplication.Data.Entities.Email_Confirmation.Hash_Code.setb
+Creation_Date.getMEmprendeUCR_WebApplication.Data.Entities.Email_Confirmation.Creation_Date.getb
+Creation_Date.setMEmprendeUCR_WebApplication.Data.Entities.Email_Confirmation.Creation_Date.setf
+Expiration_Date.getOEmprendeUCR_WebApplication.Data.Entities.Email_Confirmation.Expiration_Date.getf
+Expiration_Date.setOEmprendeUCR_WebApplication.Data.Entities.Email_Confirmation.Expiration_Date.set

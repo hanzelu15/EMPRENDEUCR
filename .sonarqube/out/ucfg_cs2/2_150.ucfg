@@ -1,0 +1,163 @@
+
+ZEmprendeUCR.Application.LoginContext.Implementations.LoginService.GetBannedMessage(string)‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csà" à(2"0* 
+0‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csâ ä($Ä
+Á
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csâ# â(/
+%0string"__id**
+string"
+EmptystringÀ
+½
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csâ â(/
+bannedMessagestring"__id*
+
+%0stringú
+÷
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csã# ã(3C
+%1=EmprendeUCR.Domain.LoginContext.Repositories.ILoginRepository"__id*›*˜C
+AEmprendeUCR.Application.LoginContext.Implementations.LoginService"Q
+_loginRepository=EmprendeUCR.Domain.LoginContext.Repositories.ILoginRepositoryÿü
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csã# ã(F*
+%2$System.Threading.Tasks.Task<TResult>"QEmprendeUCR.Domain.LoginContext.Repositories.ILoginRepository.CheckBanned(string)*E
+C
+%1=EmprendeUCR.Domain.LoginContext.Repositories.ILoginRepository*
+
+emailstring2CheckBanned(string)à
+Ý
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csã ã(F?
+
+userBanned1EmprendeUCR.Domain.Core.CoreEntities.BannedAcount"__id*
+""˜
+•
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csä ä($
+
+%3bool""object.operator ==(object, object)*
+"
+object*A
+?
+
+userBanned1EmprendeUCR.Domain.Core.CoreEntities.BannedAcount*
+""*
+1
+2*·
+1‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csæ æ((›
+˜
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csæ æ(#	
+%4int":EmprendeUCR.Domain.Core.CoreEntities.BannedAcount.Type.get*A
+?
+
+userBanned1EmprendeUCR.Domain.Core.CoreEntities.BannedAcount*
+3
+4*þ
+3‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csè è(Uå
+â
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csè è(U
+bannedMessagestring"__id*31
+/Su cuenta se encuentra baneando indefinidamente*
+2*Ç
+4‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csê ê(=­
+ª
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csê ê(.
+%5System.DateTime"@EmprendeUCR.Domain.Core.CoreEntities.BannedAcount.FinishDate.get*A
+?
+
+userBanned1EmprendeUCR.Domain.Core.CoreEntities.BannedAcountÖ
+Ó
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csê1 ê(=
+%6System.DateTime"System.DateTime.Now.get*"
+System.DateTime¢
+Ÿ
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csê ê(=
+
+%7bool"<System.DateTime.operator >(System.DateTime, System.DateTime)*"
+System.DateTime*
+
+%5System.DateTime*
+
+%6System.DateTime*
+5
+2*’
+5‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csì í(N­
+ª
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csí í(0
+%8System.DateTime"@EmprendeUCR.Domain.Core.CoreEntities.BannedAcount.FinishDate.get*A
+?
+
+userBanned1EmprendeUCR.Domain.Core.CoreEntities.BannedAcountÖ
+Ó
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csí3 í(?
+%9System.DateTime"System.DateTime.Now.get*"
+System.DateTime®
+«
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csí í(?
+%10System.TimeSpan"<System.DateTime.operator -(System.DateTime, System.DateTime)*"
+System.DateTime*
+
+%8System.DateTime*
+
+%9System.DateTimeÑ
+Î
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csí í(E
+
+%11int"System.TimeSpan.Days.get*
+
+%10System.TimeSpanç
+ä
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csì$ í(E
+
+%12int"__concat*0.
+,Su cuenta esta baneado temporalemte, faltan:*
+
+
+%11intÀ
+½
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csì$ í(N
+
+%13int"__concat*
+
+
+%12int*	
+dÃ­as¾
+»
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csì í(N
+bannedMessagestring"__id*
+
+
+%13int*
+2*½
+2‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csð ð( "©
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csð ð(!
+
+bannedMessagestring*·
+6‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csñ	 ñ(	"£
+‹
+C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\LoginContext\Implementations\LoginService.csñ ñ(	
+implicit return:
+emailstringBEC
+AEmprendeUCR.Application.LoginContext.Implementations.LoginService

@@ -1,0 +1,4 @@
+Ù
+=EmprendeUCR_WebApplication.Data.Services.Shopping_CartServiceobjectÂ
+QShopping_CartService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)èEmprendeUCR_WebApplication.Data.Services.Shopping_CartService.Shopping_CartService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)¬
+@addEmail(EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart)~EmprendeUCR_WebApplication.Data.Services.Shopping_CartService.addEmail(EmprendeUCR_WebApplication.Data.Entities.Shopping_Cart)

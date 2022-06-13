@@ -1,0 +1,70 @@
+
+REmprendeUCR_WebApplication.Data.Services.CredentialsService.getCredentials(string)å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs/ /()"0*≈
+0å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs0 2(!Ë
+Â
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs0 0(-F
+getCredentials4EmprendeUCR_WebApplication.Data.Entities.Credentials"__id*
+""È
+Ê
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs1& 1(.A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ã*à=
+;EmprendeUCR_WebApplication.Data.Services.CredentialsService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÿ
+’
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs1& 1(:2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"KEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Credentials.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext∏
+µ
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs1& 1(j:
+%24EmprendeUCR_WebApplication.Data.Entities.Credentials"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""õ
+ò
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs1 1(jC
+credentials4EmprendeUCR_WebApplication.Data.Entities.Credentials"__id*<
+:
+%24EmprendeUCR_WebApplication.Data.Entities.Credentialsù
+ö
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs2 2(!
+
+%3bool""object.operator !=(object, object)*
+"
+object*E
+C
+credentials4EmprendeUCR_WebApplication.Data.Entities.Credentials*
+""*
+1
+2*¡
+1å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs3 3(,ß
+§
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs3 3(,F
+getCredentials4EmprendeUCR_WebApplication.Data.Entities.Credentials"__id*E
+C
+credentials4EmprendeUCR_WebApplication.Data.Entities.Credentials*
+2*Ó
+2å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs5 5(!"Ÿ
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs5 5("H
+F
+getCredentials4EmprendeUCR_WebApplication.Data.Entities.Credentials*π
+3å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs6	 6(	"§
+å
+ÅC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\CredentialsService.cs6 6(	
+implicit return:
+emailstringB?=
+;EmprendeUCR_WebApplication.Data.Services.CredentialsService

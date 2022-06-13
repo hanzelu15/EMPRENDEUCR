@@ -1,0 +1,11 @@
+ç
+3EmprendeUCR.Domain.Core.CoreEntities.ProductServiceobjectX
+ProductService()DEmprendeUCR.Domain.Core.CoreEntities.ProductService.ProductService()N
+Code_ID.get?EmprendeUCR.Domain.Core.CoreEntities.ProductService.Code_ID.getN
+Code_ID.set?EmprendeUCR.Domain.Core.CoreEntities.ProductService.Code_ID.setd
+Entrepreneur_Email.getJEmprendeUCR.Domain.Core.CoreEntities.ProductService.Entrepreneur_Email.getd
+Entrepreneur_Email.setJEmprendeUCR.Domain.Core.CoreEntities.ProductService.Entrepreneur_Email.setV
+Category_ID.getCEmprendeUCR.Domain.Core.CoreEntities.ProductService.Category_ID.getV
+Category_ID.setCEmprendeUCR.Domain.Core.CoreEntities.ProductService.Category_ID.setX
+Availability.getDEmprendeUCR.Domain.Core.CoreEntities.ProductService.Availability.getX
+Availability.setDEmprendeUCR.Domain.Core.CoreEntities.ProductService.Availability.set

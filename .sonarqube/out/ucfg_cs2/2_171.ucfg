@@ -1,0 +1,28 @@
+
+hEmprendeUCR.Application.PermissionContext.Implementations.PermissionService.getPermissionsByUser(string)”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csF- F(A"0*’	
+0”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csH H(G¦
+£
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csH H(.M
+%0GEmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository"__id*´*±M
+KEmprendeUCR.Application.PermissionContext.Implementations.PermissionService"`
+_permissionRepositoryGEmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepositoryª§
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csH H(H*
+%1$System.Threading.Tasks.Task<TResult>"bEmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository.getUserPermissions(string)*O
+M
+%0GEmprendeUCR.Domain.PermissionContext.Repositories.IPermissionRepository*
+
+emailstring2getUserPermissions(string)"Ÿ
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csH H(I
+""*É
+1”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csI	 I(	"¬
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\PermissionContext\Implementations\PermissionService.csI I(	
+implicit return:
+emailstringBOM
+KEmprendeUCR.Application.PermissionContext.Implementations.PermissionService

@@ -1,0 +1,12 @@
+´
+1EmprendeUCR.Presentation.Core.Pages.FeedbackUsers-Microsoft.AspNetCore.Components.ComponentBaseobjectÎ
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)~EmprendeUCR.Presentation.Core.Pages.FeedbackUsers.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)T
+OnInitialized()AEmprendeUCR.Presentation.Core.Pages.FeedbackUsers.OnInitialized()J
+
+redirect()<EmprendeUCR.Presentation.Core.Pages.FeedbackUsers.redirect()–
+0navigate(object, System.Timers.ElapsedEventArgs)bEmprendeUCR.Presentation.Core.Pages.FeedbackUsers.navigate(object, System.Timers.ElapsedEventArgs)T
+FeedbackUsers()AEmprendeUCR.Presentation.Core.Pages.FeedbackUsers.FeedbackUsers()`
+NavigationManager.getGEmprendeUCR.Presentation.Core.Pages.FeedbackUsers.NavigationManager.get`
+NavigationManager.setGEmprendeUCR.Presentation.Core.Pages.FeedbackUsers.NavigationManager.setP
+JsRuntime.get?EmprendeUCR.Presentation.Core.Pages.FeedbackUsers.JsRuntime.getP
+JsRuntime.set?EmprendeUCR.Presentation.Core.Pages.FeedbackUsers.JsRuntime.set

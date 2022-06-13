@@ -1,0 +1,28 @@
+
+kEmprendeUCR.Application.Entrepreneurs.Implementations.ProductServiceService.GetProducServiceByIdAsync(long)”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Entrepreneurs\Implementations\ProductServiceService.cs+ (D"0*“	
+0”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Entrepreneurs\Implementations\ProductServiceService.cs (B¶
+³
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Entrepreneurs\Implementations\ProductServiceService.cs (2S
+%0MEmprendeUCR.Domain.EntrepreneurContext.Repositories.IProductServiceRepository"__id*¾*»M
+KEmprendeUCR.Application.Entrepreneurs.Implementations.ProductServiceService"j
+_productServiceRepositoryMEmprendeUCR.Domain.EntrepreneurContext.Repositories.IProductServiceRepository›˜
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Entrepreneurs\Implementations\ProductServiceService.cs (C*
+%1$System.Threading.Tasks.Task<TResult>"`EmprendeUCR.Domain.EntrepreneurContext.Repositories.IProductServiceRepository.GetByIdAsync(long)*U
+S
+%0MEmprendeUCR.Domain.EntrepreneurContext.Repositories.IProductServiceRepository*
+""2GetByIdAsync(long)"Ÿ
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Entrepreneurs\Implementations\ProductServiceService.cs (D
+""*É
+1”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Entrepreneurs\Implementations\ProductServiceService.cs	 (	"¬
+”
+‰C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\Entrepreneurs\Implementations\ProductServiceService.cs (	
+implicit return:
+
+idlongBOM
+KEmprendeUCR.Application.Entrepreneurs.Implementations.ProductServiceService

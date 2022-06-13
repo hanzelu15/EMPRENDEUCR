@@ -1,0 +1,16 @@
+ê
+.EmprendeUCR_WebApplication.Data.Entities.Offerobjectü
+disTypeOfferCombo(System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.Is_Offer>)“EmprendeUCR_WebApplication.Data.Entities.Offer.isTypeOfferCombo(System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.Is_Offer>)©
+;isValidDate(EmprendeUCR_WebApplication.Data.Entities.Offer)jEmprendeUCR_WebApplication.Data.Entities.Offer.isValidDate(EmprendeUCR_WebApplication.Data.Entities.Offer)ÿ
+åisValidDiscount(EmprendeUCR_WebApplication.Data.Entities.Offer, System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.Product>, System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.Service>)”EmprendeUCR_WebApplication.Data.Entities.Offer.isValidDiscount(EmprendeUCR_WebApplication.Data.Entities.Offer, System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.Product>, System.Collections.Generic.List<EmprendeUCR_WebApplication.Data.Entities.Service>)A
+Offer()6EmprendeUCR_WebApplication.Data.Entities.Offer.Offer()K
+Offer_ID.get;EmprendeUCR_WebApplication.Data.Entities.Offer.Offer_ID.getK
+Offer_ID.set;EmprendeUCR_WebApplication.Data.Entities.Offer.Offer_ID.setS
+Initial_Date.get?EmprendeUCR_WebApplication.Data.Entities.Offer.Initial_Date.getS
+Initial_Date.set?EmprendeUCR_WebApplication.Data.Entities.Offer.Initial_Date.setQ
+Expire_Date.get>EmprendeUCR_WebApplication.Data.Entities.Offer.Expire_Date.getQ
+Expire_Date.set>EmprendeUCR_WebApplication.Data.Entities.Offer.Expire_Date.set]
+Offer_Description.getDEmprendeUCR_WebApplication.Data.Entities.Offer.Offer_Description.get]
+Offer_Description.setDEmprendeUCR_WebApplication.Data.Entities.Offer.Offer_Description.setK
+Discount.get;EmprendeUCR_WebApplication.Data.Entities.Offer.Discount.getK
+Discount.set;EmprendeUCR_WebApplication.Data.Entities.Offer.Discount.set

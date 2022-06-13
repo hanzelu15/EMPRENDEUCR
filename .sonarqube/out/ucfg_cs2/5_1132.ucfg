@@ -1,0 +1,65 @@
+
+ïEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService.OpenRemoveCategoryDialog(EmprendeUCR_WebApplication.Data.Entities.Category)ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs/ /(,"0*∏
+0ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs1 4(/˛
+˚
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs1 1(,îK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"E
+SelectedCategory1EmprendeUCR_WebApplication.Data.Entities.Category"__id*?
+=
+category1EmprendeUCR_WebApplication.Data.Entities.Categoryö
+ó
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs2 2(+jK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"
+RemoveDialogVisiblebool"__id*
+""˘
+ˆ
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs3 3(.7
+%01EmprendeUCR_WebApplication.Data.Entities.Category"__id*ó*îK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"E
+SelectedCategory1EmprendeUCR_WebApplication.Data.Entities.Category†
+ù
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs3 3(1	
+%1int"8EmprendeUCR_WebApplication.Data.Entities.Category.Id.get*9
+7
+%01EmprendeUCR_WebApplication.Data.Entities.Categoryï
+í
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs3 3(1`K
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"
+
+SelectedIdint"__id*
+	
+%1int˘
+ˆ
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs4 4()7
+%21EmprendeUCR_WebApplication.Data.Entities.Category"__id*ó*îK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"E
+SelectedCategory1EmprendeUCR_WebApplication.Data.Entities.Category¶
+£
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs4 4(/
+%3string";EmprendeUCR_WebApplication.Data.Entities.Category.Title.get*9
+7
+%21EmprendeUCR_WebApplication.Data.Entities.Categoryñ
+ì
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs4 4(/^K
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"
+Titlestring"__id*
+
+%3string*
+1*’
+1ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs5	 5(	"≤
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs5 5(	
+implicit return:=
+category1EmprendeUCR_WebApplication.Data.Entities.CategoryBMK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService

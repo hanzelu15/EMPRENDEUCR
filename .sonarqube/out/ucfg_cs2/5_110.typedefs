@@ -1,0 +1,5 @@
+ð
+NEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrderMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>ë
+‹Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order>)ÚEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrderMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order>)g
+
+OrderMap()YEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.OrderMap.OrderMap()

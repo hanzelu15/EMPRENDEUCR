@@ -1,0 +1,6 @@
+‹
+<EmprendeUCR.Application.Chats.Implementations.MessageServiceobject-EmprendeUCR.Application.Chats.IMessageServiceÒ
+HMessageService(EmprendeUCR.Domain.Chats.Repositories.IMessageRepository)…EmprendeUCR.Application.Chats.Implementations.MessageService.MessageService(EmprendeUCR.Domain.Chats.Repositories.IMessageRepository)µ
+:AddMessageAsync(EmprendeUCR.Domain.Chats.Entities.Message)wEmprendeUCR.Application.Chats.Implementations.MessageService.AddMessageAsync(EmprendeUCR.Domain.Chats.Entities.Message)Ÿ
+/GetMessageByIdAsync(int, System.DateTimeOffset)lEmprendeUCR.Application.Chats.Implementations.MessageService.GetMessageByIdAsync(int, System.DateTimeOffset)e
+GetMessagesAsync()OEmprendeUCR.Application.Chats.Implementations.MessageService.GetMessagesAsync()

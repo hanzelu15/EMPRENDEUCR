@@ -1,0 +1,43 @@
+
+aEmprendeUCR_WebApplication.Data.Services.Alliance_Service.getAlliancesByEntrepreneurEmail(string)õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs3 3(="0*ﬁ
+0ú
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs5 5(≠ˆ
+Û
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs5 5(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*â*Ü;
+9EmprendeUCR_WebApplication.Data.Services.Alliance_Service"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext‰
+·
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs5 5($2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"HEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Alliance.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext§
+°
+ú
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs5 5(Æ
+%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""‰
+·
+ú
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs5 5(∑(
+%3"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%2System.Linq.IQueryable<T>"À
+ú
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs5 5(∏*
+(
+%3"System.Collections.Generic.List<T>*◊
+1õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs6	 6(	"≥
+õ
+êC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Alliance_Service\Alliance_Service.cs6 6(	
+implicit return:
+emailstringB=;
+9EmprendeUCR_WebApplication.Data.Services.Alliance_Service

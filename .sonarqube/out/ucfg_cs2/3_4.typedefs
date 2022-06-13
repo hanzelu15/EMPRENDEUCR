@@ -1,0 +1,9 @@
+©	
+EEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepositoryobjectFEmprendeUCR.Domain.EntrepreneurContext.Repositories.IProductRepositoryï
+RProductRepository(EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext)˜EmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository.ProductRepository(EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext)d
+GetAllAsync()SEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository.GetAllAsync()~
+GetAllByCategoryAsync(int)`EmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository.GetAllByCategoryAsync(int)n
+GetByIdAsync(long)XEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository.GetByIdAsync(long)÷
+VSaveAsync(EmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.Product)œEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository.SaveAsync(EmprendeUCR.Domain.Entrepreneurs.Entities.Product_Services.Products.Product)f
+UnitOfWork.getTEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository.UnitOfWork.getf
+UnitOfWork.setTEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository.UnitOfWork.set

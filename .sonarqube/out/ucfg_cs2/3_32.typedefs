@@ -1,0 +1,4 @@
+‹
+8EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>°
+yConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Client>)²EmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Client>)S
+ClientMap()DEmprendeUCR.Infrastructure.Core.EntityMappings.ClientMap.ClientMap()

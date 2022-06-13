@@ -1,0 +1,13 @@
+×
+3EmprendeUCR_WebApplication.Data.Entities.Has_StatusobjectP
+Has_Status()@EmprendeUCR_WebApplication.Data.Entities.Has_Status.Has_Status()H
+Name.get<EmprendeUCR_WebApplication.Data.Entities.Has_Status.Name.getH
+Name.set<EmprendeUCR_WebApplication.Data.Entities.Has_Status.Name.setN
+Code_ID.get?EmprendeUCR_WebApplication.Data.Entities.Has_Status.Code_ID.getN
+Code_ID.set?EmprendeUCR_WebApplication.Data.Entities.Has_Status.Code_ID.setd
+Entrepreneur_Email.getJEmprendeUCR_WebApplication.Data.Entities.Has_Status.Entrepreneur_Email.getd
+Entrepreneur_Email.setJEmprendeUCR_WebApplication.Data.Entities.Has_Status.Entrepreneur_Email.setV
+Category_ID.getCEmprendeUCR_WebApplication.Data.Entities.Has_Status.Category_ID.getV
+Category_ID.setCEmprendeUCR_WebApplication.Data.Entities.Has_Status.Category_ID.setJ
+	Order.get=EmprendeUCR_WebApplication.Data.Entities.Has_Status.Order.getJ
+	Order.set=EmprendeUCR_WebApplication.Data.Entities.Has_Status.Order.set

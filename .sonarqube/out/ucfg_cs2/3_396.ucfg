@@ -1,0 +1,51 @@
+
+`EmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository.GetChildCategories(int)‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csI I(1"0*ó
+0‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csK K(gû
+ø
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csK K(@
+%0:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext"__id*™*–J
+HEmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository"H
+
+_dbContext:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContextæã
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csK K(&2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext.Category.get*B
+@
+%0:EmprendeUCR.Infrastructure.ProfileContext.ProfileDbContext2Category.getÝ
+Ú
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csK2 K(g
+%2"__concat*,*
+(SELECT * FROM Category WHERE ParentId = *
+""Ø
+Õ
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csK K(h
+%3System.Linq.IQueryable<T>"–Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
+;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+%2*
+""ç
+ä
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csK K(r5
+%4/EmprendeUCR.Domain.Core.CoreEntities.Category[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%3System.Linq.IQueryable<T>"Í
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csK K(s7
+5
+%4/EmprendeUCR.Domain.Core.CoreEntities.Category[]*Ã
+1‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csL	 L(	"©
+‘
+†C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ProfileContext\Repositories\ProfileRepository.csL L(	
+implicit return:
+parentIdintBLJ
+HEmprendeUCR.Infrastructure.ProfileContext.Repositories.ProfileRepository

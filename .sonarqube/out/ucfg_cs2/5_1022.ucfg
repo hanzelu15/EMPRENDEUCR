@@ -1,0 +1,92 @@
+
+REmprendeUCR_WebApplication.Data.Services.PhonesService.UpdatePhone(string, string)†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs% %("0*”
+0†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs' (( Þ
+Û
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs' '('A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*†*ƒ8
+6EmprendeUCR_WebApplication.Data.Services.PhonesService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÍ
+Ê
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs' '(.2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Phones.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext­
+ª
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs' '(^5
+%2/EmprendeUCR_WebApplication.Data.Entities.Phones"ŽSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""‰
+†
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs' '(^<
+	UserPhone/EmprendeUCR_WebApplication.Data.Entities.Phones"__id*7
+5
+%2/EmprendeUCR_WebApplication.Data.Entities.Phones
+
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs( (( 
+
+%3bool""object.operator !=(object, object)*
+"
+object*>
+<
+	UserPhone/EmprendeUCR_WebApplication.Data.Entities.Phones*
+""*
+1
+2*—
+1†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs* ,(&¯
+¬
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs* *(.
+%4string"@EmprendeUCR_WebApplication.Data.Entities.Phones.Phone_Number.set*>
+<
+	UserPhone/EmprendeUCR_WebApplication.Data.Entities.Phones*
+
+phonestringÞ
+Û
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs+ +(A
+%5;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*†*ƒ8
+6EmprendeUCR_WebApplication.Data.Services.PhonesService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÍ
+Ê
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs+ +(2
+%6,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Phones.get*C
+A
+%5;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextš—
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs+ +(1G
+%7AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Update(TEntity)*4
+2
+%6,Microsoft.EntityFrameworkCore.DbSet<TEntity>*>
+<
+	UserPhone/EmprendeUCR_WebApplication.Data.Entities.Phones2Update(TEntity)Þ
+Û
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs, ,(A
+%8;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*†*ƒ8
+6EmprendeUCR_WebApplication.Data.Services.PhonesService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext¢Ÿ
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs, ,(&	
+%9int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
+A
+%8;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
+2*­
+2†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs.	 .(	"ž
+†
+|C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\PhonesService.cs. .(	
+implicit return:
+emailstring:
+phonestringB:8
+6EmprendeUCR_WebApplication.Data.Services.PhonesService

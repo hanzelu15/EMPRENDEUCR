@@ -1,0 +1,42 @@
+≈*
+@EmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer-Microsoft.AspNetCore.Components.ComponentBaseobjectﬁ
+LBuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)çEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder)â
+"displayAlliesProductsAndServices()cEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.displayAlliesProductsAndServices()m
+OnInitializedAsync()UEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.OnInitializedAsync()ê
+eHandleValidationRequested(object, Microsoft.AspNetCore.Components.Forms.ValidationRequestedEventArgs)¶EmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.HandleValidationRequested(object, Microsoft.AspNetCore.Components.Forms.ValidationRequestedEventArgs)}
+addProductToOffer(int, bool)]EmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.addProductToOffer(int, bool){
+removeProductFromOffer(int)\EmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.removeProductFromOffer(int)}
+addServiceToOffer(int, bool)]EmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.addServiceToOffer(int, bool){
+removeServiceFromOffer(int)\EmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.removeServiceFromOffer(int)ï
+(getTotalPriceFromListedProductsInOffer()iEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.getTotalPriceFromListedProductsInOffer()c
+onCreateOffer()PEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.onCreateOffer()ò
+icheckDuplicatedItems(System.Collections.Generic.IList<EmprendeUCR_WebApplication.Data.Entities.Is_Offer>)™EmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.checkDuplicatedItems(System.Collections.Generic.IList<EmprendeUCR_WebApplication.Data.Entities.Is_Offer>)a
+confirmOffer()OEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.confirmOffer()U
+Cancel()IEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.Cancel()û
+lloadAllProducts(string, System.Collections.Generic.IList<EmprendeUCR_WebApplication.Data.Entities.Alliance>)≠EmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.loadAllProducts(string, System.Collections.Generic.IList<EmprendeUCR_WebApplication.Data.Entities.Alliance>)“
+FloadAlliedProductsAndServices(System.Collections.Generic.List<string>)áEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.loadAlliedProductsAndServices(System.Collections.Generic.List<string>)m
+loadProducts(string)UEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.loadProducts(string)k
+loadService(string)TEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.loadService(string)}
+loadProductsServices(string)]EmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.loadProductsServices(string)ﬁ
+LloadAddedProductsAndServices(EmprendeUCR_WebApplication.Data.Entities.Offer)çEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.loadAddedProductsAndServices(EmprendeUCR_WebApplication.Data.Entities.Offer)[
+EditOffer()LEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.EditOffer()]
+Offer_ID.getMEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.Offer_ID.get]
+Offer_ID.setMEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.Offer_ID.seti
+sessionStorage.getSEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.sessionStorage.geti
+sessionStorage.setSEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.sessionStorage.setk
+allianceService.getTEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.allianceService.getk
+allianceService.setTEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.allianceService.setk
+Is_OfferService.getTEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.Is_OfferService.getk
+Is_OfferService.setTEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.Is_OfferService.sete
+OfferService.getQEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.OfferService.gete
+OfferService.setQEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.OfferService.sety
+Product_ServiceService.get[EmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.Product_ServiceService.gety
+Product_ServiceService.set[EmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.Product_ServiceService.sets
+EntrepreneurService.getXEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.EntrepreneurService.gets
+EntrepreneurService.setXEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.EntrepreneurService.seto
+NavigationManager.getVEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.NavigationManager.geto
+NavigationManager.setVEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.NavigationManager.seti
+ServiceService.getSEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.ServiceService.geti
+ServiceService.setSEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.ServiceService.seti
+ProductService.getSEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.ProductService.geti
+ProductService.setSEmprendeUCR_WebApplication.Pages.Product_Service.Offer.EditOffer.ProductService.set

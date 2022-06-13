@@ -1,0 +1,61 @@
+
+qEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository.searchProduct(string, int)Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs>  >(-"0*ó
+0Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs@ A( ³
+°
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs@- @(7N
+%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext"__id*µ*²X
+VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository"V
+
+_dbContextHEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContextž›
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs@- @(G2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"\EmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext.ShoppingCartHas.get*P
+N
+%0HEmprendeUCR.Infrastructure.HomePageClientContext.HomePageClientDbContext2ShoppingCartHas.getÃ
+À
+ 
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs@- @(‘*
+%2$System.Threading.Tasks.Task<TResult>"âMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*
+""ö
+ó
+ 
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.cs@ @(‘@
+existing4EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas"__id*
+""­
+ª
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csA A( 
+
+%3bool""object.operator !=(object, object)*
+"
+object*B
+@
+existing4EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas*
+""*
+1
+2*Ò
+1Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csC C("ª
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csC C(
+""*Ò
+2Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csE E("ª
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csE E(
+""*ß
+3Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csF	 F(	"·
+Ÿ
+”C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\HomePageClientContext\Repositories\HomePageClientRepository.csF F(	
+implicit return:
+emailstring:
+	idProductintBZX
+VEmprendeUCR.Infrastructure.HomePageClientContext.Repositories.HomePageClientRepository

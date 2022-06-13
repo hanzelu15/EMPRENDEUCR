@@ -1,0 +1,4 @@
+‹
+8EmprendeUCR.Infrastructure.Core.EntityMappings.PhonesMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>°
+yConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Phones>)²EmprendeUCR.Infrastructure.Core.EntityMappings.PhonesMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Core.CoreEntities.Phones>)S
+PhonesMap()DEmprendeUCR.Infrastructure.Core.EntityMappings.PhonesMap.PhonesMap()

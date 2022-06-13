@@ -1,0 +1,10 @@
+÷
+1EmprendeUCR_WebApplication.Data.Entities.DistrictobjectJ
+
+District()<EmprendeUCR_WebApplication.Data.Entities.District.District()F
+Name.get:EmprendeUCR_WebApplication.Data.Entities.District.Name.getF
+Name.set:EmprendeUCR_WebApplication.Data.Entities.District.Name.setX
+Province_Name.getCEmprendeUCR_WebApplication.Data.Entities.District.Province_Name.getX
+Province_Name.setCEmprendeUCR_WebApplication.Data.Entities.District.Province_Name.setT
+Canton_Name.getAEmprendeUCR_WebApplication.Data.Entities.District.Canton_Name.getT
+Canton_Name.setAEmprendeUCR_WebApplication.Data.Entities.District.Canton_Name.set

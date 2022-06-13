@@ -1,0 +1,29 @@
+
+†EmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService.addProductShoppingCart(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs[  [(6"0*‡
+
+0ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs] ](J 
+«
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs] ](2U
+%0OEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository"__id*»*≈U
+SEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService"l
+_homePageClientRepositoryOEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepositoryƒ¡
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs] ](K*
+%1$System.Threading.Tasks.Task<TResult>"êEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository.addProduct(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)*W
+U
+%0OEmprendeUCR.Domain.HomePageClientContext.Repositories.IHomePageClientRepository*F
+D
+shoppingCart4EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas2@addProduct(EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHas)"ß
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs] ](L
+""*Ÿ
+1ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs^	 ^(	"¥
+ú
+ëC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Application\HomePageClientContext\Implementations\HomePageClientService.cs^ ^(	
+implicit return:D
+shoppingCart4EmprendeUCR.Domain.Core.CoreEntities.ShoppingCartHasBWU
+SEmprendeUCR.Application.HomePageClientContext.Implementations.HomePageClientService

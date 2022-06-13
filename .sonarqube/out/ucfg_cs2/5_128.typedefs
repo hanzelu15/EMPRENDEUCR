@@ -1,0 +1,4 @@
+ö
+PEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ServiceMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>é
+‰Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Service>)ÚEmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ServiceMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR_WebApplication.Domain.Core.CoreEntities.Service>)m
+ServiceMap()]EmprendeUCR_WebApplication.Infrastructure.OrderContext.EntityMappings.ServiceMap.ServiceMap()

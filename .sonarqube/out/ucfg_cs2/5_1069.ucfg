@@ -1,0 +1,43 @@
+
+îEmprendeUCR_WebApplication.Data.Services.Email_ConfirmationService.addEmailConfirmation(EmprendeUCR_WebApplication.Data.Entities.Email_Confirmation)ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Email_ConfirmationService.cs (("0*‡
+0ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Email_ConfirmationService.cs! "("˜
+Ù
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Email_ConfirmationService.cs! !(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*í*èD
+BEmprendeUCR_WebApplication.Data.Services.Email_ConfirmationService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÊ
+„
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Email_ConfirmationService.cs! !('2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"REmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Email_Confirmation.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext∞≠
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Email_ConfirmationService.cs! !(9G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*M
+K
+confirmation;EmprendeUCR_WebApplication.Data.Entities.Email_Confirmation2Add(TEntity)˜
+Ù
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Email_ConfirmationService.cs" "(A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*í*èD
+BEmprendeUCR_WebApplication.Data.Services.Email_ConfirmationService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextØ¨
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Email_ConfirmationService.cs" "("	
+%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*C
+A
+%3;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext2SaveChanges()*
+1*«
+1ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Email_ConfirmationService.cs#	 #(	"´
+ì
+àC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Email_ConfirmationService.cs# #(	
+implicit return:K
+confirmation;EmprendeUCR_WebApplication.Data.Entities.Email_ConfirmationBFD
+BEmprendeUCR_WebApplication.Data.Services.Email_ConfirmationService

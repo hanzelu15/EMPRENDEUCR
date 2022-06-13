@@ -1,0 +1,27 @@
+
+éEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext.NotificationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext>)¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs ($"1*¯
+1¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs	 (	*
+0*í
+0¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs (!»
+¸
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs ("
+
+%0void"ÇLab2.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<Lab2.Infrastructure.Core.ApplicationDbContext>)*1/
+-Lab2.Infrastructure.Core.ApplicationDbContext*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*é
+2¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs	 (	"¼
+¤
+™C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\NotificationContext\NotificationDbContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>BWU
+SEmprendeUCR_WebApplication.Infrastructure.NotificationContext.NotificationDbContext

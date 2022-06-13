@@ -1,0 +1,51 @@
+
+ÇEmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository.SendRequest(EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart, string, string, System.DateTime, string)²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs\ \(%"0*’
+0²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs_ `(0È
+Å
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs_! _(q*
+%0$System.Threading.Tasks.Task<TResult>"ÇEmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository.CreateOrder(EmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart, string, string, System.DateTime, string)*IG
+EEmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository*U
+S
+shopKEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart*
+
+Detailsstring*
+
+DeliveryAddressstring*!
+
+DeliveryDateSystem.DateTime*!
+
+selectedPaymentMethodstringŽ
+‹
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs_ _(qF
+order=EmprendeUCR_WebApplication.Domain.OrderContext.Entities.Order"__id*
+""Í
+Ê
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs` `(Z
+%1TEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2"__id*°*­G
+EEmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository"b
+
+_dbContextTEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2¦
+£
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.cs` `(0!
+%2System.Threading.Tasks.Task"cLab2.Infrastructure.Core.ApplicationDbContext.SaveEntitiesAsync(System.Threading.CancellationToken)*\
+Z
+%1TEmprendeUCR_WebApplication.Infrastructure.ShoppingCartContext.ShoppingCartDbContext2*
+""*
+1*…
+1²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csa	 a(	"Ê
+²
+§C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Infrastructure\ShoppingCartContext\Repositories\ShoppingCartRepository.csa a(	
+implicit return:S
+shopKEmprendeUCR_WebApplication.Domain.ShoppingCartContext.Entities.ShoppingCart:
+Detailsstring:
+DeliveryAddressstring:
+DeliveryDateSystem.DateTime:
+selectedPaymentMethodstringBIG
+EEmprendeUCR_WebApplication.Infrastructure.Core.ShoppingCartRepository

@@ -1,0 +1,89 @@
+
+kEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService.AnyProductsServicesAssociate(int)ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cst t(0"0*‘
+0ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csv z(ª
+∏
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csv v(
+anybool"__id*
+""Ö
+Ç
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csw w(#A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ô*ñK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÍ
+Á
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csw w(32
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"OEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Product_Service.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext¢
+ü
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csw w(`
+%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""‚
+ﬂ
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csw w(i(
+%3"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%2System.Linq.IQueryable<T>∞
+≠
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csw w(r	
+%4int"CListExtensions.Length<T>(System.Collections.Generic.IEnumerable<T>)*"
+ListExtensions**
+(
+%3"System.Collections.Generic.List<T>ƒ
+¡
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csw w(r
+productsint"__id*
+	
+%4int˝
+˙
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csx x(5
+
+%5void"!System.Console.WriteLine(string?)*"
+System.Console*
+Productos asociados Ú
+Ô
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.csy y('
+
+%6void"System.Console.WriteLine(int)*"
+System.Console*
+
+productsint*
+1
+2*„
+1ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs| |(ª
+∏
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs| |(
+anybool"__id*
+""*
+2*œ
+2ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs~ ~("¨
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs~ ~(
+
+anybool*’
+3ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs	 (	"≤
+ö
+èC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Categories\DeleteCategoryService.cs (	
+implicit return:
+
+categoryIdintBMK
+IEmprendeUCR_WebApplication.Data.Services.Categories.DeleteCategoryService

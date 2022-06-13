@@ -1,0 +1,15 @@
+—
+3EmprendeUCR.Domain.Core.CoreEntities.Service_PhotosobjectX
+Service_Photos()DEmprendeUCR.Domain.Core.CoreEntities.Service_Photos.Service_Photos()b
+Service_Photos_ID.getIEmprendeUCR.Domain.Core.CoreEntities.Service_Photos.Service_Photos_ID.getb
+Service_Photos_ID.setIEmprendeUCR.Domain.Core.CoreEntities.Service_Photos.Service_Photos_ID.setN
+Code_ID.get?EmprendeUCR.Domain.Core.CoreEntities.Service_Photos.Code_ID.getN
+Code_ID.set?EmprendeUCR.Domain.Core.CoreEntities.Service_Photos.Code_ID.setL
+
+Photos.get>EmprendeUCR.Domain.Core.CoreEntities.Service_Photos.Photos.getL
+
+Photos.set>EmprendeUCR.Domain.Core.CoreEntities.Service_Photos.Photos.setd
+Entrepreneur_Email.getJEmprendeUCR.Domain.Core.CoreEntities.Service_Photos.Entrepreneur_Email.getd
+Entrepreneur_Email.setJEmprendeUCR.Domain.Core.CoreEntities.Service_Photos.Entrepreneur_Email.setV
+Category_ID.getCEmprendeUCR.Domain.Core.CoreEntities.Service_Photos.Category_ID.getV
+Category_ID.setCEmprendeUCR.Domain.Core.CoreEntities.Service_Photos.Category_ID.set

@@ -1,0 +1,29 @@
+
+gEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService.getStatusColor(string)¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csi i($"0*ƒ	
+0¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csk k(6£
+ 
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csk k(#E
+%0?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository"__id*¬*©R
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService"S
+_orderRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepositoryüù
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csk k(7
+%1string"SEmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository.defineColor(string)*G
+E
+%0?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository*
+
+statusstring2defineColor(string)"´
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csk k(8
+
+%1string*ã
+1¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csl	 l(	"¹
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csl l(	
+implicit return:
+statusstringBTR
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService

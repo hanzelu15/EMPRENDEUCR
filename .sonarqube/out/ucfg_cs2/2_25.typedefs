@@ -1,0 +1,6 @@
+»
+AEmprendeUCR.Application.Chats.Implementations.UtilizesChatServiceobject2EmprendeUCR.Application.Chats.IUtilizesChatServiceÎ
+RUtilizesChatService(EmprendeUCR.Domain.Chats.Repositories.IUtilizesChatRepository)îEmprendeUCR.Application.Chats.Implementations.UtilizesChatService.UtilizesChatService(EmprendeUCR.Domain.Chats.Repositories.IUtilizesChatRepository)œ
+DAddUtilizesChatAsync(EmprendeUCR.Domain.Chats.Entities.UtilizesChat)ÜEmprendeUCR.Application.Chats.Implementations.UtilizesChatService.AddUtilizesChatAsync(EmprendeUCR.Domain.Chats.Entities.UtilizesChat)ê
+%GetUtilizesChatByIdAsync(int, string)gEmprendeUCR.Application.Chats.Implementations.UtilizesChatService.GetUtilizesChatByIdAsync(int, string)t
+GetUtilizesChatsAsync()YEmprendeUCR.Application.Chats.Implementations.UtilizesChatService.GetUtilizesChatsAsync()

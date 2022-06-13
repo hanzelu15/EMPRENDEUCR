@@ -1,0 +1,27 @@
+
+ºEmprendeUCR.Infrastructure.ConfirmAdminContext.ConfirmAdminDbContext.ConfirmAdminDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.ConfirmAdminContext.ConfirmAdminDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.ConfirmAdminContext.ConfirmAdminDbContext>)ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs ($"1*ò
+1ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs	 (	*
+0*‘
+0ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs (π
+∂
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs (
+
+%0void"’EmprendeUCR.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Core.ApplicationDbContext>)*86
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*ª
+2ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs	 (	"•
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\ConfirmAdminContext\ConfirmAdminDbContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>BHF
+DEmprendeUCR.Infrastructure.ConfirmAdminContext.ConfirmAdminDbContext

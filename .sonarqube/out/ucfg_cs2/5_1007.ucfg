@@ -1,0 +1,42 @@
+
+TEmprendeUCR_WebApplication.Data.Services.ProductServicePandemic.GetProductAsync(int)ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs5# 5(2"0*‹
+0ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs7 8(ı
+Ú
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs7$ 7(,C
+%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic"__id*ë*éA
+?EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic"I
+_context=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic‹
+Ÿ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs7$ 7(42
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"IEmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic.Product.get*E
+C
+%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic≥
+∞
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs7$ 7(c*
+%2$System.Threading.Tasks.Task<TResult>"‚Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*
+""·
+ﬁ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs7 7(c;
+product0EmprendeUCR_WebApplication.Data.Entities.Product"__id*
+"""“
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs8 8(=
+;
+product0EmprendeUCR_WebApplication.Data.Entities.Product*¡
+1ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs9	 9(	"®
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\ProductServicePandemic.cs9 9(	
+implicit return:	
+IdintBCA
+?EmprendeUCR_WebApplication.Data.Services.ProductServicePandemic

@@ -1,0 +1,34 @@
+
+HEmprendeUCR_WebApplication.Data.Services.BannedAccountService.GetAsync()è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Banned_AccountService.cs0 (8"0*È
+0è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Banned_AccountService.cs (>Ó
+Î
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Banned_AccountService.cs (!A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*ç*ä?
+=EmprendeUCR_WebApplication.Data.Services.BannedAccountService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextﬁ
+€
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Banned_AccountService.cs (02
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"NEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Banned_Account.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext‚
+ﬂ
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Banned_AccountService.cs (>*
+%2$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""ö
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Banned_AccountService.cs (?
+""*ø
+1è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Banned_AccountService.cs	 (	"ß
+è
+ÑC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Banned_AccountService.cs (	
+implicit returnBA?
+=EmprendeUCR_WebApplication.Data.Services.BannedAccountService

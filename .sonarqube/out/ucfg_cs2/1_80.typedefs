@@ -1,0 +1,10 @@
+ê
+4EmprendeUCR.Domain.RegisterContext.Entities.Register.EmprendeUCR.Domain.Core.Entities.AggregateRoot'EmprendeUCR.Domain.Core.Entities.Entity&CSharpFunctionalExtensions.Entity<TId>objectM
+
+Register()?EmprendeUCR.Domain.RegisterContext.Entities.Register.Register()K
+	Email.get>EmprendeUCR.Domain.RegisterContext.Entities.Register.Email.getK
+	Email.set>EmprendeUCR.Domain.RegisterContext.Entities.Register.Email.setQ
+Password.getAEmprendeUCR.Domain.RegisterContext.Entities.Register.Password.getQ
+Password.setAEmprendeUCR.Domain.RegisterContext.Entities.Register.Password.set_
+ConfirmPassword.getHEmprendeUCR.Domain.RegisterContext.Entities.Register.ConfirmPassword.get_
+ConfirmPassword.setHEmprendeUCR.Domain.RegisterContext.Entities.Register.ConfirmPassword.set

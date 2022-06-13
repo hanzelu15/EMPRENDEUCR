@@ -1,0 +1,168 @@
+
+MEmprendeUCR_WebApplication.Data.Services.LoginService.VerifyUser(string, int)Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs ("0*π
+0Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs (¶
+£
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs (
+resbool"__id*
+""*
+1*ì
+1Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs (*
+2
+3*µ
+2Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs (;‹
+Ÿ
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs ( A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ö*Ç7
+5EmprendeUCR_WebApplication.Data.Services.LoginService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÃ
+…
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs ('2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Client.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÊ„
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs (35
+%2/EmprendeUCR_WebApplication.Data.Entities.Client"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+emailstring2Find(params object[])à
+Ö
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs (;
+
+%3bool""object.operator !=(object, object)*
+"
+object*7
+5
+%2/EmprendeUCR_WebApplication.Data.Entities.Client*
+""*
+4
+5*π
+4Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs ("¶
+£
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs ("
+resbool"__id*
+""*
+5*ê
+5Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs0	 0(	*
+6*ì
+3Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs (*
+7
+8*»
+7Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs! !(A‹
+Ÿ
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs! !( A
+%4;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ö*Ç7
+5EmprendeUCR_WebApplication.Data.Services.LoginService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext“
+œ
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs! !(-2
+%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>"LEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Entrepreneur.get*C
+A
+%4;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÏÈ
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs! !(9;
+%65EmprendeUCR_WebApplication.Data.Entities.Entrepreneur"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
+2
+%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+emailstring2Find(params object[])é
+ã
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs! !(A
+
+%7bool""object.operator !=(object, object)*
+"
+object*=
+;
+%65EmprendeUCR_WebApplication.Data.Entities.Entrepreneur*
+""*
+9
+10*∫
+9Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs# #("¶
+£
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs# #("
+resbool"__id*
+""*
+10*ë
+10Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs0	 0(	*
+6*î
+8Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs (*
+11
+6*–
+11Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs( ((B‹
+Ÿ
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs( (( A
+%8;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*Ö*Ç7
+5EmprendeUCR_WebApplication.Data.Services.LoginService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext”
+–
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs( ((.2
+%9,Microsoft.EntityFrameworkCore.DbSet<TEntity>"MEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Administrator.get*C
+A
+%8;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÓÎ
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs( ((:=
+%106EmprendeUCR_WebApplication.Data.Entities.Administrator"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
+2
+%9,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+emailstring2Find(params object[])ë
+é
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs( ((B
+%11bool""object.operator !=(object, object)*
+"
+object*?
+=
+%106EmprendeUCR_WebApplication.Data.Entities.Administrator*
+""*
+12
+13*ª
+12Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs* *("¶
+£
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs* *("
+resbool"__id*
+""*
+13*ë
+13Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs0	 0(	*
+6*•
+6Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs/ /("ó
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs/ /(
+
+resbool*¨
+14Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs0	 0(	"ù
+Ö
+{C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\LoginService.cs0 0(	
+implicit return:
+emailstring:
+tipointB97
+5EmprendeUCR_WebApplication.Data.Services.LoginService

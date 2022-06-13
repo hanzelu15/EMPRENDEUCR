@@ -1,0 +1,9 @@
+Ã
+BEmprendeUCR_WebApplication.Data.Services.Email_ConfirmationService-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectô
+VEmail_ConfirmationService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)™EmprendeUCR_WebApplication.Data.Services.Email_ConfirmationService.Email_ConfirmationService(EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext)u
+getEmailConfirmations()ZEmprendeUCR_WebApplication.Data.Services.Email_ConfirmationService.getEmailConfirmations()ê
+QaddEmailConfirmation(EmprendeUCR_WebApplication.Data.Entities.Email_Confirmation)”EmprendeUCR_WebApplication.Data.Services.Email_ConfirmationService.addEmailConfirmation(EmprendeUCR_WebApplication.Data.Entities.Email_Confirmation)ð
+TupdateEmailConfirmation(EmprendeUCR_WebApplication.Data.Entities.Email_Confirmation)—EmprendeUCR_WebApplication.Data.Services.Email_ConfirmationService.updateEmailConfirmation(EmprendeUCR_WebApplication.Data.Entities.Email_Confirmation)
+getEmailConfirmation(string)_EmprendeUCR_WebApplication.Data.Services.Email_ConfirmationService.getEmailConfirmation(string)‰
+!getEmailConfirmationEmail(string)dEmprendeUCR_WebApplication.Data.Services.Email_ConfirmationService.getEmailConfirmationEmail(string)ê
+QverifyExpirationDate(EmprendeUCR_WebApplication.Data.Entities.Email_Confirmation)”EmprendeUCR_WebApplication.Data.Services.Email_ConfirmationService.verifyExpirationDate(EmprendeUCR_WebApplication.Data.Entities.Email_Confirmation)

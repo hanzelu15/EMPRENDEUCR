@@ -1,0 +1,10 @@
+¸
+REmprendeUCR.Infrastructure.ConfirmAdminContext.Repositories.ConfirmAdminRepositoryobjectKEmprendeUCR.Domain.ConfirmAdminContext.Repositories.IConfirmAdminRepositoryê
+\ConfirmAdminRepository(EmprendeUCR.Infrastructure.ConfirmAdminContext.ConfirmAdminDbContext)ØEmprendeUCR.Infrastructure.ConfirmAdminContext.Repositories.ConfirmAdminRepository.ConfirmAdminRepository(EmprendeUCR.Infrastructure.ConfirmAdminContext.ConfirmAdminDbContext)Ö
+getAdministratorsVoid()jEmprendeUCR.Infrastructure.ConfirmAdminContext.Repositories.ConfirmAdminRepository.getAdministratorsVoid()
+getAdminUser(string)gEmprendeUCR.Infrastructure.ConfirmAdminContext.Repositories.ConfirmAdminRepository.getAdminUser(string)‰
+FacceptAdmin(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)ôEmprendeUCR.Infrastructure.ConfirmAdminContext.Repositories.ConfirmAdminRepository.acceptAdmin(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)Ê
+GdeclineAdmin(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators)öEmprendeUCR.Infrastructure.ConfirmAdminContext.Repositories.ConfirmAdminRepository.declineAdmin(EmprendeUCR.Domain.Core.CoreEntities.ActiveAdministrators){
+deteleUser(string)eEmprendeUCR.Infrastructure.ConfirmAdminContext.Repositories.ConfirmAdminRepository.deteleUser(string)s
+UnitOfWork.getaEmprendeUCR.Infrastructure.ConfirmAdminContext.Repositories.ConfirmAdminRepository.UnitOfWork.gets
+UnitOfWork.setaEmprendeUCR.Infrastructure.ConfirmAdminContext.Repositories.ConfirmAdminRepository.UnitOfWork.set

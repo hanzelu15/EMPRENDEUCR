@@ -1,0 +1,45 @@
+
+íEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.EntrepreneursDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext>)‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs (%"1*»	
+1‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs	 (	Ü
+Ù
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs (=2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"LEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.Products.set*CA
+?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext*
+""ã
+à
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs (L2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"SEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.ProductServices.set*CA
+?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext*
+""á
+Þ
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs (H2
+%2,Microsoft.EntityFrameworkCore.DbSet<TEntity>"QEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.ProductPhotos.set*CA
+?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext*
+""*
+0*¾
+0‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.csh (~©
+¦
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.csh (
+
+%3void"ÕEmprendeUCR.Infrastructure.Core.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.Core.ApplicationDbContext>)*86
+4EmprendeUCR.Infrastructure.Core.ApplicationDbContext*;
+9
+options.Microsoft.EntityFrameworkCore.DbContextOptions*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*¯
+2‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs	 (	"Ÿ
+‡
+}C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\EntrepreneursDbContext.cs (	
+implicit return:9
+options.Microsoft.EntityFrameworkCore.DbContextOptions:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>BCA
+?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext

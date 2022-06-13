@@ -1,0 +1,25 @@
+
+cEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService.GetOrderStatuses()¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs_( _(8"0*ƒ	
+0¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csa a(<£
+ 
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csa a()E
+%0?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository"__id*¬*©R
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService"S
+_orderRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository„
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csa a(<*
+%1$System.Threading.Tasks.Task<TResult>"REmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository.GetOrderStatuses()*G
+E
+%0?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository2GetOrderStatuses()"¬
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csa a(=
+""*ã
+1¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csb	 b(	"¹
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.csb b(	
+implicit returnBTR
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService

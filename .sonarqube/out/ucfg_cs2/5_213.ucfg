@@ -1,0 +1,203 @@
+
+LEmprendeUCR_WebApplication.Data.Services.UserServicePandemic.getUser(string)ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csE  E('"0*∂
+0ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csG I(P˜Ù
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csG G(#3
+%0-EmprendeUCR_WebApplication.Data.Entities.User"-EmprendeUCR_WebApplication.Data.Entities.Userå
+â
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csG G(!
+
+%1void"4EmprendeUCR_WebApplication.Data.Entities.User.User()*5
+3
+%0-EmprendeUCR_WebApplication.Data.Entities.Userà
+Ö
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csG G(#6
+_user-EmprendeUCR_WebApplication.Data.Entities.User"__id*5
+3
+%0-EmprendeUCR_WebApplication.Data.Entities.Userú
+ô
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csI9 I(P
+%2string"DEmprendeUCR_WebApplication.Data.Entities.Global.ConnectionString.get*3"1
+/EmprendeUCR_WebApplication.Data.Entities.Global„‡
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csI' I(Q)
+%3#System.Data.SqlClient.SqlConnection"#System.Data.SqlClient.SqlConnectionó
+î
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csI+ I(8
+
+%4void"9System.Data.SqlClient.SqlConnection.SqlConnection(string)*+
+)
+%3#System.Data.SqlClient.SqlConnection*
+
+%2stringË
+Â
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csI! I(Q 
+conSystem.Data.IDbConnection"__id*+
+)
+%3#System.Data.SqlClient.SqlConnection*
+1*“
+1ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csK K(7äá
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csK K(!
+%5System.Data.ConnectionState"#System.Data.IDbConnection.State.get*"
+ 
+conSystem.Data.IDbConnection2	State.getß
+§
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csK! K(7
+%6"__id*
+""*
+2
+3*à
+2ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csK9 K(CÌÍ
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csK9 K(C
+
+%7void" System.Data.IDbConnection.Open()*"
+ 
+conSystem.Data.IDbConnection2Open()*
+3*Ã
+3ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csM O(/Œ
+À
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csM M(?
+sSQLstring"__id*#!
+SELECT * FROM [User] WHERE 1=1 ›
+⁄
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csO O(0
+
+%8bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+emailstring*
+4
+5*¿
+4ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csO2 O(V–
+Õ
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csO: O(P
+%9string"__concat*
+ AND Email='*
+
+emailstring√
+¿
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csO: O(V
+%10string"__concat*
+
+%9string*
+'œ
+Ã
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csO2 O(V
+%11string"__concat*
+
+sSQLstring*
+
+%10string∫
+∑
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csO2 O(V
+sSQLstring"__id*
+
+%11string*
+5*ê
+5ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csQ S(!¥
+±
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csQ# Q(=+
+%12$System.Threading.Tasks.Task<TResult>"ÖDapper.SqlMapper.QueryAsync<T>(System.Data.IDbConnection, string, object, System.Data.IDbTransaction, int?, System.Data.CommandType?)*"
+Dapper.SqlMapper*"
+ 
+conSystem.Data.IDbConnection*
+
+sSQLstring*
+""*
+""*
+""*
+""ª
+∏
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csQ Q(G)
+%13"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*
+""Û
+
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csQ Q(G+
+oUser"System.Collections.Generic.List<T>"__id*+
+)
+%13"System.Collections.Generic.List<T>á
+Ñ
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csS S(!
+%14bool""object.operator !=(object, object)*
+"
+object*-
++
+oUser"System.Collections.Generic.List<T>*
+""*
+6
+7*ö
+6ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csS% S(4¸
+˘
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csS% S(0
+
+%15int",System.Collections.Generic.List<T>.Count.get*-
++
+oUser"System.Collections.Generic.List<T>*
+8
+7*ù
+8ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csV V(3ˆ
+Û
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csV V(34
+%16-EmprendeUCR_WebApplication.Data.Entities.User"`System.Linq.Enumerable.SingleOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*-
++
+oUser"System.Collections.Generic.List<T>â
+Ü
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csV V(36
+_user-EmprendeUCR_WebApplication.Data.Entities.User"__id*6
+4
+%16-EmprendeUCR_WebApplication.Data.Entities.User*
+9*Æ
+7ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csZ Z("ò
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csZ Z( 
+""*‡
+9ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.cs] ](" 
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.cs] ](8
+6
+_user-EmprendeUCR_WebApplication.Data.Entities.User*ö
+10ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.cs_	 _(	*
+11*º
+11ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.cs_	 _(	"•
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.cs_ _(	
+implicit return:
+emailstringB@>
+<EmprendeUCR_WebApplication.Data.Services.UserServicePandemic

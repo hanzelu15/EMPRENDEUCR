@@ -1,0 +1,28 @@
+
+wEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService.GetEntrepreneurFinalizedOrders(string)¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs7' 7(E"0*¼	
+0¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs9 9(M£
+ 
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs9 9()E
+%0?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository"__id*¬*©R
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService"S
+_orderRepository?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository½º
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs9 9(N*
+%1$System.Threading.Tasks.Task<TResult>"eEmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository.GetEntreprenurFinalizedOrders(string)*G
+E
+%0?EmprendeUCR_WebApplication.Domain.Repositories.IOrderRepository*
+
+emailstring2%GetEntreprenurFinalizedOrders(string)"¬
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs9 9(O
+""*ã
+1¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs:	 :(	"¹
+¡
+–C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Application\OrderContext\Implementations\OrderService.cs: :(	
+implicit return:
+emailstringBTR
+PEmprendeUCR_WebApplication.Application.OrderContext.Implementations.OrderService

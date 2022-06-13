@@ -1,0 +1,43 @@
+
+NEmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository.GetAllAsync()à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs/ (:"0*¨
+0à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs (E⁄
+◊
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs (#8
+%02EmprendeUCR.Infrastructure.Reports.ReportDbContext"__id*â*ÜB
+@EmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository"@
+
+_dbContext2EmprendeUCR.Infrastructure.Reports.ReportDbContextΩ
+∫
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs (*2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"=EmprendeUCR.Infrastructure.Reports.ReportDbContext.Report.get*:
+8
+%02EmprendeUCR.Infrastructure.Reports.ReportDbContextù
+ö
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs (F
+%2System.Linq.IQueryable<T>"íSystem.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""»
+≈
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs (*
+%3$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%2System.Linq.IQueryable<T>*
+"""ì
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs (
+""*±
+1à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs	 (	"†
+à
+~C:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Reports\Repositories\ReportRepository.cs (	
+implicit returnBDB
+@EmprendeUCR.Infrastructure.Reports.Repositories.ReportRepository

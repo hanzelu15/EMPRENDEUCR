@@ -1,0 +1,37 @@
+
+`EmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository.GetAllByCategoryAsync(int)ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs) (>"0*Ç
+0ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs  (Å
+˛
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs (#E
+%0?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext"__id*õ*òG
+EEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository"M
+
+_dbContext?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext·
+ﬁ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs (,2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"LEmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext.Products.get*G
+E
+%0?EmprendeUCR.Infrastructure.Entrepreneurs.EntrepreneursDbContext„
+‡
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs  (*
+%2$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""õ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs  (
+""*¡
+1ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs!	 !(	"®
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\Entrepreneurs\Repositories\ProductRepository.cs! !(	
+implicit return:
+
+categoryIdintBIG
+EEmprendeUCR.Domain.EntrepreneurContext.Repositories.ProductRepository

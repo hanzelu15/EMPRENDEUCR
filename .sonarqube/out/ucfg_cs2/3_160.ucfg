@@ -1,0 +1,34 @@
+
+]EmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository.getAllCategories()“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csh+ h(;"0*˜
+0“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csj j(:ƒ
+€
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csj j(#B
+%0<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext"__id**šL
+JEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository"J
+
+_dbContext<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContextìé
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csj j(,2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"IEmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext.Category.get*D
+B
+%0<EmprendeUCR.Infrastructure.RegisterContext.RegisterDbContext2Category.getæ
+ã
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csj j(:*
+%2$System.Threading.Tasks.Task<TResult>"šMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""ž
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csj j(;
+""*Ç
+1“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csk	 k(	"«
+“
+ˆC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Infrastructure\RegisterContext\Repositories\RegisterRepository.csk k(	
+implicit returnBNL
+JEmprendeUCR.Infrastructure.RegisterContext.Repositories.RegisterRepository

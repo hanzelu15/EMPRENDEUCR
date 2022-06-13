@@ -1,0 +1,35 @@
+
+REmprendeUCR_WebApplication.Data.Services.Keyword.KeywordService.getKeyword(string)ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Keyword\KeywordService.cs" "(""0*º
+0ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Keyword\KeywordService.cs$ $(.Ò
+Ó
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Keyword\KeywordService.cs$ $(A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext"__id*è*åA
+?EmprendeUCR_WebApplication.Data.Services.Keyword.KeywordService"G
+_context;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContextÿ
+’
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Keyword\KeywordService.cs$ $(#2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GEmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext.Keyword.get*C
+A
+%0;EmprendeUCR_WebApplication.Data.Contexts.SqlServerDbContext˚¯
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Keyword\KeywordService.cs$ $(/?
+%29EmprendeUCR_WebApplication.Data.Entities.Keyword.Keywords"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+titlestring2Find(params object[])"÷
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Keyword\KeywordService.cs$ $(0A
+?
+%29EmprendeUCR_WebApplication.Data.Entities.Keyword.Keywords*¡
+1ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Keyword\KeywordService.cs%	 %(	"®
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\Keyword\KeywordService.cs% %(	
+implicit return:
+titlestringBCA
+?EmprendeUCR_WebApplication.Data.Services.Keyword.KeywordService

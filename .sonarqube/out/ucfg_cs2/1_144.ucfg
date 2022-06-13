@@ -1,0 +1,95 @@
+
+TEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.TryCreate(string?)ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.csG (P"0*Ü
+0ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs (/Â
+‚
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs (0
+
+%0bool""string.IsNullOrWhiteSpace(string?)*
+"
+string*
+
+valuestring*
+1
+2*√
+1ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs (/»≈
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs (/Z
+%1TEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.IsNullOrWhitespace"TEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.IsNullOrWhitespaceÎ
+Ë
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs (-
+
+%2void"iEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.IsNullOrWhitespace.IsNullOrWhitespace()*\
+Z
+%1TEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.IsNullOrWhitespace"Ò
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs (0\
+Z
+%1TEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.IsNullOrWhitespace*ï
+2ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs   ((«
+ƒ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs   (	
+%3int"string.Length.get*
+
+valuestring™
+ß
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs   ((
+%4"__id*
+""*
+3
+4*π	
+3ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs! !(,™
+ß
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs!# !(,
+%5"__id*
+""≤Ø
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs! !(-O
+%6IEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.TooLong"IEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.TooLong’
+“
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs! !("
+
+%7void"VEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.TooLong.TooLong(int)*Q
+O
+%6IEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.TooLong*
+
+%5"Ê
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs! !(.Q
+O
+%6IEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.TooLong*˛
+4ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs# #(0¢ü
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs# #(1G
+%8AEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName"AEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductNameﬂ
+‹
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs# #(*
+
+%9void"]EmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName.RequiredProductName(string)*I
+G
+%8AEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName*
+
+valuestring"ﬁ
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs# #(2I
+G
+%8AEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName*¡
+5ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs$	 $(	"®
+ê
+ÖC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\src\Domain\EntrepreneurContext\ValueObjects\RequiredProductName.cs$ $(	
+implicit return:
+valuestringBE"C
+AEmprendeUCR.Domain.Entrepreneurs.ValueObjects.RequiredProductName

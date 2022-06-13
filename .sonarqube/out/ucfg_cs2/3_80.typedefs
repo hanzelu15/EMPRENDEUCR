@@ -1,0 +1,4 @@
+â
+OEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.EntityMappings.UtilizesChatMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>Í
+|Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Chats.Entities.UtilizesChat>)ÌEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.EntityMappings.UtilizesChatMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<EmprendeUCR.Domain.Chats.Entities.UtilizesChat>)v
+UtilizesChatMap()aEmprendeUCR.Infrastructure.Chats.TheUtilizesChat.EntityMappings.UtilizesChatMap.UtilizesChatMap()

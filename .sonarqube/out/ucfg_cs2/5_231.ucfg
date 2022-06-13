@@ -1,0 +1,41 @@
+
+SEmprendeUCR_WebApplication.Data.Services.UserServicePandemic.GetUserByEmail(string)ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csg g(""0*ù
+0ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csi j(Ô
+Ï
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csi i(C
+%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic"__id*é*ã>
+<EmprendeUCR_WebApplication.Data.Services.UserServicePandemic"I
+_context=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic÷
+”
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csi i(!2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FEmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemic.User.get*E
+C
+%0=EmprendeUCR_WebApplication.Data.Contexts.SqlDbContextPandemicÏÈ
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csi i(-3
+%2-EmprendeUCR_WebApplication.Data.Entities.User"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+emailstring2Find(params object[])Ñ
+Å
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csi i(-2
+a-EmprendeUCR_WebApplication.Data.Entities.User"__id*5
+3
+%2-EmprendeUCR_WebApplication.Data.Entities.User"∆
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csj j(4
+2
+a-EmprendeUCR_WebApplication.Data.Entities.User*ª
+1ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csk	 k(	"•
+ç
+ÇC:\Users\Hansel\Documents\cloneEmprendeUCR\EMPRENDEUCR\EmprendeUCR\EmprendeUCR_WebApplication\Data\Services\UserServicePandemic.csk k(	
+implicit return:
+emailstringB@>
+<EmprendeUCR_WebApplication.Data.Services.UserServicePandemic

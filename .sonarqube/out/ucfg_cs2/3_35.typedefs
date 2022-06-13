@@ -1,0 +1,23 @@
+Í
+6EmprendeUCR.Infrastructure.LoginContext.LoginDbContext4EmprendeUCR.Infrastructure.Core.ApplicationDbContext'Microsoft.EntityFrameworkCore.DbContextobjectå
+ÔLoginDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.LoginContext.LoginDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.LoginContext.LoginDbContext>)‹EmprendeUCR.Infrastructure.LoginContext.LoginDbContext.LoginDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<EmprendeUCR.Infrastructure.LoginContext.LoginDbContext>, Microsoft.Extensions.Logging.ILogger<EmprendeUCR.Infrastructure.LoginContext.LoginDbContext>)Ã
+DOnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder){EmprendeUCR.Infrastructure.LoginContext.LoginDbContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)±
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)rEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)K
+User.get?EmprendeUCR.Infrastructure.LoginContext.LoginDbContext.User.getK
+User.set?EmprendeUCR.Infrastructure.LoginContext.LoginDbContext.User.setO
+
+Client.getAEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.Client.getO
+
+Client.setAEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.Client.set[
+Entrepreneur.getGEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.Entrepreneur.get[
+Entrepreneur.setGEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.Entrepreneur.set]
+Administrator.getHEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.Administrator.get]
+Administrator.setHEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.Administrator.setY
+Credentials.getFEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.Credentials.getY
+Credentials.setFEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.Credentials.sete
+EmailConfirmation.getLEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.EmailConfirmation.gete
+EmailConfirmation.setLEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.EmailConfirmation.setk
+ActiveAdministrators.getOEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.ActiveAdministrators.getk
+ActiveAdministrators.setOEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.ActiveAdministrators.set[
+BannedAcount.getGEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.BannedAcount.get[
+BannedAcount.setGEmprendeUCR.Infrastructure.LoginContext.LoginDbContext.BannedAcount.set
